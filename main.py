@@ -1,0 +1,3 @@
+from scripts.data_collection_and_validation import start_data_collection_and_validation_pipeline
+
+start_data_collection_and_validation_pipeline()
