@@ -4077,15 +4077,6 @@
         "negative": 2.7
     },
     {
-        "headlines": "With Kendall and Hailey backing it, will NAD+ witness a boom in Indian market?A look into the science, the stars, and the soaring interest in NAD+ as India joins the global wellness race.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/with-kendall-and-hailey-backing-it-will-nad-witness-a-boom-in-indian-market-2651846-2024-12-18",
-        "category": "lifestyle",
-        "date_time": "2024-12-18T19:15:00",
-        "uuid": "38980317-8109-4bf1-ade2-201bf4ec5f6d",
-        "positive": 20.9,
-        "negative": 3.1
-    },
-    {
         "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
         "category": "sports",
@@ -4147,6 +4138,51 @@
         "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
         "positive": 5.2,
         "negative": 16.6
+    },
+    {
+        "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T17:55:00",
+        "uuid": "b9103930-2ddc-4baa-a892-9a2cb7251458",
+        "positive": 4.3,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Nana Patekar invites Aamir Khan for a special screening of his film VanvaasNana Patekar is set to host a special Vanvaas screening for Aamir Khan. The film, starring Utkarsh Sharma and Simratt Kaur along with Nana Patekar, is set to release on December 20. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/nana-patekar-invites-aamir-khan-for-a-special-screening-of-his-film-vanvaas-2652293-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T14:33:00",
+        "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
+        "positive": 15.8,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-tabus-de-de-pyaar-de-2-to-hit-theatres-in-november-2025-2652214-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T12:51:00",
+        "uuid": "32a2c971-7e64-4baf-98cc-d84a009807a0",
+        "positive": 3.5,
+        "negative": 1
+    },
+    {
+        "headlines": "Thaman S: The creative force behind hits like Ramuloo Ramulaa and Nain MattakaThaman S, famed for his South Indian hits, is set to debut his first full Bollywood album with Baby John this Christmas. The film stars Varun Dhawan in the lead and the will be released on December 25.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/meet-thaman-s-man-behind-tracks-like-ramuloo-ramulaa-nain-mattaka-baby-john-varun-dhawan-2651892-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T20:55:00",
+        "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
+        "positive": 11.9,
+        "negative": 0.6
+    },
+    {
+        "headlines": "With Kendall and Hailey backing it, will NAD+ witness a boom in Indian market?A look into the science, the stars, and the soaring interest in NAD+ as India joins the global wellness race.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/with-kendall-and-hailey-backing-it-will-nad-witness-a-boom-in-indian-market-2651846-2024-12-18",
+        "category": "lifestyle",
+        "date_time": "2024-12-18T19:15:00",
+        "uuid": "38980317-8109-4bf1-ade2-201bf4ec5f6d",
+        "positive": 20.9,
+        "negative": 3.1
     },
     {
         "headlines": "Can microdosing on Ozempic help you lose weight without any side effects? Microdosing Ozempic has gained momentum online, with people hoping to use the weight-loss benefits while dodging the side effects. ",
@@ -4212,42 +4248,6 @@
         "negative": 1.9
     },
     {
-        "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T17:55:00",
-        "uuid": "b9103930-2ddc-4baa-a892-9a2cb7251458",
-        "positive": 4.3,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Nana Patekar invites Aamir Khan for a special screening of his film VanvaasNana Patekar is set to host a special Vanvaas screening for Aamir Khan. The film, starring Utkarsh Sharma and Simratt Kaur along with Nana Patekar, is set to release on December 20. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/nana-patekar-invites-aamir-khan-for-a-special-screening-of-his-film-vanvaas-2652293-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T14:33:00",
-        "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
-        "positive": 15.8,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-tabus-de-de-pyaar-de-2-to-hit-theatres-in-november-2025-2652214-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T12:51:00",
-        "uuid": "32a2c971-7e64-4baf-98cc-d84a009807a0",
-        "positive": 3.5,
-        "negative": 1
-    },
-    {
-        "headlines": "Thaman S: The creative force behind hits like Ramuloo Ramulaa and Nain MattakaThaman S, famed for his South Indian hits, is set to debut his first full Bollywood album with Baby John this Christmas. The film stars Varun Dhawan in the lead and the will be released on December 25.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/meet-thaman-s-man-behind-tracks-like-ramuloo-ramulaa-nain-mattaka-baby-john-varun-dhawan-2651892-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T20:55:00",
-        "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
-        "positive": 11.9,
-        "negative": 0.6
-    },
-    {
         "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
         "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
         "category": "lifestyle",
@@ -4300,69 +4300,6 @@
         "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
         "positive": 16,
         "negative": 8.3
-    },
-    {
-        "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-10T15:31:00",
-        "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
-        "positive": 12.9,
-        "negative": 4.5
-    },
-    {
-        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T19:34:00",
-        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
-        "positive": 19.2,
-        "negative": 6.4
-    },
-    {
-        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
-        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
-        "category": "lifestyle",
-        "date_time": "2024-12-09T18:58:00",
-        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
-        "positive": 17.6,
-        "negative": 1.2
-    },
-    {
-        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
-        "category": "lifestyle",
-        "date_time": "2024-12-08T18:40:00",
-        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
-        "positive": 20.3,
-        "negative": 3.3
-    },
-    {
-        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T19:36:00",
-        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
-        "positive": 26.5,
-        "negative": 6.2
-    },
-    {
-        "headlines": "Taapsee Pannu begins shoot for Gandhari: Let the war beginAfter Phir Aayi Haseen Dilruba, Taapsee Pannu began filming her next film. Titled Gandhari, the action-thriller is produced by Kanika Dhillon and directed by Devashish Makhija.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/taapsee-pannu-begins-shoot-for-gandhari-let-the-war-begin-2651609-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T13:16:00",
-        "uuid": "d7717455-e11c-4a05-b13e-fce8a08b22ce",
-        "positive": 11.8,
-        "negative": 8.7
-    },
-    {
-        "headlines": "20 years of Swades: Exploring the timeless relevance of Shah Rukh Khan filmReleased in 2004, Ashutosh Gowariker's Swades remains a poignant narrative in Indian cinema. Starring Shah Rukh Khan, it explores themes of identity, responsibility, and self-reliance.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/swades-20-years-shah-rukh-khan-film-themes-timeless-ashutosh-gowariker-2651239-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T08:37:00",
-        "uuid": "1f6634c5-3c58-4bd8-9191-1cc256c71564",
-        "positive": 14.8,
-        "negative": 2.8
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -4518,6 +4455,69 @@
         "negative": 8.5
     },
     {
+        "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T15:31:00",
+        "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
+        "positive": 12.9,
+        "negative": 4.5
+    },
+    {
+        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:34:00",
+        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
+        "positive": 19.2,
+        "negative": 6.4
+    },
+    {
+        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
+        "category": "lifestyle",
+        "date_time": "2024-12-09T18:58:00",
+        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
+        "positive": 17.6,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
+        "category": "lifestyle",
+        "date_time": "2024-12-08T18:40:00",
+        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
+        "positive": 20.3,
+        "negative": 3.3
+    },
+    {
+        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:36:00",
+        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
+        "positive": 26.5,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Taapsee Pannu begins shoot for Gandhari: Let the war beginAfter Phir Aayi Haseen Dilruba, Taapsee Pannu began filming her next film. Titled Gandhari, the action-thriller is produced by Kanika Dhillon and directed by Devashish Makhija.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/taapsee-pannu-begins-shoot-for-gandhari-let-the-war-begin-2651609-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T13:16:00",
+        "uuid": "d7717455-e11c-4a05-b13e-fce8a08b22ce",
+        "positive": 11.8,
+        "negative": 8.7
+    },
+    {
+        "headlines": "20 years of Swades: Exploring the timeless relevance of Shah Rukh Khan filmReleased in 2004, Ashutosh Gowariker's Swades remains a poignant narrative in Indian cinema. Starring Shah Rukh Khan, it explores themes of identity, responsibility, and self-reliance.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/swades-20-years-shah-rukh-khan-film-themes-timeless-ashutosh-gowariker-2651239-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T08:37:00",
+        "uuid": "1f6634c5-3c58-4bd8-9191-1cc256c71564",
+        "positive": 14.8,
+        "negative": 2.8
+    },
+    {
         "headlines": "Relive Mohan Bhargava's journey of homecoming as Swades completes 20 yearsAshutosh Gowariker's film Swades turned 20 today. The filmmaker shared a heartfelt letter celebrating the milestone on Instagram.\r\n",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/ashutosh-gowariker-celebrates-20-years-of-swades-with-heartfelt-letter-to-fans-2651137-2024-12-17",
         "category": "bollywood",
@@ -4626,24 +4626,6 @@
         "negative": 2.1
     },
     {
-        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T14:25:00",
-        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
-        "positive": 11.3,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
-        "category": "bollywood",
-        "date_time": "2024-12-11T11:31:00",
-        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
-        "positive": 17,
-        "negative": 3.1
-    },
-    {
         "headlines": "BCCI sees huge profit, earns Rs 4200 crore more in 2024The Indian cricket board's bank balance grew by Rs 4200 crore after a successful year of cricket that involved record viewership in the Indian Premier League and the ODI World Cup 2023. ",
         "article_url": "https://www.indiatoday.in/sports/story/bcci-sees-huge-profit-earns-rs-4200-crore-more-after-astronomical-ipl-viewership-2652539-2024-12-19",
         "category": "sports",
@@ -4678,6 +4660,24 @@
         "uuid": "543f7344-5fe9-436f-a214-d7be4136507b",
         "positive": 18.7,
         "negative": 2
+    },
+    {
+        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T14:25:00",
+        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
+        "positive": 11.3,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
+        "category": "bollywood",
+        "date_time": "2024-12-11T11:31:00",
+        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
+        "positive": 17,
+        "negative": 3.1
     },
     {
         "headlines": "Will 2025 bring a bull run? Key trends for Nifty to watchICICI Securities projects a 20% rise in Nifty for 2025, driven by historical trends, sectoral strength, and strategic stock picks.",
