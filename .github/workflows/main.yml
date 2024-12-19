@@ -31,5 +31,5 @@ jobs:
       run: |
         git config --global user.name 'GitHub Actions Bot'
         git config --global user.email 'actions@github.com'
-        git add application/database_content.json
+        git add .
         git diff --quiet && git diff --staged --quiet || (git commit -m "application/database_content.json" && git push)
