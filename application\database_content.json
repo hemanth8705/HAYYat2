@@ -3609,22 +3609,13 @@
         "negative": 2.3
     },
     {
-        "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:43:00",
-        "uuid": "d51373ed-d52d-4d74-9d88-ce9d689f1f9c",
-        "positive": 5.2,
-        "negative": 0
-    },
-    {
-        "headlines": "Using UPI for online payments? Do this to avoid QR code scamsScammers are tricking users into scanning fraudulent QR codes, leading to the loss of large sums of money in seconds. Here is how QR code scams work and how you can protect yourself from them.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/using-upi-for-online-payments-do-this-to-avoid-qr-code-scams-2651738-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:18:00",
-        "uuid": "d91d3906-fe62-4d29-a0fe-5659125ce25a",
-        "positive": 9.1,
-        "negative": 15.8
+        "headlines": "How Smriti Mandhana inspired Team India to end 5-year drought at home IND-W vs WI-W: Smriti Mandhana, who led India in Harmanpreet Kaur's career, talked about the importance of winning a T20I series on home soil. On Thursday, India beat the West Indies in the deciding game to claim the series 2-1. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-womens-t20i-series-smriti-mandhana-drought-2652634-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T23:34:00",
+        "uuid": "d96529cf-3333-4669-8405-7813ce6969a8",
+        "positive": 13.5,
+        "negative": 4.3
     },
     {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
@@ -4104,6 +4095,42 @@
         "negative": 3.1
     },
     {
+        "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T23:16:00",
+        "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
+        "positive": 12.3,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Jasprit Bumrah is the right-handed Wasim Akram: Justin LangerFormer Australia head coach Justin Langer has compared Jasprit Bumrah to Wasim Akram. Langer said that he would have hated to face Bumrah in his playing days.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-jasprit-bumrah-wasim-akram-justin-langer-2652622-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T22:55:00",
+        "uuid": "0ce6c839-1a21-442f-af42-921a2189e84c",
+        "positive": 15,
+        "negative": 4.3
+    },
+    {
+        "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T16:43:00",
+        "uuid": "d51373ed-d52d-4d74-9d88-ce9d689f1f9c",
+        "positive": 5.2,
+        "negative": 0
+    },
+    {
+        "headlines": "Xiaomi Sound Outdoor speaker review: Affordable price, great sound, cool designIf you are in the market for a Bluetooth speaker that sounds good and is easy to carry around, while also being affordable, Xiaomi's new Sound Outdoor speakers are definitely worth considering. Priced at Rs 3,499, these outdoor speakers look cool and sound great. More details on it in this review by India Today Tech. ",
+        "article_url": "https://www.indiatoday.in/technology/reviews/story/xiaomi-sound-outdoor-speaker-review-affordable-price-great-sound-cool-design-2651719-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T16:15:00",
+        "uuid": "bebc8309-a888-4c33-b0f9-d5a5aaf9984f",
+        "positive": 15.8,
+        "negative": 2.8
+    },
+    {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
         "category": "bollywood",
@@ -4138,6 +4165,114 @@
         "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
         "positive": 11.9,
         "negative": 0.6
+    },
+    {
+        "headlines": "Using UPI for online payments? Do this to avoid QR code scamsScammers are tricking users into scanning fraudulent QR codes, leading to the loss of large sums of money in seconds. Here is how QR code scams work and how you can protect yourself from them.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/using-upi-for-online-payments-do-this-to-avoid-qr-code-scams-2651738-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T16:18:00",
+        "uuid": "d91d3906-fe62-4d29-a0fe-5659125ce25a",
+        "positive": 9.1,
+        "negative": 15.8
+    },
+    {
+        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T14:28:00",
+        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
+        "positive": 5.2,
+        "negative": 16.6
+    },
+    {
+        "headlines": "Can microdosing on Ozempic help you lose weight without any side effects? Microdosing Ozempic has gained momentum online, with people hoping to use the weight-loss benefits while dodging the side effects. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-microdosing-on-ozempic-help-you-lose-weight-without-any-side-effects-2651165-2024-12-18",
+        "category": "lifestyle",
+        "date_time": "2024-12-18T08:00:00",
+        "uuid": "fce50e2e-5fc7-431e-a1e2-8e87a9bdab5c",
+        "positive": 8.4,
+        "negative": 5.9
+    },
+    {
+        "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/youve-been-misunderstanding-trauma-bonding-all-along-its-a-toxic-trap-2651160-2024-12-17",
+        "category": "lifestyle",
+        "date_time": "2024-12-17T19:04:00",
+        "uuid": "db2bfbe8-64b7-468d-9da2-8553dc09fd2a",
+        "positive": 18.4,
+        "negative": 27.9
+    },
+    {
+        "headlines": "The struggles of pet owners no one talks about in IndiaIndian pet parents, especially dog owners, feel that India is yet to become more accommodating for pets. There are several struggles that often go unnoticed despite the ever-growing Indian pet market.",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/pet-dog-owners-struggles-india-2650652-2024-12-17",
+        "category": "lifestyle",
+        "date_time": "2024-12-17T12:31:00",
+        "uuid": "c6f0f5a3-c942-4467-a63d-788ddf77ee0b",
+        "positive": 13.4,
+        "negative": 7.8
+    },
+    {
+        "headlines": "No, Soursop, a fruit, cannot cure cancer Soursop, a close cousin of the famous custard apple, is gaining buzz on social media for its anti-cancerous properties. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-soursop-a-fruit-cannot-cure-cancer-2650598-2024-12-16",
+        "category": "lifestyle",
+        "date_time": "2024-12-16T20:30:00",
+        "uuid": "38816f10-2d42-49dc-8740-fa2e0a5a0a7a",
+        "positive": 14.2,
+        "negative": 8.3
+    },
+    {
+        "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/indian-married-couples-romance-alive-while-living-with-family-2648573-2024-12-15",
+        "category": "lifestyle",
+        "date_time": "2024-12-15T13:28:00",
+        "uuid": "4df8a75e-5b5d-4778-80f1-5332a236d631",
+        "positive": 19.5,
+        "negative": 4.6
+    },
+    {
+        "headlines": "Another day, another tantrum. How to manage your child's anger and stubbornnessEvery parent knows the struggle when their child throws a fit after being told 'no'. It's frustrating, and while you know this behaviour isn't healthy, how should you handle it?\r\n",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/how-to-manage-your-childs-anger-and-stubbornness-2649430-2024-12-14",
+        "category": "lifestyle",
+        "date_time": "2024-12-14T09:06:00",
+        "uuid": "9a679325-a16f-4509-8c4a-fe6f20f5b738",
+        "positive": 13.7,
+        "negative": 17.4
+    },
+    {
+        "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T19:26:00",
+        "uuid": "4560b915-9ef2-46f2-a72a-b99dab1ef740",
+        "positive": 13,
+        "negative": 1.9
+    },
+    {
+        "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:37:00",
+        "uuid": "62676be9-a737-4469-af21-a0ebb1709656",
+        "positive": 18.6,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:40:00",
+        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
+        "positive": 21.6,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-12T15:30:00",
+        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
+        "positive": 19.1,
+        "negative": 6.7
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -4239,24 +4374,6 @@
         "negative": 1.9
     },
     {
-        "headlines": "No, Soursop, a fruit, cannot cure cancer Soursop, a close cousin of the famous custard apple, is gaining buzz on social media for its anti-cancerous properties. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-soursop-a-fruit-cannot-cure-cancer-2650598-2024-12-16",
-        "category": "lifestyle",
-        "date_time": "2024-12-16T20:30:00",
-        "uuid": "38816f10-2d42-49dc-8740-fa2e0a5a0a7a",
-        "positive": 14.2,
-        "negative": 8.3
-    },
-    {
-        "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/indian-married-couples-romance-alive-while-living-with-family-2648573-2024-12-15",
-        "category": "lifestyle",
-        "date_time": "2024-12-15T13:28:00",
-        "uuid": "4df8a75e-5b5d-4778-80f1-5332a236d631",
-        "positive": 19.5,
-        "negative": 4.6
-    },
-    {
         "headlines": "Inventurus Knowledge Solutions IPO share listing: Stocks list at 43% premium Inventurus Knowledge Solutions IPO share price: On the NSE, the shares opened at Rs 1,900 per share, marking a premium of 42.96% over the issue price. ",
         "article_url": "https://www.indiatoday.in/business/story/inventurus-knowledge-solutions-share-price-today-ipo-listing-43-percent-premium-stmp-2652146-2024-12-19",
         "category": "business",
@@ -4336,150 +4453,6 @@
         "uuid": "beb48ff2-0375-4501-bbc2-b92663c0a9e3",
         "positive": 9.9,
         "negative": 4.3
-    },
-    {
-        "headlines": "BCCI sees huge profit, earns Rs 4200 crore more in 2024The Indian cricket board's bank balance grew by Rs 4200 crore after a successful year of cricket that involved record viewership in the Indian Premier League and the ODI World Cup 2023. ",
-        "article_url": "https://www.indiatoday.in/sports/story/bcci-sees-huge-profit-earns-rs-4200-crore-more-after-astronomical-ipl-viewership-2652539-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T20:07:00",
-        "uuid": "ee4eeaf6-7671-4a9d-bb99-c03a3d054691",
-        "positive": 8.7,
-        "negative": 0
-    },
-    {
-        "headlines": "Afghanistan decimate Zimbabwe in Harare, record their biggest ODI win ZIM vs AFG, 2nd ODI: Afghanistan beat Zimbabwe by 232 runs on Thursday to take a crucial 1-0 lead in the three-match series. After Sediqullah Atal's maiden ODI century, the Afghan bowlers shot the home team out for 54 in 17.5 overs. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-zimbabwe-vs-afghanistan-2nd-odi-biggest-odi-win-sediqullah-atal-2652525-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T19:43:00",
-        "uuid": "97a820bb-af14-4136-84c9-d5ccea8b3af4",
-        "positive": 6.1,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Memories with maestro: Sachin posts viral video featuring Zakir HussainLegendary Sachin Tendulkar shared a viral throwback video of him and late Zakir Hussain on Thursday, December 19. The heartwarming video saw Sachin trying to learn playing musical instruments from Zakir Hussain.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/sachin-tendulkar-posts-viral-video-featuring-zakir-hussain-2652524-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T19:43:00",
-        "uuid": "68414a36-2c7e-4d62-8bec-f7e6d367368a",
-        "positive": 19.3,
-        "negative": 7.3
-    },
-    {
-        "headlines": "Argentina top FIFA men's football rankings for second straight yearFootball world champion Argentina finished 2024 as the top-placed men's team in the FIFA rankings for a second straight year. Lionel Scaloni's Argentina continue to lead the way ahead of second-placed France and Euro 2024 winners Spain in third.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/argentina-top-fifa-mens-football-rankings-for-second-straight-year-2652522-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T19:40:00",
-        "uuid": "543f7344-5fe9-436f-a214-d7be4136507b",
-        "positive": 18.7,
-        "negative": 2
-    },
-    {
-        "headlines": "India Women thrash West Indies in series decider to end 5-year-long wait IND-W vs WI-W: India won their Women's T20I series against West Indies after winning the series decider by 100 runs on Thursday in Navi Mumbai. Smriti Mandhana and Richa Ghosh starred for India in the high-scoring encounter. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-3rd-womens-t20i-smriti-mandhana-richa-ghosh-report-2652606-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T22:29:00",
-        "uuid": "fc5b0e82-01f2-42d9-8591-a4422cf6a68b",
-        "positive": 4.7,
-        "negative": 6.7
-    },
-    {
-        "headlines": "Shami's BGT hopes take hit. Pacer gets left out of Bengal's Vijay Hazare openerIndia pacer Mohammed Shami's Border-Gavaskar Trophy hopes took a massive hit as the pacer was sidelined from Bengal's Vijay Hazare Trophy opener against Delhi. PTI reported that the pacer's knee injury had flared up once again and that's why he was sidelined.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-mohammed-shami-injury-bgt-vijay-hazare-2652609-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T22:27:00",
-        "uuid": "e0a4e93a-8e34-455d-b7e5-06ada7ec47fc",
-        "positive": 6.4,
-        "negative": 3.3
-    },
-    {
-        "headlines": "Xiaomi Sound Outdoor speaker review: Affordable price, great sound, cool designIf you are in the market for a Bluetooth speaker that sounds good and is easy to carry around, while also being affordable, Xiaomi's new Sound Outdoor speakers are definitely worth considering. Priced at Rs 3,499, these outdoor speakers look cool and sound great. More details on it in this review by India Today Tech. ",
-        "article_url": "https://www.indiatoday.in/technology/reviews/story/xiaomi-sound-outdoor-speaker-review-affordable-price-great-sound-cool-design-2651719-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:15:00",
-        "uuid": "bebc8309-a888-4c33-b0f9-d5a5aaf9984f",
-        "positive": 15.8,
-        "negative": 2.8
-    },
-    {
-        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T14:28:00",
-        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
-        "positive": 5.2,
-        "negative": 16.6
-    },
-    {
-        "headlines": "Can microdosing on Ozempic help you lose weight without any side effects? Microdosing Ozempic has gained momentum online, with people hoping to use the weight-loss benefits while dodging the side effects. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-microdosing-on-ozempic-help-you-lose-weight-without-any-side-effects-2651165-2024-12-18",
-        "category": "lifestyle",
-        "date_time": "2024-12-18T08:00:00",
-        "uuid": "fce50e2e-5fc7-431e-a1e2-8e87a9bdab5c",
-        "positive": 8.4,
-        "negative": 5.9
-    },
-    {
-        "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/youve-been-misunderstanding-trauma-bonding-all-along-its-a-toxic-trap-2651160-2024-12-17",
-        "category": "lifestyle",
-        "date_time": "2024-12-17T19:04:00",
-        "uuid": "db2bfbe8-64b7-468d-9da2-8553dc09fd2a",
-        "positive": 18.4,
-        "negative": 27.9
-    },
-    {
-        "headlines": "The struggles of pet owners no one talks about in IndiaIndian pet parents, especially dog owners, feel that India is yet to become more accommodating for pets. There are several struggles that often go unnoticed despite the ever-growing Indian pet market.",
-        "article_url": "https://www.indiatoday.in/lifestyle/society/story/pet-dog-owners-struggles-india-2650652-2024-12-17",
-        "category": "lifestyle",
-        "date_time": "2024-12-17T12:31:00",
-        "uuid": "c6f0f5a3-c942-4467-a63d-788ddf77ee0b",
-        "positive": 13.4,
-        "negative": 7.8
-    },
-    {
-        "headlines": "Another day, another tantrum. How to manage your child's anger and stubbornnessEvery parent knows the struggle when their child throws a fit after being told 'no'. It's frustrating, and while you know this behaviour isn't healthy, how should you handle it?\r\n",
-        "article_url": "https://www.indiatoday.in/lifestyle/society/story/how-to-manage-your-childs-anger-and-stubbornness-2649430-2024-12-14",
-        "category": "lifestyle",
-        "date_time": "2024-12-14T09:06:00",
-        "uuid": "9a679325-a16f-4509-8c4a-fe6f20f5b738",
-        "positive": 13.7,
-        "negative": 17.4
-    },
-    {
-        "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T19:26:00",
-        "uuid": "4560b915-9ef2-46f2-a72a-b99dab1ef740",
-        "positive": 13,
-        "negative": 1.9
-    },
-    {
-        "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:37:00",
-        "uuid": "62676be9-a737-4469-af21-a0ebb1709656",
-        "positive": 18.6,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:40:00",
-        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
-        "positive": 21.6,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-12T15:30:00",
-        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
-        "positive": 19.1,
-        "negative": 6.7
     },
     {
         "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
@@ -4626,6 +4599,42 @@
         "negative": 0.8
     },
     {
+        "headlines": "BCCI sees huge profit, earns Rs 4200 crore more in 2024The Indian cricket board's bank balance grew by Rs 4200 crore after a successful year of cricket that involved record viewership in the Indian Premier League and the ODI World Cup 2023. ",
+        "article_url": "https://www.indiatoday.in/sports/story/bcci-sees-huge-profit-earns-rs-4200-crore-more-after-astronomical-ipl-viewership-2652539-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T20:07:00",
+        "uuid": "ee4eeaf6-7671-4a9d-bb99-c03a3d054691",
+        "positive": 8.7,
+        "negative": 0
+    },
+    {
+        "headlines": "Afghanistan decimate Zimbabwe in Harare, record their biggest ODI win ZIM vs AFG, 2nd ODI: Afghanistan beat Zimbabwe by 232 runs on Thursday to take a crucial 1-0 lead in the three-match series. After Sediqullah Atal's maiden ODI century, the Afghan bowlers shot the home team out for 54 in 17.5 overs. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-zimbabwe-vs-afghanistan-2nd-odi-biggest-odi-win-sediqullah-atal-2652525-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T19:43:00",
+        "uuid": "97a820bb-af14-4136-84c9-d5ccea8b3af4",
+        "positive": 6.1,
+        "negative": 1.9
+    },
+    {
+        "headlines": "Memories with maestro: Sachin posts viral video featuring Zakir HussainLegendary Sachin Tendulkar shared a viral throwback video of him and late Zakir Hussain on Thursday, December 19. The heartwarming video saw Sachin trying to learn playing musical instruments from Zakir Hussain.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/sachin-tendulkar-posts-viral-video-featuring-zakir-hussain-2652524-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T19:43:00",
+        "uuid": "68414a36-2c7e-4d62-8bec-f7e6d367368a",
+        "positive": 19.3,
+        "negative": 7.3
+    },
+    {
+        "headlines": "Argentina top FIFA men's football rankings for second straight yearFootball world champion Argentina finished 2024 as the top-placed men's team in the FIFA rankings for a second straight year. Lionel Scaloni's Argentina continue to lead the way ahead of second-placed France and Euro 2024 winners Spain in third.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/argentina-top-fifa-mens-football-rankings-for-second-straight-year-2652522-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T19:40:00",
+        "uuid": "543f7344-5fe9-436f-a214-d7be4136507b",
+        "positive": 18.7,
+        "negative": 2
+    },
+    {
         "headlines": "SRK shares sweet birthday wish for 'coolest and bossest' RajinikanthSuperstar Shah Rukh Khan on Thursday shared the sweetest birthday wish for megastar Rajinikanth. Sharing a photo of himself with the icon, SRK called Rajinikanth 'remarkably simple' and 'inspiring.'",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-shares-sweet-birthday-wish-for-coolest-and-bossest-rajinikanth-2649125-2024-12-13",
         "category": "bollywood",
@@ -4696,5 +4705,23 @@
         "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
         "positive": 17,
         "negative": 3.1
+    },
+    {
+        "headlines": "India Women thrash West Indies in series decider to end 5-year-long wait IND-W vs WI-W: India won their Women's T20I series against West Indies after winning the series decider by 100 runs on Thursday in Navi Mumbai. Smriti Mandhana and Richa Ghosh starred for India in the high-scoring encounter. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-3rd-womens-t20i-smriti-mandhana-richa-ghosh-report-2652606-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T22:29:00",
+        "uuid": "fc5b0e82-01f2-42d9-8591-a4422cf6a68b",
+        "positive": 4.7,
+        "negative": 6.7
+    },
+    {
+        "headlines": "Shami's BGT hopes take hit. Pacer gets left out of Bengal's Vijay Hazare openerIndia pacer Mohammed Shami's Border-Gavaskar Trophy hopes took a massive hit as the pacer was sidelined from Bengal's Vijay Hazare Trophy opener against Delhi. PTI reported that the pacer's knee injury had flared up once again and that's why he was sidelined.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-mohammed-shami-injury-bgt-vijay-hazare-2652609-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T22:27:00",
+        "uuid": "e0a4e93a-8e34-455d-b7e5-06ada7ec47fc",
+        "positive": 6.4,
+        "negative": 3.3
     }
 ]
