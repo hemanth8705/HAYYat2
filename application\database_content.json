@@ -2097,15 +2097,6 @@
         "negative": 3.1
     },
     {
-        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T14:28:00",
-        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
-        "positive": 5.2,
-        "negative": 16.6
-    },
-    {
         "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
         "category": "technology",
@@ -2248,6 +2239,15 @@
         "uuid": "41dea331-157d-4a3f-a5e2-e97e474c2aab",
         "positive": 11.9,
         "negative": 0.6
+    },
+    {
+        "headlines": "Priyanka Chopra on working in SRK's Don: I tasted blood a little bitGlobal icon Priyanka Chopra recently opened up about working in the Farhan Akhtar directorial, Don, which also starred superstar Shah Rukh Khan in the lead. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-chopra-on-working-in-shah-rukh-khan-don-2648797-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T14:51:00",
+        "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
+        "positive": 9.6,
+        "negative": 2.1
     },
     {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
@@ -2815,6 +2815,33 @@
         "uuid": "4717aa33-6308-4d76-bdc9-00f7516e7e6b",
         "positive": 11.9,
         "negative": 0.6
+    },
+    {
+        "headlines": "Who is Liam Lawson? F1 driver who joins Max Verstappen at Red BullRed Bull announced on December 19 that Liam Lawson will be replacing Sergio Perez in the 2025 season. Who is Liam Lawson, the 22-year-old youngster set to pair 4-time World Champion Max Verstappen?\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/who-is-liam-lawson-f1-driver-who-joins-max-verstappen-at-red-bull-2652561-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T21:15:00",
+        "uuid": "ff2a79a1-af1f-4b21-9459-c154ed09c7d7",
+        "positive": 17.7,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Mandhana shatters multiple records with hat-trick of T20I 50s: Stat PackIND-W vs WI-W: Smriti Mandhana blasted her way to scoring 77 runs off 47 balls with 13 fours and a six in the series decider against the West Indies on Thursday at the Dr DY Patil Sports Academy in Navi Mumbai. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-smriti-mandhana-india-women-vs-west-indies-women-3rd-t20i-2652557-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T21:08:00",
+        "uuid": "b7a01a66-3c85-4b09-90ee-0c89ec80ce09",
+        "positive": 3.5,
+        "negative": 1.9
+    },
+    {
+        "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/india-women-vs-west-indies-3rd-t20i-highest-total-richa-ghosh-fastest-fifty-2652556-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T20:57:00",
+        "uuid": "e7d885b1-afaa-442b-9bb8-96668d9e9bda",
+        "positive": 3.6,
+        "negative": 2.3
     },
     {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
@@ -4095,6 +4122,33 @@
         "negative": 3.1
     },
     {
+        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T14:28:00",
+        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
+        "positive": 5.2,
+        "negative": 16.6
+    },
+    {
+        "headlines": "Can microdosing on Ozempic help you lose weight without any side effects? Microdosing Ozempic has gained momentum online, with people hoping to use the weight-loss benefits while dodging the side effects. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-microdosing-on-ozempic-help-you-lose-weight-without-any-side-effects-2651165-2024-12-18",
+        "category": "lifestyle",
+        "date_time": "2024-12-18T08:00:00",
+        "uuid": "fce50e2e-5fc7-431e-a1e2-8e87a9bdab5c",
+        "positive": 8.4,
+        "negative": 5.9
+    },
+    {
+        "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/youve-been-misunderstanding-trauma-bonding-all-along-its-a-toxic-trap-2651160-2024-12-17",
+        "category": "lifestyle",
+        "date_time": "2024-12-17T19:04:00",
+        "uuid": "db2bfbe8-64b7-468d-9da2-8553dc09fd2a",
+        "positive": 18.4,
+        "negative": 27.9
+    },
+    {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
         "category": "bollywood",
@@ -4129,6 +4183,123 @@
         "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
         "positive": 11.9,
         "negative": 0.6
+    },
+    {
+        "headlines": "The struggles of pet owners no one talks about in IndiaIndian pet parents, especially dog owners, feel that India is yet to become more accommodating for pets. There are several struggles that often go unnoticed despite the ever-growing Indian pet market.",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/pet-dog-owners-struggles-india-2650652-2024-12-17",
+        "category": "lifestyle",
+        "date_time": "2024-12-17T12:31:00",
+        "uuid": "c6f0f5a3-c942-4467-a63d-788ddf77ee0b",
+        "positive": 13.4,
+        "negative": 7.8
+    },
+    {
+        "headlines": "No, Soursop, a fruit, cannot cure cancer Soursop, a close cousin of the famous custard apple, is gaining buzz on social media for its anti-cancerous properties. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-soursop-a-fruit-cannot-cure-cancer-2650598-2024-12-16",
+        "category": "lifestyle",
+        "date_time": "2024-12-16T20:30:00",
+        "uuid": "38816f10-2d42-49dc-8740-fa2e0a5a0a7a",
+        "positive": 14.2,
+        "negative": 8.3
+    },
+    {
+        "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/indian-married-couples-romance-alive-while-living-with-family-2648573-2024-12-15",
+        "category": "lifestyle",
+        "date_time": "2024-12-15T13:28:00",
+        "uuid": "4df8a75e-5b5d-4778-80f1-5332a236d631",
+        "positive": 19.5,
+        "negative": 4.6
+    },
+    {
+        "headlines": "Another day, another tantrum. How to manage your child's anger and stubbornnessEvery parent knows the struggle when their child throws a fit after being told 'no'. It's frustrating, and while you know this behaviour isn't healthy, how should you handle it?\r\n",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/how-to-manage-your-childs-anger-and-stubbornness-2649430-2024-12-14",
+        "category": "lifestyle",
+        "date_time": "2024-12-14T09:06:00",
+        "uuid": "9a679325-a16f-4509-8c4a-fe6f20f5b738",
+        "positive": 13.7,
+        "negative": 17.4
+    },
+    {
+        "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T19:26:00",
+        "uuid": "4560b915-9ef2-46f2-a72a-b99dab1ef740",
+        "positive": 13,
+        "negative": 1.9
+    },
+    {
+        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T14:25:00",
+        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
+        "positive": 11.3,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
+        "category": "bollywood",
+        "date_time": "2024-12-11T11:31:00",
+        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
+        "positive": 17,
+        "negative": 3.1
+    },
+    {
+        "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:37:00",
+        "uuid": "62676be9-a737-4469-af21-a0ebb1709656",
+        "positive": 18.6,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:40:00",
+        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
+        "positive": 21.6,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-12T15:30:00",
+        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
+        "positive": 19.1,
+        "negative": 6.7
+    },
+    {
+        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T18:30:00",
+        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
+        "positive": 11.5,
+        "negative": 11.9
+    },
+    {
+        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T14:06:00",
+        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
+        "positive": 13.2,
+        "negative": 15
+    },
+    {
+        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T19:31:00",
+        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
+        "positive": 16,
+        "negative": 8.3
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -4311,168 +4482,6 @@
         "negative": 4.3
     },
     {
-        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
-        "category": "lifestyle",
-        "date_time": "2024-12-08T18:40:00",
-        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
-        "positive": 20.3,
-        "negative": 3.3
-    },
-    {
-        "headlines": "BCCI sees huge profit, earns Rs 4200 crore more in 2024The Indian cricket board's bank balance grew by Rs 4200 crore after a successful year of cricket that involved record viewership in the Indian Premier League and the ODI World Cup 2023. ",
-        "article_url": "https://www.indiatoday.in/sports/story/bcci-sees-huge-profit-earns-rs-4200-crore-more-after-astronomical-ipl-viewership-2652539-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T20:07:00",
-        "uuid": "ee4eeaf6-7671-4a9d-bb99-c03a3d054691",
-        "positive": 8.7,
-        "negative": 0
-    },
-    {
-        "headlines": "Afghanistan decimate Zimbabwe in Harare, record their biggest ODI win ZIM vs AFG, 2nd ODI: Afghanistan beat Zimbabwe by 232 runs on Thursday to take a crucial 1-0 lead in the three-match series. After Sediqullah Atal's maiden ODI century, the Afghan bowlers shot the home team out for 54 in 17.5 overs. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-zimbabwe-vs-afghanistan-2nd-odi-biggest-odi-win-sediqullah-atal-2652525-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T19:43:00",
-        "uuid": "97a820bb-af14-4136-84c9-d5ccea8b3af4",
-        "positive": 6.1,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Memories with maestro: Sachin posts viral video featuring Zakir HussainLegendary Sachin Tendulkar shared a viral throwback video of him and late Zakir Hussain on Thursday, December 19. The heartwarming video saw Sachin trying to learn playing musical instruments from Zakir Hussain.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/sachin-tendulkar-posts-viral-video-featuring-zakir-hussain-2652524-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T19:43:00",
-        "uuid": "68414a36-2c7e-4d62-8bec-f7e6d367368a",
-        "positive": 19.3,
-        "negative": 7.3
-    },
-    {
-        "headlines": "Argentina top FIFA men's football rankings for second straight yearFootball world champion Argentina finished 2024 as the top-placed men's team in the FIFA rankings for a second straight year. Lionel Scaloni's Argentina continue to lead the way ahead of second-placed France and Euro 2024 winners Spain in third.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/argentina-top-fifa-mens-football-rankings-for-second-straight-year-2652522-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T19:40:00",
-        "uuid": "543f7344-5fe9-436f-a214-d7be4136507b",
-        "positive": 18.7,
-        "negative": 2
-    },
-    {
-        "headlines": "Can microdosing on Ozempic help you lose weight without any side effects? Microdosing Ozempic has gained momentum online, with people hoping to use the weight-loss benefits while dodging the side effects. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-microdosing-on-ozempic-help-you-lose-weight-without-any-side-effects-2651165-2024-12-18",
-        "category": "lifestyle",
-        "date_time": "2024-12-18T08:00:00",
-        "uuid": "fce50e2e-5fc7-431e-a1e2-8e87a9bdab5c",
-        "positive": 8.4,
-        "negative": 5.9
-    },
-    {
-        "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/youve-been-misunderstanding-trauma-bonding-all-along-its-a-toxic-trap-2651160-2024-12-17",
-        "category": "lifestyle",
-        "date_time": "2024-12-17T19:04:00",
-        "uuid": "db2bfbe8-64b7-468d-9da2-8553dc09fd2a",
-        "positive": 18.4,
-        "negative": 27.9
-    },
-    {
-        "headlines": "The struggles of pet owners no one talks about in IndiaIndian pet parents, especially dog owners, feel that India is yet to become more accommodating for pets. There are several struggles that often go unnoticed despite the ever-growing Indian pet market.",
-        "article_url": "https://www.indiatoday.in/lifestyle/society/story/pet-dog-owners-struggles-india-2650652-2024-12-17",
-        "category": "lifestyle",
-        "date_time": "2024-12-17T12:31:00",
-        "uuid": "c6f0f5a3-c942-4467-a63d-788ddf77ee0b",
-        "positive": 13.4,
-        "negative": 7.8
-    },
-    {
-        "headlines": "No, Soursop, a fruit, cannot cure cancer Soursop, a close cousin of the famous custard apple, is gaining buzz on social media for its anti-cancerous properties. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-soursop-a-fruit-cannot-cure-cancer-2650598-2024-12-16",
-        "category": "lifestyle",
-        "date_time": "2024-12-16T20:30:00",
-        "uuid": "38816f10-2d42-49dc-8740-fa2e0a5a0a7a",
-        "positive": 14.2,
-        "negative": 8.3
-    },
-    {
-        "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/indian-married-couples-romance-alive-while-living-with-family-2648573-2024-12-15",
-        "category": "lifestyle",
-        "date_time": "2024-12-15T13:28:00",
-        "uuid": "4df8a75e-5b5d-4778-80f1-5332a236d631",
-        "positive": 19.5,
-        "negative": 4.6
-    },
-    {
-        "headlines": "Another day, another tantrum. How to manage your child's anger and stubbornnessEvery parent knows the struggle when their child throws a fit after being told 'no'. It's frustrating, and while you know this behaviour isn't healthy, how should you handle it?\r\n",
-        "article_url": "https://www.indiatoday.in/lifestyle/society/story/how-to-manage-your-childs-anger-and-stubbornness-2649430-2024-12-14",
-        "category": "lifestyle",
-        "date_time": "2024-12-14T09:06:00",
-        "uuid": "9a679325-a16f-4509-8c4a-fe6f20f5b738",
-        "positive": 13.7,
-        "negative": 17.4
-    },
-    {
-        "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T19:26:00",
-        "uuid": "4560b915-9ef2-46f2-a72a-b99dab1ef740",
-        "positive": 13,
-        "negative": 1.9
-    },
-    {
-        "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:37:00",
-        "uuid": "62676be9-a737-4469-af21-a0ebb1709656",
-        "positive": 18.6,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:40:00",
-        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
-        "positive": 21.6,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-12T15:30:00",
-        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
-        "positive": 19.1,
-        "negative": 6.7
-    },
-    {
-        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T18:30:00",
-        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
-        "positive": 11.5,
-        "negative": 11.9
-    },
-    {
-        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T14:06:00",
-        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
-        "positive": 13.2,
-        "negative": 15
-    },
-    {
-        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-10T19:31:00",
-        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
-        "positive": 16,
-        "negative": 8.3
-    },
-    {
         "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
         "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
         "category": "lifestyle",
@@ -4498,6 +4507,15 @@
         "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
         "positive": 17.6,
         "negative": 1.2
+    },
+    {
+        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
+        "category": "lifestyle",
+        "date_time": "2024-12-08T18:40:00",
+        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
+        "positive": 20.3,
+        "negative": 3.3
     },
     {
         "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
@@ -4608,6 +4626,42 @@
         "negative": 4.3
     },
     {
+        "headlines": "BCCI sees huge profit, earns Rs 4200 crore more in 2024The Indian cricket board's bank balance grew by Rs 4200 crore after a successful year of cricket that involved record viewership in the Indian Premier League and the ODI World Cup 2023. ",
+        "article_url": "https://www.indiatoday.in/sports/story/bcci-sees-huge-profit-earns-rs-4200-crore-more-after-astronomical-ipl-viewership-2652539-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T20:07:00",
+        "uuid": "ee4eeaf6-7671-4a9d-bb99-c03a3d054691",
+        "positive": 8.7,
+        "negative": 0
+    },
+    {
+        "headlines": "Afghanistan decimate Zimbabwe in Harare, record their biggest ODI win ZIM vs AFG, 2nd ODI: Afghanistan beat Zimbabwe by 232 runs on Thursday to take a crucial 1-0 lead in the three-match series. After Sediqullah Atal's maiden ODI century, the Afghan bowlers shot the home team out for 54 in 17.5 overs. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-zimbabwe-vs-afghanistan-2nd-odi-biggest-odi-win-sediqullah-atal-2652525-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T19:43:00",
+        "uuid": "97a820bb-af14-4136-84c9-d5ccea8b3af4",
+        "positive": 6.1,
+        "negative": 1.9
+    },
+    {
+        "headlines": "Memories with maestro: Sachin posts viral video featuring Zakir HussainLegendary Sachin Tendulkar shared a viral throwback video of him and late Zakir Hussain on Thursday, December 19. The heartwarming video saw Sachin trying to learn playing musical instruments from Zakir Hussain.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/sachin-tendulkar-posts-viral-video-featuring-zakir-hussain-2652524-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T19:43:00",
+        "uuid": "68414a36-2c7e-4d62-8bec-f7e6d367368a",
+        "positive": 19.3,
+        "negative": 7.3
+    },
+    {
+        "headlines": "Argentina top FIFA men's football rankings for second straight yearFootball world champion Argentina finished 2024 as the top-placed men's team in the FIFA rankings for a second straight year. Lionel Scaloni's Argentina continue to lead the way ahead of second-placed France and Euro 2024 winners Spain in third.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/argentina-top-fifa-mens-football-rankings-for-second-straight-year-2652522-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T19:40:00",
+        "uuid": "543f7344-5fe9-436f-a214-d7be4136507b",
+        "positive": 18.7,
+        "negative": 2
+    },
+    {
         "headlines": "Anees Bazmee recalls being Raj Kapoor's assistant director: He breathed cinemaDirector Anees Bazmee opens up about being iconic filmmaker Raj Kapoor's former assistant director. Bazmee had assisted Kapoor on Prem Rog. ",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/anees-bazmee-recalls-being-raj-kapoor-assistant-director-2648884-2024-12-12",
         "category": "bollywood",
@@ -4624,32 +4678,5 @@
         "uuid": "c2af656f-3e8c-408a-b24b-4a4a457136b8",
         "positive": 17.8,
         "negative": 0.5
-    },
-    {
-        "headlines": "Priyanka Chopra on working in SRK's Don: I tasted blood a little bitGlobal icon Priyanka Chopra recently opened up about working in the Farhan Akhtar directorial, Don, which also starred superstar Shah Rukh Khan in the lead. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-chopra-on-working-in-shah-rukh-khan-don-2648797-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T14:51:00",
-        "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
-        "positive": 9.6,
-        "negative": 2.1
-    },
-    {
-        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T14:25:00",
-        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
-        "positive": 11.3,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
-        "category": "bollywood",
-        "date_time": "2024-12-11T11:31:00",
-        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
-        "positive": 17,
-        "negative": 3.1
     }
 ]
