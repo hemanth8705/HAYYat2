@@ -1,3 +1,13 @@
 from scripts.data_collection_and_validation import start_data_collection_and_validation_pipeline
+from scripts.adding_sentiment_to_articles import start_adding_sentiment_tags_pipeline
+from scripts.inserting_data_to_DB import start_add_to_database_pipeline
+from scripts.make_json_file import fetch_data_to_json
+from scripts.deleting_from_DB import delete_outdated_records
+
+
 
 start_data_collection_and_validation_pipeline()
+start_adding_sentiment_tags_pipeline()
+start_add_to_database_pipeline()
+fetch_data_to_json()
+delete_outdated_records()
