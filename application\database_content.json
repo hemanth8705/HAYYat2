@@ -3618,24 +3618,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T08:59:00",
-        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
-        "positive": 9,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T08:49:00",
-        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
-        "positive": 5.6,
-        "negative": 3.2
-    },
-    {
         "headlines": "How Smriti Mandhana inspired Team India to end 5-year drought at home IND-W vs WI-W: Smriti Mandhana, who led India in Harmanpreet Kaur's career, talked about the importance of winning a T20I series on home soil. On Thursday, India beat the West Indies in the deciding game to claim the series 2-1. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-womens-t20i-series-smriti-mandhana-drought-2652634-2024-12-19",
         "category": "sports",
@@ -4401,15 +4383,6 @@
         "negative": 2.2
     },
     {
-        "headlines": "US Fed cuts key interest rates by 0.25%: 3 key takeaways for stock marketsThe Fed's decision, along with its forecast of fewer rate cuts in 2025, rattled investors across the globe, leading to widespread sell-offs in equities.",
-        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-25-bps-jerome-powell-impact-stock-markets-sensex-nifty-outlook-what-to-expect-2652081-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T09:06:00",
-        "uuid": "41ae4282-ea2b-48c1-a64c-963554963b98",
-        "positive": 8.9,
-        "negative": 8.5
-    },
-    {
         "headlines": "Mates club? Australian selectors accused of bias after Nathan McSweeney snub Australia vs India, 4th Test: Australia dropped 25-year-old Nathan McSweeney from the squad for the final two Tests of the Border-Gavaskar Trophy. Selector George Bailey has faced criticism for not backing the youngster, especially when senior players like Usman Khawaja and Marnus Labuschagne have struggled with the bat.",
         "article_url": "https://www.indiatoday.in/sports/story/cricke-ind-vs-aus-boxing-day-nathan-mcsweeney-dropped-george-bailey-criticism-2652823-2024-12-20",
         "category": "sports",
@@ -4417,6 +4390,15 @@
         "uuid": "64406747-4863-4f7e-b2b5-e9270fa6452f",
         "positive": 6.1,
         "negative": 5.7
+    },
+    {
+        "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-u19-women-t20-asia-cup-aayushi-shukla-india-beat-sri-lanka-reach-final-2652897-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T15:16:00",
+        "uuid": "47b53052-1d98-4f0e-8604-4155f6eae0a2",
+        "positive": 13.2,
+        "negative": 2.4
     },
     {
         "headlines": "Worried about UPI frauds? Activate BharatPe 'Shield' now with these easy stepsShield is available on the BharatPe app, which can be downloaded on both Android and iOS devices.",
@@ -4444,6 +4426,24 @@
         "uuid": "4f45b819-ae93-4e91-b362-6e0ff40cc883",
         "positive": 8.5,
         "negative": 2.6
+    },
+    {
+        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T08:59:00",
+        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
+        "positive": 9,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T08:49:00",
+        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
+        "positive": 5.6,
+        "negative": 3.2
     },
     {
         "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
@@ -4482,15 +4482,6 @@
         "negative": 15.8
     },
     {
-        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T14:28:00",
-        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
-        "positive": 5.2,
-        "negative": 16.6
-    },
-    {
         "headlines": "BCCI sees huge profit, earns Rs 4200 crore more in 2024The Indian cricket board's bank balance grew by Rs 4200 crore after a successful year of cricket that involved record viewership in the Indian Premier League and the ODI World Cup 2023. ",
         "article_url": "https://www.indiatoday.in/sports/story/bcci-sees-huge-profit-earns-rs-4200-crore-more-after-astronomical-ipl-viewership-2652539-2024-12-19",
         "category": "sports",
@@ -4525,6 +4516,24 @@
         "uuid": "543f7344-5fe9-436f-a214-d7be4136507b",
         "positive": 18.7,
         "negative": 2
+    },
+    {
+        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T14:28:00",
+        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
+        "positive": 5.2,
+        "negative": 16.6
+    },
+    {
+        "headlines": "OnePlus 13R battery, chipset and camera details confirmed ahead of India launchOnePlus 13R is confirmed to arrive in India with a Snapdragon 8 Gen 3 and 6000mAh battery. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-battery-chipset-and-camera-details-confirmed-ahead-of-india-launch-on-january-7-2652827-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T14:46:00",
+        "uuid": "59a266cc-7cd7-426b-8646-8cfcf43819ee",
+        "positive": 4.8,
+        "negative": 0
     },
     {
         "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
@@ -4617,33 +4626,6 @@
         "negative": 4.1
     },
     {
-        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:40:00",
-        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
-        "positive": 21.6,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-12T15:30:00",
-        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
-        "positive": 19.1,
-        "negative": 6.7
-    },
-    {
-        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T18:30:00",
-        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
-        "positive": 11.5,
-        "negative": 11.9
-    },
-    {
         "headlines": "World Cup for red-ball players: South Africa's Bavuma sets sights on WTC finalSouth Africa captain Temba Bavuma has firmly set his sights on reaching their first-ever World Test Championship Final, scheduled to be held at Lord's in June next year.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/world-cup-for-red-ball-players-south-africa-temba-bavuma-2652811-2024-12-20",
         "category": "sports",
@@ -4669,6 +4651,33 @@
         "uuid": "f4ecaac2-010b-4e34-838f-d831bca2ea27",
         "positive": 7,
         "negative": 10
+    },
+    {
+        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:40:00",
+        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
+        "positive": 21.6,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-12T15:30:00",
+        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
+        "positive": 19.1,
+        "negative": 6.7
+    },
+    {
+        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T18:30:00",
+        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
+        "positive": 11.5,
+        "negative": 11.9
     },
     {
         "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
@@ -4725,15 +4734,6 @@
         "negative": 3.3
     },
     {
-        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T19:36:00",
-        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
-        "positive": 26.5,
-        "negative": 6.2
-    },
-    {
         "headlines": "R Ashwin responds to Virat Kohli's tribute, reveals poignant MCG messageRavichandran Ashwin responded to Virat Kohli's heartfelt retirement tribute and also emphasised that as India prepares for their Boxing Day Test against Australia at the MCG, the spinner will be there with him in spirits as he walks on to bat. This also reminded fans about their iconic 2022 T20 World Cup partnership against Pakistan.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-retirement-responds-virat-kohli-tribute-melbourne-india-vs-pakistan-message-2652697-2024-12-20",
         "category": "sports",
@@ -4749,6 +4749,15 @@
         "date_time": "2024-12-20T08:43:00",
         "uuid": "ba683a13-206a-4716-ae14-fc15bccf6fc2",
         "positive": 13.9,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:36:00",
+        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
+        "positive": 26.5,
         "negative": 6.2
     },
     {
@@ -4788,33 +4797,6 @@
         "negative": 0
     },
     {
-        "headlines": "Sikandar teaser to release on Salman Khan's 59th birthday: ReportThe much-awaited teaser for Sikandar will be reportedly release on Salman Khan's 59th birthday. Fans are eager for this special birthday treat from the Bollywood superstar.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-to-release-on-salman-khans-59th-birthday-report-2650634-2024-12-16",
-        "category": "bollywood",
-        "date_time": "2024-12-16T20:06:00",
-        "uuid": "58bbde1a-747b-4da1-aad5-96c2ae4f7f13",
-        "positive": 11.8,
-        "negative": 6.1
-    },
-    {
-        "headlines": "Varun Dhawan on Salman Khan's cameo in Baby John: Its impact will last for many daysSalman Khan is set to make a cameo appearance in the upcoming film Baby John. Varun Dhawan, who plays the lead in the movie, shared insights about the superstar's role.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-on-salman-khan-cameo-in-baby-john-its-impact-will-last-for-many-days-2650209-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T19:32:00",
-        "uuid": "f303ae39-504d-4557-af9d-e209bca13146",
-        "positive": 6.4,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T10:21:00",
-        "uuid": "39ba8cd6-e33e-4b30-b193-0126bb35d5bd",
-        "positive": 10.7,
-        "negative": 2
-    },
-    {
         "headlines": "India Women thrash West Indies in series decider to end 5-year-long wait IND-W vs WI-W: India won their Women's T20I series against West Indies after winning the series decider by 100 runs on Thursday in Navi Mumbai. Smriti Mandhana and Richa Ghosh starred for India in the high-scoring encounter. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-3rd-womens-t20i-smriti-mandhana-richa-ghosh-report-2652606-2024-12-19",
         "category": "sports",
@@ -4833,22 +4815,22 @@
         "negative": 3.3
     },
     {
-        "headlines": "KJo on 23 years of Kabhi Khushi Kabhie Gham: One of those pinch me moments…Karan Johar celebrated 23 years of the iconic movie Kabhi Khushi Kabhie Gham. On Saturday, the filmmaker shared stills from the film with a heartfelt note on Instagram. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-on-23-years-of-shah-rukh-khan-amitabh-bachchan-kabhi-khushi-kabhie-gham-2649801-2024-12-14",
+        "headlines": "Sikandar teaser to release on Salman Khan's 59th birthday: ReportThe much-awaited teaser for Sikandar will be reportedly release on Salman Khan's 59th birthday. Fans are eager for this special birthday treat from the Bollywood superstar.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-to-release-on-salman-khans-59th-birthday-report-2650634-2024-12-16",
         "category": "bollywood",
-        "date_time": "2024-12-14T14:29:00",
-        "uuid": "068b8af4-fc5e-4eb0-b5fd-4dd17b609dfa",
-        "positive": 17.2,
-        "negative": 0.7
+        "date_time": "2024-12-16T20:06:00",
+        "uuid": "58bbde1a-747b-4da1-aad5-96c2ae4f7f13",
+        "positive": 11.8,
+        "negative": 6.1
     },
     {
-        "headlines": "Rani Mukerji's Mardaani 3 to release in theatres in 2026The makers of the upcoming film Mardaani 3 announced that the film will release in theatres in 2026. Actor Rani Mukerji will reprise her role as Shivani Shivaji Rao. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rani-mukerji-mardaani-3-to-release-in-2026-2649254-2024-12-13",
+        "headlines": "Varun Dhawan on Salman Khan's cameo in Baby John: Its impact will last for many daysSalman Khan is set to make a cameo appearance in the upcoming film Baby John. Varun Dhawan, who plays the lead in the movie, shared insights about the superstar's role.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-on-salman-khan-cameo-in-baby-john-its-impact-will-last-for-many-days-2650209-2024-12-15",
         "category": "bollywood",
-        "date_time": "2024-12-13T12:21:00",
-        "uuid": "6355b289-2ab9-4219-8f70-0fc3391ebcd4",
-        "positive": 14.6,
-        "negative": 0.8
+        "date_time": "2024-12-15T19:32:00",
+        "uuid": "f303ae39-504d-4557-af9d-e209bca13146",
+        "positive": 6.4,
+        "negative": 2.3
     },
     {
         "headlines": "Sensex, Nifty extend losses amid weak global cuesAt 10:28 am, the S&P BSE Sensex fell 274.86 points to 78,943.19, while the NSE Nifty50 dropped 67.90 points to 23,883.80.",
@@ -4867,6 +4849,33 @@
         "uuid": "e12e6385-1476-47a4-9dc7-31abd3f17865",
         "positive": 9.4,
         "negative": 8.4
+    },
+    {
+        "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
+        "category": "bollywood",
+        "date_time": "2024-12-15T10:21:00",
+        "uuid": "39ba8cd6-e33e-4b30-b193-0126bb35d5bd",
+        "positive": 10.7,
+        "negative": 2
+    },
+    {
+        "headlines": "KJo on 23 years of Kabhi Khushi Kabhie Gham: One of those pinch me moments…Karan Johar celebrated 23 years of the iconic movie Kabhi Khushi Kabhie Gham. On Saturday, the filmmaker shared stills from the film with a heartfelt note on Instagram. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-on-23-years-of-shah-rukh-khan-amitabh-bachchan-kabhi-khushi-kabhie-gham-2649801-2024-12-14",
+        "category": "bollywood",
+        "date_time": "2024-12-14T14:29:00",
+        "uuid": "068b8af4-fc5e-4eb0-b5fd-4dd17b609dfa",
+        "positive": 17.2,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Rani Mukerji's Mardaani 3 to release in theatres in 2026The makers of the upcoming film Mardaani 3 announced that the film will release in theatres in 2026. Actor Rani Mukerji will reprise her role as Shivani Shivaji Rao. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rani-mukerji-mardaani-3-to-release-in-2026-2649254-2024-12-13",
+        "category": "bollywood",
+        "date_time": "2024-12-13T12:21:00",
+        "uuid": "6355b289-2ab9-4219-8f70-0fc3391ebcd4",
+        "positive": 14.6,
+        "negative": 0.8
     },
     {
         "headlines": "SRK shares sweet birthday wish for 'coolest and bossest' RajinikanthSuperstar Shah Rukh Khan on Thursday shared the sweetest birthday wish for megastar Rajinikanth. Sharing a photo of himself with the icon, SRK called Rajinikanth 'remarkably simple' and 'inspiring.'",
@@ -4896,6 +4905,24 @@
         "negative": 4.3
     },
     {
+        "headlines": "Amazon updates Prime membership policy: 2 new rules you should know aboutAmazon has two new rules that you should know about if you share your Amazon Prime account with friends or family.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/if-you-share-your-amazon-prime-video-account-with-your-family-there-are-2-new-rules-you-should-know-about-2652821-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T13:33:00",
+        "uuid": "f4462293-10b6-47b5-850e-f7c6c9d38195",
+        "positive": 9.1,
+        "negative": 1
+    },
+    {
+        "headlines": "Xiaomi reveals plans for open ecosystem for apps, connected TV and ads in IndiaAt the Xiaomi Internet Partner Conference 2024, Xiaomi India reveals plans for India's digital future through its open ecosystem, HyperOS.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-reveals-plans-for-sustainable-open-ecosystem-for-apps-connected-tv-and-ads-in-india-2652792-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T13:03:00",
+        "uuid": "1e5b73b1-798a-4046-96f6-8d956aa20be2",
+        "positive": 16.8,
+        "negative": 0
+    },
+    {
         "headlines": "Anees Bazmee recalls being Raj Kapoor's assistant director: He breathed cinemaDirector Anees Bazmee opens up about being iconic filmmaker Raj Kapoor's former assistant director. Bazmee had assisted Kapoor on Prem Rog. ",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/anees-bazmee-recalls-being-raj-kapoor-assistant-director-2648884-2024-12-12",
         "category": "bollywood",
@@ -4921,24 +4948,6 @@
         "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
         "positive": 9.6,
         "negative": 2.1
-    },
-    {
-        "headlines": "Amazon updates Prime membership policy: 2 new rules you should know aboutAmazon has two new rules that you should know about if you share your Amazon Prime account with friends or family.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/if-you-share-your-amazon-prime-video-account-with-your-family-there-are-2-new-rules-you-should-know-about-2652821-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T13:33:00",
-        "uuid": "f4462293-10b6-47b5-850e-f7c6c9d38195",
-        "positive": 9.1,
-        "negative": 1
-    },
-    {
-        "headlines": "Xiaomi reveals plans for open ecosystem for apps, connected TV and ads in IndiaAt the Xiaomi Internet Partner Conference 2024, Xiaomi India reveals plans for India's digital future through its open ecosystem, HyperOS.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-reveals-plans-for-sustainable-open-ecosystem-for-apps-connected-tv-and-ads-in-india-2652792-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T13:03:00",
-        "uuid": "1e5b73b1-798a-4046-96f6-8d956aa20be2",
-        "positive": 16.8,
-        "negative": 0
     },
     {
         "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
@@ -4986,6 +4995,33 @@
         "negative": 7
     },
     {
+        "headlines": "US Fed cuts key interest rates by 0.25%: 3 key takeaways for stock marketsThe Fed's decision, along with its forecast of fewer rate cuts in 2025, rattled investors across the globe, leading to widespread sell-offs in equities.",
+        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-25-bps-jerome-powell-impact-stock-markets-sensex-nifty-outlook-what-to-expect-2652081-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T09:06:00",
+        "uuid": "41ae4282-ea2b-48c1-a64c-963554963b98",
+        "positive": 8.9,
+        "negative": 8.5
+    },
+    {
+        "headlines": "Hold the gun: R Ashwin wishes Washington Sundar with viral Thalapathy Vijay lineRavichandran Ashwin wished Washington Sundar the best, hinting at passing the baton to the fellow off-spinner. Ashwin used a viral line from Thalapathy Vijay's recent blockbuster Tamil film, GOAT, to convey the message.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ashwin-washington-sundar-goat-thalapathy-vijay-sivakarthikeyan-2652774-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T12:21:00",
+        "uuid": "8611e299-e736-4784-98fc-40e199375840",
+        "positive": 9.9,
+        "negative": 1.4
+    },
+    {
+        "headlines": "R Ashwin grateful for calls from Sachin Tendulkar, Kapil Dev on retirement dayFormer Indian spinner Ravichandran Ashwin was grateful after receiving calls from cricketing legends Sachin Tendulkar and Kapil Dev announcing his international retirement.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-r-ashwin-grateful-for-calls-sachin-tendulkar-kapil-dev-retirement-day-2652765-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T12:11:00",
+        "uuid": "e11d86e2-c293-492f-a0af-22df281cb91b",
+        "positive": 17.1,
+        "negative": 2.9
+    },
+    {
         "headlines": "Will 2025 bring a bull run? Key trends for Nifty to watchICICI Securities projects a 20% rise in Nifty for 2025, driven by historical trends, sectoral strength, and strategic stock picks.",
         "article_url": "https://www.indiatoday.in/business/story/icici-securities-says-bullish-2025-ahead-nifty-outlook-to-hit-28800-with-sectoral-leaders-in-focus-2651753-2024-12-18",
         "category": "business",
@@ -5013,22 +5049,13 @@
         "negative": 4.3
     },
     {
-        "headlines": "Hold the gun: R Ashwin wishes Washington Sundar with viral Thalapathy Vijay lineRavichandran Ashwin wished Washington Sundar the best, hinting at passing the baton to the fellow off-spinner. Ashwin used a viral line from Thalapathy Vijay's recent blockbuster Tamil film, GOAT, to convey the message.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ashwin-washington-sundar-goat-thalapathy-vijay-sivakarthikeyan-2652774-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T12:21:00",
-        "uuid": "8611e299-e736-4784-98fc-40e199375840",
-        "positive": 9.9,
-        "negative": 1.4
-    },
-    {
-        "headlines": "R Ashwin grateful for calls from Sachin Tendulkar, Kapil Dev on retirement dayFormer Indian spinner Ravichandran Ashwin was grateful after receiving calls from cricketing legends Sachin Tendulkar and Kapil Dev announcing his international retirement.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-r-ashwin-grateful-for-calls-sachin-tendulkar-kapil-dev-retirement-day-2652765-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T12:11:00",
-        "uuid": "e11d86e2-c293-492f-a0af-22df281cb91b",
-        "positive": 17.1,
-        "negative": 2.9
+        "headlines": "Paytm Money launches 'Pay Later' Margin Trading. 3 things to knowPaytm Money launches 'Pay Later' MTF, democratising stock trading with seamless activation, innovative tools, and affordable rates.",
+        "article_url": "https://www.indiatoday.in/business/story/paytm-money-launches-pay-later-margin-trading-facility-mtf-3-things-to-know-2652885-2024-12-20",
+        "category": "business",
+        "date_time": "2024-12-20T14:50:00",
+        "uuid": "97513191-623a-441d-bb5a-6f9ff4b762fe",
+        "positive": 10,
+        "negative": 2.5
     },
     {
         "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
