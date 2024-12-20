@@ -2241,15 +2241,6 @@
         "negative": 0.6
     },
     {
-        "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-10T15:31:00",
-        "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
-        "positive": 12.9,
-        "negative": 4.5
-    },
-    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -2889,13 +2880,13 @@
         "negative": 0.6
     },
     {
-        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T19:34:00",
-        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
-        "positive": 19.2,
-        "negative": 6.4
+        "headlines": "Bangladesh clinch 1st-ever 3-0 T20I sweep vs West Indies after Jaker specialBangladesh completed a stunning redemption arc, sweeping West Indies 3-0 in the T20I series after an 80-run victory in the final match, powered by Jaker Ali's brilliance and Rishad Hossain's exceptional bowling performance in St. Vincent.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-bangladesh-t20i-series-sweep-jaker-ali-special-kingstown-2652722-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T10:25:00",
+        "uuid": "e6c1e9ab-e601-4668-afc7-37d7a294cdb0",
+        "positive": 10.3,
+        "negative": 1.7
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -2914,6 +2905,15 @@
         "uuid": "07ff5b61-b29c-4a39-81e6-153b0d234148",
         "positive": 5.3,
         "negative": 5.4
+    },
+    {
+        "headlines": "Australia drop Nathan McSweeney for Boxing Day Test, add teenage opener to squadBorder-Gavaskar Trophy: Australia named a 15-man squad for the last two tests against India on Friday. In a bold call, the Australian selectors dropped Nathan McSweeney and roped in 19-year-old Sam Konstas. Pacers Jhye Richardson and Sean Abbott also returned to the squad. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-squad-nathan-mcsweeney-dropped-sam-konstas-jhye-richardson-2652715-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T10:17:00",
+        "uuid": "28674c32-55d9-4384-9b56-28f9b97df423",
+        "positive": 8.4,
+        "negative": 4.1
     },
     {
         "headlines": "Sensex ends nearly 1,000 points lower, Nifty below 24,000The Sensex ended 964.15 points lower at 79,218.05, while the Nifty50 settled 247.15 points lower at 23,951.70.",
@@ -4131,357 +4131,6 @@
         "negative": 2.2
     },
     {
-        "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T17:55:00",
-        "uuid": "b9103930-2ddc-4baa-a892-9a2cb7251458",
-        "positive": 4.3,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Nana Patekar invites Aamir Khan for a special screening of his film VanvaasNana Patekar is set to host a special Vanvaas screening for Aamir Khan. The film, starring Utkarsh Sharma and Simratt Kaur along with Nana Patekar, is set to release on December 20. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/nana-patekar-invites-aamir-khan-for-a-special-screening-of-his-film-vanvaas-2652293-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T14:33:00",
-        "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
-        "positive": 15.8,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-tabus-de-de-pyaar-de-2-to-hit-theatres-in-november-2025-2652214-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T12:51:00",
-        "uuid": "32a2c971-7e64-4baf-98cc-d84a009807a0",
-        "positive": 3.5,
-        "negative": 1
-    },
-    {
-        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
-        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
-        "category": "lifestyle",
-        "date_time": "2024-12-09T18:58:00",
-        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
-        "positive": 17.6,
-        "negative": 1.2
-    },
-    {
-        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
-        "category": "lifestyle",
-        "date_time": "2024-12-08T18:40:00",
-        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
-        "positive": 20.3,
-        "negative": 3.3
-    },
-    {
-        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T19:36:00",
-        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
-        "positive": 26.5,
-        "negative": 6.2
-    },
-    {
-        "headlines": "Thaman S: The creative force behind hits like Ramuloo Ramulaa and Nain MattakaThaman S, famed for his South Indian hits, is set to debut his first full Bollywood album with Baby John this Christmas. The film stars Varun Dhawan in the lead and the will be released on December 25.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/meet-thaman-s-man-behind-tracks-like-ramuloo-ramulaa-nain-mattaka-baby-john-varun-dhawan-2651892-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T20:55:00",
-        "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
-        "positive": 11.9,
-        "negative": 0.6
-    },
-    {
-        "headlines": "Taapsee Pannu begins shoot for Gandhari: Let the war beginAfter Phir Aayi Haseen Dilruba, Taapsee Pannu began filming her next film. Titled Gandhari, the action-thriller is produced by Kanika Dhillon and directed by Devashish Makhija.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/taapsee-pannu-begins-shoot-for-gandhari-let-the-war-begin-2651609-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T13:16:00",
-        "uuid": "d7717455-e11c-4a05-b13e-fce8a08b22ce",
-        "positive": 11.8,
-        "negative": 8.7
-    },
-    {
-        "headlines": "20 years of Swades: Exploring the timeless relevance of Shah Rukh Khan filmReleased in 2004, Ashutosh Gowariker's Swades remains a poignant narrative in Indian cinema. Starring Shah Rukh Khan, it explores themes of identity, responsibility, and self-reliance.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/swades-20-years-shah-rukh-khan-film-themes-timeless-ashutosh-gowariker-2651239-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T08:37:00",
-        "uuid": "1f6634c5-3c58-4bd8-9191-1cc256c71564",
-        "positive": 14.8,
-        "negative": 2.8
-    },
-    {
-        "headlines": "Relive Mohan Bhargava's journey of homecoming as Swades completes 20 yearsAshutosh Gowariker's film Swades turned 20 today. The filmmaker shared a heartfelt letter celebrating the milestone on Instagram.\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ashutosh-gowariker-celebrates-20-years-of-swades-with-heartfelt-letter-to-fans-2651137-2024-12-17",
-        "category": "bollywood",
-        "date_time": "2024-12-17T18:59:00",
-        "uuid": "b05f6d60-112b-4453-b127-dbf7a6e68d56",
-        "positive": 17.7,
-        "negative": 0
-    },
-    {
-        "headlines": "Sikandar teaser to release on Salman Khan's 59th birthday: ReportThe much-awaited teaser for Sikandar will be reportedly release on Salman Khan's 59th birthday. Fans are eager for this special birthday treat from the Bollywood superstar.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-to-release-on-salman-khans-59th-birthday-report-2650634-2024-12-16",
-        "category": "bollywood",
-        "date_time": "2024-12-16T20:06:00",
-        "uuid": "58bbde1a-747b-4da1-aad5-96c2ae4f7f13",
-        "positive": 11.8,
-        "negative": 6.1
-    },
-    {
-        "headlines": "Varun Dhawan on Salman Khan's cameo in Baby John: Its impact will last for many daysSalman Khan is set to make a cameo appearance in the upcoming film Baby John. Varun Dhawan, who plays the lead in the movie, shared insights about the superstar's role.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-on-salman-khan-cameo-in-baby-john-its-impact-will-last-for-many-days-2650209-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T19:32:00",
-        "uuid": "f303ae39-504d-4557-af9d-e209bca13146",
-        "positive": 6.4,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T10:21:00",
-        "uuid": "39ba8cd6-e33e-4b30-b193-0126bb35d5bd",
-        "positive": 10.7,
-        "negative": 2
-    },
-    {
-        "headlines": "Can making a vision board really help you achieve your goals for 2025?A vision board is a creative visual representation of one's goals, dreams, and aspirations. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/can-making-a-vision-board-really-help-you-manifest-your-goals-for-2025-2652499-2024-12-20",
-        "category": "lifestyle",
-        "date_time": "2024-12-20T08:00:00",
-        "uuid": "8f2b01a5-c4c0-481b-ae53-f1f060cd0633",
-        "positive": 22,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
-        "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T17:05:00",
-        "uuid": "913aea87-537c-435c-9e2b-f62608a6667a",
-        "positive": 31.9,
-        "negative": 6.6
-    },
-    {
-        "headlines": "Tata Consumer dismisses reports of Starbucks exiting India as baselessAn earlier report claimed that Starbucks was considering exiting the Indian market due to high costs and mounting losses.",
-        "article_url": "https://www.indiatoday.in/business/story/tata-consumer-dismisses-reports-of-starbucks-exiting-india-2652370-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T16:26:00",
-        "uuid": "fb2ab85f-7b82-4662-9124-df0bf03c74aa",
-        "positive": 5.3,
-        "negative": 5.4
-    },
-    {
-        "headlines": "Sensex ends nearly 1,000 points lower, Nifty below 24,000The Sensex ended 964.15 points lower at 79,218.05, while the Nifty50 settled 247.15 points lower at 23,951.70.",
-        "article_url": "https://www.indiatoday.in/business/story/stock-market-closing-sensex-1000-points-lower-nifty-below-24000-us-federal-reserve-2652345-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T15:52:00",
-        "uuid": "009917bf-0232-4f45-9182-27d3fcf56fba",
-        "positive": 13.3,
-        "negative": 9
-    },
-    {
-        "headlines": "Missed ITR deadline? Here's your guide to filing belated return for AY 2024-25The last date to file a belated or revised ITR for FY 2023-24 is December 31, 2024—ensure all dues and penalties are paid to avoid additional charges.",
-        "article_url": "https://www.indiatoday.in/business/story/income-tax-filing-missed-itr-deadline-here-is-your-guide-to-filing-belated-return-for-ay-2024-25-2652309-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T15:42:00",
-        "uuid": "c33d5908-f7ea-4309-91d0-370ce60653fc",
-        "positive": 7.5,
-        "negative": 7.5
-    },
-    {
-        "headlines": "Quick delivery, quicker success: Zepto founders top Hurun listZepto, established in 2021 by the duo of Kaivalya Vohra and Aadit Palicha, has revolutionised the quick-commerce sector with its 10-minute grocery delivery model.",
-        "article_url": "https://www.indiatoday.in/business/story/zepto-co-founders-take-top-spot-in-hurun-self-made-entrepreneurs-list-kaivalya-vohra-aadit-palicha-2652329-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T16:03:00",
-        "uuid": "4c754995-f993-488b-a39c-1179c2d2edd0",
-        "positive": 6.6,
-        "negative": 0
-    },
-    {
-        "headlines": "US Fed rate cut decision: How will it impact Indian stock markets? The Sensex declined over 1,100 points and the Nifty fell below 24,000 after the US Federal Reserve's decision to cut interest rates by 0.25% to 4.5%, coupled with a hawkish outlook on future rate adjustments.",
-        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-decision-impact-on-sensex-nifty-indian-stock-markets-2652262-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T13:25:00",
-        "uuid": "7ac46f00-ee57-4572-8cdf-236f2153b892",
-        "positive": 11.3,
-        "negative": 10.6
-    },
-    {
-        "headlines": "Mamata Machinery IPO: Latest GMP sees sharp rise; should you subscribe?Mamata Machinery, a leading manufacturer of packaging machines, seeks to raise Rs 179.39 crore from its offer for sale, with promoters selling up to 73.82 lakh equity shares at a face value of Rs 10 each.",
-        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-latest-gmp-price-band-should-you-subscribe-stmp-2652244-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T16:00:00",
-        "uuid": "563715b2-c6c4-421a-ba60-c40bca975656",
-        "positive": 12.5,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Explained: Why SpiceJet share price jumped nearly 8% todaySpicejet share price: The airline's share price was up 7.48% to Rs 60.49 on the Bombay Stock Exchange (BSE) at 12:40 pm.",
-        "article_url": "https://www.indiatoday.in/business/story/spicejet-share-price-jumps-8-percent-settlement-with-aircraft-lessor-genesis-stmp-2652228-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T12:45:00",
-        "uuid": "d29e790b-a750-49a8-bf29-ac28a05e83e9",
-        "positive": 20,
-        "negative": 4.5
-    },
-    {
-        "headlines": "PMAY-U 2.0: Who can apply for affordable homes under Pradhan Mantri Awas YojanaPradhan Mantri Awas Yojana Urban 2.0 aims to provide affordable housing to one crore urban families, focusing on inclusive development through various housing schemes and subsidies.",
-        "article_url": "https://www.indiatoday.in/business/story/pmay-u-20-who-can-apply-for-affordable-homes-under-pradhan-mantri-awas-yojana-check-eligibility-document-required-application-process-2652215-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T12:30:00",
-        "uuid": "8e853609-7f6e-4ab0-b2ac-8ea7b6cf7e60",
-        "positive": 9.2,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Explained: Why Sensex fell over 1,000 points today and will bloodbath continue? Sensex and Nifty extended their losing streak as global markets plunged after the US Fed's cautious rate cut signal. Will the bears tighten their grip on Dalal Street, or is a reversal in sight?",
-        "article_url": "https://www.indiatoday.in/business/story/stock-market-crash-key-factors-sensex-falls-1100-points-nifty-tumbles-what-next-on-dalal-street-2652208-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T18:20:00",
-        "uuid": "d61d9f75-4bed-45aa-baf3-56e669710bb7",
-        "positive": 9,
-        "negative": 11.3
-    },
-    {
-        "headlines": "Sanathan Textiles IPO opens for bidding: Check issue size, price band, latest GMPSanathan Textiles' Rs 550 crore IPO offers investment opportunities in a leading yarn manufacturer, with proceeds directed towards debt repayment and growth initiatives.",
-        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-ipo-opens-for-bidding-check-opening-date-closing-date-issue-size-price-band-latest-gmp-2652183-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "242ae4c3-d846-45bb-9e34-fdc8bd208212",
-        "positive": 13.2,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Inventurus Knowledge Solutions IPO share listing: Stocks list at 43% premium Inventurus Knowledge Solutions IPO share price: On the NSE, the shares opened at Rs 1,900 per share, marking a premium of 42.96% over the issue price. ",
-        "article_url": "https://www.indiatoday.in/business/story/inventurus-knowledge-solutions-share-price-today-ipo-listing-43-percent-premium-stmp-2652146-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T10:50:00",
-        "uuid": "d6532780-0246-4792-83cd-becd937400e2",
-        "positive": 22.1,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Rupee plunges to all-time low, reaches Rs 85 against US dollar Rupee falls to all-time low: The rupee dropped to 85.0650 against the US dollar in early trade, compared to 84.9525 on Wednesday.",
-        "article_url": "https://www.indiatoday.in/business/story/rupee-hits-all-time-low-rs-85-against-us-dollar-reason-us-fed-rate-cut-market-fall-2652136-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T17:37:00",
-        "uuid": "b00b7e98-4c06-4538-a41f-a18c0f21c753",
-        "positive": 6.1,
-        "negative": 8.5
-    },
-    {
-        "headlines": "Dalal Street bloodbath: 3 reasons behind today's stock market crashStock market crash: Sensex dropped over 1,000 points while Nifty fell below 24,000, marking the fourth consecutive day of losses for the benchmark indices. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-crash-dalal-street-bloodbath-3-reasons-behind-today-fall-us-fed-rate-cut-weak-rupee-2652125-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T10:13:00",
-        "uuid": "726ddefa-be48-4b52-9ad4-4ca7c33feee1",
-        "positive": 7.6,
-        "negative": 8.5
-    },
-    {
-        "headlines": "Wall Street jitters: Sensex crashes, Nifty tumbles over US Fed rate cutStock market today: The S&P BSE Sensex was down 925.21 points to 79,256.69, while the NSE Nifty50 lost 309.75 points to 23,889.10. ",
-        "article_url": "https://www.indiatoday.in/business/story/opening-bell-market-crash-fall-sensex-nifty-wall-street-jitters-hit-india-us-fed-rate-cuts-25-bps-2652111-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T09:50:00",
-        "uuid": "1b366b0c-8d5e-4fa0-b1d5-111b2b5f2c1a",
-        "positive": 17.6,
-        "negative": 6.4
-    },
-    {
-        "headlines": "Transrail Lighting IPO: All you need to know. Check GMP before subscribing Transrail Lighting Limited, established in February 2008, is an engineering and construction company specialising in power transmission and distribution.",
-        "article_url": "https://www.indiatoday.in/business/story/transrail-lighting-ipo-opening-date-price-band-issue-size-gmp-details-before-subscribing-2652106-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T09:22:00",
-        "uuid": "1dae3563-e6f1-43ae-9709-8b4b39d69862",
-        "positive": 9.4,
-        "negative": 2.2
-    },
-    {
-        "headlines": "US Fed cuts key interest rates by 0.25%: 3 key takeaways for stock marketsThe Fed's decision, along with its forecast of fewer rate cuts in 2025, rattled investors across the globe, leading to widespread sell-offs in equities.",
-        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-25-bps-jerome-powell-impact-stock-markets-sensex-nifty-outlook-what-to-expect-2652081-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T09:06:00",
-        "uuid": "41ae4282-ea2b-48c1-a64c-963554963b98",
-        "positive": 8.9,
-        "negative": 8.5
-    },
-    {
-        "headlines": "BCCI sees huge profit, earns Rs 4200 crore more in 2024The Indian cricket board's bank balance grew by Rs 4200 crore after a successful year of cricket that involved record viewership in the Indian Premier League and the ODI World Cup 2023. ",
-        "article_url": "https://www.indiatoday.in/sports/story/bcci-sees-huge-profit-earns-rs-4200-crore-more-after-astronomical-ipl-viewership-2652539-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T20:07:00",
-        "uuid": "ee4eeaf6-7671-4a9d-bb99-c03a3d054691",
-        "positive": 8.7,
-        "negative": 0
-    },
-    {
-        "headlines": "Afghanistan decimate Zimbabwe in Harare, record their biggest ODI win ZIM vs AFG, 2nd ODI: Afghanistan beat Zimbabwe by 232 runs on Thursday to take a crucial 1-0 lead in the three-match series. After Sediqullah Atal's maiden ODI century, the Afghan bowlers shot the home team out for 54 in 17.5 overs. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-zimbabwe-vs-afghanistan-2nd-odi-biggest-odi-win-sediqullah-atal-2652525-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T19:43:00",
-        "uuid": "97a820bb-af14-4136-84c9-d5ccea8b3af4",
-        "positive": 6.1,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Memories with maestro: Sachin posts viral video featuring Zakir HussainLegendary Sachin Tendulkar shared a viral throwback video of him and late Zakir Hussain on Thursday, December 19. The heartwarming video saw Sachin trying to learn playing musical instruments from Zakir Hussain.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/sachin-tendulkar-posts-viral-video-featuring-zakir-hussain-2652524-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T19:43:00",
-        "uuid": "68414a36-2c7e-4d62-8bec-f7e6d367368a",
-        "positive": 19.3,
-        "negative": 7.3
-    },
-    {
-        "headlines": "Argentina top FIFA men's football rankings for second straight yearFootball world champion Argentina finished 2024 as the top-placed men's team in the FIFA rankings for a second straight year. Lionel Scaloni's Argentina continue to lead the way ahead of second-placed France and Euro 2024 winners Spain in third.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/argentina-top-fifa-mens-football-rankings-for-second-straight-year-2652522-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T19:40:00",
-        "uuid": "543f7344-5fe9-436f-a214-d7be4136507b",
-        "positive": 18.7,
-        "negative": 2
-    },
-    {
-        "headlines": "R Ashwin responds to Virat Kohli's tribute, reveals poignant MCG messageRavichandran Ashwin responded to Virat Kohli's heartfelt retirement tribute and also emphasised that as India prepares for their Boxing Day Test against Australia at the MCG, the spinner will be there with him in spirits as he walks on to bat. This also reminded fans about their iconic 2022 T20 World Cup partnership against Pakistan.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-retirement-responds-virat-kohli-tribute-melbourne-india-vs-pakistan-message-2652697-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T09:34:00",
-        "uuid": "1a1f8593-7241-4a71-a54c-4c0ad990583d",
-        "positive": 13.9,
-        "negative": 2
-    },
-    {
-        "headlines": "Ashwin retires: India's greatest match-winner deserved more respectRavichandran Ashwin, India's spin wizard, retired without any farewell spell, a packed stadium, or guard of honour. Ashwin did not even get to display his brilliance on the field one final time. For a player of his stature, the farewell was far from fitting.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ravichandran-ashwin-retirement-indias-greatest-match-winner-more-respect-australia-vs-india-2652685-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T08:43:00",
-        "uuid": "ba683a13-206a-4716-ae14-fc15bccf6fc2",
-        "positive": 13.9,
-        "negative": 6.2
-    },
-    {
-        "headlines": "India Women thrash West Indies in series decider to end 5-year-long wait IND-W vs WI-W: India won their Women's T20I series against West Indies after winning the series decider by 100 runs on Thursday in Navi Mumbai. Smriti Mandhana and Richa Ghosh starred for India in the high-scoring encounter. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-3rd-womens-t20i-smriti-mandhana-richa-ghosh-report-2652606-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T22:29:00",
-        "uuid": "fc5b0e82-01f2-42d9-8591-a4422cf6a68b",
-        "positive": 4.7,
-        "negative": 6.7
-    },
-    {
-        "headlines": "Shami's BGT hopes take hit. Pacer gets left out of Bengal's Vijay Hazare openerIndia pacer Mohammed Shami's Border-Gavaskar Trophy hopes took a massive hit as the pacer was sidelined from Bengal's Vijay Hazare Trophy opener against Delhi. PTI reported that the pacer's knee injury had flared up once again and that's why he was sidelined.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-mohammed-shami-injury-bgt-vijay-hazare-2652609-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T22:27:00",
-        "uuid": "e0a4e93a-8e34-455d-b7e5-06ada7ec47fc",
-        "positive": 6.4,
-        "negative": 3.3
-    },
-    {
         "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
         "article_url": "https://www.indiatoday.in/technology/talking-points/story/apple-needs-to-make-apple-tv-that-can-run-aaa-games-challenge-xbox-and-playstation-2651840-2024-12-18",
         "category": "technology",
@@ -4527,31 +4176,31 @@
         "negative": 16.6
     },
     {
-        "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/new-youtube-rules-in-india-as-platform-bans-videos-with-clickbait-titles-2652709-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:30:00",
-        "uuid": "d6975c7e-71c1-45e7-8042-87c9bf42564c",
-        "positive": 11.2,
-        "negative": 7.6
+        "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T17:55:00",
+        "uuid": "b9103930-2ddc-4baa-a892-9a2cb7251458",
+        "positive": 4.3,
+        "negative": 1.1
     },
     {
-        "headlines": "Instagram teases AI tool that will change backgrounds, outfits with simple promptInstagram may soon allow users to change background, colour of clothes, and other things in a video, with just a simple text prompt. \r\n",
-        "article_url": "https://www.indiatoday.in/technology/news/story/instagram-teases-ai-video-editing-tool-that-will-change-backgrounds-outfits-with-a-simple-text-prompt-2652701-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:22:00",
-        "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
-        "positive": 10.4,
-        "negative": 2.5
+        "headlines": "Nana Patekar invites Aamir Khan for a special screening of his film VanvaasNana Patekar is set to host a special Vanvaas screening for Aamir Khan. The film, starring Utkarsh Sharma and Simratt Kaur along with Nana Patekar, is set to release on December 20. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/nana-patekar-invites-aamir-khan-for-a-special-screening-of-his-film-vanvaas-2652293-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T14:33:00",
+        "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
+        "positive": 15.8,
+        "negative": 1.3
     },
     {
-        "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-20-flash-thinking-mode-a-reasoning-model-similar-to-openai-o1-2652683-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:04:00",
-        "uuid": "9a74d91e-5c5c-43de-8689-bd0266ba84ca",
-        "positive": 9.4,
-        "negative": 7
+        "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-tabus-de-de-pyaar-de-2-to-hit-theatres-in-november-2025-2652214-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T12:51:00",
+        "uuid": "32a2c971-7e64-4baf-98cc-d84a009807a0",
+        "positive": 3.5,
+        "negative": 1
     },
     {
         "headlines": "With Kendall and Hailey backing it, will NAD+ witness a boom in Indian market?A look into the science, the stars, and the soaring interest in NAD+ as India joins the global wellness race.",
@@ -4653,6 +4302,15 @@
         "negative": 6.7
     },
     {
+        "headlines": "Can making a vision board really help you achieve your goals for 2025?A vision board is a creative visual representation of one's goals, dreams, and aspirations. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/can-making-a-vision-board-really-help-you-manifest-your-goals-for-2025-2652499-2024-12-20",
+        "category": "lifestyle",
+        "date_time": "2024-12-20T08:00:00",
+        "uuid": "8f2b01a5-c4c0-481b-ae53-f1f060cd0633",
+        "positive": 22,
+        "negative": 2.4
+    },
+    {
         "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
         "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
         "category": "lifestyle",
@@ -4678,6 +4336,267 @@
         "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
         "positive": 16,
         "negative": 8.3
+    },
+    {
+        "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T15:31:00",
+        "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
+        "positive": 12.9,
+        "negative": 4.5
+    },
+    {
+        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:34:00",
+        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
+        "positive": 19.2,
+        "negative": 6.4
+    },
+    {
+        "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
+        "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T17:05:00",
+        "uuid": "913aea87-537c-435c-9e2b-f62608a6667a",
+        "positive": 31.9,
+        "negative": 6.6
+    },
+    {
+        "headlines": "Tata Consumer dismisses reports of Starbucks exiting India as baselessAn earlier report claimed that Starbucks was considering exiting the Indian market due to high costs and mounting losses.",
+        "article_url": "https://www.indiatoday.in/business/story/tata-consumer-dismisses-reports-of-starbucks-exiting-india-2652370-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T16:26:00",
+        "uuid": "fb2ab85f-7b82-4662-9124-df0bf03c74aa",
+        "positive": 5.3,
+        "negative": 5.4
+    },
+    {
+        "headlines": "Sensex ends nearly 1,000 points lower, Nifty below 24,000The Sensex ended 964.15 points lower at 79,218.05, while the Nifty50 settled 247.15 points lower at 23,951.70.",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-closing-sensex-1000-points-lower-nifty-below-24000-us-federal-reserve-2652345-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T15:52:00",
+        "uuid": "009917bf-0232-4f45-9182-27d3fcf56fba",
+        "positive": 13.3,
+        "negative": 9
+    },
+    {
+        "headlines": "Missed ITR deadline? Here's your guide to filing belated return for AY 2024-25The last date to file a belated or revised ITR for FY 2023-24 is December 31, 2024—ensure all dues and penalties are paid to avoid additional charges.",
+        "article_url": "https://www.indiatoday.in/business/story/income-tax-filing-missed-itr-deadline-here-is-your-guide-to-filing-belated-return-for-ay-2024-25-2652309-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T15:42:00",
+        "uuid": "c33d5908-f7ea-4309-91d0-370ce60653fc",
+        "positive": 7.5,
+        "negative": 7.5
+    },
+    {
+        "headlines": "Quick delivery, quicker success: Zepto founders top Hurun listZepto, established in 2021 by the duo of Kaivalya Vohra and Aadit Palicha, has revolutionised the quick-commerce sector with its 10-minute grocery delivery model.",
+        "article_url": "https://www.indiatoday.in/business/story/zepto-co-founders-take-top-spot-in-hurun-self-made-entrepreneurs-list-kaivalya-vohra-aadit-palicha-2652329-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T16:03:00",
+        "uuid": "4c754995-f993-488b-a39c-1179c2d2edd0",
+        "positive": 6.6,
+        "negative": 0
+    },
+    {
+        "headlines": "US Fed rate cut decision: How will it impact Indian stock markets? The Sensex declined over 1,100 points and the Nifty fell below 24,000 after the US Federal Reserve's decision to cut interest rates by 0.25% to 4.5%, coupled with a hawkish outlook on future rate adjustments.",
+        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-decision-impact-on-sensex-nifty-indian-stock-markets-2652262-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T13:25:00",
+        "uuid": "7ac46f00-ee57-4572-8cdf-236f2153b892",
+        "positive": 11.3,
+        "negative": 10.6
+    },
+    {
+        "headlines": "Mamata Machinery IPO: Latest GMP sees sharp rise; should you subscribe?Mamata Machinery, a leading manufacturer of packaging machines, seeks to raise Rs 179.39 crore from its offer for sale, with promoters selling up to 73.82 lakh equity shares at a face value of Rs 10 each.",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-latest-gmp-price-band-should-you-subscribe-stmp-2652244-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T16:00:00",
+        "uuid": "563715b2-c6c4-421a-ba60-c40bca975656",
+        "positive": 12.5,
+        "negative": 0.3
+    },
+    {
+        "headlines": "Explained: Why SpiceJet share price jumped nearly 8% todaySpicejet share price: The airline's share price was up 7.48% to Rs 60.49 on the Bombay Stock Exchange (BSE) at 12:40 pm.",
+        "article_url": "https://www.indiatoday.in/business/story/spicejet-share-price-jumps-8-percent-settlement-with-aircraft-lessor-genesis-stmp-2652228-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T12:45:00",
+        "uuid": "d29e790b-a750-49a8-bf29-ac28a05e83e9",
+        "positive": 20,
+        "negative": 4.5
+    },
+    {
+        "headlines": "PMAY-U 2.0: Who can apply for affordable homes under Pradhan Mantri Awas YojanaPradhan Mantri Awas Yojana Urban 2.0 aims to provide affordable housing to one crore urban families, focusing on inclusive development through various housing schemes and subsidies.",
+        "article_url": "https://www.indiatoday.in/business/story/pmay-u-20-who-can-apply-for-affordable-homes-under-pradhan-mantri-awas-yojana-check-eligibility-document-required-application-process-2652215-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T12:30:00",
+        "uuid": "8e853609-7f6e-4ab0-b2ac-8ea7b6cf7e60",
+        "positive": 9.2,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Explained: Why Sensex fell over 1,000 points today and will bloodbath continue? Sensex and Nifty extended their losing streak as global markets plunged after the US Fed's cautious rate cut signal. Will the bears tighten their grip on Dalal Street, or is a reversal in sight?",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-crash-key-factors-sensex-falls-1100-points-nifty-tumbles-what-next-on-dalal-street-2652208-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T18:20:00",
+        "uuid": "d61d9f75-4bed-45aa-baf3-56e669710bb7",
+        "positive": 9,
+        "negative": 11.3
+    },
+    {
+        "headlines": "Sanathan Textiles IPO opens for bidding: Check issue size, price band, latest GMPSanathan Textiles' Rs 550 crore IPO offers investment opportunities in a leading yarn manufacturer, with proceeds directed towards debt repayment and growth initiatives.",
+        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-ipo-opens-for-bidding-check-opening-date-closing-date-issue-size-price-band-latest-gmp-2652183-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "242ae4c3-d846-45bb-9e34-fdc8bd208212",
+        "positive": 13.2,
+        "negative": 1.9
+    },
+    {
+        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
+        "category": "lifestyle",
+        "date_time": "2024-12-09T18:58:00",
+        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
+        "positive": 17.6,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Inventurus Knowledge Solutions IPO share listing: Stocks list at 43% premium Inventurus Knowledge Solutions IPO share price: On the NSE, the shares opened at Rs 1,900 per share, marking a premium of 42.96% over the issue price. ",
+        "article_url": "https://www.indiatoday.in/business/story/inventurus-knowledge-solutions-share-price-today-ipo-listing-43-percent-premium-stmp-2652146-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T10:50:00",
+        "uuid": "d6532780-0246-4792-83cd-becd937400e2",
+        "positive": 22.1,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Rupee plunges to all-time low, reaches Rs 85 against US dollar Rupee falls to all-time low: The rupee dropped to 85.0650 against the US dollar in early trade, compared to 84.9525 on Wednesday.",
+        "article_url": "https://www.indiatoday.in/business/story/rupee-hits-all-time-low-rs-85-against-us-dollar-reason-us-fed-rate-cut-market-fall-2652136-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T17:37:00",
+        "uuid": "b00b7e98-4c06-4538-a41f-a18c0f21c753",
+        "positive": 6.1,
+        "negative": 8.5
+    },
+    {
+        "headlines": "Dalal Street bloodbath: 3 reasons behind today's stock market crashStock market crash: Sensex dropped over 1,000 points while Nifty fell below 24,000, marking the fourth consecutive day of losses for the benchmark indices. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-crash-dalal-street-bloodbath-3-reasons-behind-today-fall-us-fed-rate-cut-weak-rupee-2652125-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T10:13:00",
+        "uuid": "726ddefa-be48-4b52-9ad4-4ca7c33feee1",
+        "positive": 7.6,
+        "negative": 8.5
+    },
+    {
+        "headlines": "Wall Street jitters: Sensex crashes, Nifty tumbles over US Fed rate cutStock market today: The S&P BSE Sensex was down 925.21 points to 79,256.69, while the NSE Nifty50 lost 309.75 points to 23,889.10. ",
+        "article_url": "https://www.indiatoday.in/business/story/opening-bell-market-crash-fall-sensex-nifty-wall-street-jitters-hit-india-us-fed-rate-cuts-25-bps-2652111-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T09:50:00",
+        "uuid": "1b366b0c-8d5e-4fa0-b1d5-111b2b5f2c1a",
+        "positive": 17.6,
+        "negative": 6.4
+    },
+    {
+        "headlines": "Transrail Lighting IPO: All you need to know. Check GMP before subscribing Transrail Lighting Limited, established in February 2008, is an engineering and construction company specialising in power transmission and distribution.",
+        "article_url": "https://www.indiatoday.in/business/story/transrail-lighting-ipo-opening-date-price-band-issue-size-gmp-details-before-subscribing-2652106-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T09:22:00",
+        "uuid": "1dae3563-e6f1-43ae-9709-8b4b39d69862",
+        "positive": 9.4,
+        "negative": 2.2
+    },
+    {
+        "headlines": "US Fed cuts key interest rates by 0.25%: 3 key takeaways for stock marketsThe Fed's decision, along with its forecast of fewer rate cuts in 2025, rattled investors across the globe, leading to widespread sell-offs in equities.",
+        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-25-bps-jerome-powell-impact-stock-markets-sensex-nifty-outlook-what-to-expect-2652081-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T09:06:00",
+        "uuid": "41ae4282-ea2b-48c1-a64c-963554963b98",
+        "positive": 8.9,
+        "negative": 8.5
+    },
+    {
+        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
+        "category": "lifestyle",
+        "date_time": "2024-12-08T18:40:00",
+        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
+        "positive": 20.3,
+        "negative": 3.3
+    },
+    {
+        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:36:00",
+        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
+        "positive": 26.5,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Thaman S: The creative force behind hits like Ramuloo Ramulaa and Nain MattakaThaman S, famed for his South Indian hits, is set to debut his first full Bollywood album with Baby John this Christmas. The film stars Varun Dhawan in the lead and the will be released on December 25.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/meet-thaman-s-man-behind-tracks-like-ramuloo-ramulaa-nain-mattaka-baby-john-varun-dhawan-2651892-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T20:55:00",
+        "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
+        "positive": 11.9,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Taapsee Pannu begins shoot for Gandhari: Let the war beginAfter Phir Aayi Haseen Dilruba, Taapsee Pannu began filming her next film. Titled Gandhari, the action-thriller is produced by Kanika Dhillon and directed by Devashish Makhija.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/taapsee-pannu-begins-shoot-for-gandhari-let-the-war-begin-2651609-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T13:16:00",
+        "uuid": "d7717455-e11c-4a05-b13e-fce8a08b22ce",
+        "positive": 11.8,
+        "negative": 8.7
+    },
+    {
+        "headlines": "20 years of Swades: Exploring the timeless relevance of Shah Rukh Khan filmReleased in 2004, Ashutosh Gowariker's Swades remains a poignant narrative in Indian cinema. Starring Shah Rukh Khan, it explores themes of identity, responsibility, and self-reliance.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/swades-20-years-shah-rukh-khan-film-themes-timeless-ashutosh-gowariker-2651239-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T08:37:00",
+        "uuid": "1f6634c5-3c58-4bd8-9191-1cc256c71564",
+        "positive": 14.8,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Relive Mohan Bhargava's journey of homecoming as Swades completes 20 yearsAshutosh Gowariker's film Swades turned 20 today. The filmmaker shared a heartfelt letter celebrating the milestone on Instagram.\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ashutosh-gowariker-celebrates-20-years-of-swades-with-heartfelt-letter-to-fans-2651137-2024-12-17",
+        "category": "bollywood",
+        "date_time": "2024-12-17T18:59:00",
+        "uuid": "b05f6d60-112b-4453-b127-dbf7a6e68d56",
+        "positive": 17.7,
+        "negative": 0
+    },
+    {
+        "headlines": "Sikandar teaser to release on Salman Khan's 59th birthday: ReportThe much-awaited teaser for Sikandar will be reportedly release on Salman Khan's 59th birthday. Fans are eager for this special birthday treat from the Bollywood superstar.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-to-release-on-salman-khans-59th-birthday-report-2650634-2024-12-16",
+        "category": "bollywood",
+        "date_time": "2024-12-16T20:06:00",
+        "uuid": "58bbde1a-747b-4da1-aad5-96c2ae4f7f13",
+        "positive": 11.8,
+        "negative": 6.1
+    },
+    {
+        "headlines": "Varun Dhawan on Salman Khan's cameo in Baby John: Its impact will last for many daysSalman Khan is set to make a cameo appearance in the upcoming film Baby John. Varun Dhawan, who plays the lead in the movie, shared insights about the superstar's role.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-on-salman-khan-cameo-in-baby-john-its-impact-will-last-for-many-days-2650209-2024-12-15",
+        "category": "bollywood",
+        "date_time": "2024-12-15T19:32:00",
+        "uuid": "f303ae39-504d-4557-af9d-e209bca13146",
+        "positive": 6.4,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
+        "category": "bollywood",
+        "date_time": "2024-12-15T10:21:00",
+        "uuid": "39ba8cd6-e33e-4b30-b193-0126bb35d5bd",
+        "positive": 10.7,
+        "negative": 2
     },
     {
         "headlines": "KJo on 23 years of Kabhi Khushi Kabhie Gham: One of those pinch me moments…Karan Johar celebrated 23 years of the iconic movie Kabhi Khushi Kabhie Gham. On Saturday, the filmmaker shared stills from the film with a heartfelt note on Instagram. ",
@@ -4761,6 +4680,42 @@
         "negative": 3.9
     },
     {
+        "headlines": "BCCI sees huge profit, earns Rs 4200 crore more in 2024The Indian cricket board's bank balance grew by Rs 4200 crore after a successful year of cricket that involved record viewership in the Indian Premier League and the ODI World Cup 2023. ",
+        "article_url": "https://www.indiatoday.in/sports/story/bcci-sees-huge-profit-earns-rs-4200-crore-more-after-astronomical-ipl-viewership-2652539-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T20:07:00",
+        "uuid": "ee4eeaf6-7671-4a9d-bb99-c03a3d054691",
+        "positive": 8.7,
+        "negative": 0
+    },
+    {
+        "headlines": "Afghanistan decimate Zimbabwe in Harare, record their biggest ODI win ZIM vs AFG, 2nd ODI: Afghanistan beat Zimbabwe by 232 runs on Thursday to take a crucial 1-0 lead in the three-match series. After Sediqullah Atal's maiden ODI century, the Afghan bowlers shot the home team out for 54 in 17.5 overs. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-zimbabwe-vs-afghanistan-2nd-odi-biggest-odi-win-sediqullah-atal-2652525-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T19:43:00",
+        "uuid": "97a820bb-af14-4136-84c9-d5ccea8b3af4",
+        "positive": 6.1,
+        "negative": 1.9
+    },
+    {
+        "headlines": "Memories with maestro: Sachin posts viral video featuring Zakir HussainLegendary Sachin Tendulkar shared a viral throwback video of him and late Zakir Hussain on Thursday, December 19. The heartwarming video saw Sachin trying to learn playing musical instruments from Zakir Hussain.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/sachin-tendulkar-posts-viral-video-featuring-zakir-hussain-2652524-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T19:43:00",
+        "uuid": "68414a36-2c7e-4d62-8bec-f7e6d367368a",
+        "positive": 19.3,
+        "negative": 7.3
+    },
+    {
+        "headlines": "Argentina top FIFA men's football rankings for second straight yearFootball world champion Argentina finished 2024 as the top-placed men's team in the FIFA rankings for a second straight year. Lionel Scaloni's Argentina continue to lead the way ahead of second-placed France and Euro 2024 winners Spain in third.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/argentina-top-fifa-mens-football-rankings-for-second-straight-year-2652522-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T19:40:00",
+        "uuid": "543f7344-5fe9-436f-a214-d7be4136507b",
+        "positive": 18.7,
+        "negative": 2
+    },
+    {
         "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
         "category": "bollywood",
@@ -4795,5 +4750,68 @@
         "uuid": "beb48ff2-0375-4501-bbc2-b92663c0a9e3",
         "positive": 9.9,
         "negative": 4.3
+    },
+    {
+        "headlines": "R Ashwin responds to Virat Kohli's tribute, reveals poignant MCG messageRavichandran Ashwin responded to Virat Kohli's heartfelt retirement tribute and also emphasised that as India prepares for their Boxing Day Test against Australia at the MCG, the spinner will be there with him in spirits as he walks on to bat. This also reminded fans about their iconic 2022 T20 World Cup partnership against Pakistan.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-retirement-responds-virat-kohli-tribute-melbourne-india-vs-pakistan-message-2652697-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T09:34:00",
+        "uuid": "1a1f8593-7241-4a71-a54c-4c0ad990583d",
+        "positive": 13.9,
+        "negative": 2
+    },
+    {
+        "headlines": "Ashwin retires: India's greatest match-winner deserved more respectRavichandran Ashwin, India's spin wizard, retired without any farewell spell, a packed stadium, or guard of honour. Ashwin did not even get to display his brilliance on the field one final time. For a player of his stature, the farewell was far from fitting.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ravichandran-ashwin-retirement-indias-greatest-match-winner-more-respect-australia-vs-india-2652685-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T08:43:00",
+        "uuid": "ba683a13-206a-4716-ae14-fc15bccf6fc2",
+        "positive": 13.9,
+        "negative": 6.2
+    },
+    {
+        "headlines": "India Women thrash West Indies in series decider to end 5-year-long wait IND-W vs WI-W: India won their Women's T20I series against West Indies after winning the series decider by 100 runs on Thursday in Navi Mumbai. Smriti Mandhana and Richa Ghosh starred for India in the high-scoring encounter. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-3rd-womens-t20i-smriti-mandhana-richa-ghosh-report-2652606-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T22:29:00",
+        "uuid": "fc5b0e82-01f2-42d9-8591-a4422cf6a68b",
+        "positive": 4.7,
+        "negative": 6.7
+    },
+    {
+        "headlines": "Shami's BGT hopes take hit. Pacer gets left out of Bengal's Vijay Hazare openerIndia pacer Mohammed Shami's Border-Gavaskar Trophy hopes took a massive hit as the pacer was sidelined from Bengal's Vijay Hazare Trophy opener against Delhi. PTI reported that the pacer's knee injury had flared up once again and that's why he was sidelined.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-mohammed-shami-injury-bgt-vijay-hazare-2652609-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T22:27:00",
+        "uuid": "e0a4e93a-8e34-455d-b7e5-06ada7ec47fc",
+        "positive": 6.4,
+        "negative": 3.3
+    },
+    {
+        "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/new-youtube-rules-in-india-as-platform-bans-videos-with-clickbait-titles-2652709-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T09:30:00",
+        "uuid": "d6975c7e-71c1-45e7-8042-87c9bf42564c",
+        "positive": 11.2,
+        "negative": 7.6
+    },
+    {
+        "headlines": "Instagram teases AI tool that will change backgrounds, outfits with simple promptInstagram may soon allow users to change background, colour of clothes, and other things in a video, with just a simple text prompt. \r\n",
+        "article_url": "https://www.indiatoday.in/technology/news/story/instagram-teases-ai-video-editing-tool-that-will-change-backgrounds-outfits-with-a-simple-text-prompt-2652701-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T09:22:00",
+        "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
+        "positive": 10.4,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-20-flash-thinking-mode-a-reasoning-model-similar-to-openai-o1-2652683-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T09:04:00",
+        "uuid": "9a74d91e-5c5c-43de-8689-bd0266ba84ca",
+        "positive": 9.4,
+        "negative": 7
     }
 ]
