@@ -2268,24 +2268,6 @@
         "negative": 0.6
     },
     {
-        "headlines": "Pakistan Cricket Board to hold PSL 10 draft in GwadarThe PCB announced that the coastal city of Gwadar in the restive province of Balochistan will host the player's draft for the Pakistan Super League (PSL) on January 11.",
-        "article_url": "https://www.indiatoday.in/sports/story/pakistan-cricket-board-to-hold-psl-10-draft-in-gwadar-2652935-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T16:29:00",
-        "uuid": "d0cedbf9-30a4-4b0b-9ce9-b1dce8f9630b",
-        "positive": 13.2,
-        "negative": 0.7
-    },
-    {
-        "headlines": "JK Tyre Novice Cup stars gear up for final showdownThe stage is set at Kari Motor Speedway as 22 promising racers from 7 teams prepare for the ultimate clash in the JK Tyre Novice Cup. With the 2024 championship title on the line, adrenaline runs high!",
-        "article_url": "https://www.indiatoday.in/sports/story/jk-tyre-novice-cup-stars-gear-up-for-final-showdown-2652932-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T16:19:00",
-        "uuid": "c87d5334-0d1b-408b-9156-8ad88ccac89c",
-        "positive": 22.6,
-        "negative": 0.6
-    },
-    {
         "headlines": "Ashwin was not treated fairly, his sudden retirement a shock: Ex-CSK teammateOff-spinner R Ashwin shocked quite a few by announcing his international retirement midway through the crucial Border-Gavaskar Trophy. Ashwin left Australia and reached Chennai as early as Thursday. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ashwin-retires-unfair-treatment-former-csk-teammate-s-badrinath-2652433-2024-12-19",
         "category": "sports",
@@ -2376,6 +2358,15 @@
         "negative": 6.5
     },
     {
+        "headlines": "Not easy for Siraj to support world-class Jasprit Bumrah: Brett LeeJasprit Bumrah's exceptional bowling in the Border-Gavaskar Trophy left Australia reeling, overshadowing his teammates despite their efforts. Former Australian pacer Brett Lee praised Bumrah's brilliance, highlighting the immense challenge for others to match his extraordinary standards.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-jasprit-bumrah-world-class-brett-lee-mohammed-siraj-difficult-to-support-2652248-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T13:04:00",
+        "uuid": "2cd9bbf8-f7c2-4a16-a82d-68db2b92fdab",
+        "positive": 10.2,
+        "negative": 5
+    },
+    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -2394,13 +2385,13 @@
         "negative": 3.1
     },
     {
-        "headlines": "Not easy for Siraj to support world-class Jasprit Bumrah: Brett LeeJasprit Bumrah's exceptional bowling in the Border-Gavaskar Trophy left Australia reeling, overshadowing his teammates despite their efforts. Former Australian pacer Brett Lee praised Bumrah's brilliance, highlighting the immense challenge for others to match his extraordinary standards.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-jasprit-bumrah-world-class-brett-lee-mohammed-siraj-difficult-to-support-2652248-2024-12-19",
+        "headlines": "Josh Hazlewood frustrated by injury setback, hopes to be fit for Sri Lanka tourAustralia pacer Josh Hazlewood revealed that the injury he sustained midway through the third Test in Brisbane had left him 'frustrated'. The injury's unlucky timing brought an early end to his 2024/25 Border-Gavaskar Trophy campaign.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-josh-hazlewood-reaction-injury-australia-vs-india-sri-lanka-tour-2652225-2024-12-19",
         "category": "sports",
-        "date_time": "2024-12-19T13:04:00",
-        "uuid": "2cd9bbf8-f7c2-4a16-a82d-68db2b92fdab",
-        "positive": 10.2,
-        "negative": 5
+        "date_time": "2024-12-19T12:46:00",
+        "uuid": "577e9fb2-8f43-495b-accf-6d9388f0d00a",
+        "positive": 6.2,
+        "negative": 10.1
     },
     {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
@@ -2952,15 +2943,6 @@
         "negative": 0.6
     },
     {
-        "headlines": "Josh Hazlewood frustrated by injury setback, hopes to be fit for Sri Lanka tourAustralia pacer Josh Hazlewood revealed that the injury he sustained midway through the third Test in Brisbane had left him 'frustrated'. The injury's unlucky timing brought an early end to his 2024/25 Border-Gavaskar Trophy campaign.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-josh-hazlewood-reaction-injury-australia-vs-india-sri-lanka-tour-2652225-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T12:46:00",
-        "uuid": "577e9fb2-8f43-495b-accf-6d9388f0d00a",
-        "positive": 6.2,
-        "negative": 10.1
-    },
-    {
         "headlines": "Virat Kohli confronts Aussie journalist for photographing family at airportBorder-Gavaskar Trophy: Batting star Virat Kohli had a heated argument with a reporter at the Melbourne airport. Kohli did not like the journalist clicking photos of his wife, Anushka Sharma, and their children. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-melbourne-airport-angry-female-reporter-photo-family-2652224-2024-12-19",
         "category": "sports",
@@ -3078,6 +3060,15 @@
         "negative": 4.3
     },
     {
+        "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T23:16:00",
+        "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
+        "positive": 12.3,
+        "negative": 3.6
+    },
+    {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
         "category": "bollywood",
@@ -3114,13 +3105,13 @@
         "negative": 0.6
     },
     {
-        "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
+        "headlines": "Jasprit Bumrah is the right-handed Wasim Akram: Justin LangerFormer Australia head coach Justin Langer has compared Jasprit Bumrah to Wasim Akram. Langer said that he would have hated to face Bumrah in his playing days.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-jasprit-bumrah-wasim-akram-justin-langer-2652622-2024-12-19",
         "category": "sports",
-        "date_time": "2024-12-19T23:16:00",
-        "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
-        "positive": 12.3,
-        "negative": 3.6
+        "date_time": "2024-12-19T22:55:00",
+        "uuid": "0ce6c839-1a21-442f-af42-921a2189e84c",
+        "positive": 15,
+        "negative": 4.3
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -3816,15 +3807,6 @@
         "negative": 4.3
     },
     {
-        "headlines": "Jasprit Bumrah is the right-handed Wasim Akram: Justin LangerFormer Australia head coach Justin Langer has compared Jasprit Bumrah to Wasim Akram. Langer said that he would have hated to face Bumrah in his playing days.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-jasprit-bumrah-wasim-akram-justin-langer-2652622-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T22:55:00",
-        "uuid": "0ce6c839-1a21-442f-af42-921a2189e84c",
-        "positive": 15,
-        "negative": 4.3
-    },
-    {
         "headlines": "Babar Azam, Rizwan's grit leads Pakistan to seal series in Cape TownPakistan sealed a commanding ODI series win against South Africa with an 81-run victory, driven by stellar performances from Babar Azam, Mohammad Rizwan, Kamran Ghulam, and Shaheen Afridi, showcasing their dominance ahead of the ICC Champions Trophy 2025.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-south-africa-babar-azam-mohammed-rizwan-lead-odi-series-win-kamran-ghulam-cape-town-2652676-2024-12-20",
         "category": "sports",
@@ -3879,6 +3861,15 @@
         "negative": 4.1
     },
     {
+        "headlines": "From sapno ka sheher to WPL deal: MI's Akshita set to take flightExclusive: Mumbai Indians' cricketer Akshita Maheshwari talked to IndiaToday.in and spoke about her WPL deal, her admiration for Jasprit Bumrah, Bhuvneshwar Kumar. In the auction that took place in Bengaluru, MI picked Maheshwari for Rs 20 lakhs. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-exclusive-interview-akshita-maheshwari-mumbai-indians-wpl-2025-deal-2652644-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T11:36:00",
+        "uuid": "bf7287ed-5fa1-4d06-bbaf-489a1e5c571f",
+        "positive": 13.4,
+        "negative": 2.1
+    },
+    {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
         "category": "bollywood",
@@ -3913,15 +3904,6 @@
         "uuid": "64e3fd8d-cb46-4578-a9a9-462d774a0f34",
         "positive": 11.9,
         "negative": 0.6
-    },
-    {
-        "headlines": "From sapno ka sheher to WPL deal: MI's Akshita set to take flightExclusive: Mumbai Indians' cricketer Akshita Maheshwari talked to IndiaToday.in and spoke about her WPL deal, her admiration for Jasprit Bumrah, Bhuvneshwar Kumar. In the auction that took place in Bengaluru, MI picked Maheshwari for Rs 20 lakhs. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-exclusive-interview-akshita-maheshwari-mumbai-indians-wpl-2025-deal-2652644-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T11:36:00",
-        "uuid": "bf7287ed-5fa1-4d06-bbaf-489a1e5c571f",
-        "positive": 13.4,
-        "negative": 2.1
     },
     {
         "headlines": "Manchester United ousted by Tottenham in Carabao Cup despite Amad Diallo-showRuben Amorim endured his first major setback as Manchester United manager, with his side crashing out of the Carabao Cup after a thrilling 4-3 defeat to Tottenham Hotspur, despite a spirited effort for a late comeback driven by the likes of Amad Diallo and Joshua Zirkzee.",
@@ -4219,6 +4201,42 @@
         "uuid": "4173d4f1-79da-4cab-a44a-fd533622a249",
         "positive": 9.9,
         "negative": 4.3
+    },
+    {
+        "headlines": "Pakistan Cricket Board to hold PSL 10 draft in GwadarThe PCB announced that the coastal city of Gwadar in the restive province of Balochistan will host the player's draft for the Pakistan Super League (PSL) on January 11.",
+        "article_url": "https://www.indiatoday.in/sports/story/pakistan-cricket-board-to-hold-psl-10-draft-in-gwadar-2652935-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T16:29:00",
+        "uuid": "d0cedbf9-30a4-4b0b-9ce9-b1dce8f9630b",
+        "positive": 13.2,
+        "negative": 0.7
+    },
+    {
+        "headlines": "JK Tyre Novice Cup stars gear up for final showdownThe stage is set at Kari Motor Speedway as 22 promising racers from 7 teams prepare for the ultimate clash in the JK Tyre Novice Cup. With the 2024 championship title on the line, adrenaline runs high!",
+        "article_url": "https://www.indiatoday.in/sports/story/jk-tyre-novice-cup-stars-gear-up-for-final-showdown-2652932-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T16:19:00",
+        "uuid": "c87d5334-0d1b-408b-9156-8ad88ccac89c",
+        "positive": 22.6,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Michael Clarke slams selectors for dropping Nathan McSweeney: They've got it wrongFormer Australia cricketer Michael Clarke has slammed the Australian selectors for dropping Nathan McSweeney for the last two Tests against India.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-michael-clarke-nathan-mcsweeney-aus-vs-ind-border-gavaskar-trophy-sam-konstas-2652953-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T16:47:00",
+        "uuid": "0f54ce24-5563-49a7-a0e4-034f96bb19bb",
+        "positive": 5.3,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Afghanistan pacer Fazalhaq Farooqi fined for dissent during 2nd ODI vs ZimbabweFazalhaq Farooqi's dissent overshadowed Afghanistan's record-breaking 232-run victory over Zimbabwe in the second ODI. Despite the fine and demerit point, Afghanistan dominated with stellar performances from Sediqullah Atal and Abdul Malik, sealing their largest ODI win by runs.",
+        "article_url": "https://www.indiatoday.in/sports/story/afghanistan-pacer-fazalhaq-farooqi-fined-for-dissent-during-2nd-odi-vs-zimbabwe-2652959-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T16:47:00",
+        "uuid": "e8bc8881-389c-41b1-b212-1b20a6e3cf8c",
+        "positive": 6.3,
+        "negative": 3.4
     },
     {
         "headlines": "R Ashwin has been thinking about retiring for months: Abhinav MukundFormer India batter Abhinav Mukund paid a heartfelt tribute to Ravichandran Ashwin following his retirement, describing the off-spinner as a perpetual thinker whose mind was constantly in overdrive and impossible to silence.\r\n",
@@ -4761,15 +4779,6 @@
         "negative": 4.2
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
-    },
-    {
         "headlines": "You think OCD is just about cleanliness? You got it wrong all this longFor Millennials and Gen Z, \"OCD\" might seem like a trendy buzzword for an obsession with cleanliness. But hold on—there's so much more to it than meets the eye.",
         "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/ocd-is-not-just-about-cleanliness-you-got-it-wrong-all-this-long-monica-geller-friends-sheldon-cooper-2653185-2024-12-21",
         "category": "lifestyle",
@@ -4777,6 +4786,33 @@
         "uuid": "1d814ddb-f229-4013-bf76-b0f5e341c4d0",
         "positive": 12.4,
         "negative": 14.3
+    },
+    {
+        "headlines": "Vaibhav Suryavanshi shatters major record in Vijay Hazare Trophy after IPL dealIndia's young batting sensation Vaibhav Suryavanshi etched his name in the history books during Bihar's opening game of the Vijay Hazare Trophy 2024-25 as he became the youngest Indian player to play a List-A game.",
+        "article_url": "https://www.indiatoday.in/sports/story/sports-cricket-vaibhav-suryavanshi-becomes-youngest-indian-player-to-play-list-a-cricket-vijay-hazare-trophy-2653564-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T23:37:00",
+        "uuid": "f3d9568e-bfc3-4dec-a582-60a8fe10234f",
+        "positive": 7.9,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Travis Head shares adorable picture of his newborn: Harrison's first smileTravis Head shared an adorable picture of his newborn son, Harrison. The caption read, \"Harrison's first smile.\" The Aussie star will gear up for the upcoming Boxing Day Test vs India.",
+        "article_url": "https://www.indiatoday.in/sports/story/travis-head-shares-adorable-picture-of-his-newborn-harrisons-first-smile-2653565-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T23:31:00",
+        "uuid": "a8a1108b-7c32-4213-9a81-6f059ef0139d",
+        "positive": 16.4,
+        "negative": 4.1
+    },
+    {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
     },
     {
         "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
@@ -4795,6 +4831,15 @@
         "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
         "positive": 9.9,
         "negative": 0.3
+    },
+    {
+        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T12:30:00",
+        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
+        "positive": 11.4,
+        "negative": 2.4
     },
     {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
@@ -4860,15 +4905,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
-        "category": "technology",
-        "date_time": "2024-12-21T12:30:00",
-        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
-        "positive": 11.4,
-        "negative": 2.4
-    },
-    {
         "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
         "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
         "category": "technology",
@@ -4905,15 +4941,6 @@
         "negative": 0
     },
     {
-        "headlines": "How to use ChatGPT on WhatsAppThe WhatsApp integration offers a free and simple way to use ChatGPT, and it's perfect for casual users or those who want to experiment with AI tools.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/how-to-use-chatgpt-on-whatsapp-2652967-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T17:03:00",
-        "uuid": "0a016b8a-3149-447c-b02f-b90cfd35947f",
-        "positive": 12.2,
-        "negative": 0.4
-    },
-    {
         "headlines": "Xiaomi Sound Outdoor speaker review: Affordable price, great sound, cool designIf you are in the market for a Bluetooth speaker that sounds good and is easy to carry around, while also being affordable, Xiaomi's new Sound Outdoor speakers are definitely worth considering. Priced at Rs 3,499, these outdoor speakers look cool and sound great. More details on it in this review by India Today Tech. ",
         "article_url": "https://www.indiatoday.in/technology/reviews/story/xiaomi-sound-outdoor-speaker-review-affordable-price-great-sound-cool-design-2651719-2024-12-18",
         "category": "technology",
@@ -4930,15 +4957,6 @@
         "uuid": "d91d3906-fe62-4d29-a0fe-5659125ce25a",
         "positive": 9.1,
         "negative": 15.8
-    },
-    {
-        "headlines": "Qualcomm vs Arm: What is it about and how can it impact the global chip market Qualcomm's battle with Arm is not just about a big company acquiring a startup, it's a fight for the future of chip design, with profound implications on the global chip market.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/what-is-the-qualcomm-vs-arm-battle-that-could-have-huge-implications-on-the-chip-market-2652962-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T16:55:00",
-        "uuid": "52a96c65-3ef9-4374-ae5d-8cfc52438da2",
-        "positive": 7,
-        "negative": 5.2
     },
     {
         "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
@@ -4975,6 +4993,15 @@
         "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
         "positive": 10.4,
         "negative": 2.5
+    },
+    {
+        "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T17:35:00",
+        "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
+        "positive": 10.4,
+        "negative": 0.3
     },
     {
         "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
@@ -5022,15 +5049,6 @@
         "negative": 3
     },
     {
-        "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
-        "category": "technology",
-        "date_time": "2024-12-21T17:35:00",
-        "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
-        "positive": 10.4,
-        "negative": 0.3
-    },
-    {
         "headlines": "Amazon updates Prime membership policy: 2 new rules you should know aboutAmazon has two new rules that you should know about if you share your Amazon Prime account with friends or family.",
         "article_url": "https://www.indiatoday.in/technology/news/story/if-you-share-your-amazon-prime-video-account-with-your-family-there-are-2-new-rules-you-should-know-about-2652821-2024-12-20",
         "category": "technology",
@@ -5038,6 +5056,15 @@
         "uuid": "f4462293-10b6-47b5-850e-f7c6c9d38195",
         "positive": 9.1,
         "negative": 1
+    },
+    {
+        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T09:05:00",
+        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
+        "positive": 16,
+        "negative": 3.6
     },
     {
         "headlines": "Xiaomi reveals plans for open ecosystem for apps, connected TV and ads in IndiaAt the Xiaomi Internet Partner Conference 2024, Xiaomi India reveals plans for India's digital future through its open ecosystem, HyperOS.",
@@ -5076,13 +5103,22 @@
         "negative": 0.4
     },
     {
-        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T09:05:00",
-        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
-        "positive": 16,
-        "negative": 3.6
+        "headlines": "How to use ChatGPT on WhatsAppThe WhatsApp integration offers a free and simple way to use ChatGPT, and it's perfect for casual users or those who want to experiment with AI tools.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/how-to-use-chatgpt-on-whatsapp-2652967-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T17:03:00",
+        "uuid": "0a016b8a-3149-447c-b02f-b90cfd35947f",
+        "positive": 12.2,
+        "negative": 0.4
+    },
+    {
+        "headlines": "Qualcomm vs Arm: What is it about and how can it impact the global chip market Qualcomm's battle with Arm is not just about a big company acquiring a startup, it's a fight for the future of chip design, with profound implications on the global chip market.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/what-is-the-qualcomm-vs-arm-battle-that-could-have-huge-implications-on-the-chip-market-2652962-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T16:55:00",
+        "uuid": "52a96c65-3ef9-4374-ae5d-8cfc52438da2",
+        "positive": 7,
+        "negative": 5.2
     },
     {
         "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
@@ -5274,6 +5310,33 @@
         "negative": 2.4
     },
     {
+        "headlines": "Warming lotions can keep you cosy during winter. But are they really safe?These warming lotions may seem like ordinary creams until you apply them. They create a warming sensation and that particular body part begins to feel hot.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/warming-lotions-can-keep-you-cosy-during-winter-but-are-they-really-safe-2652498-2024-12-20",
+        "category": "lifestyle",
+        "date_time": "2024-12-20T17:01:00",
+        "uuid": "17f50bd3-2767-4829-abd3-cbbfc68e05f8",
+        "positive": 23.7,
+        "negative": 7
+    },
+    {
+        "headlines": "Hope India back opener KL Rahul, value what he has done: Dinesh Karthik Australia vs India: KL Rahul should be given a long rope as the Test opener and his performances in overseas conditions should be valued more, according to former wicketkeeper-batter Dinesh Karthik. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-kl-rahul-opener-border-gavaskart-trophy-dinesh-karthk-2652987-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T17:45:00",
+        "uuid": "87467a6f-0314-479e-a74a-4a3bcac2f071",
+        "positive": 10.1,
+        "negative": 4.1
+    },
+    {
+        "headlines": "World Pickleball League: Gaurav Natekar confident of revolutionary inaugural seasonAhead of the much-anticipated inaugural edition of the World Pickleball League, co-founder and former tennis player, Gaurav Natekar spoke about the unprecedented growth of the sport. The WPBL promises a competitive and inclusive spectacle in January-February next year. ",
+        "article_url": "https://www.indiatoday.in/sports/story/world-pickleball-league-gaurav-natekar-interview-2652892-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T17:37:00",
+        "uuid": "56a713a5-5d18-4dc6-954d-0501f19faaf2",
+        "positive": 11.6,
+        "negative": 2
+    },
+    {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
         "category": "bollywood",
@@ -5400,6 +5463,42 @@
         "negative": 7.3
     },
     {
+        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T17:21:00",
+        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
+        "positive": 15.4,
+        "negative": 6
+    },
+    {
+        "headlines": "55th GST Council Meeting begins: What could become costlier or cheaper todayGST Council Meeting: From essential services to luxury items, a wide range of proposals are under discussion, some of which could significantly impact consumers and businesses.",
+        "article_url": "https://www.indiatoday.in/business/story/55th-gst-council-meeting-what-to-expect-costlier-cheaper-food-delivery-luxury-items-insurance-premiums-2653307-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T12:17:00",
+        "uuid": "34574708-d5be-448f-ac26-60e5db77468a",
+        "positive": 4.4,
+        "negative": 2.5
+    },
+    {
+        "headlines": "GST Council Meeting: Will tax rates on health and life insurance premiums drop today? GST Council Meeting begins: One of the key items on the agenda is the proposal to reduce the Goods and Services Tax (GST) on insurance premiums, a move that could bring relief to policyholders.",
+        "article_url": "https://www.indiatoday.in/business/story/55th-gst-council-meeting-2653320-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T12:46:00",
+        "uuid": "9e07b01f-86a9-4d6c-ad75-95661f659c99",
+        "positive": 10.7,
+        "negative": 3.6
+    },
+    {
+        "headlines": "GST Council delays decision on lowering tax for health, life insurance premiumsGST Council Meeting: During the 55th meeting held on Saturday, technical considerations led to the deferral, with the Group of Ministers (GoM) tasked to conduct further deliberations.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-council-delays-decision-on-lowering-tax-for-health-life-insurance-premiums-2653343-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T13:55:00",
+        "uuid": "df8ba614-5870-4fa4-ad05-ca813dec5df0",
+        "positive": 6.4,
+        "negative": 3.3
+    },
+    {
         "headlines": "Preity Zinta's sweet BTS moment from Dil Chahta Hai: A chocolate croissant to rescuePreity Zinta shared a heartwarming behind-the-scenes story from the shoot of Dil Chahta Hai, highlighting a moment of hunger and humour that ended with a chocolate croissant. ",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/preity-zinta-sweet-bts-moment-from-dil-chahta-hai-a-chocolate-croissant-to-rescue-2649030-2024-12-12",
         "category": "bollywood",
@@ -5452,6 +5551,15 @@
         "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
         "positive": 17,
         "negative": 3.1
+    },
+    {
+        "headlines": "GST at 18% on used EV car sale by business, jet fuel stays out of its ambitThe GST Council in its 55th meeting also decided to clarify on taxability of popcorn, saying caramelised popcorn will continue to attract tax at the rate of 18 per cent.",
+        "article_url": "https://www.indiatoday.in/business/story/goods-and-services-tax-eighteen-per-cent-used-ev-car-sale-business-jet-fuel-gst-2653536-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T21:39:00",
+        "uuid": "79bc526c-7c2c-4667-91c3-7db8de87ab4a",
+        "positive": 4.2,
+        "negative": 3.8
     },
     {
         "headlines": "Singham Again OTT release: When and where to watch Ajay Devgn's actionerSingham Again, starring Ajay Devgn, is now available on Prime Video. The film, which was released on Diwali, earned around Rs 300 crore in India. ",
@@ -5524,42 +5632,6 @@
         "uuid": "4c754995-f993-488b-a39c-1179c2d2edd0",
         "positive": 6.6,
         "negative": 0
-    },
-    {
-        "headlines": "Hope India back opener KL Rahul, value what he has done: Dinesh Karthik Australia vs India: KL Rahul should be given a long rope as the Test opener and his performances in overseas conditions should be valued more, according to former wicketkeeper-batter Dinesh Karthik. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-kl-rahul-opener-border-gavaskart-trophy-dinesh-karthk-2652987-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T17:45:00",
-        "uuid": "87467a6f-0314-479e-a74a-4a3bcac2f071",
-        "positive": 10.1,
-        "negative": 4.1
-    },
-    {
-        "headlines": "World Pickleball League: Gaurav Natekar confident of revolutionary inaugural seasonAhead of the much-anticipated inaugural edition of the World Pickleball League, co-founder and former tennis player, Gaurav Natekar spoke about the unprecedented growth of the sport. The WPBL promises a competitive and inclusive spectacle in January-February next year. ",
-        "article_url": "https://www.indiatoday.in/sports/story/world-pickleball-league-gaurav-natekar-interview-2652892-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T17:37:00",
-        "uuid": "56a713a5-5d18-4dc6-954d-0501f19faaf2",
-        "positive": 11.6,
-        "negative": 2
-    },
-    {
-        "headlines": "Michael Clarke slams selectors for dropping Nathan McSweeney: They've got it wrongFormer Australia cricketer Michael Clarke has slammed the Australian selectors for dropping Nathan McSweeney for the last two Tests against India.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-michael-clarke-nathan-mcsweeney-aus-vs-ind-border-gavaskar-trophy-sam-konstas-2652953-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T16:47:00",
-        "uuid": "0f54ce24-5563-49a7-a0e4-034f96bb19bb",
-        "positive": 5.3,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Afghanistan pacer Fazalhaq Farooqi fined for dissent during 2nd ODI vs ZimbabweFazalhaq Farooqi's dissent overshadowed Afghanistan's record-breaking 232-run victory over Zimbabwe in the second ODI. Despite the fine and demerit point, Afghanistan dominated with stellar performances from Sediqullah Atal and Abdul Malik, sealing their largest ODI win by runs.",
-        "article_url": "https://www.indiatoday.in/sports/story/afghanistan-pacer-fazalhaq-farooqi-fined-for-dissent-during-2nd-odi-vs-zimbabwe-2652959-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T16:47:00",
-        "uuid": "e8bc8881-389c-41b1-b212-1b20a6e3cf8c",
-        "positive": 6.3,
-        "negative": 3.4
     },
     {
         "headlines": "US Fed rate cut decision: How will it impact Indian stock markets? The Sensex declined over 1,100 points and the Nifty fell below 24,000 after the US Federal Reserve's decision to cut interest rates by 0.25% to 4.5%, coupled with a hawkish outlook on future rate adjustments.",
@@ -5697,15 +5769,6 @@
         "negative": 4.3
     },
     {
-        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T17:21:00",
-        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
-        "positive": 15.4,
-        "negative": 6
-    },
-    {
         "headlines": "Sensex, Nifty extend losses amid weak global cuesAt 10:28 am, the S&P BSE Sensex fell 274.86 points to 78,943.19, while the NSE Nifty50 dropped 67.90 points to 23,883.80.",
         "article_url": "https://www.indiatoday.in/business/story/stock-market-today-sensex-nifty-extend-losses-amid-weak-global-cues-2652725-2024-12-20",
         "category": "business",
@@ -5733,15 +5796,6 @@
         "negative": 1.3
     },
     {
-        "headlines": "55th GST Council Meeting begins: What could become costlier or cheaper todayGST Council Meeting: From essential services to luxury items, a wide range of proposals are under discussion, some of which could significantly impact consumers and businesses.",
-        "article_url": "https://www.indiatoday.in/business/story/55th-gst-council-meeting-what-to-expect-costlier-cheaper-food-delivery-luxury-items-insurance-premiums-2653307-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T12:17:00",
-        "uuid": "34574708-d5be-448f-ac26-60e5db77468a",
-        "positive": 4.4,
-        "negative": 2.5
-    },
-    {
         "headlines": "Zerodha launches Margin Trading Facility: What it is and how it worksZerodha's Nithin Kamath introduces Margin Trading Facility, enabling investors to leverage funds for stock delivery.",
         "article_url": "https://www.indiatoday.in/business/story/nithin-kamath-on-margin-trading-facility-what-it-is-and-how-it-works-2652756-2024-12-20",
         "category": "business",
@@ -5749,15 +5803,6 @@
         "uuid": "382987c3-6c00-4014-80d4-85451374790c",
         "positive": 12.3,
         "negative": 5.2
-    },
-    {
-        "headlines": "GST Council Meeting: Will tax rates on health and life insurance premiums drop today? GST Council Meeting begins: One of the key items on the agenda is the proposal to reduce the Goods and Services Tax (GST) on insurance premiums, a move that could bring relief to policyholders.",
-        "article_url": "https://www.indiatoday.in/business/story/55th-gst-council-meeting-2653320-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T12:46:00",
-        "uuid": "9e07b01f-86a9-4d6c-ad75-95661f659c99",
-        "positive": 10.7,
-        "negative": 3.6
     },
     {
         "headlines": "Ventive Hospitality IPO opens: Check latest GMP, price band, and other detailsVentive Hospitality IPO: The subscription window closes on December 24, 2024. The basis of allotment is expected to be finalised by December 26, with shares credited to demat accounts by December 27. ",
@@ -5805,15 +5850,6 @@
         "negative": 2.5
     },
     {
-        "headlines": "GST Council delays decision on lowering tax for health, life insurance premiumsGST Council Meeting: During the 55th meeting held on Saturday, technical considerations led to the deferral, with the Group of Ministers (GoM) tasked to conduct further deliberations.",
-        "article_url": "https://www.indiatoday.in/business/story/gst-council-delays-decision-on-lowering-tax-for-health-life-insurance-premiums-2653343-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T13:55:00",
-        "uuid": "df8ba614-5870-4fa4-ad05-ca813dec5df0",
-        "positive": 6.4,
-        "negative": 3.3
-    },
-    {
         "headlines": "Sensex nosedives 1,100 points, Nifty falls below 23,600; IT stocks tumbleStock market crash: The S&P BSE Sensex ended 1,176.46 points lower at 78,041.59, while the NSE Nifty50 settled 364.20 points lower at 23,587.50.",
         "article_url": "https://www.indiatoday.in/business/story/stock-market-crash-today-sensex-nosedives-1100-points-nifty-below-23600-it-stocks-tumble-2652911-2024-12-20",
         "category": "business",
@@ -5823,22 +5859,13 @@
         "negative": 11.1
     },
     {
-        "headlines": "GST at 18% on used EV car sale by business, jet fuel stays out of its ambitThe GST Council in its 55th meeting also decided to clarify on taxability of popcorn, saying caramelised popcorn will continue to attract tax at the rate of 18 per cent.",
-        "article_url": "https://www.indiatoday.in/business/story/goods-and-services-tax-eighteen-per-cent-used-ev-car-sale-business-jet-fuel-gst-2653536-2024-12-21",
+        "headlines": "Nita Ambani to headline India Conference at HarvardThe India Conference at Harvard, one of the largest student-led India-focused events in the US, is hosted by students across Harvard's graduate and undergraduate schools.",
+        "article_url": "https://www.indiatoday.in/business/story/nita-ambani-to-headline-india-conference-at-harvard-2652947-2024-12-20",
         "category": "business",
-        "date_time": "2024-12-21T21:39:00",
-        "uuid": "79bc526c-7c2c-4667-91c3-7db8de87ab4a",
-        "positive": 4.2,
-        "negative": 3.8
-    },
-    {
-        "headlines": "Warming lotions can keep you cosy during winter. But are they really safe?These warming lotions may seem like ordinary creams until you apply them. They create a warming sensation and that particular body part begins to feel hot.",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/warming-lotions-can-keep-you-cosy-during-winter-but-are-they-really-safe-2652498-2024-12-20",
-        "category": "lifestyle",
-        "date_time": "2024-12-20T17:01:00",
-        "uuid": "17f50bd3-2767-4829-abd3-cbbfc68e05f8",
-        "positive": 23.7,
-        "negative": 7
+        "date_time": "2024-12-20T16:40:00",
+        "uuid": "69390815-a654-4a20-a84a-2300248b69b6",
+        "positive": 5.2,
+        "negative": 0
     },
     {
         "headlines": "Explained: Why Sensex fell 4,000 points in 5 trading sessionsThe BSE Sensex plummeted over 4,000 points across five consecutive sessions, while the NSE Nifty50 fell approximately 1,200 points, representing a nearly 5% loss within the week.",
@@ -5857,14 +5884,5 @@
         "uuid": "577df1ec-d582-4e98-b54e-c3fc4791773e",
         "positive": 8.5,
         "negative": 5.5
-    },
-    {
-        "headlines": "Nita Ambani to headline India Conference at HarvardThe India Conference at Harvard, one of the largest student-led India-focused events in the US, is hosted by students across Harvard's graduate and undergraduate schools.",
-        "article_url": "https://www.indiatoday.in/business/story/nita-ambani-to-headline-india-conference-at-harvard-2652947-2024-12-20",
-        "category": "business",
-        "date_time": "2024-12-20T16:40:00",
-        "uuid": "69390815-a654-4a20-a84a-2300248b69b6",
-        "positive": 5.2,
-        "negative": 0
     }
 ]
