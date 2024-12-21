@@ -4509,6 +4509,42 @@
         "negative": 6.5
     },
     {
+        "headlines": "Did Jadeja snub English questions at MCG? Aussie media stirs controversyThe Australian media has stirred up another controversy just days after Virat Kohli requested an Australian reporter not to take pictures of his family at Melbourne airport, with the press now accusing spinner Ravindra Jadeja of refusing to answer questions in English.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ravindra-jadeja-english-questions-mcg-australian-media-stirs-controversy-2653334-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T13:34:00",
+        "uuid": "44032cd0-9eca-4d20-80d1-708ca2e81055",
+        "positive": 6.6,
+        "negative": 9.7
+    },
+    {
+        "headlines": "IND vs BAN, U19 Women's Asia Cup Final: When and where to watch liveU19 Women's Asia Cup 2024 Final: Niki Prasad's India and Sumaiya Akter's Bangladesh will face each other in the grand finale on Sunday, December 22 at the Bayuemas Oval in Kuala Lumpur. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-asia-cup-2024-india-vs-bangladesh-live-streaming-2653329-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T13:29:00",
+        "uuid": "47a905e0-80cf-4612-b3c7-11b96de3c30e",
+        "positive": 6.6,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Sixes: Cricket-themed bars a hit in the UK, star players join in as investorsSixes Cricket Club offers immersive cricket games paired with a Great British BBQ experience. Backed by Ben Stokes and Stuart Broad, it welcomes players of all abilities. The club has locations across the UK, including Oxford, Southampton, London, and Leicester.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/sixes-social-cricket-bars-uk-broad-stokes-socialising-2653322-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T13:06:00",
+        "uuid": "4eef0d2b-f31a-4edc-8021-9a62423ba412",
+        "positive": 14.2,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Arrest warrant issued against Robin Uthappa for alleged Provident Fund fraudAn arrest warrant has been issued against former Indian cricketer Robin Uthappa over allegations of Provident Fund (PF) fraud. Shadakshari Gopal, the PF Regional Commissioner, issued the warrant. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-robin-uthappa-arrest-warrant-pf-fraud-allegations-2653319-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T12:51:00",
+        "uuid": "186c4c64-6aae-4964-8c88-f1315210a8fb",
+        "positive": 5.2,
+        "negative": 9.7
+    },
+    {
         "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
         "category": "technology",
@@ -4599,6 +4635,15 @@
         "negative": 1.7
     },
     {
+        "headlines": "OnePlus 13R battery, chipset and camera details confirmed ahead of India launchOnePlus 13R is confirmed to arrive in India with a Snapdragon 8 Gen 3 and 6000mAh battery. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-battery-chipset-and-camera-details-confirmed-ahead-of-india-launch-on-january-7-2652827-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T14:46:00",
+        "uuid": "59a266cc-7cd7-426b-8646-8cfcf43819ee",
+        "positive": 4.8,
+        "negative": 0
+    },
+    {
         "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
         "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
         "category": "technology",
@@ -4642,15 +4687,6 @@
         "uuid": "bebc8309-a888-4c33-b0f9-d5a5aaf9984f",
         "positive": 15.8,
         "negative": 2.8
-    },
-    {
-        "headlines": "OnePlus 13R battery, chipset and camera details confirmed ahead of India launchOnePlus 13R is confirmed to arrive in India with a Snapdragon 8 Gen 3 and 6000mAh battery. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-battery-chipset-and-camera-details-confirmed-ahead-of-india-launch-on-january-7-2652827-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T14:46:00",
-        "uuid": "59a266cc-7cd7-426b-8646-8cfcf43819ee",
-        "positive": 4.8,
-        "negative": 0
     },
     {
         "headlines": "Using UPI for online payments? Do this to avoid QR code scamsScammers are tricking users into scanning fraudulent QR codes, leading to the loss of large sums of money in seconds. Here is how QR code scams work and how you can protect yourself from them.",
@@ -4741,6 +4777,15 @@
         "uuid": "e44307d2-33a6-49c6-b255-2a09b983a49b",
         "positive": 6.3,
         "negative": 11.1
+    },
+    {
+        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T12:30:00",
+        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
+        "positive": 11.4,
+        "negative": 2.4
     },
     {
         "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
@@ -5497,6 +5542,15 @@
         "uuid": "34574708-d5be-448f-ac26-60e5db77468a",
         "positive": 4.4,
         "negative": 2.5
+    },
+    {
+        "headlines": "GST Council Meeting: Will tax rates on health and life insurance premiums drop today? GST Council Meeting begins: One of the key items on the agenda is the proposal to reduce the Goods and Services Tax (GST) on insurance premiums, a move that could bring relief to policyholders.",
+        "article_url": "https://www.indiatoday.in/business/story/55th-gst-council-meeting-2653320-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T12:46:00",
+        "uuid": "9e07b01f-86a9-4d6c-ad75-95661f659c99",
+        "positive": 10.7,
+        "negative": 3.6
     },
     {
         "headlines": "Warming lotions can keep you cosy during winter. But are they really safe?These warming lotions may seem like ordinary creams until you apply them. They create a warming sensation and that particular body part begins to feel hot.",
