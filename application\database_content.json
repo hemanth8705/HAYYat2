@@ -3969,6 +3969,15 @@
         "negative": 2.9
     },
     {
+        "headlines": "Shaw is his own enemy: Mumbai Cricket breaks silence on Vijay Hazare snubThe Mumbai Cricket Association (MCA) official has dismissed Prithvi Shaw's emotional reaction to being left out of the Vijay Hazare Trophy squad, attributing the decision to his repeated disciplinary lapses. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-prithvi-shaw-own-enemy-mumbai-cricket-on-vijay-hazare-snub-2652785-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T12:33:00",
+        "uuid": "f4ecaac2-010b-4e34-838f-d831bca2ea27",
+        "positive": 7,
+        "negative": 10
+    },
+    {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
         "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
         "category": "business",
@@ -4644,6 +4653,33 @@
         "negative": 7.7
     },
     {
+        "headlines": "Afghanistan clinch series win vs Zimbabwe with 8-wicket triumph in 3rd ODIAfghanistan clinched the 3-match ODI series 2-0 vs Zimbabwe. Allah Ghazanfar led the visitors to an 8-wicket win in the final ODI vs Zimbabwe. ",
+        "article_url": "https://www.indiatoday.in/sports/story/afghanistan-clinch-series-win-vs-zimbabwe-with-8-wicket-triumph-in-3rd-odi-2653500-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T19:00:00",
+        "uuid": "65712eac-675f-4130-b7d1-7389c24c21bc",
+        "positive": 17.1,
+        "negative": 5.2
+    },
+    {
+        "headlines": "Jasprit Bumrah targets multiple Kapil Dev records in Boxing Day TestIND vs AUS: Jasprit Bumrah has been in stupendous form as he has already taken 21 wickets from three Tests with a couple of five-wicket hauls. Bumrah is on the verge of a few records going into the Melbourne Test. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-jasprit-bumrah-record-kapil-dev-border-gavaskar-trophy-2653499-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T18:55:00",
+        "uuid": "fa2d1cd5-c73f-4aec-bea9-45919ab0f9a1",
+        "positive": 4.2,
+        "negative": 0
+    },
+    {
+        "headlines": "Watch: Warner turns back clock with bulls-eye direct hit run out in BBL gameFormer Australia cricketer David Warner ran out Jack Edwards with a bulls-eye throw during match 8 between Sydney Thunder and Sydney Sixers in Big Bash League 2024-25. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-david-warner-run-out-sydney-thunder-vs-sydney-sixers-big-bash-league-2024-25-2653491-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T18:41:00",
+        "uuid": "3a767b1a-6f55-4d5c-a704-dcb0d0cc3e88",
+        "positive": 7.4,
+        "negative": 0.5
+    },
+    {
         "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
         "category": "technology",
@@ -4651,6 +4687,24 @@
         "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
         "positive": 10.8,
         "negative": 0
+    },
+    {
+        "headlines": "World Cup for red-ball players: South Africa's Bavuma sets sights on WTC finalSouth Africa captain Temba Bavuma has firmly set his sights on reaching their first-ever World Test Championship Final, scheduled to be held at Lord's in June next year.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/world-cup-for-red-ball-players-south-africa-temba-bavuma-2652811-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T13:24:00",
+        "uuid": "cba61c00-80ae-4989-aa4c-278ed829e542",
+        "positive": 14.3,
+        "negative": 0.9
+    },
+    {
+        "headlines": "Amorim has \"no regrets\" over Rashford snub after United's Carabao Cup exitAmid mounting speculation, Ruben Amorim defended Marcus Rashford's exclusion from Manchester United's Carabao Cup squad despite a dramatic 4-3 loss to Tottenham Hotspur.",
+        "article_url": "https://www.indiatoday.in/sports/football/story/ruben-amroim-defends-manchester-united-marcus-rashford-snub-carabao-cup-vs-tottenham-2652812-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T13:24:00",
+        "uuid": "99d7e35b-35a6-4c0f-a2c8-a4ea981f3e83",
+        "positive": 11.4,
+        "negative": 5.9
     },
     {
         "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
@@ -4687,33 +4741,6 @@
         "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
         "positive": 9.4,
         "negative": 5.4
-    },
-    {
-        "headlines": "World Cup for red-ball players: South Africa's Bavuma sets sights on WTC finalSouth Africa captain Temba Bavuma has firmly set his sights on reaching their first-ever World Test Championship Final, scheduled to be held at Lord's in June next year.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/world-cup-for-red-ball-players-south-africa-temba-bavuma-2652811-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T13:24:00",
-        "uuid": "cba61c00-80ae-4989-aa4c-278ed829e542",
-        "positive": 14.3,
-        "negative": 0.9
-    },
-    {
-        "headlines": "Amorim has \"no regrets\" over Rashford snub after United's Carabao Cup exitAmid mounting speculation, Ruben Amorim defended Marcus Rashford's exclusion from Manchester United's Carabao Cup squad despite a dramatic 4-3 loss to Tottenham Hotspur.",
-        "article_url": "https://www.indiatoday.in/sports/football/story/ruben-amroim-defends-manchester-united-marcus-rashford-snub-carabao-cup-vs-tottenham-2652812-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T13:24:00",
-        "uuid": "99d7e35b-35a6-4c0f-a2c8-a4ea981f3e83",
-        "positive": 11.4,
-        "negative": 5.9
-    },
-    {
-        "headlines": "Shaw is his own enemy: Mumbai Cricket breaks silence on Vijay Hazare snubThe Mumbai Cricket Association (MCA) official has dismissed Prithvi Shaw's emotional reaction to being left out of the Vijay Hazare Trophy squad, attributing the decision to his repeated disciplinary lapses. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-prithvi-shaw-own-enemy-mumbai-cricket-on-vijay-hazare-snub-2652785-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T12:33:00",
-        "uuid": "f4ecaac2-010b-4e34-838f-d831bca2ea27",
-        "positive": 7,
-        "negative": 10
     },
     {
         "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
@@ -4761,6 +4788,15 @@
         "negative": 1.7
     },
     {
+        "headlines": "You think OCD is just about cleanliness? You got it wrong all this longFor Millennials and Gen Z, \"OCD\" might seem like a trendy buzzword for an obsession with cleanliness. But hold on—there's so much more to it than meets the eye.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/ocd-is-not-just-about-cleanliness-you-got-it-wrong-all-this-long-monica-geller-friends-sheldon-cooper-2653185-2024-12-21",
+        "category": "lifestyle",
+        "date_time": "2024-12-21T08:30:00",
+        "uuid": "1d814ddb-f229-4013-bf76-b0f5e341c4d0",
+        "positive": 12.4,
+        "negative": 14.3
+    },
+    {
         "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
         "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
         "category": "technology",
@@ -4788,15 +4824,6 @@
         "negative": 2.3
     },
     {
-        "headlines": "You think OCD is just about cleanliness? You got it wrong all this longFor Millennials and Gen Z, \"OCD\" might seem like a trendy buzzword for an obsession with cleanliness. But hold on—there's so much more to it than meets the eye.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/ocd-is-not-just-about-cleanliness-you-got-it-wrong-all-this-long-monica-geller-friends-sheldon-cooper-2653185-2024-12-21",
-        "category": "lifestyle",
-        "date_time": "2024-12-21T08:30:00",
-        "uuid": "1d814ddb-f229-4013-bf76-b0f5e341c4d0",
-        "positive": 12.4,
-        "negative": 14.3
-    },
-    {
         "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
         "category": "technology",
@@ -4813,6 +4840,15 @@
         "uuid": "bebc8309-a888-4c33-b0f9-d5a5aaf9984f",
         "positive": 15.8,
         "negative": 2.8
+    },
+    {
+        "headlines": "Sensex nosedives 1,100 points, Nifty falls below 23,600; IT stocks tumbleStock market crash: The S&P BSE Sensex ended 1,176.46 points lower at 78,041.59, while the NSE Nifty50 settled 364.20 points lower at 23,587.50.",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-crash-today-sensex-nosedives-1100-points-nifty-below-23600-it-stocks-tumble-2652911-2024-12-20",
+        "category": "business",
+        "date_time": "2024-12-20T15:47:00",
+        "uuid": "e44307d2-33a6-49c6-b255-2a09b983a49b",
+        "positive": 6.3,
+        "negative": 11.1
     },
     {
         "headlines": "Using UPI for online payments? Do this to avoid QR code scamsScammers are tricking users into scanning fraudulent QR codes, leading to the loss of large sums of money in seconds. Here is how QR code scams work and how you can protect yourself from them.",
@@ -4833,15 +4869,6 @@
         "negative": 16.6
     },
     {
-        "headlines": "Sensex nosedives 1,100 points, Nifty falls below 23,600; IT stocks tumbleStock market crash: The S&P BSE Sensex ended 1,176.46 points lower at 78,041.59, while the NSE Nifty50 settled 364.20 points lower at 23,587.50.",
-        "article_url": "https://www.indiatoday.in/business/story/stock-market-crash-today-sensex-nosedives-1100-points-nifty-below-23600-it-stocks-tumble-2652911-2024-12-20",
-        "category": "business",
-        "date_time": "2024-12-20T15:47:00",
-        "uuid": "e44307d2-33a6-49c6-b255-2a09b983a49b",
-        "positive": 6.3,
-        "negative": 11.1
-    },
-    {
         "headlines": "Poco M7 Pro 5G launched under Rs 15,000: 4 reasons to buy, 1 to skipThe Poco M7 Pro 5G is one of the most affordable phones you can buy right now in the sub-Rs 15,000 price segment. In this article, we give you 4 reasons why you should buy this phone and 1 reason to skip it.",
         "article_url": "https://www.indiatoday.in/technology/features/story/poco-m7-pro-5g-launched-under-rs-15000-4-reasons-to-buy-1-to-skip-2651621-2024-12-18",
         "category": "technology",
@@ -4849,6 +4876,15 @@
         "uuid": "de77e0c3-1969-432c-9357-8dd1945a60bb",
         "positive": 17.8,
         "negative": 3
+    },
+    {
+        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T12:30:00",
+        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
+        "positive": 11.4,
+        "negative": 2.4
     },
     {
         "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
@@ -4869,15 +4905,6 @@
         "negative": 2.5
     },
     {
-        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
-        "category": "technology",
-        "date_time": "2024-12-21T12:30:00",
-        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
-        "positive": 11.4,
-        "negative": 2.4
-    },
-    {
         "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-20-flash-thinking-mode-a-reasoning-model-similar-to-openai-o1-2652683-2024-12-20",
         "category": "technology",
@@ -4894,6 +4921,15 @@
         "uuid": "97a8aad8-c811-4905-a859-d70e089d9168",
         "positive": 13.1,
         "negative": 8
+    },
+    {
+        "headlines": "How to use ChatGPT on WhatsAppThe WhatsApp integration offers a free and simple way to use ChatGPT, and it's perfect for casual users or those who want to experiment with AI tools.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/how-to-use-chatgpt-on-whatsapp-2652967-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T17:03:00",
+        "uuid": "0a016b8a-3149-447c-b02f-b90cfd35947f",
+        "positive": 12.2,
+        "negative": 0.4
     },
     {
         "headlines": "Nvidia's most affordable Gen AI supercomputer, Jetson Orin Nano, is here: What is it and how it workNvidia has launched its most affordable Generative AI supercomputer that integrates a 6-core ARM CPU, delivering up to 67 INT8 TOPS. ",
@@ -4914,13 +4950,13 @@
         "negative": 2.6
     },
     {
-        "headlines": "How to use ChatGPT on WhatsAppThe WhatsApp integration offers a free and simple way to use ChatGPT, and it's perfect for casual users or those who want to experiment with AI tools.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/how-to-use-chatgpt-on-whatsapp-2652967-2024-12-20",
+        "headlines": "Qualcomm vs Arm: What is it about and how can it impact the global chip market Qualcomm's battle with Arm is not just about a big company acquiring a startup, it's a fight for the future of chip design, with profound implications on the global chip market.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/what-is-the-qualcomm-vs-arm-battle-that-could-have-huge-implications-on-the-chip-market-2652962-2024-12-20",
         "category": "technology",
-        "date_time": "2024-12-20T17:03:00",
-        "uuid": "0a016b8a-3149-447c-b02f-b90cfd35947f",
-        "positive": 12.2,
-        "negative": 0.4
+        "date_time": "2024-12-20T16:55:00",
+        "uuid": "52a96c65-3ef9-4374-ae5d-8cfc52438da2",
+        "positive": 7,
+        "negative": 5.2
     },
     {
         "headlines": "Sennheiser Profile Wireless launched in India, targets content creators with a price of Rs 29,900Sennheiser has launched the Profile Wireless microphone system in India. The company believes that it would be useful to a number of content creators who want a robust microphone system at relatively affordable price point. \r\n",
@@ -4932,13 +4968,13 @@
         "negative": 3
     },
     {
-        "headlines": "Qualcomm vs Arm: What is it about and how can it impact the global chip market Qualcomm's battle with Arm is not just about a big company acquiring a startup, it's a fight for the future of chip design, with profound implications on the global chip market.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/what-is-the-qualcomm-vs-arm-battle-that-could-have-huge-implications-on-the-chip-market-2652962-2024-12-20",
+        "headlines": "Xiaomi reveals plans for open ecosystem for apps, connected TV and ads in IndiaAt the Xiaomi Internet Partner Conference 2024, Xiaomi India reveals plans for India's digital future through its open ecosystem, HyperOS.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-reveals-plans-for-sustainable-open-ecosystem-for-apps-connected-tv-and-ads-in-india-2652792-2024-12-20",
         "category": "technology",
-        "date_time": "2024-12-20T16:55:00",
-        "uuid": "52a96c65-3ef9-4374-ae5d-8cfc52438da2",
-        "positive": 7,
-        "negative": 5.2
+        "date_time": "2024-12-20T13:03:00",
+        "uuid": "1e5b73b1-798a-4046-96f6-8d956aa20be2",
+        "positive": 16.8,
+        "negative": 0
     },
     {
         "headlines": "Amazon updates Prime membership policy: 2 new rules you should know aboutAmazon has two new rules that you should know about if you share your Amazon Prime account with friends or family.",
@@ -4948,15 +4984,6 @@
         "uuid": "f4462293-10b6-47b5-850e-f7c6c9d38195",
         "positive": 9.1,
         "negative": 1
-    },
-    {
-        "headlines": "Xiaomi reveals plans for open ecosystem for apps, connected TV and ads in IndiaAt the Xiaomi Internet Partner Conference 2024, Xiaomi India reveals plans for India's digital future through its open ecosystem, HyperOS.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-reveals-plans-for-sustainable-open-ecosystem-for-apps-connected-tv-and-ads-in-india-2652792-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T13:03:00",
-        "uuid": "1e5b73b1-798a-4046-96f6-8d956aa20be2",
-        "positive": 16.8,
-        "negative": 0
     },
     {
         "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
@@ -4995,6 +5022,15 @@
         "negative": 5.9
     },
     {
+        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T09:05:00",
+        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
+        "positive": 16,
+        "negative": 3.6
+    },
+    {
         "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
         "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/youve-been-misunderstanding-trauma-bonding-all-along-its-a-toxic-trap-2651160-2024-12-17",
         "category": "lifestyle",
@@ -5011,15 +5047,6 @@
         "uuid": "c6f0f5a3-c942-4467-a63d-788ddf77ee0b",
         "positive": 13.4,
         "negative": 7.8
-    },
-    {
-        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T09:05:00",
-        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
-        "positive": 16,
-        "negative": 3.6
     },
     {
         "headlines": "No, Soursop, a fruit, cannot cure cancer Soursop, a close cousin of the famous custard apple, is gaining buzz on social media for its anti-cancerous properties. ",
@@ -5283,15 +5310,6 @@
         "negative": 0.8
     },
     {
-        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T22:14:00",
-        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
-        "positive": 4.1,
-        "negative": 7.3
-    },
-    {
         "headlines": "Paytm Money launches 'Pay Later' Margin Trading. 3 things to knowPaytm Money launches 'Pay Later' MTF, democratising stock trading with seamless activation, innovative tools, and affordable rates.",
         "article_url": "https://www.indiatoday.in/business/story/paytm-money-launches-pay-later-margin-trading-facility-mtf-3-things-to-know-2652885-2024-12-20",
         "category": "business",
@@ -5299,6 +5317,15 @@
         "uuid": "97513191-623a-441d-bb5a-6f9ff4b762fe",
         "positive": 10,
         "negative": 2.5
+    },
+    {
+        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T22:14:00",
+        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
+        "positive": 4.1,
+        "negative": 7.3
     },
     {
         "headlines": "Preity Zinta's sweet BTS moment from Dil Chahta Hai: A chocolate croissant to rescuePreity Zinta shared a heartwarming behind-the-scenes story from the shoot of Dil Chahta Hai, highlighting a moment of hunger and humour that ended with a chocolate croissant. ",
@@ -5445,24 +5472,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Explained: Why SpiceJet share price jumped nearly 8% todaySpicejet share price: The airline's share price was up 7.48% to Rs 60.49 on the Bombay Stock Exchange (BSE) at 12:40 pm.",
-        "article_url": "https://www.indiatoday.in/business/story/spicejet-share-price-jumps-8-percent-settlement-with-aircraft-lessor-genesis-stmp-2652228-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T12:45:00",
-        "uuid": "d29e790b-a750-49a8-bf29-ac28a05e83e9",
-        "positive": 20,
-        "negative": 4.5
-    },
-    {
-        "headlines": "PMAY-U 2.0: Who can apply for affordable homes under Pradhan Mantri Awas YojanaPradhan Mantri Awas Yojana Urban 2.0 aims to provide affordable housing to one crore urban families, focusing on inclusive development through various housing schemes and subsidies.",
-        "article_url": "https://www.indiatoday.in/business/story/pmay-u-20-who-can-apply-for-affordable-homes-under-pradhan-mantri-awas-yojana-check-eligibility-document-required-application-process-2652215-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T12:30:00",
-        "uuid": "8e853609-7f6e-4ab0-b2ac-8ea7b6cf7e60",
-        "positive": 9.2,
-        "negative": 2.5
-    },
-    {
         "headlines": "Hope India back opener KL Rahul, value what he has done: Dinesh Karthik Australia vs India: KL Rahul should be given a long rope as the Test opener and his performances in overseas conditions should be valued more, according to former wicketkeeper-batter Dinesh Karthik. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-kl-rahul-opener-border-gavaskart-trophy-dinesh-karthk-2652987-2024-12-20",
         "category": "sports",
@@ -5497,6 +5506,24 @@
         "uuid": "e8bc8881-389c-41b1-b212-1b20a6e3cf8c",
         "positive": 6.3,
         "negative": 3.4
+    },
+    {
+        "headlines": "Explained: Why SpiceJet share price jumped nearly 8% todaySpicejet share price: The airline's share price was up 7.48% to Rs 60.49 on the Bombay Stock Exchange (BSE) at 12:40 pm.",
+        "article_url": "https://www.indiatoday.in/business/story/spicejet-share-price-jumps-8-percent-settlement-with-aircraft-lessor-genesis-stmp-2652228-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T12:45:00",
+        "uuid": "d29e790b-a750-49a8-bf29-ac28a05e83e9",
+        "positive": 20,
+        "negative": 4.5
+    },
+    {
+        "headlines": "PMAY-U 2.0: Who can apply for affordable homes under Pradhan Mantri Awas YojanaPradhan Mantri Awas Yojana Urban 2.0 aims to provide affordable housing to one crore urban families, focusing on inclusive development through various housing schemes and subsidies.",
+        "article_url": "https://www.indiatoday.in/business/story/pmay-u-20-who-can-apply-for-affordable-homes-under-pradhan-mantri-awas-yojana-check-eligibility-document-required-application-process-2652215-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T12:30:00",
+        "uuid": "8e853609-7f6e-4ab0-b2ac-8ea7b6cf7e60",
+        "positive": 9.2,
+        "negative": 2.5
     },
     {
         "headlines": "Explained: Why Sensex fell over 1,000 points today and will bloodbath continue? Sensex and Nifty extended their losing streak as global markets plunged after the US Fed's cautious rate cut signal. Will the bears tighten their grip on Dalal Street, or is a reversal in sight?",
@@ -5569,24 +5596,6 @@
         "uuid": "71479965-721c-40e8-9d33-2c2a0b51c533",
         "positive": 3.1,
         "negative": 10.9
-    },
-    {
-        "headlines": "Looking for high returns on investments? Check these 5 optionsBalancing risk and reward is essential for wealth creation. From equities to IPOs and P2P lending, explore these high-return investment options to align with your financial goals and risk appetite.",
-        "article_url": "https://www.indiatoday.in/business/story/looking-for-high-returns-on-investments-check-these-5-options-equities-ipos-mid-cap-funds-small-cap-funds-elss-p2p-lending-2652800-2024-12-20",
-        "category": "business",
-        "date_time": "2024-12-20T13:03:00",
-        "uuid": "4c9b841e-3199-4bdd-bdaa-35653d0cb7e8",
-        "positive": 17.1,
-        "negative": 7.7
-    },
-    {
-        "headlines": "NACDAC Infra IPO allotment: Step-by-step guide to check statusThe Ghaziabad-based construction company's IPO, open from December 17 to December 19, offered shares in the price range of Rs 33-35 per share with a lot size of 4,000 shares.",
-        "article_url": "https://www.indiatoday.in/business/story/nacdac-infra-ipo-allotment-step-by-step-guide-to-check-status-2652789-2024-12-20",
-        "category": "business",
-        "date_time": "2024-12-20T12:50:00",
-        "uuid": "835bcaf9-8f23-422b-9d53-c9c155536803",
-        "positive": 10.7,
-        "negative": 1.1
     },
     {
         "headlines": "US Fed cuts key interest rates by 0.25%: 3 key takeaways for stock marketsThe Fed's decision, along with its forecast of fewer rate cuts in 2025, rattled investors across the globe, leading to widespread sell-offs in equities.",
@@ -5695,6 +5704,24 @@
         "uuid": "7159cf85-87ac-4140-9ea5-1d24c99ab682",
         "positive": 10.5,
         "negative": 1.7
+    },
+    {
+        "headlines": "Looking for high returns on investments? Check these 5 optionsBalancing risk and reward is essential for wealth creation. From equities to IPOs and P2P lending, explore these high-return investment options to align with your financial goals and risk appetite.",
+        "article_url": "https://www.indiatoday.in/business/story/looking-for-high-returns-on-investments-check-these-5-options-equities-ipos-mid-cap-funds-small-cap-funds-elss-p2p-lending-2652800-2024-12-20",
+        "category": "business",
+        "date_time": "2024-12-20T13:03:00",
+        "uuid": "4c9b841e-3199-4bdd-bdaa-35653d0cb7e8",
+        "positive": 17.1,
+        "negative": 7.7
+    },
+    {
+        "headlines": "NACDAC Infra IPO allotment: Step-by-step guide to check statusThe Ghaziabad-based construction company's IPO, open from December 17 to December 19, offered shares in the price range of Rs 33-35 per share with a lot size of 4,000 shares.",
+        "article_url": "https://www.indiatoday.in/business/story/nacdac-infra-ipo-allotment-step-by-step-guide-to-check-status-2652789-2024-12-20",
+        "category": "business",
+        "date_time": "2024-12-20T12:50:00",
+        "uuid": "835bcaf9-8f23-422b-9d53-c9c155536803",
+        "positive": 10.7,
+        "negative": 1.1
     },
     {
         "headlines": "GST Council delays decision on lowering tax for health, life insurance premiumsGST Council Meeting: During the 55th meeting held on Saturday, technical considerations led to the deferral, with the Group of Ministers (GoM) tasked to conduct further deliberations.",
