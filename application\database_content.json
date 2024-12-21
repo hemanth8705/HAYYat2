@@ -4293,24 +4293,6 @@
         "negative": 2.3
     },
     {
-        "headlines": "Ravi Shastri reacts to India's Brisbane follow-on celebrations: Fully justifiedFormer Indian coach Ravi Shastri believes India were well within their rights to celebrate escaping the follow-on in Brisbane and can build on their effort as the Test series against Australia heads to Melbourne.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ravi-shastri-reacts-to-india-brisbane-follow-on-celebrations-vs-australia-2653014-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T18:55:00",
-        "uuid": "cb391077-d8c9-4cbd-aa68-7970d8650047",
-        "positive": 8.9,
-        "negative": 3
-    },
-    {
-        "headlines": "R Ashwin has been thinking about retiring for months: Abhinav MukundFormer India batter Abhinav Mukund paid a heartfelt tribute to Ravichandran Ashwin following his retirement, describing the off-spinner as a perpetual thinker whose mind was constantly in overdrive and impossible to silence.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ashwin-retirement-abhinav-mukund-tribute-2653215-2024-12-21",
-        "category": "sports",
-        "date_time": "2024-12-21T08:09:00",
-        "uuid": "00bb48cb-c6cf-4c1c-8d74-06cce1adbc7c",
-        "positive": 8.6,
-        "negative": 1.6
-    },
-    {
         "headlines": "Rinku Singh to lead UP in Vijay Hazare Trophy: Not thinking about KKR captaincyIPL 2025: After being appointed as the captain of Uttar Pradesh for the Vijay Hazare Trophy, Rinku Singh said he was not overthinking about the captaincy of Kolkata Knight Riders in the upcoming Indian Premier League (IPL).",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-rinku-singh-up-vijay-hazare-trophy-not-thinking-kkr-captaincy-2653044-2024-12-20",
         "category": "sports",
@@ -4336,6 +4318,33 @@
         "uuid": "b012969d-9fb3-4d3e-b877-0f9fdc235f2a",
         "positive": 11,
         "negative": 3.6
+    },
+    {
+        "headlines": "Ravi Shastri reacts to India's Brisbane follow-on celebrations: Fully justifiedFormer Indian coach Ravi Shastri believes India were well within their rights to celebrate escaping the follow-on in Brisbane and can build on their effort as the Test series against Australia heads to Melbourne.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ravi-shastri-reacts-to-india-brisbane-follow-on-celebrations-vs-australia-2653014-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T18:55:00",
+        "uuid": "cb391077-d8c9-4cbd-aa68-7970d8650047",
+        "positive": 8.9,
+        "negative": 3
+    },
+    {
+        "headlines": "Ruben Dias ruled out for four weeks as Manchester City suffer fresh injury blowManchester City defender Ruben Dias has been ruled out for up to four weeks due to a muscular injury, increasing Pep Guardiola's problems as he attempts to save the club's season.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/football-uben-dias-out-four-weeks-manchester-city-fresh-injury-blow-2653049-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T19:41:00",
+        "uuid": "89116491-5ef1-4b6f-b20a-02d12b539cb2",
+        "positive": 15,
+        "negative": 10.5
+    },
+    {
+        "headlines": "R Ashwin has been thinking about retiring for months: Abhinav MukundFormer India batter Abhinav Mukund paid a heartfelt tribute to Ravichandran Ashwin following his retirement, describing the off-spinner as a perpetual thinker whose mind was constantly in overdrive and impossible to silence.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ashwin-retirement-abhinav-mukund-tribute-2653215-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T08:09:00",
+        "uuid": "00bb48cb-c6cf-4c1c-8d74-06cce1adbc7c",
+        "positive": 8.6,
+        "negative": 1.6
     },
     {
         "headlines": "I got to know Ashwin was retiring 5 minutes before he announced it: JadejaBorder-Gavaskar Trophy: Ravindra Jadeja revealed that R Ashwin did not give him the slightest hint about his retirement, even though the two shared adjacent seats in the Indian dressing room at the Gabba on the final day of the third Test.",
@@ -4464,15 +4473,6 @@
         "negative": 2
     },
     {
-        "headlines": "Ruben Dias ruled out for four weeks as Manchester City suffer fresh injury blowManchester City defender Ruben Dias has been ruled out for up to four weeks due to a muscular injury, increasing Pep Guardiola's problems as he attempts to save the club's season.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/football-uben-dias-out-four-weeks-manchester-city-fresh-injury-blow-2653049-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T19:41:00",
-        "uuid": "89116491-5ef1-4b6f-b20a-02d12b539cb2",
-        "positive": 15,
-        "negative": 10.5
-    },
-    {
         "headlines": "SA vs PAK: South Africa pacer to miss 3rd ODI due to knee injurySouth Africa have been rocked by injury ahead of the third ODI against Pakistan in Johannesburg as their fast bowler Ottniel Baartman has been ruled out of the last game. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-sa-vs-pak-odi-series-south-africa-vs-pakistan-ottniel-baartman-2653152-2024-12-20",
         "category": "sports",
@@ -4516,6 +4516,15 @@
         "uuid": "d7aa67cf-3022-4bb7-98de-45b559261f3f",
         "positive": 10.7,
         "negative": 6.5
+    },
+    {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
     },
     {
         "headlines": "Did Jadeja snub English questions at MCG? Aussie media stirs controversyThe Australian media has stirred up another controversy just days after Virat Kohli requested an Australian reporter not to take pictures of his family at Melbourne airport, with the press now accusing spinner Ravindra Jadeja of refusing to answer questions in English.",
@@ -4644,6 +4653,15 @@
         "negative": 4.7
     },
     {
+        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T10:43:00",
+        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
+        "positive": 7.1,
+        "negative": 2.8
+    },
+    {
         "headlines": "George Eastham, England 1966 World Cup squad member, dies aged 88George Eastham, a member of England's World Cup-winning squad, has died at the age of 88. Eastham did not play in England's 1966 success on home soil.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/football-george-eastham-england-1966-world-cup-squad-member-dies-aged-88-2653418-2024-12-21",
         "category": "sports",
@@ -4734,6 +4752,15 @@
         "negative": 4.5
     },
     {
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
+    },
+    {
         "headlines": "Liron Jaden wears the overall crown of JK Tyre Novice Cup Momentum MotorsportLiron Jaden Samuels clinched the JK Tyre Novice Cup title after a thrilling finale at the Kari Motor Speedway. Despite Aditya Patnaik's triple win, a penalty cost him the crown. Momentum Motorsports secured the team championship with 63 points.",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/liron-jaden-wears-the-overall-crown-of-jk-tyre-novice-cup-momentum-motorsport-2653533-2024-12-21",
         "category": "sports",
@@ -4759,6 +4786,15 @@
         "uuid": "7c4dcf30-c201-4d81-8a66-5b5c5095a6ed",
         "positive": 5.5,
         "negative": 8.6
+    },
+    {
+        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:32:00",
+        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
+        "positive": 4.6,
+        "negative": 3.1
     },
     {
         "headlines": "Sam Konstas ready to face Bumrah? Australia batter opens up on his preparationYoung Australia batter Sam Konstas revealed that he's ready with plans to face Indian bowlers in the upcoming fourth Test against India in Melbourne. ",
@@ -4797,51 +4833,6 @@
         "negative": 4.2
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
-    },
-    {
-        "headlines": "You think OCD is just about cleanliness? You got it wrong all this longFor Millennials and Gen Z, \"OCD\" might seem like a trendy buzzword for an obsession with cleanliness. But hold on—there's so much more to it than meets the eye.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/ocd-is-not-just-about-cleanliness-you-got-it-wrong-all-this-long-monica-geller-friends-sheldon-cooper-2653185-2024-12-21",
-        "category": "lifestyle",
-        "date_time": "2024-12-21T08:30:00",
-        "uuid": "1d814ddb-f229-4013-bf76-b0f5e341c4d0",
-        "positive": 12.4,
-        "negative": 14.3
-    },
-    {
-        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T10:43:00",
-        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
-        "positive": 7.1,
-        "negative": 2.8
-    },
-    {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:32:00",
-        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
-        "positive": 4.6,
-        "negative": 3.1
-    },
-    {
         "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
         "category": "technology",
@@ -4851,22 +4842,13 @@
         "negative": 5.4
     },
     {
-        "headlines": "Vaibhav Suryavanshi shatters major record in Vijay Hazare Trophy after IPL dealIndia's young batting sensation Vaibhav Suryavanshi etched his name in the history books during Bihar's opening game of the Vijay Hazare Trophy 2024-25 as he became the youngest Indian player to play a List-A game.",
-        "article_url": "https://www.indiatoday.in/sports/story/sports-cricket-vaibhav-suryavanshi-becomes-youngest-indian-player-to-play-list-a-cricket-vijay-hazare-trophy-2653564-2024-12-21",
-        "category": "sports",
-        "date_time": "2024-12-21T23:37:00",
-        "uuid": "f3d9568e-bfc3-4dec-a582-60a8fe10234f",
-        "positive": 7.9,
-        "negative": 2.6
-    },
-    {
-        "headlines": "Travis Head shares adorable picture of his newborn: Harrison's first smileTravis Head shared an adorable picture of his newborn son, Harrison. The caption read, \"Harrison's first smile.\" The Aussie star will gear up for the upcoming Boxing Day Test vs India.",
-        "article_url": "https://www.indiatoday.in/sports/story/travis-head-shares-adorable-picture-of-his-newborn-harrisons-first-smile-2653565-2024-12-21",
-        "category": "sports",
-        "date_time": "2024-12-21T23:31:00",
-        "uuid": "a8a1108b-7c32-4213-9a81-6f059ef0139d",
-        "positive": 16.4,
-        "negative": 4.1
+        "headlines": "You think OCD is just about cleanliness? You got it wrong all this longFor Millennials and Gen Z, \"OCD\" might seem like a trendy buzzword for an obsession with cleanliness. But hold on—there's so much more to it than meets the eye.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/ocd-is-not-just-about-cleanliness-you-got-it-wrong-all-this-long-monica-geller-friends-sheldon-cooper-2653185-2024-12-21",
+        "category": "lifestyle",
+        "date_time": "2024-12-21T08:30:00",
+        "uuid": "1d814ddb-f229-4013-bf76-b0f5e341c4d0",
+        "positive": 12.4,
+        "negative": 14.3
     },
     {
         "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
@@ -4896,15 +4878,6 @@
         "negative": 0.8
     },
     {
-        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
-        "category": "technology",
-        "date_time": "2024-12-21T12:30:00",
-        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
-        "positive": 11.4,
-        "negative": 2.4
-    },
-    {
         "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
         "category": "technology",
@@ -4912,6 +4885,24 @@
         "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
         "positive": 5.6,
         "negative": 1.5
+    },
+    {
+        "headlines": "Vaibhav Suryavanshi shatters major record in Vijay Hazare Trophy after IPL dealIndia's young batting sensation Vaibhav Suryavanshi etched his name in the history books during Bihar's opening game of the Vijay Hazare Trophy 2024-25 as he became the youngest Indian player to play a List-A game.",
+        "article_url": "https://www.indiatoday.in/sports/story/sports-cricket-vaibhav-suryavanshi-becomes-youngest-indian-player-to-play-list-a-cricket-vijay-hazare-trophy-2653564-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T23:37:00",
+        "uuid": "f3d9568e-bfc3-4dec-a582-60a8fe10234f",
+        "positive": 7.9,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Travis Head shares adorable picture of his newborn: Harrison's first smileTravis Head shared an adorable picture of his newborn son, Harrison. The caption read, \"Harrison's first smile.\" The Aussie star will gear up for the upcoming Boxing Day Test vs India.",
+        "article_url": "https://www.indiatoday.in/sports/story/travis-head-shares-adorable-picture-of-his-newborn-harrisons-first-smile-2653565-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T23:31:00",
+        "uuid": "a8a1108b-7c32-4213-9a81-6f059ef0139d",
+        "positive": 16.4,
+        "negative": 4.1
     },
     {
         "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
@@ -4939,6 +4930,15 @@
         "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
         "positive": 5.6,
         "negative": 3.2
+    },
+    {
+        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T12:30:00",
+        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
+        "positive": 11.4,
+        "negative": 2.4
     },
     {
         "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
@@ -5049,15 +5049,6 @@
         "negative": 2.6
     },
     {
-        "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
-        "category": "technology",
-        "date_time": "2024-12-21T17:35:00",
-        "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
-        "positive": 10.4,
-        "negative": 0.3
-    },
-    {
         "headlines": "Sennheiser Profile Wireless launched in India, targets content creators with a price of Rs 29,900Sennheiser has launched the Profile Wireless microphone system in India. The company believes that it would be useful to a number of content creators who want a robust microphone system at relatively affordable price point. \r\n",
         "article_url": "https://www.indiatoday.in/technology/news/story/sennheiser-profile-wireless-launched-in-india-targets-content-creators-with-a-price-of-rs-29900-2652762-2024-12-20",
         "category": "technology",
@@ -5094,6 +5085,15 @@
         "negative": 0
     },
     {
+        "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T17:35:00",
+        "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
+        "positive": 10.4,
+        "negative": 0.3
+    },
+    {
         "headlines": "Google layoffs: CEO Sundar Pichai announces 10 per cent job cutsGoogle CEO Sundar Pichai has recently announced another major lay-off cycle as part of its efficiency drive. This time, the company plans to cut 10 per cent of the managerial roles. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/google-layoffs-ceo-sundar-pichai-announces-10-per-cent-job-cuts-says-it-is-to-boost-efficiency-2652915-2024-12-20",
         "category": "technology",
@@ -5112,15 +5112,6 @@
         "negative": 0.4
     },
     {
-        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T09:05:00",
-        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
-        "positive": 16,
-        "negative": 3.6
-    },
-    {
         "headlines": "How to use ChatGPT on WhatsAppThe WhatsApp integration offers a free and simple way to use ChatGPT, and it's perfect for casual users or those who want to experiment with AI tools.",
         "article_url": "https://www.indiatoday.in/technology/news/story/how-to-use-chatgpt-on-whatsapp-2652967-2024-12-20",
         "category": "technology",
@@ -5137,6 +5128,15 @@
         "uuid": "52a96c65-3ef9-4374-ae5d-8cfc52438da2",
         "positive": 7,
         "negative": 5.2
+    },
+    {
+        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T09:05:00",
+        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
+        "positive": 16,
+        "negative": 3.6
     },
     {
         "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
@@ -5688,15 +5688,6 @@
         "negative": 2.2
     },
     {
-        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T17:21:00",
-        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
-        "positive": 15.4,
-        "negative": 6
-    },
-    {
         "headlines": "US Fed cuts key interest rates by 0.25%: 3 key takeaways for stock marketsThe Fed's decision, along with its forecast of fewer rate cuts in 2025, rattled investors across the globe, leading to widespread sell-offs in equities.",
         "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-25-bps-jerome-powell-impact-stock-markets-sensex-nifty-outlook-what-to-expect-2652081-2024-12-19",
         "category": "business",
@@ -5724,15 +5715,6 @@
         "negative": 0.7
     },
     {
-        "headlines": "55th GST Council Meeting begins: What could become costlier or cheaper todayGST Council Meeting: From essential services to luxury items, a wide range of proposals are under discussion, some of which could significantly impact consumers and businesses.",
-        "article_url": "https://www.indiatoday.in/business/story/55th-gst-council-meeting-what-to-expect-costlier-cheaper-food-delivery-luxury-items-insurance-premiums-2653307-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T12:17:00",
-        "uuid": "34574708-d5be-448f-ac26-60e5db77468a",
-        "positive": 4.4,
-        "negative": 2.5
-    },
-    {
         "headlines": "Own foreign assets or income? Disclose now to avoid Rs 10 lakh penaltyTaxpayers must disclose foreign income and assets by December 31, 2024, to avoid hefty penalties under the Income Tax and Black Money Acts.",
         "article_url": "https://www.indiatoday.in/business/story/own-foreign-assets-or-income-disclose-in-itr-december-31-2024-to-avoid-rs-10-lakh-penalty-2651692-2024-12-18",
         "category": "business",
@@ -5740,15 +5722,6 @@
         "uuid": "beb48ff2-0375-4501-bbc2-b92663c0a9e3",
         "positive": 9.9,
         "negative": 4.3
-    },
-    {
-        "headlines": "GST Council Meeting: Will tax rates on health and life insurance premiums drop today? GST Council Meeting begins: One of the key items on the agenda is the proposal to reduce the Goods and Services Tax (GST) on insurance premiums, a move that could bring relief to policyholders.",
-        "article_url": "https://www.indiatoday.in/business/story/55th-gst-council-meeting-2653320-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T12:46:00",
-        "uuid": "9e07b01f-86a9-4d6c-ad75-95661f659c99",
-        "positive": 10.7,
-        "negative": 3.6
     },
     {
         "headlines": "Sensex, Nifty extend losses amid weak global cuesAt 10:28 am, the S&P BSE Sensex fell 274.86 points to 78,943.19, while the NSE Nifty50 dropped 67.90 points to 23,883.80.",
@@ -5796,15 +5769,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "GST Council delays decision on lowering tax for health, life insurance premiumsGST Council Meeting: During the 55th meeting held on Saturday, technical considerations led to the deferral, with the Group of Ministers (GoM) tasked to conduct further deliberations.",
-        "article_url": "https://www.indiatoday.in/business/story/gst-council-delays-decision-on-lowering-tax-for-health-life-insurance-premiums-2653343-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T13:55:00",
-        "uuid": "df8ba614-5870-4fa4-ad05-ca813dec5df0",
-        "positive": 6.4,
-        "negative": 3.3
-    },
-    {
         "headlines": "Sensex tumbles over 800 points. What's behind the bloodbath on Dalal Street?Stock market today: The Sensex had fallen 748.04 points to 78,470.01 at 1:18 pm, while the Nifty50 slipped 214.80 points to trade at 23,736.90. All broader market indices were also trading in negative territory.",
         "article_url": "https://www.indiatoday.in/business/story/stock-market-crash-today-sensex-down-800-points-bloodbath-dalal-street-explained-2652825-2024-12-20",
         "category": "business",
@@ -5830,6 +5794,15 @@
         "uuid": "835bcaf9-8f23-422b-9d53-c9c155536803",
         "positive": 10.7,
         "negative": 1.1
+    },
+    {
+        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T17:21:00",
+        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
+        "positive": 15.4,
+        "negative": 6
     },
     {
         "headlines": "Paytm Money launches 'Pay Later' Margin Trading. 3 things to knowPaytm Money launches 'Pay Later' MTF, democratising stock trading with seamless activation, innovative tools, and affordable rates.",
@@ -5859,6 +5832,15 @@
         "negative": 7.6
     },
     {
+        "headlines": "55th GST Council Meeting begins: What could become costlier or cheaper todayGST Council Meeting: From essential services to luxury items, a wide range of proposals are under discussion, some of which could significantly impact consumers and businesses.",
+        "article_url": "https://www.indiatoday.in/business/story/55th-gst-council-meeting-what-to-expect-costlier-cheaper-food-delivery-luxury-items-insurance-premiums-2653307-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T12:17:00",
+        "uuid": "34574708-d5be-448f-ac26-60e5db77468a",
+        "positive": 4.4,
+        "negative": 2.5
+    },
+    {
         "headlines": "Vivad Se Vishwas Scheme: FAQs for settling tax disputes easily Taxpayers can resolve pending income tax disputes under the Direct Tax Vivad Se Vishwas Scheme 2024 by settling the disputed tax amount and avoiding additional interest and penalties.",
         "article_url": "https://www.indiatoday.in/business/story/direct-tax-vivad-se-vishwas-scheme-2024-dtvsv-faqs-for-settling-tax-disputes-easily-2652961-2024-12-20",
         "category": "business",
@@ -5868,6 +5850,15 @@
         "negative": 5.5
     },
     {
+        "headlines": "GST Council Meeting: Will tax rates on health and life insurance premiums drop today? GST Council Meeting begins: One of the key items on the agenda is the proposal to reduce the Goods and Services Tax (GST) on insurance premiums, a move that could bring relief to policyholders.",
+        "article_url": "https://www.indiatoday.in/business/story/55th-gst-council-meeting-2653320-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T12:46:00",
+        "uuid": "9e07b01f-86a9-4d6c-ad75-95661f659c99",
+        "positive": 10.7,
+        "negative": 3.6
+    },
+    {
         "headlines": "Nita Ambani to headline India Conference at HarvardThe India Conference at Harvard, one of the largest student-led India-focused events in the US, is hosted by students across Harvard's graduate and undergraduate schools.",
         "article_url": "https://www.indiatoday.in/business/story/nita-ambani-to-headline-india-conference-at-harvard-2652947-2024-12-20",
         "category": "business",
@@ -5875,6 +5866,15 @@
         "uuid": "69390815-a654-4a20-a84a-2300248b69b6",
         "positive": 5.2,
         "negative": 0
+    },
+    {
+        "headlines": "GST Council delays decision on lowering tax for health, life insurance premiumsGST Council Meeting: During the 55th meeting held on Saturday, technical considerations led to the deferral, with the Group of Ministers (GoM) tasked to conduct further deliberations.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-council-delays-decision-on-lowering-tax-for-health-life-insurance-premiums-2653343-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T13:55:00",
+        "uuid": "df8ba614-5870-4fa4-ad05-ca813dec5df0",
+        "positive": 6.4,
+        "negative": 3.3
     },
     {
         "headlines": "GST at 18% on used EV car sale by business, jet fuel stays out of its ambitThe GST Council in its 55th meeting also decided to clarify on taxability of popcorn, saying caramelised popcorn will continue to attract tax at the rate of 18 per cent.",
