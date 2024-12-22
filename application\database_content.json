@@ -4860,22 +4860,13 @@
         "negative": 0
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
-    },
-    {
-        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T10:43:00",
-        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
-        "positive": 7.1,
-        "negative": 2.8
+        "headlines": "Virat Kohli eyes Sachin Tendulkar's historic Test record at MCG IND vs AUS: Virat Kohli scored a hundred in the second innings of the Perth Test, but he has struggled for most part of the series until now. Kohli now has a chance to break Sachin Tendulkar's record in the Boxing Day Test. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-sachin-tendulkar-record-border-gavaskar-trophy-2653683-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T13:50:00",
+        "uuid": "24ed7fc7-3b56-4bb2-ae64-896b58f9385d",
+        "positive": 7,
+        "negative": 2.4
     },
     {
         "headlines": "India win Under-19 Women's Asia Cup 2024 title after beating Bangladesh Niki Prasad's India defeated Bangladesh by 41 runs in the final on Sunday, December 22, to become champions in the inaugural edition of the Under-19 Women's Asia Cup 2024",
@@ -4947,6 +4938,24 @@
         "date_time": "2024-12-22T11:39:00",
         "uuid": "9323aa85-34c3-4d92-b5ae-a1778804181d",
         "positive": 9.9,
+        "negative": 2.8
+    },
+    {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
+        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T10:43:00",
+        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
+        "positive": 7.1,
         "negative": 2.8
     },
     {
@@ -5076,6 +5085,15 @@
         "negative": 15.8
     },
     {
+        "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T17:35:00",
+        "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
+        "positive": 10.4,
+        "negative": 0.3
+    },
+    {
         "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
         "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
         "category": "technology",
@@ -5092,15 +5110,6 @@
         "uuid": "de77e0c3-1969-432c-9357-8dd1945a60bb",
         "positive": 17.8,
         "negative": 3
-    },
-    {
-        "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
-        "category": "technology",
-        "date_time": "2024-12-21T17:35:00",
-        "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
-        "positive": 10.4,
-        "negative": 0.3
     },
     {
         "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
@@ -5139,6 +5148,15 @@
         "negative": 8
     },
     {
+        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T09:05:00",
+        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
+        "positive": 16,
+        "negative": 3.6
+    },
+    {
         "headlines": "Nvidia's most affordable Gen AI supercomputer, Jetson Orin Nano, is here: What is it and how it workNvidia has launched its most affordable Generative AI supercomputer that integrates a 6-core ARM CPU, delivering up to 67 INT8 TOPS. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nvidias-most-affordable-gen-ai-supercomputer-jetson-orin-nano-is-here-what-is-it-and-how-it-work-2652732-2024-12-20",
         "category": "technology",
@@ -5155,15 +5173,6 @@
         "uuid": "4f45b819-ae93-4e91-b362-6e0ff40cc883",
         "positive": 8.5,
         "negative": 2.6
-    },
-    {
-        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T09:05:00",
-        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
-        "positive": 16,
-        "negative": 3.6
     },
     {
         "headlines": "Sennheiser Profile Wireless launched in India, targets content creators with a price of Rs 29,900Sennheiser has launched the Profile Wireless microphone system in India. The company believes that it would be useful to a number of content creators who want a robust microphone system at relatively affordable price point. \r\n",
@@ -5434,6 +5443,15 @@
         "uuid": "17f50bd3-2767-4829-abd3-cbbfc68e05f8",
         "positive": 23.7,
         "negative": 7
+    },
+    {
+        "headlines": "Indians are chasing luxury travel like never before. What's driving this shift?Luxury travel among Indian tourists is no longer a rare occurrence. Recent statistics also reveal a clear shift in how Indians approach their travel plans. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/indians-are-chasing-luxury-travel-like-never-before-whats-driving-this-shift-2653015-2024-12-22",
+        "category": "lifestyle",
+        "date_time": "2024-12-22T14:03:00",
+        "uuid": "bf97c7e1-815e-4aed-800a-71d2a00ea7b0",
+        "positive": 11.2,
+        "negative": 1.3
     },
     {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
@@ -5751,6 +5769,15 @@
         "negative": 1.3
     },
     {
+        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T17:21:00",
+        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
+        "positive": 15.4,
+        "negative": 6
+    },
+    {
         "headlines": "Rupee plunges to all-time low, reaches Rs 85 against US dollar Rupee falls to all-time low: The rupee dropped to 85.0650 against the US dollar in early trade, compared to 84.9525 on Wednesday.",
         "article_url": "https://www.indiatoday.in/business/story/rupee-hits-all-time-low-rs-85-against-us-dollar-reason-us-fed-rate-cut-market-fall-2652136-2024-12-19",
         "category": "business",
@@ -5769,15 +5796,6 @@
         "negative": 8.5
     },
     {
-        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T17:21:00",
-        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
-        "positive": 15.4,
-        "negative": 6
-    },
-    {
         "headlines": "Wall Street jitters: Sensex crashes, Nifty tumbles over US Fed rate cutStock market today: The S&P BSE Sensex was down 925.21 points to 79,256.69, while the NSE Nifty50 lost 309.75 points to 23,889.10. ",
         "article_url": "https://www.indiatoday.in/business/story/opening-bell-market-crash-fall-sensex-nifty-wall-street-jitters-hit-india-us-fed-rate-cuts-25-bps-2652111-2024-12-19",
         "category": "business",
@@ -5785,24 +5803,6 @@
         "uuid": "1b366b0c-8d5e-4fa0-b1d5-111b2b5f2c1a",
         "positive": 17.6,
         "negative": 6.4
-    },
-    {
-        "headlines": "Transrail Lighting IPO: All you need to know. Check GMP before subscribing Transrail Lighting Limited, established in February 2008, is an engineering and construction company specialising in power transmission and distribution.",
-        "article_url": "https://www.indiatoday.in/business/story/transrail-lighting-ipo-opening-date-price-band-issue-size-gmp-details-before-subscribing-2652106-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T09:22:00",
-        "uuid": "1dae3563-e6f1-43ae-9709-8b4b39d69862",
-        "positive": 9.4,
-        "negative": 2.2
-    },
-    {
-        "headlines": "US Fed cuts key interest rates by 0.25%: 3 key takeaways for stock marketsThe Fed's decision, along with its forecast of fewer rate cuts in 2025, rattled investors across the globe, leading to widespread sell-offs in equities.",
-        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-25-bps-jerome-powell-impact-stock-markets-sensex-nifty-outlook-what-to-expect-2652081-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T09:06:00",
-        "uuid": "41ae4282-ea2b-48c1-a64c-963554963b98",
-        "positive": 8.9,
-        "negative": 8.5
     },
     {
         "headlines": "55th GST Council Meeting begins: What could become costlier or cheaper todayGST Council Meeting: From essential services to luxury items, a wide range of proposals are under discussion, some of which could significantly impact consumers and businesses.",
@@ -5814,13 +5814,13 @@
         "negative": 2.5
     },
     {
-        "headlines": "Will 2025 bring a bull run? Key trends for Nifty to watchICICI Securities projects a 20% rise in Nifty for 2025, driven by historical trends, sectoral strength, and strategic stock picks.",
-        "article_url": "https://www.indiatoday.in/business/story/icici-securities-says-bullish-2025-ahead-nifty-outlook-to-hit-28800-with-sectoral-leaders-in-focus-2651753-2024-12-18",
+        "headlines": "Transrail Lighting IPO: All you need to know. Check GMP before subscribing Transrail Lighting Limited, established in February 2008, is an engineering and construction company specialising in power transmission and distribution.",
+        "article_url": "https://www.indiatoday.in/business/story/transrail-lighting-ipo-opening-date-price-band-issue-size-gmp-details-before-subscribing-2652106-2024-12-19",
         "category": "business",
-        "date_time": "2024-12-18T18:01:00",
-        "uuid": "85e04cfc-1e2f-41d8-a28f-d669d86e1492",
-        "positive": 17.3,
-        "negative": 0
+        "date_time": "2024-12-19T09:22:00",
+        "uuid": "1dae3563-e6f1-43ae-9709-8b4b39d69862",
+        "positive": 9.4,
+        "negative": 2.2
     },
     {
         "headlines": "GST Council Meeting: Will tax rates on health and life insurance premiums drop today? GST Council Meeting begins: One of the key items on the agenda is the proposal to reduce the Goods and Services Tax (GST) on insurance premiums, a move that could bring relief to policyholders.",
@@ -5830,6 +5830,24 @@
         "uuid": "9e07b01f-86a9-4d6c-ad75-95661f659c99",
         "positive": 10.7,
         "negative": 3.6
+    },
+    {
+        "headlines": "US Fed cuts key interest rates by 0.25%: 3 key takeaways for stock marketsThe Fed's decision, along with its forecast of fewer rate cuts in 2025, rattled investors across the globe, leading to widespread sell-offs in equities.",
+        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-25-bps-jerome-powell-impact-stock-markets-sensex-nifty-outlook-what-to-expect-2652081-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T09:06:00",
+        "uuid": "41ae4282-ea2b-48c1-a64c-963554963b98",
+        "positive": 8.9,
+        "negative": 8.5
+    },
+    {
+        "headlines": "Will 2025 bring a bull run? Key trends for Nifty to watchICICI Securities projects a 20% rise in Nifty for 2025, driven by historical trends, sectoral strength, and strategic stock picks.",
+        "article_url": "https://www.indiatoday.in/business/story/icici-securities-says-bullish-2025-ahead-nifty-outlook-to-hit-28800-with-sectoral-leaders-in-focus-2651753-2024-12-18",
+        "category": "business",
+        "date_time": "2024-12-18T18:01:00",
+        "uuid": "85e04cfc-1e2f-41d8-a28f-d669d86e1492",
+        "positive": 17.3,
+        "negative": 0
     },
     {
         "headlines": "Rama Mohan Rao Amara appointed as SBI's new managing director: ReportThe decision was made by the Appointments Committee of the Cabinet (ACC), which is headed by the Prime Minister.",
@@ -5859,6 +5877,15 @@
         "negative": 7.9
     },
     {
+        "headlines": "GST Council delays decision on lowering tax for health, life insurance premiumsGST Council Meeting: During the 55th meeting held on Saturday, technical considerations led to the deferral, with the Group of Ministers (GoM) tasked to conduct further deliberations.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-council-delays-decision-on-lowering-tax-for-health-life-insurance-premiums-2653343-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T13:55:00",
+        "uuid": "df8ba614-5870-4fa4-ad05-ca813dec5df0",
+        "positive": 6.4,
+        "negative": 3.3
+    },
+    {
         "headlines": "Rupee hits all-time low against US dollar. Why is it under pressure?The rupee surpassed its previous low of 85.0850 reached on Thursday and settled at 85.10 by 10:00 am.",
         "article_url": "https://www.indiatoday.in/business/story/rupee-hits-all-time-low-against-us-dollar-again-key-reasons-behind-pressure-2652736-2024-12-20",
         "category": "business",
@@ -5875,15 +5902,6 @@
         "uuid": "9b5ad8e8-3457-4f98-bd4e-a099021be7d8",
         "positive": 16.1,
         "negative": 1.3
-    },
-    {
-        "headlines": "GST Council delays decision on lowering tax for health, life insurance premiumsGST Council Meeting: During the 55th meeting held on Saturday, technical considerations led to the deferral, with the Group of Ministers (GoM) tasked to conduct further deliberations.",
-        "article_url": "https://www.indiatoday.in/business/story/gst-council-delays-decision-on-lowering-tax-for-health-life-insurance-premiums-2653343-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T13:55:00",
-        "uuid": "df8ba614-5870-4fa4-ad05-ca813dec5df0",
-        "positive": 6.4,
-        "negative": 3.3
     },
     {
         "headlines": "Zerodha launches Margin Trading Facility: What it is and how it worksZerodha's Nithin Kamath introduces Margin Trading Facility, enabling investors to leverage funds for stock delivery.",
@@ -5931,6 +5949,15 @@
         "negative": 1.1
     },
     {
+        "headlines": "GST at 18% on used EV car sale by business, jet fuel stays out of its ambitThe GST Council in its 55th meeting also decided to clarify on taxability of popcorn, saying caramelised popcorn will continue to attract tax at the rate of 18 per cent.",
+        "article_url": "https://www.indiatoday.in/business/story/goods-and-services-tax-eighteen-per-cent-used-ev-car-sale-business-jet-fuel-gst-2653536-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T21:39:00",
+        "uuid": "79bc526c-7c2c-4667-91c3-7db8de87ab4a",
+        "positive": 4.2,
+        "negative": 3.8
+    },
+    {
         "headlines": "Paytm Money launches 'Pay Later' Margin Trading. 3 things to knowPaytm Money launches 'Pay Later' MTF, democratising stock trading with seamless activation, innovative tools, and affordable rates.",
         "article_url": "https://www.indiatoday.in/business/story/paytm-money-launches-pay-later-margin-trading-facility-mtf-3-things-to-know-2652885-2024-12-20",
         "category": "business",
@@ -5956,15 +5983,6 @@
         "uuid": "c22d0c34-7898-47b1-9a02-113cbcfa64be",
         "positive": 7.7,
         "negative": 7.6
-    },
-    {
-        "headlines": "GST at 18% on used EV car sale by business, jet fuel stays out of its ambitThe GST Council in its 55th meeting also decided to clarify on taxability of popcorn, saying caramelised popcorn will continue to attract tax at the rate of 18 per cent.",
-        "article_url": "https://www.indiatoday.in/business/story/goods-and-services-tax-eighteen-per-cent-used-ev-car-sale-business-jet-fuel-gst-2653536-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T21:39:00",
-        "uuid": "79bc526c-7c2c-4667-91c3-7db8de87ab4a",
-        "positive": 4.2,
-        "negative": 3.8
     },
     {
         "headlines": "Vivad Se Vishwas Scheme: FAQs for settling tax disputes easily Taxpayers can resolve pending income tax disputes under the Direct Tax Vivad Se Vishwas Scheme 2024 by settling the disputed tax amount and avoiding additional interest and penalties.",
