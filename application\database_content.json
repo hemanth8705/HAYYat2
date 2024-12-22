@@ -4005,6 +4005,15 @@
         "negative": 2.9
     },
     {
+        "headlines": "Xiaomi reveals plans for open ecosystem for apps, connected TV and ads in IndiaAt the Xiaomi Internet Partner Conference 2024, Xiaomi India reveals plans for India's digital future through its open ecosystem, HyperOS.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-reveals-plans-for-sustainable-open-ecosystem-for-apps-connected-tv-and-ads-in-india-2652792-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T13:03:00",
+        "uuid": "1e5b73b1-798a-4046-96f6-8d956aa20be2",
+        "positive": 16.8,
+        "negative": 0
+    },
+    {
         "headlines": "Mates club? Australian selectors accused of bias after Nathan McSweeney snub Australia vs India, 4th Test: Australia dropped 25-year-old Nathan McSweeney from the squad for the final two Tests of the Border-Gavaskar Trophy. Selector George Bailey has faced criticism for not backing the youngster, especially when senior players like Usman Khawaja and Marnus Labuschagne have struggled with the bat.",
         "article_url": "https://www.indiatoday.in/sports/story/cricke-ind-vs-aus-boxing-day-nathan-mcsweeney-dropped-george-bailey-criticism-2652823-2024-12-20",
         "category": "sports",
@@ -4500,6 +4509,24 @@
         "negative": 1.3
     },
     {
+        "headlines": "OnePlus 13R battery, chipset and camera details confirmed ahead of India launchOnePlus 13R is confirmed to arrive in India with a Snapdragon 8 Gen 3 and 6000mAh battery. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-battery-chipset-and-camera-details-confirmed-ahead-of-india-launch-on-january-7-2652827-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T14:46:00",
+        "uuid": "59a266cc-7cd7-426b-8646-8cfcf43819ee",
+        "positive": 4.8,
+        "negative": 0
+    },
+    {
+        "headlines": "Google layoffs: CEO Sundar Pichai announces 10 per cent job cutsGoogle CEO Sundar Pichai has recently announced another major lay-off cycle as part of its efficiency drive. This time, the company plans to cut 10 per cent of the managerial roles. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/google-layoffs-ceo-sundar-pichai-announces-10-per-cent-job-cuts-says-it-is-to-boost-efficiency-2652915-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T15:52:00",
+        "uuid": "8a8fe689-f7da-4f64-a4fa-e4813bceac9d",
+        "positive": 9.8,
+        "negative": 1.4
+    },
+    {
         "headlines": "Kohli needs to play as many balls as possible in Melbourne Test: BangarSanjay Bangar emphasised Virat Kohli's need to capitalise on the Boxing Day Test opportunity, following his inconsistent performances in the Border-Gavaskar Trophy, as India aims for a crucial win to secure a World Test Championship final spot.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-play-as-many-balls-possible-melbourne-test-sanjay-bangar-2653290-2024-12-21",
         "category": "sports",
@@ -4516,6 +4543,42 @@
         "uuid": "d7aa67cf-3022-4bb7-98de-45b559261f3f",
         "positive": 10.7,
         "negative": 6.5
+    },
+    {
+        "headlines": "Bing Image Creator now generates images directly from Edge address barPowered by the DALL-E 3 PR16 model, Microsoft's Bing Image Creator now generates images twice as fast and features a redesigned homepage with light and dark mode options.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/bing-image-creator-now-generates-images-directly-from-edge-address-bar-2652908-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T15:44:00",
+        "uuid": "115a6eae-d5e0-4868-a4b4-3f99d4a30e76",
+        "positive": 18.9,
+        "negative": 0.4
+    },
+    {
+        "headlines": "How to use ChatGPT on WhatsAppThe WhatsApp integration offers a free and simple way to use ChatGPT, and it's perfect for casual users or those who want to experiment with AI tools.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/how-to-use-chatgpt-on-whatsapp-2652967-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T17:03:00",
+        "uuid": "0a016b8a-3149-447c-b02f-b90cfd35947f",
+        "positive": 12.2,
+        "negative": 0.4
+    },
+    {
+        "headlines": "Did Jadeja snub English questions at MCG? Aussie media stirs controversyThe Australian media has stirred up another controversy just days after Virat Kohli requested an Australian reporter not to take pictures of his family at Melbourne airport, with the press now accusing spinner Ravindra Jadeja of refusing to answer questions in English.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ravindra-jadeja-english-questions-mcg-australian-media-stirs-controversy-2653334-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T13:34:00",
+        "uuid": "44032cd0-9eca-4d20-80d1-708ca2e81055",
+        "positive": 6.6,
+        "negative": 9.7
+    },
+    {
+        "headlines": "IND vs BAN, U19 Women's Asia Cup Final: When and where to watch liveU19 Women's Asia Cup 2024 Final: Niki Prasad's India and Sumaiya Akter's Bangladesh will face each other in the grand finale on Sunday, December 22 at the Bayuemas Oval in Kuala Lumpur. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-asia-cup-2024-india-vs-bangladesh-live-streaming-2653329-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T13:29:00",
+        "uuid": "47a905e0-80cf-4612-b3c7-11b96de3c30e",
+        "positive": 6.6,
+        "negative": 0.6
     },
     {
         "headlines": "Sixes: Cricket-themed bars a hit in the UK, star players join in as investorsSixes Cricket Club offers immersive cricket games paired with a Great British BBQ experience. Backed by Ben Stokes and Stuart Broad, it welcomes players of all abilities. The club has locations across the UK, including Oxford, Southampton, London, and Leicester.\r\n",
@@ -4536,6 +4599,285 @@
         "negative": 9.7
     },
     {
+        "headlines": "Qualcomm vs Arm: What is it about and how can it impact the global chip market Qualcomm's battle with Arm is not just about a big company acquiring a startup, it's a fight for the future of chip design, with profound implications on the global chip market.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/what-is-the-qualcomm-vs-arm-battle-that-could-have-huge-implications-on-the-chip-market-2652962-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T16:55:00",
+        "uuid": "52a96c65-3ef9-4374-ae5d-8cfc52438da2",
+        "positive": 7,
+        "negative": 5.2
+    },
+    {
+        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T12:30:00",
+        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
+        "positive": 11.4,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/why-now-december-is-a-better-time-to-start-your-new-year-resolutions-2652036-2024-12-19",
+        "category": "lifestyle",
+        "date_time": "2024-12-19T08:00:00",
+        "uuid": "380967c1-cbc7-4b3a-93fd-5dffac513382",
+        "positive": 10.5,
+        "negative": 2.7
+    },
+    {
+        "headlines": "With Kendall and Hailey backing it, will NAD+ witness a boom in Indian market?A look into the science, the stars, and the soaring interest in NAD+ as India joins the global wellness race.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/with-kendall-and-hailey-backing-it-will-nad-witness-a-boom-in-indian-market-2651846-2024-12-18",
+        "category": "lifestyle",
+        "date_time": "2024-12-18T19:15:00",
+        "uuid": "38980317-8109-4bf1-ade2-201bf4ec5f6d",
+        "positive": 20.9,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Can microdosing on Ozempic help you lose weight without any side effects? Microdosing Ozempic has gained momentum online, with people hoping to use the weight-loss benefits while dodging the side effects. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-microdosing-on-ozempic-help-you-lose-weight-without-any-side-effects-2651165-2024-12-18",
+        "category": "lifestyle",
+        "date_time": "2024-12-18T08:00:00",
+        "uuid": "fce50e2e-5fc7-431e-a1e2-8e87a9bdab5c",
+        "positive": 8.4,
+        "negative": 5.9
+    },
+    {
+        "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/youve-been-misunderstanding-trauma-bonding-all-along-its-a-toxic-trap-2651160-2024-12-17",
+        "category": "lifestyle",
+        "date_time": "2024-12-17T19:04:00",
+        "uuid": "db2bfbe8-64b7-468d-9da2-8553dc09fd2a",
+        "positive": 18.4,
+        "negative": 27.9
+    },
+    {
+        "headlines": "The struggles of pet owners no one talks about in IndiaIndian pet parents, especially dog owners, feel that India is yet to become more accommodating for pets. There are several struggles that often go unnoticed despite the ever-growing Indian pet market.",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/pet-dog-owners-struggles-india-2650652-2024-12-17",
+        "category": "lifestyle",
+        "date_time": "2024-12-17T12:31:00",
+        "uuid": "c6f0f5a3-c942-4467-a63d-788ddf77ee0b",
+        "positive": 13.4,
+        "negative": 7.8
+    },
+    {
+        "headlines": "No, Soursop, a fruit, cannot cure cancer Soursop, a close cousin of the famous custard apple, is gaining buzz on social media for its anti-cancerous properties. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-soursop-a-fruit-cannot-cure-cancer-2650598-2024-12-16",
+        "category": "lifestyle",
+        "date_time": "2024-12-16T20:30:00",
+        "uuid": "38816f10-2d42-49dc-8740-fa2e0a5a0a7a",
+        "positive": 14.2,
+        "negative": 8.3
+    },
+    {
+        "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/indian-married-couples-romance-alive-while-living-with-family-2648573-2024-12-15",
+        "category": "lifestyle",
+        "date_time": "2024-12-15T13:28:00",
+        "uuid": "4df8a75e-5b5d-4778-80f1-5332a236d631",
+        "positive": 19.5,
+        "negative": 4.6
+    },
+    {
+        "headlines": "Another day, another tantrum. How to manage your child's anger and stubbornnessEvery parent knows the struggle when their child throws a fit after being told 'no'. It's frustrating, and while you know this behaviour isn't healthy, how should you handle it?\r\n",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/how-to-manage-your-childs-anger-and-stubbornness-2649430-2024-12-14",
+        "category": "lifestyle",
+        "date_time": "2024-12-14T09:06:00",
+        "uuid": "9a679325-a16f-4509-8c4a-fe6f20f5b738",
+        "positive": 13.7,
+        "negative": 17.4
+    },
+    {
+        "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T19:26:00",
+        "uuid": "4560b915-9ef2-46f2-a72a-b99dab1ef740",
+        "positive": 13,
+        "negative": 1.9
+    },
+    {
+        "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:37:00",
+        "uuid": "62676be9-a737-4469-af21-a0ebb1709656",
+        "positive": 18.6,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:40:00",
+        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
+        "positive": 21.6,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-12T15:30:00",
+        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
+        "positive": 19.1,
+        "negative": 6.7
+    },
+    {
+        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T18:30:00",
+        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
+        "positive": 11.5,
+        "negative": 11.9
+    },
+    {
+        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T14:06:00",
+        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
+        "positive": 13.2,
+        "negative": 15
+    },
+    {
+        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T19:31:00",
+        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
+        "positive": 16,
+        "negative": 8.3
+    },
+    {
+        "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T15:31:00",
+        "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
+        "positive": 12.9,
+        "negative": 4.5
+    },
+    {
+        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:34:00",
+        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
+        "positive": 19.2,
+        "negative": 6.4
+    },
+    {
+        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
+        "category": "lifestyle",
+        "date_time": "2024-12-09T18:58:00",
+        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
+        "positive": 17.6,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
+        "category": "lifestyle",
+        "date_time": "2024-12-08T18:40:00",
+        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
+        "positive": 20.3,
+        "negative": 3.3
+    },
+    {
+        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:36:00",
+        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
+        "positive": 26.5,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Can making a vision board really help you achieve your goals for 2025?A vision board is a creative visual representation of one's goals, dreams, and aspirations. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/can-making-a-vision-board-really-help-you-manifest-your-goals-for-2025-2652499-2024-12-20",
+        "category": "lifestyle",
+        "date_time": "2024-12-20T08:00:00",
+        "uuid": "8f2b01a5-c4c0-481b-ae53-f1f060cd0633",
+        "positive": 22,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Warming lotions can keep you cosy during winter. But are they really safe?These warming lotions may seem like ordinary creams until you apply them. They create a warming sensation and that particular body part begins to feel hot.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/warming-lotions-can-keep-you-cosy-during-winter-but-are-they-really-safe-2652498-2024-12-20",
+        "category": "lifestyle",
+        "date_time": "2024-12-20T17:01:00",
+        "uuid": "17f50bd3-2767-4829-abd3-cbbfc68e05f8",
+        "positive": 23.7,
+        "negative": 7
+    },
+    {
+        "headlines": "You think OCD is just about cleanliness? You got it wrong all this longFor Millennials and Gen Z, \"OCD\" might seem like a trendy buzzword for an obsession with cleanliness. But hold on—there's so much more to it than meets the eye.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/ocd-is-not-just-about-cleanliness-you-got-it-wrong-all-this-long-monica-geller-friends-sheldon-cooper-2653185-2024-12-21",
+        "category": "lifestyle",
+        "date_time": "2024-12-21T08:30:00",
+        "uuid": "1d814ddb-f229-4013-bf76-b0f5e341c4d0",
+        "positive": 12.4,
+        "negative": 14.3
+    },
+    {
+        "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T17:55:00",
+        "uuid": "b9103930-2ddc-4baa-a892-9a2cb7251458",
+        "positive": 4.3,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Nana Patekar invites Aamir Khan for a special screening of his film VanvaasNana Patekar is set to host a special Vanvaas screening for Aamir Khan. The film, starring Utkarsh Sharma and Simratt Kaur along with Nana Patekar, is set to release on December 20. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/nana-patekar-invites-aamir-khan-for-a-special-screening-of-his-film-vanvaas-2652293-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T14:33:00",
+        "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
+        "positive": 15.8,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-tabus-de-de-pyaar-de-2-to-hit-theatres-in-november-2025-2652214-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T12:51:00",
+        "uuid": "32a2c971-7e64-4baf-98cc-d84a009807a0",
+        "positive": 3.5,
+        "negative": 1
+    },
+    {
+        "headlines": "Thaman S: The creative force behind hits like Ramuloo Ramulaa and Nain MattakaThaman S, famed for his South Indian hits, is set to debut his first full Bollywood album with Baby John this Christmas. The film stars Varun Dhawan in the lead and the will be released on December 25.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/meet-thaman-s-man-behind-tracks-like-ramuloo-ramulaa-nain-mattaka-baby-john-varun-dhawan-2651892-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T20:55:00",
+        "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
+        "positive": 11.9,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Taapsee Pannu begins shoot for Gandhari: Let the war beginAfter Phir Aayi Haseen Dilruba, Taapsee Pannu began filming her next film. Titled Gandhari, the action-thriller is produced by Kanika Dhillon and directed by Devashish Makhija.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/taapsee-pannu-begins-shoot-for-gandhari-let-the-war-begin-2651609-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T13:16:00",
+        "uuid": "d7717455-e11c-4a05-b13e-fce8a08b22ce",
+        "positive": 11.8,
+        "negative": 8.7
+    },
+    {
+        "headlines": "20 years of Swades: Exploring the timeless relevance of Shah Rukh Khan filmReleased in 2004, Ashutosh Gowariker's Swades remains a poignant narrative in Indian cinema. Starring Shah Rukh Khan, it explores themes of identity, responsibility, and self-reliance.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/swades-20-years-shah-rukh-khan-film-themes-timeless-ashutosh-gowariker-2651239-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T08:37:00",
+        "uuid": "1f6634c5-3c58-4bd8-9191-1cc256c71564",
+        "positive": 14.8,
+        "negative": 2.8
+    },
+    {
         "headlines": "Ukraine's Usyk beats Tyson Fury on points to retain unified heavyweight titlesUkraine's Oleksandr Usyk beat Tyson Fury in their much anticipated rematch to retain his unified world heavyweight titles. Usyk won 116-112 via an unanimous decision, much to the shock of Fury.",
         "article_url": "https://www.indiatoday.in/sports/story/boxing-oleksandr-usyk-vs-tyson-fury-fight-result-highlights-2653586-2024-12-22",
         "category": "sports",
@@ -4543,6 +4885,33 @@
         "uuid": "69946180-0310-49a0-b80b-2edd3c230dbe",
         "positive": 14,
         "negative": 17.2
+    },
+    {
+        "headlines": "Relive Mohan Bhargava's journey of homecoming as Swades completes 20 yearsAshutosh Gowariker's film Swades turned 20 today. The filmmaker shared a heartfelt letter celebrating the milestone on Instagram.\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ashutosh-gowariker-celebrates-20-years-of-swades-with-heartfelt-letter-to-fans-2651137-2024-12-17",
+        "category": "bollywood",
+        "date_time": "2024-12-17T18:59:00",
+        "uuid": "b05f6d60-112b-4453-b127-dbf7a6e68d56",
+        "positive": 17.7,
+        "negative": 0
+    },
+    {
+        "headlines": "Sikandar teaser to release on Salman Khan's 59th birthday: ReportThe much-awaited teaser for Sikandar will be reportedly release on Salman Khan's 59th birthday. Fans are eager for this special birthday treat from the Bollywood superstar.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-to-release-on-salman-khans-59th-birthday-report-2650634-2024-12-16",
+        "category": "bollywood",
+        "date_time": "2024-12-16T20:06:00",
+        "uuid": "58bbde1a-747b-4da1-aad5-96c2ae4f7f13",
+        "positive": 11.8,
+        "negative": 6.1
+    },
+    {
+        "headlines": "Varun Dhawan on Salman Khan's cameo in Baby John: Its impact will last for many daysSalman Khan is set to make a cameo appearance in the upcoming film Baby John. Varun Dhawan, who plays the lead in the movie, shared insights about the superstar's role.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-on-salman-khan-cameo-in-baby-john-its-impact-will-last-for-many-days-2650209-2024-12-15",
+        "category": "bollywood",
+        "date_time": "2024-12-15T19:32:00",
+        "uuid": "f303ae39-504d-4557-af9d-e209bca13146",
+        "positive": 6.4,
+        "negative": 2.3
     },
     {
         "headlines": "Frustrated Flick says 'losing 9 points not normal' after tough Atletico resultFC Barcelona coach Hansi Flick was left frustrated after losing 1-2 to Atletico Madrid on Saturday, December 21. Flick said that losing 9 points was not normal.\r\n",
@@ -4561,6 +4930,42 @@
         "uuid": "70380984-7a17-47a5-8b30-8de0ed32adf7",
         "positive": 9.8,
         "negative": 7.8
+    },
+    {
+        "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
+        "category": "bollywood",
+        "date_time": "2024-12-15T10:21:00",
+        "uuid": "39ba8cd6-e33e-4b30-b193-0126bb35d5bd",
+        "positive": 10.7,
+        "negative": 2
+    },
+    {
+        "headlines": "KJo on 23 years of Kabhi Khushi Kabhie Gham: One of those pinch me moments…Karan Johar celebrated 23 years of the iconic movie Kabhi Khushi Kabhie Gham. On Saturday, the filmmaker shared stills from the film with a heartfelt note on Instagram. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-on-23-years-of-shah-rukh-khan-amitabh-bachchan-kabhi-khushi-kabhie-gham-2649801-2024-12-14",
+        "category": "bollywood",
+        "date_time": "2024-12-14T14:29:00",
+        "uuid": "068b8af4-fc5e-4eb0-b5fd-4dd17b609dfa",
+        "positive": 17.2,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Rani Mukerji's Mardaani 3 to release in theatres in 2026The makers of the upcoming film Mardaani 3 announced that the film will release in theatres in 2026. Actor Rani Mukerji will reprise her role as Shivani Shivaji Rao. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rani-mukerji-mardaani-3-to-release-in-2026-2649254-2024-12-13",
+        "category": "bollywood",
+        "date_time": "2024-12-13T12:21:00",
+        "uuid": "6355b289-2ab9-4219-8f70-0fc3391ebcd4",
+        "positive": 14.6,
+        "negative": 0.8
+    },
+    {
+        "headlines": "SRK shares sweet birthday wish for 'coolest and bossest' RajinikanthSuperstar Shah Rukh Khan on Thursday shared the sweetest birthday wish for megastar Rajinikanth. Sharing a photo of himself with the icon, SRK called Rajinikanth 'remarkably simple' and 'inspiring.'",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-shares-sweet-birthday-wish-for-coolest-and-bossest-rajinikanth-2649125-2024-12-13",
+        "category": "bollywood",
+        "date_time": "2024-12-13T00:07:00",
+        "uuid": "235d66ee-56ed-474b-a9c9-82a4706103cc",
+        "positive": 22.3,
+        "negative": 0.8
     },
     {
         "headlines": "2 months, 6 ODI debuts: India continue experimenting with eyes on World CupINDW vs WIW: India have gone into an experimentation mode since crashing out of the Women's T20 World Cup back in October. Seven players have made debuts for them in international cricket, six of them are in ODIs. ",
@@ -4590,76 +4995,76 @@
         "negative": 4.2
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
+        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T22:14:00",
+        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
+        "positive": 4.1,
+        "negative": 7.3
     },
     {
-        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T10:43:00",
-        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
-        "positive": 7.1,
-        "negative": 2.8
+        "headlines": "Preity Zinta's sweet BTS moment from Dil Chahta Hai: A chocolate croissant to rescuePreity Zinta shared a heartwarming behind-the-scenes story from the shoot of Dil Chahta Hai, highlighting a moment of hunger and humour that ended with a chocolate croissant. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/preity-zinta-sweet-bts-moment-from-dil-chahta-hai-a-chocolate-croissant-to-rescue-2649030-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T21:12:00",
+        "uuid": "6b67f197-8203-48fb-bc5f-621473e06508",
+        "positive": 18.9,
+        "negative": 4.3
     },
     {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Did Jadeja snub English questions at MCG? Aussie media stirs controversyThe Australian media has stirred up another controversy just days after Virat Kohli requested an Australian reporter not to take pictures of his family at Melbourne airport, with the press now accusing spinner Ravindra Jadeja of refusing to answer questions in English.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ravindra-jadeja-english-questions-mcg-australian-media-stirs-controversy-2653334-2024-12-21",
-        "category": "sports",
-        "date_time": "2024-12-21T13:34:00",
-        "uuid": "44032cd0-9eca-4d20-80d1-708ca2e81055",
-        "positive": 6.6,
-        "negative": 9.7
-    },
-    {
-        "headlines": "IND vs BAN, U19 Women's Asia Cup Final: When and where to watch liveU19 Women's Asia Cup 2024 Final: Niki Prasad's India and Sumaiya Akter's Bangladesh will face each other in the grand finale on Sunday, December 22 at the Bayuemas Oval in Kuala Lumpur. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-asia-cup-2024-india-vs-bangladesh-live-streaming-2653329-2024-12-21",
-        "category": "sports",
-        "date_time": "2024-12-21T13:29:00",
-        "uuid": "47a905e0-80cf-4612-b3c7-11b96de3c30e",
-        "positive": 6.6,
+        "headlines": "Anees Bazmee recalls being Raj Kapoor's assistant director: He breathed cinemaDirector Anees Bazmee opens up about being iconic filmmaker Raj Kapoor's former assistant director. Bazmee had assisted Kapoor on Prem Rog. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anees-bazmee-recalls-being-raj-kapoor-assistant-director-2648884-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T17:16:00",
+        "uuid": "aef00406-6fd1-449f-b0aa-0059fd09ade9",
+        "positive": 17.8,
         "negative": 0.6
     },
     {
-        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:32:00",
-        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
-        "positive": 4.6,
+        "headlines": "Go this weekend: All We Imagine as Light back in cinemas, Payal Kapadia thrilledDirector Payal Kapadia's film, All We Imagine As Light, has returned to cinemas with improved showtimes in select cities.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/all-we-imagine-as-light-back-in-cinemas-director-payal-kapadia-thrilled-2648880-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T17:30:00",
+        "uuid": "c2af656f-3e8c-408a-b24b-4a4a457136b8",
+        "positive": 17.8,
+        "negative": 0.5
+    },
+    {
+        "headlines": "Priyanka Chopra on working in SRK's Don: I tasted blood a little bitGlobal icon Priyanka Chopra recently opened up about working in the Farhan Akhtar directorial, Don, which also starred superstar Shah Rukh Khan in the lead. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-chopra-on-working-in-shah-rukh-khan-don-2648797-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T14:51:00",
+        "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
+        "positive": 9.6,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T14:25:00",
+        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
+        "positive": 11.3,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
+        "category": "bollywood",
+        "date_time": "2024-12-11T11:31:00",
+        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
+        "positive": 17,
         "negative": 3.1
     },
     {
-        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:12:00",
-        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
+        "headlines": "Singham Again OTT release: When and where to watch Ajay Devgn's actionerSingham Again, starring Ajay Devgn, is now available on Prime Video. The film, which was released on Diwali, earned around Rs 300 crore in India. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/singham-again-on-ott-when-and-where-to-watch-rohit-shetty-ajay-devgns-actioner-2652743-2024-12-20",
+        "category": "bollywood",
+        "date_time": "2024-12-20T12:11:00",
+        "uuid": "0e006bea-61bf-45f3-9ffc-2b75d976e3cb",
         "positive": 9.4,
-        "negative": 5.4
-    },
-    {
-        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T13:25:00",
-        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
-        "positive": 12.6,
-        "negative": 1.8
+        "negative": 1.3
     },
     {
         "headlines": "Ancelotti reacts to being most decorated Real Madrid coach: An honourCarlo Ancelotti cemented his status as Real Madrid's greatest manager by becoming the most decorated coach in the club's history with a record-breaking 15th trophy, following their 3-0 triumph over Pachuca in the FIFA Intercontinental Cup final.",
@@ -4752,13 +5157,13 @@
         "negative": 4.7
     },
     {
-        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T12:35:00",
-        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
-        "positive": 14.5,
-        "negative": 0.6
+        "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/thalapathy-vijay-impressed-baby-john-varun-dhawan-work-director-kalees-2652819-2024-12-20",
+        "category": "bollywood",
+        "date_time": "2024-12-20T13:30:00",
+        "uuid": "6968f830-dcd4-46c5-a90b-8c2c065ceee6",
+        "positive": 16.3,
+        "negative": 0.9
     },
     {
         "headlines": "George Eastham, England 1966 World Cup squad member, dies aged 88George Eastham, a member of England's World Cup-winning squad, has died at the age of 88. Eastham did not play in England's 1966 success on home soil.\r\n",
@@ -5031,13 +5436,13 @@
         "negative": 1.3
     },
     {
-        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T12:21:00",
-        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
-        "positive": 8.5,
-        "negative": 0.8
+        "headlines": "Vanvaas review: Nana Patekar, Utkarsh Sharma's film is a dull version of BaghbanReleased-Fri Dec 20, 2024Vanvaas, starring Nana Patekar and Utkarsh Sharma, explores the deteriorating bond between parents and children, reminiscent of Baghban but with a deeper twist. Despite its noble intentions, the film struggles with execution and fails to evoke the emotional depth it aims for.",
+        "article_url": "https://www.indiatoday.in/movies/reviews/story/vanvaas-movie-review-nana-patekar-utkarsh-sharma-film-dull-version-baghban-2652809-2024-12-20",
+        "category": "bollywood",
+        "date_time": "2024-12-20T13:37:00",
+        "uuid": "47cbd85a-5124-418f-94a8-9c5c096ba740",
+        "positive": 12.5,
+        "negative": 11.1
     },
     {
         "headlines": "Disciplined Akash Deep credits Rohit-Kohli for massive growth-curve in AustraliaIndia pacer Akash Deep credited senior batters Virat Kohli and Rohit Sharma for the betterment of young India fast bowlers. The seamer credited the duo for helping young pacers not look like novices on their first tour of Australia.\r\n",
@@ -5074,15 +5479,6 @@
         "uuid": "3aff1c05-76f4-4519-b8c6-251f541fc18f",
         "positive": 9.9,
         "negative": 2.7
-    },
-    {
-        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
-        "positive": 5.6,
-        "negative": 1.5
     },
     {
         "headlines": "McSweeney had hard start in his career: Vaughan suggests alternate batting positionMichael Vaughan sympathised with Nathan McSweeney after the 25-year-old was dropped from Australia's squad for the final two Tests. Sam Konstas has been given an opportunity for the MCG and SCG Tests. ",
@@ -5130,663 +5526,6 @@
         "negative": 2
     },
     {
-        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
-        "positive": 6,
-        "negative": 1.7
-    },
-    {
-        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T08:59:00",
-        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
-        "positive": 9,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T08:49:00",
-        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
-        "positive": 5.6,
-        "negative": 3.2
-    },
-    {
-        "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
-        "article_url": "https://www.indiatoday.in/technology/talking-points/story/apple-needs-to-make-apple-tv-that-can-run-aaa-games-challenge-xbox-and-playstation-2651840-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T18:49:00",
-        "uuid": "a680fc88-868b-4ec6-8e71-abedfc4c690d",
-        "positive": 10.2,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Jasprit Bumrah shares adorable picture with wife Sanjana Ganesan ahead of MCG TestJasprit Bumrah shared an adorable picture with wife Sanjana Ganesan ahead of the Boxing Day Test. ",
-        "article_url": "https://www.indiatoday.in/sports/story/jasprit-bumrah-shares-adorable-picture-with-wife-sanjana-ganesan-ahead-of-mcg-test-2653770-2024-12-22",
-        "category": "sports",
-        "date_time": "2024-12-22T18:18:00",
-        "uuid": "a5c6a444-f95b-4063-bcdc-52d1c94f0b79",
-        "positive": 11.1,
-        "negative": 0
-    },
-    {
-        "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:43:00",
-        "uuid": "d51373ed-d52d-4d74-9d88-ce9d689f1f9c",
-        "positive": 5.2,
-        "negative": 0
-    },
-    {
-        "headlines": "Xiaomi Sound Outdoor speaker review: Affordable price, great sound, cool designIf you are in the market for a Bluetooth speaker that sounds good and is easy to carry around, while also being affordable, Xiaomi's new Sound Outdoor speakers are definitely worth considering. Priced at Rs 3,499, these outdoor speakers look cool and sound great. More details on it in this review by India Today Tech. ",
-        "article_url": "https://www.indiatoday.in/technology/reviews/story/xiaomi-sound-outdoor-speaker-review-affordable-price-great-sound-cool-design-2651719-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:15:00",
-        "uuid": "bebc8309-a888-4c33-b0f9-d5a5aaf9984f",
-        "positive": 15.8,
-        "negative": 2.8
-    },
-    {
-        "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
-        "category": "technology",
-        "date_time": "2024-12-21T17:35:00",
-        "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
-        "positive": 10.4,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Using UPI for online payments? Do this to avoid QR code scamsScammers are tricking users into scanning fraudulent QR codes, leading to the loss of large sums of money in seconds. Here is how QR code scams work and how you can protect yourself from them.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/using-upi-for-online-payments-do-this-to-avoid-qr-code-scams-2651738-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:18:00",
-        "uuid": "d91d3906-fe62-4d29-a0fe-5659125ce25a",
-        "positive": 9.1,
-        "negative": 15.8
-    },
-    {
-        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T14:28:00",
-        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
-        "positive": 5.2,
-        "negative": 16.6
-    },
-    {
-        "headlines": "Poco M7 Pro 5G launched under Rs 15,000: 4 reasons to buy, 1 to skipThe Poco M7 Pro 5G is one of the most affordable phones you can buy right now in the sub-Rs 15,000 price segment. In this article, we give you 4 reasons why you should buy this phone and 1 reason to skip it.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/poco-m7-pro-5g-launched-under-rs-15000-4-reasons-to-buy-1-to-skip-2651621-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-19T10:15:00",
-        "uuid": "de77e0c3-1969-432c-9357-8dd1945a60bb",
-        "positive": 17.8,
-        "negative": 3
-    },
-    {
-        "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/new-youtube-rules-in-india-as-platform-bans-videos-with-clickbait-titles-2652709-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:30:00",
-        "uuid": "d6975c7e-71c1-45e7-8042-87c9bf42564c",
-        "positive": 11.2,
-        "negative": 7.6
-    },
-    {
-        "headlines": "Instagram teases AI tool that will change backgrounds, outfits with simple promptInstagram may soon allow users to change background, colour of clothes, and other things in a video, with just a simple text prompt. \r\n",
-        "article_url": "https://www.indiatoday.in/technology/news/story/instagram-teases-ai-video-editing-tool-that-will-change-backgrounds-outfits-with-a-simple-text-prompt-2652701-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:22:00",
-        "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
-        "positive": 10.4,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-20-flash-thinking-mode-a-reasoning-model-similar-to-openai-o1-2652683-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:04:00",
-        "uuid": "9a74d91e-5c5c-43de-8689-bd0266ba84ca",
-        "positive": 9.4,
-        "negative": 7
-    },
-    {
-        "headlines": "Worried about UPI frauds? Activate BharatPe 'Shield' now with these easy stepsShield is available on the BharatPe app, which can be downloaded on both Android and iOS devices.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/worried-about-upi-frauds-activate-bharatpe-shield-now-with-these-easy-steps-2652747-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T11:38:00",
-        "uuid": "97a8aad8-c811-4905-a859-d70e089d9168",
-        "positive": 13.1,
-        "negative": 8
-    },
-    {
-        "headlines": "Nvidia's most affordable Gen AI supercomputer, Jetson Orin Nano, is here: What is it and how it workNvidia has launched its most affordable Generative AI supercomputer that integrates a 6-core ARM CPU, delivering up to 67 INT8 TOPS. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nvidias-most-affordable-gen-ai-supercomputer-jetson-orin-nano-is-here-what-is-it-and-how-it-work-2652732-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T11:07:00",
-        "uuid": "a737bd69-ccb0-4a6f-95f3-56b7ba73cef7",
-        "positive": 11.6,
-        "negative": 0.6
-    },
-    {
-        "headlines": "OPPO Reno 13 live image leak reveals exclusive blue colour for IndiaA live image of the Oppo Reno 13 has surfaced, showcasing a deep blue or purple colour that looks nothing short of stunning.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-live-image-leak-reveals-exclusive-blue-colour-for-india-2652733-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T11:05:00",
-        "uuid": "4f45b819-ae93-4e91-b362-6e0ff40cc883",
-        "positive": 8.5,
-        "negative": 2.6
-    },
-    {
-        "headlines": "Sennheiser Profile Wireless launched in India, targets content creators with a price of Rs 29,900Sennheiser has launched the Profile Wireless microphone system in India. The company believes that it would be useful to a number of content creators who want a robust microphone system at relatively affordable price point. \r\n",
-        "article_url": "https://www.indiatoday.in/technology/news/story/sennheiser-profile-wireless-launched-in-india-targets-content-creators-with-a-price-of-rs-29900-2652762-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T12:06:00",
-        "uuid": "69f740eb-7e2c-4e1e-ae30-b8cc3367357e",
-        "positive": 8.9,
-        "negative": 3
-    },
-    {
-        "headlines": "Amazon updates Prime membership policy: 2 new rules you should know aboutAmazon has two new rules that you should know about if you share your Amazon Prime account with friends or family.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/if-you-share-your-amazon-prime-video-account-with-your-family-there-are-2-new-rules-you-should-know-about-2652821-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T13:33:00",
-        "uuid": "f4462293-10b6-47b5-850e-f7c6c9d38195",
-        "positive": 9.1,
-        "negative": 1
-    },
-    {
-        "headlines": "Xiaomi reveals plans for open ecosystem for apps, connected TV and ads in IndiaAt the Xiaomi Internet Partner Conference 2024, Xiaomi India reveals plans for India's digital future through its open ecosystem, HyperOS.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-reveals-plans-for-sustainable-open-ecosystem-for-apps-connected-tv-and-ads-in-india-2652792-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T13:03:00",
-        "uuid": "1e5b73b1-798a-4046-96f6-8d956aa20be2",
-        "positive": 16.8,
-        "negative": 0
-    },
-    {
-        "headlines": "OnePlus 13R battery, chipset and camera details confirmed ahead of India launchOnePlus 13R is confirmed to arrive in India with a Snapdragon 8 Gen 3 and 6000mAh battery. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-battery-chipset-and-camera-details-confirmed-ahead-of-india-launch-on-january-7-2652827-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T14:46:00",
-        "uuid": "59a266cc-7cd7-426b-8646-8cfcf43819ee",
-        "positive": 4.8,
-        "negative": 0
-    },
-    {
-        "headlines": "Google layoffs: CEO Sundar Pichai announces 10 per cent job cutsGoogle CEO Sundar Pichai has recently announced another major lay-off cycle as part of its efficiency drive. This time, the company plans to cut 10 per cent of the managerial roles. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/google-layoffs-ceo-sundar-pichai-announces-10-per-cent-job-cuts-says-it-is-to-boost-efficiency-2652915-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T15:52:00",
-        "uuid": "8a8fe689-f7da-4f64-a4fa-e4813bceac9d",
-        "positive": 9.8,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Bing Image Creator now generates images directly from Edge address barPowered by the DALL-E 3 PR16 model, Microsoft's Bing Image Creator now generates images twice as fast and features a redesigned homepage with light and dark mode options.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/bing-image-creator-now-generates-images-directly-from-edge-address-bar-2652908-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T15:44:00",
-        "uuid": "115a6eae-d5e0-4868-a4b4-3f99d4a30e76",
-        "positive": 18.9,
-        "negative": 0.4
-    },
-    {
-        "headlines": "How to use ChatGPT on WhatsAppThe WhatsApp integration offers a free and simple way to use ChatGPT, and it's perfect for casual users or those who want to experiment with AI tools.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/how-to-use-chatgpt-on-whatsapp-2652967-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T17:03:00",
-        "uuid": "0a016b8a-3149-447c-b02f-b90cfd35947f",
-        "positive": 12.2,
-        "negative": 0.4
-    },
-    {
-        "headlines": "Qualcomm vs Arm: What is it about and how can it impact the global chip market Qualcomm's battle with Arm is not just about a big company acquiring a startup, it's a fight for the future of chip design, with profound implications on the global chip market.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/what-is-the-qualcomm-vs-arm-battle-that-could-have-huge-implications-on-the-chip-market-2652962-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T16:55:00",
-        "uuid": "52a96c65-3ef9-4374-ae5d-8cfc52438da2",
-        "positive": 7,
-        "negative": 5.2
-    },
-    {
-        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
-        "category": "technology",
-        "date_time": "2024-12-21T12:30:00",
-        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
-        "positive": 11.4,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
-        "article_url": "https://www.indiatoday.in/lifestyle/society/story/why-now-december-is-a-better-time-to-start-your-new-year-resolutions-2652036-2024-12-19",
-        "category": "lifestyle",
-        "date_time": "2024-12-19T08:00:00",
-        "uuid": "380967c1-cbc7-4b3a-93fd-5dffac513382",
-        "positive": 10.5,
-        "negative": 2.7
-    },
-    {
-        "headlines": "With Kendall and Hailey backing it, will NAD+ witness a boom in Indian market?A look into the science, the stars, and the soaring interest in NAD+ as India joins the global wellness race.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/with-kendall-and-hailey-backing-it-will-nad-witness-a-boom-in-indian-market-2651846-2024-12-18",
-        "category": "lifestyle",
-        "date_time": "2024-12-18T19:15:00",
-        "uuid": "38980317-8109-4bf1-ade2-201bf4ec5f6d",
-        "positive": 20.9,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Can microdosing on Ozempic help you lose weight without any side effects? Microdosing Ozempic has gained momentum online, with people hoping to use the weight-loss benefits while dodging the side effects. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-microdosing-on-ozempic-help-you-lose-weight-without-any-side-effects-2651165-2024-12-18",
-        "category": "lifestyle",
-        "date_time": "2024-12-18T08:00:00",
-        "uuid": "fce50e2e-5fc7-431e-a1e2-8e87a9bdab5c",
-        "positive": 8.4,
-        "negative": 5.9
-    },
-    {
-        "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/youve-been-misunderstanding-trauma-bonding-all-along-its-a-toxic-trap-2651160-2024-12-17",
-        "category": "lifestyle",
-        "date_time": "2024-12-17T19:04:00",
-        "uuid": "db2bfbe8-64b7-468d-9da2-8553dc09fd2a",
-        "positive": 18.4,
-        "negative": 27.9
-    },
-    {
-        "headlines": "The struggles of pet owners no one talks about in IndiaIndian pet parents, especially dog owners, feel that India is yet to become more accommodating for pets. There are several struggles that often go unnoticed despite the ever-growing Indian pet market.",
-        "article_url": "https://www.indiatoday.in/lifestyle/society/story/pet-dog-owners-struggles-india-2650652-2024-12-17",
-        "category": "lifestyle",
-        "date_time": "2024-12-17T12:31:00",
-        "uuid": "c6f0f5a3-c942-4467-a63d-788ddf77ee0b",
-        "positive": 13.4,
-        "negative": 7.8
-    },
-    {
-        "headlines": "No, Soursop, a fruit, cannot cure cancer Soursop, a close cousin of the famous custard apple, is gaining buzz on social media for its anti-cancerous properties. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-soursop-a-fruit-cannot-cure-cancer-2650598-2024-12-16",
-        "category": "lifestyle",
-        "date_time": "2024-12-16T20:30:00",
-        "uuid": "38816f10-2d42-49dc-8740-fa2e0a5a0a7a",
-        "positive": 14.2,
-        "negative": 8.3
-    },
-    {
-        "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/indian-married-couples-romance-alive-while-living-with-family-2648573-2024-12-15",
-        "category": "lifestyle",
-        "date_time": "2024-12-15T13:28:00",
-        "uuid": "4df8a75e-5b5d-4778-80f1-5332a236d631",
-        "positive": 19.5,
-        "negative": 4.6
-    },
-    {
-        "headlines": "Another day, another tantrum. How to manage your child's anger and stubbornnessEvery parent knows the struggle when their child throws a fit after being told 'no'. It's frustrating, and while you know this behaviour isn't healthy, how should you handle it?\r\n",
-        "article_url": "https://www.indiatoday.in/lifestyle/society/story/how-to-manage-your-childs-anger-and-stubbornness-2649430-2024-12-14",
-        "category": "lifestyle",
-        "date_time": "2024-12-14T09:06:00",
-        "uuid": "9a679325-a16f-4509-8c4a-fe6f20f5b738",
-        "positive": 13.7,
-        "negative": 17.4
-    },
-    {
-        "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T19:26:00",
-        "uuid": "4560b915-9ef2-46f2-a72a-b99dab1ef740",
-        "positive": 13,
-        "negative": 1.9
-    },
-    {
-        "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:37:00",
-        "uuid": "62676be9-a737-4469-af21-a0ebb1709656",
-        "positive": 18.6,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:40:00",
-        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
-        "positive": 21.6,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-12T15:30:00",
-        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
-        "positive": 19.1,
-        "negative": 6.7
-    },
-    {
-        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T18:30:00",
-        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
-        "positive": 11.5,
-        "negative": 11.9
-    },
-    {
-        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T14:06:00",
-        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
-        "positive": 13.2,
-        "negative": 15
-    },
-    {
-        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-10T19:31:00",
-        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
-        "positive": 16,
-        "negative": 8.3
-    },
-    {
-        "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-10T15:31:00",
-        "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
-        "positive": 12.9,
-        "negative": 4.5
-    },
-    {
-        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T19:34:00",
-        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
-        "positive": 19.2,
-        "negative": 6.4
-    },
-    {
-        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
-        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
-        "category": "lifestyle",
-        "date_time": "2024-12-09T18:58:00",
-        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
-        "positive": 17.6,
-        "negative": 1.2
-    },
-    {
-        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
-        "category": "lifestyle",
-        "date_time": "2024-12-08T18:40:00",
-        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
-        "positive": 20.3,
-        "negative": 3.3
-    },
-    {
-        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T19:36:00",
-        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
-        "positive": 26.5,
-        "negative": 6.2
-    },
-    {
-        "headlines": "Can making a vision board really help you achieve your goals for 2025?A vision board is a creative visual representation of one's goals, dreams, and aspirations. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/can-making-a-vision-board-really-help-you-manifest-your-goals-for-2025-2652499-2024-12-20",
-        "category": "lifestyle",
-        "date_time": "2024-12-20T08:00:00",
-        "uuid": "8f2b01a5-c4c0-481b-ae53-f1f060cd0633",
-        "positive": 22,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Warming lotions can keep you cosy during winter. But are they really safe?These warming lotions may seem like ordinary creams until you apply them. They create a warming sensation and that particular body part begins to feel hot.",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/warming-lotions-can-keep-you-cosy-during-winter-but-are-they-really-safe-2652498-2024-12-20",
-        "category": "lifestyle",
-        "date_time": "2024-12-20T17:01:00",
-        "uuid": "17f50bd3-2767-4829-abd3-cbbfc68e05f8",
-        "positive": 23.7,
-        "negative": 7
-    },
-    {
-        "headlines": "You think OCD is just about cleanliness? You got it wrong all this longFor Millennials and Gen Z, \"OCD\" might seem like a trendy buzzword for an obsession with cleanliness. But hold on—there's so much more to it than meets the eye.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/ocd-is-not-just-about-cleanliness-you-got-it-wrong-all-this-long-monica-geller-friends-sheldon-cooper-2653185-2024-12-21",
-        "category": "lifestyle",
-        "date_time": "2024-12-21T08:30:00",
-        "uuid": "1d814ddb-f229-4013-bf76-b0f5e341c4d0",
-        "positive": 12.4,
-        "negative": 14.3
-    },
-    {
-        "headlines": "Indians are chasing luxury travel like never before. What's driving this shift?Luxury travel among Indian tourists is no longer a rare occurrence. Recent statistics also reveal a clear shift in how Indians approach their travel plans. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/indians-are-chasing-luxury-travel-like-never-before-whats-driving-this-shift-2653015-2024-12-22",
-        "category": "lifestyle",
-        "date_time": "2024-12-22T14:03:00",
-        "uuid": "bf97c7e1-815e-4aed-800a-71d2a00ea7b0",
-        "positive": 11.2,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T17:55:00",
-        "uuid": "b9103930-2ddc-4baa-a892-9a2cb7251458",
-        "positive": 4.3,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Nana Patekar invites Aamir Khan for a special screening of his film VanvaasNana Patekar is set to host a special Vanvaas screening for Aamir Khan. The film, starring Utkarsh Sharma and Simratt Kaur along with Nana Patekar, is set to release on December 20. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/nana-patekar-invites-aamir-khan-for-a-special-screening-of-his-film-vanvaas-2652293-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T14:33:00",
-        "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
-        "positive": 15.8,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-tabus-de-de-pyaar-de-2-to-hit-theatres-in-november-2025-2652214-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T12:51:00",
-        "uuid": "32a2c971-7e64-4baf-98cc-d84a009807a0",
-        "positive": 3.5,
-        "negative": 1
-    },
-    {
-        "headlines": "Thaman S: The creative force behind hits like Ramuloo Ramulaa and Nain MattakaThaman S, famed for his South Indian hits, is set to debut his first full Bollywood album with Baby John this Christmas. The film stars Varun Dhawan in the lead and the will be released on December 25.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/meet-thaman-s-man-behind-tracks-like-ramuloo-ramulaa-nain-mattaka-baby-john-varun-dhawan-2651892-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T20:55:00",
-        "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
-        "positive": 11.9,
-        "negative": 0.6
-    },
-    {
-        "headlines": "Taapsee Pannu begins shoot for Gandhari: Let the war beginAfter Phir Aayi Haseen Dilruba, Taapsee Pannu began filming her next film. Titled Gandhari, the action-thriller is produced by Kanika Dhillon and directed by Devashish Makhija.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/taapsee-pannu-begins-shoot-for-gandhari-let-the-war-begin-2651609-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T13:16:00",
-        "uuid": "d7717455-e11c-4a05-b13e-fce8a08b22ce",
-        "positive": 11.8,
-        "negative": 8.7
-    },
-    {
-        "headlines": "20 years of Swades: Exploring the timeless relevance of Shah Rukh Khan filmReleased in 2004, Ashutosh Gowariker's Swades remains a poignant narrative in Indian cinema. Starring Shah Rukh Khan, it explores themes of identity, responsibility, and self-reliance.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/swades-20-years-shah-rukh-khan-film-themes-timeless-ashutosh-gowariker-2651239-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T08:37:00",
-        "uuid": "1f6634c5-3c58-4bd8-9191-1cc256c71564",
-        "positive": 14.8,
-        "negative": 2.8
-    },
-    {
-        "headlines": "Relive Mohan Bhargava's journey of homecoming as Swades completes 20 yearsAshutosh Gowariker's film Swades turned 20 today. The filmmaker shared a heartfelt letter celebrating the milestone on Instagram.\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ashutosh-gowariker-celebrates-20-years-of-swades-with-heartfelt-letter-to-fans-2651137-2024-12-17",
-        "category": "bollywood",
-        "date_time": "2024-12-17T18:59:00",
-        "uuid": "b05f6d60-112b-4453-b127-dbf7a6e68d56",
-        "positive": 17.7,
-        "negative": 0
-    },
-    {
-        "headlines": "Sikandar teaser to release on Salman Khan's 59th birthday: ReportThe much-awaited teaser for Sikandar will be reportedly release on Salman Khan's 59th birthday. Fans are eager for this special birthday treat from the Bollywood superstar.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-to-release-on-salman-khans-59th-birthday-report-2650634-2024-12-16",
-        "category": "bollywood",
-        "date_time": "2024-12-16T20:06:00",
-        "uuid": "58bbde1a-747b-4da1-aad5-96c2ae4f7f13",
-        "positive": 11.8,
-        "negative": 6.1
-    },
-    {
-        "headlines": "Varun Dhawan on Salman Khan's cameo in Baby John: Its impact will last for many daysSalman Khan is set to make a cameo appearance in the upcoming film Baby John. Varun Dhawan, who plays the lead in the movie, shared insights about the superstar's role.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-on-salman-khan-cameo-in-baby-john-its-impact-will-last-for-many-days-2650209-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T19:32:00",
-        "uuid": "f303ae39-504d-4557-af9d-e209bca13146",
-        "positive": 6.4,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T10:21:00",
-        "uuid": "39ba8cd6-e33e-4b30-b193-0126bb35d5bd",
-        "positive": 10.7,
-        "negative": 2
-    },
-    {
-        "headlines": "KJo on 23 years of Kabhi Khushi Kabhie Gham: One of those pinch me moments…Karan Johar celebrated 23 years of the iconic movie Kabhi Khushi Kabhie Gham. On Saturday, the filmmaker shared stills from the film with a heartfelt note on Instagram. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-on-23-years-of-shah-rukh-khan-amitabh-bachchan-kabhi-khushi-kabhie-gham-2649801-2024-12-14",
-        "category": "bollywood",
-        "date_time": "2024-12-14T14:29:00",
-        "uuid": "068b8af4-fc5e-4eb0-b5fd-4dd17b609dfa",
-        "positive": 17.2,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Rani Mukerji's Mardaani 3 to release in theatres in 2026The makers of the upcoming film Mardaani 3 announced that the film will release in theatres in 2026. Actor Rani Mukerji will reprise her role as Shivani Shivaji Rao. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rani-mukerji-mardaani-3-to-release-in-2026-2649254-2024-12-13",
-        "category": "bollywood",
-        "date_time": "2024-12-13T12:21:00",
-        "uuid": "6355b289-2ab9-4219-8f70-0fc3391ebcd4",
-        "positive": 14.6,
-        "negative": 0.8
-    },
-    {
-        "headlines": "SRK shares sweet birthday wish for 'coolest and bossest' RajinikanthSuperstar Shah Rukh Khan on Thursday shared the sweetest birthday wish for megastar Rajinikanth. Sharing a photo of himself with the icon, SRK called Rajinikanth 'remarkably simple' and 'inspiring.'",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-shares-sweet-birthday-wish-for-coolest-and-bossest-rajinikanth-2649125-2024-12-13",
-        "category": "bollywood",
-        "date_time": "2024-12-13T00:07:00",
-        "uuid": "235d66ee-56ed-474b-a9c9-82a4706103cc",
-        "positive": 22.3,
-        "negative": 0.8
-    },
-    {
-        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T22:14:00",
-        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
-        "positive": 4.1,
-        "negative": 7.3
-    },
-    {
-        "headlines": "Preity Zinta's sweet BTS moment from Dil Chahta Hai: A chocolate croissant to rescuePreity Zinta shared a heartwarming behind-the-scenes story from the shoot of Dil Chahta Hai, highlighting a moment of hunger and humour that ended with a chocolate croissant. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/preity-zinta-sweet-bts-moment-from-dil-chahta-hai-a-chocolate-croissant-to-rescue-2649030-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T21:12:00",
-        "uuid": "6b67f197-8203-48fb-bc5f-621473e06508",
-        "positive": 18.9,
-        "negative": 4.3
-    },
-    {
-        "headlines": "Anees Bazmee recalls being Raj Kapoor's assistant director: He breathed cinemaDirector Anees Bazmee opens up about being iconic filmmaker Raj Kapoor's former assistant director. Bazmee had assisted Kapoor on Prem Rog. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anees-bazmee-recalls-being-raj-kapoor-assistant-director-2648884-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T17:16:00",
-        "uuid": "aef00406-6fd1-449f-b0aa-0059fd09ade9",
-        "positive": 17.8,
-        "negative": 0.6
-    },
-    {
-        "headlines": "Go this weekend: All We Imagine as Light back in cinemas, Payal Kapadia thrilledDirector Payal Kapadia's film, All We Imagine As Light, has returned to cinemas with improved showtimes in select cities.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/all-we-imagine-as-light-back-in-cinemas-director-payal-kapadia-thrilled-2648880-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T17:30:00",
-        "uuid": "c2af656f-3e8c-408a-b24b-4a4a457136b8",
-        "positive": 17.8,
-        "negative": 0.5
-    },
-    {
-        "headlines": "Priyanka Chopra on working in SRK's Don: I tasted blood a little bitGlobal icon Priyanka Chopra recently opened up about working in the Farhan Akhtar directorial, Don, which also starred superstar Shah Rukh Khan in the lead. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-chopra-on-working-in-shah-rukh-khan-don-2648797-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T14:51:00",
-        "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
-        "positive": 9.6,
-        "negative": 2.1
-    },
-    {
-        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T14:25:00",
-        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
-        "positive": 11.3,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
-        "category": "bollywood",
-        "date_time": "2024-12-11T11:31:00",
-        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
-        "positive": 17,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Singham Again OTT release: When and where to watch Ajay Devgn's actionerSingham Again, starring Ajay Devgn, is now available on Prime Video. The film, which was released on Diwali, earned around Rs 300 crore in India. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/singham-again-on-ott-when-and-where-to-watch-rohit-shetty-ajay-devgns-actioner-2652743-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T12:11:00",
-        "uuid": "0e006bea-61bf-45f3-9ffc-2b75d976e3cb",
-        "positive": 9.4,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/thalapathy-vijay-impressed-baby-john-varun-dhawan-work-director-kalees-2652819-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T13:30:00",
-        "uuid": "6968f830-dcd4-46c5-a90b-8c2c065ceee6",
-        "positive": 16.3,
-        "negative": 0.9
-    },
-    {
-        "headlines": "Vanvaas review: Nana Patekar, Utkarsh Sharma's film is a dull version of BaghbanReleased-Fri Dec 20, 2024Vanvaas, starring Nana Patekar and Utkarsh Sharma, explores the deteriorating bond between parents and children, reminiscent of Baghban but with a deeper twist. Despite its noble intentions, the film struggles with execution and fails to evoke the emotional depth it aims for.",
-        "article_url": "https://www.indiatoday.in/movies/reviews/story/vanvaas-movie-review-nana-patekar-utkarsh-sharma-film-dull-version-baghban-2652809-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T13:37:00",
-        "uuid": "47cbd85a-5124-418f-94a8-9c5c096ba740",
-        "positive": 12.5,
-        "negative": 11.1
-    },
-    {
         "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
         "category": "bollywood",
@@ -5814,6 +5553,15 @@
         "negative": 5.4
     },
     {
+        "headlines": "Jasprit Bumrah shares adorable picture with wife Sanjana Ganesan ahead of MCG TestJasprit Bumrah shared an adorable picture with wife Sanjana Ganesan ahead of the Boxing Day Test. ",
+        "article_url": "https://www.indiatoday.in/sports/story/jasprit-bumrah-shares-adorable-picture-with-wife-sanjana-ganesan-ahead-of-mcg-test-2653770-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T18:18:00",
+        "uuid": "a5c6a444-f95b-4063-bcdc-52d1c94f0b79",
+        "positive": 11.1,
+        "negative": 0
+    },
+    {
         "headlines": "Sensex ends nearly 1,000 points lower, Nifty below 24,000The Sensex ended 964.15 points lower at 79,218.05, while the Nifty50 settled 247.15 points lower at 23,951.70.",
         "article_url": "https://www.indiatoday.in/business/story/stock-market-closing-sensex-1000-points-lower-nifty-below-24000-us-federal-reserve-2652345-2024-12-19",
         "category": "business",
@@ -5830,6 +5578,15 @@
         "uuid": "c33d5908-f7ea-4309-91d0-370ce60653fc",
         "positive": 7.5,
         "negative": 7.5
+    },
+    {
+        "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T17:35:00",
+        "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
+        "positive": 10.4,
+        "negative": 0.3
     },
     {
         "headlines": "Quick delivery, quicker success: Zepto founders top Hurun listZepto, established in 2021 by the duo of Kaivalya Vohra and Aadit Palicha, has revolutionised the quick-commerce sector with its 10-minute grocery delivery model.",
@@ -5850,15 +5607,6 @@
         "negative": 10.6
     },
     {
-        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T17:21:00",
-        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
-        "positive": 15.4,
-        "negative": 6
-    },
-    {
         "headlines": "Mamata Machinery IPO: Latest GMP sees sharp rise; should you subscribe?Mamata Machinery, a leading manufacturer of packaging machines, seeks to raise Rs 179.39 crore from its offer for sale, with promoters selling up to 73.82 lakh equity shares at a face value of Rs 10 each.",
         "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-latest-gmp-price-band-should-you-subscribe-stmp-2652244-2024-12-19",
         "category": "business",
@@ -5866,15 +5614,6 @@
         "uuid": "563715b2-c6c4-421a-ba60-c40bca975656",
         "positive": 12.5,
         "negative": 0.3
-    },
-    {
-        "headlines": "GST Council delays decision on lowering tax for health, life insurance premiumsGST Council Meeting: During the 55th meeting held on Saturday, technical considerations led to the deferral, with the Group of Ministers (GoM) tasked to conduct further deliberations.",
-        "article_url": "https://www.indiatoday.in/business/story/gst-council-delays-decision-on-lowering-tax-for-health-life-insurance-premiums-2653343-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T13:55:00",
-        "uuid": "df8ba614-5870-4fa4-ad05-ca813dec5df0",
-        "positive": 6.4,
-        "negative": 3.3
     },
     {
         "headlines": "Explained: Why SpiceJet share price jumped nearly 8% todaySpicejet share price: The airline's share price was up 7.48% to Rs 60.49 on the Bombay Stock Exchange (BSE) at 12:40 pm.",
@@ -5931,15 +5670,6 @@
         "negative": 8.5
     },
     {
-        "headlines": "GST at 18% on used EV car sale by business, jet fuel stays out of its ambitThe GST Council in its 55th meeting also decided to clarify on taxability of popcorn, saying caramelised popcorn will continue to attract tax at the rate of 18 per cent.",
-        "article_url": "https://www.indiatoday.in/business/story/goods-and-services-tax-eighteen-per-cent-used-ev-car-sale-business-jet-fuel-gst-2653536-2024-12-21",
-        "category": "business",
-        "date_time": "2024-12-21T21:39:00",
-        "uuid": "79bc526c-7c2c-4667-91c3-7db8de87ab4a",
-        "positive": 4.2,
-        "negative": 3.8
-    },
-    {
         "headlines": "Dalal Street bloodbath: 3 reasons behind today's stock market crashStock market crash: Sensex dropped over 1,000 points while Nifty fell below 24,000, marking the fourth consecutive day of losses for the benchmark indices. ",
         "article_url": "https://www.indiatoday.in/business/story/market-crash-dalal-street-bloodbath-3-reasons-behind-today-fall-us-fed-rate-cut-weak-rupee-2652125-2024-12-19",
         "category": "business",
@@ -5956,6 +5686,132 @@
         "uuid": "1b366b0c-8d5e-4fa0-b1d5-111b2b5f2c1a",
         "positive": 17.6,
         "negative": 6.4
+    },
+    {
+        "headlines": "Renuka joins Jhulan Goswami in elite list with five wicket haul vs West IndiesIndia's right-arm seamer Renuka Singh became the fourth woman from the country to take a five-wicket haul in ODI cricket during the first match vs West Indies in Vadodra.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-renuka-singh-india-women-vs-west-indies-women-1st-odi-vadodra-smriti-mandhana-2653792-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T20:05:00",
+        "uuid": "df86d7b2-a2b8-4727-88be-8aaeef9ce999",
+        "positive": 4.7,
+        "negative": 1.3
+    },
+    {
+        "headlines": "INDW vs WIW: Smriti Mandhana, Renuka power India to biggest ODI win at homeThe Indian team registered a record-shattering 211-run victory over the West Indies in the 1st women's ODI contest in Vadodra. The Indian women's team registered their overall 2nd biggest win in the 50-over format contest. ",
+        "article_url": "https://www.indiatoday.in/sports/story/indw-vs-wiw-smriti-mandhana-renuka-power-india-to-biggest-odi-win-at-home-2653794-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T20:08:00",
+        "uuid": "c1995ab3-9d10-4308-851f-a5060e024ea5",
+        "positive": 9.1,
+        "negative": 5.1
+    },
+    {
+        "headlines": "Are we in Delhi or MCG? Usman Khawaja on massive support for India on Boxing DayThe MCG is set for an electrifying Boxing Day Test, but with Indian fans expected to dominate the stands, Usman Khawaja's humorous question lingers: 'Are we in Delhi or MCG?' The stage is set for cricketing fireworks. ",
+        "article_url": "https://www.indiatoday.in/sports/story/are-we-in-delhi-or-mcg-usman-khawaja-on-massive-support-for-india-on-boxing-day-2653788-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T19:38:00",
+        "uuid": "aa83d060-c650-4585-aa95-0ea8a5ee2a1e",
+        "positive": 17.1,
+        "negative": 2.2
+    },
+    {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
+        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T10:43:00",
+        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
+        "positive": 7.1,
+        "negative": 2.8
+    },
+    {
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
+    },
+    {
+        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:32:00",
+        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
+        "positive": 4.6,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:12:00",
+        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
+        "positive": 9.4,
+        "negative": 5.4
+    },
+    {
+        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T13:25:00",
+        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
+        "positive": 12.6,
+        "negative": 1.8
+    },
+    {
+        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:35:00",
+        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
+        "positive": 14.5,
+        "negative": 0.6
+    },
+    {
+        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:21:00",
+        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
+        "positive": 8.5,
+        "negative": 0.8
+    },
+    {
+        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
+        "positive": 5.6,
+        "negative": 1.5
+    },
+    {
+        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
+        "positive": 6,
+        "negative": 1.7
+    },
+    {
+        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T08:59:00",
+        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
+        "positive": 9,
+        "negative": 2.3
     },
     {
         "headlines": "Transrail Lighting IPO: All you need to know. Check GMP before subscribing Transrail Lighting Limited, established in February 2008, is an engineering and construction company specialising in power transmission and distribution.",
@@ -6001,24 +5857,6 @@
         "uuid": "beb48ff2-0375-4501-bbc2-b92663c0a9e3",
         "positive": 9.9,
         "negative": 4.3
-    },
-    {
-        "headlines": "GST Council's key decisions: What's cheaper, what's costlier, and all other detailsGST Council brings key tax changes impacting everyday essentials like popcorn, used cars, fortified rice, corporate sponsorships, and penalties.\r\n",
-        "article_url": "https://www.indiatoday.in/business/story/gst-council-key-decisions-what-cheaper-what-costlier-and-all-other-details-2653637-2024-12-22",
-        "category": "business",
-        "date_time": "2024-12-22T11:44:00",
-        "uuid": "455f23b6-017c-4bd1-b2c3-fac1f9413104",
-        "positive": 10.8,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Epigamia co-founder Rohan Mirchandani dies at 42 due to cardiac arrestRohan Mirchandani, co-founder of Epigamia, died due to cardiac arrest. Known for transforming India's food market, he led Epigamia's growth to over 20,000 retail outlets in 30 cities.",
-        "article_url": "https://www.indiatoday.in/business/story/rohan-mirchandani-death-yogurt-brand-epigamia-co-founder-dies-at-42-due-to-cardiac-arrest-2653723-2024-12-22",
-        "category": "business",
-        "date_time": "2024-12-22T16:39:00",
-        "uuid": "4c546cd4-2ddd-4ffe-b1a9-24e77487bb62",
-        "positive": 13.5,
-        "negative": 6.7
     },
     {
         "headlines": "Sensex, Nifty extend losses amid weak global cuesAt 10:28 am, the S&P BSE Sensex fell 274.86 points to 78,943.19, while the NSE Nifty50 dropped 67.90 points to 23,883.80.",
@@ -6120,6 +5958,24 @@
         "negative": 7.6
     },
     {
+        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T08:49:00",
+        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
+        "positive": 5.6,
+        "negative": 3.2
+    },
+    {
+        "headlines": "Indians are chasing luxury travel like never before. What's driving this shift?Luxury travel among Indian tourists is no longer a rare occurrence. Recent statistics also reveal a clear shift in how Indians approach their travel plans. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/indians-are-chasing-luxury-travel-like-never-before-whats-driving-this-shift-2653015-2024-12-22",
+        "category": "lifestyle",
+        "date_time": "2024-12-22T14:03:00",
+        "uuid": "bf97c7e1-815e-4aed-800a-71d2a00ea7b0",
+        "positive": 11.2,
+        "negative": 1.3
+    },
+    {
         "headlines": "Vivad Se Vishwas Scheme: FAQs for settling tax disputes easily Taxpayers can resolve pending income tax disputes under the Direct Tax Vivad Se Vishwas Scheme 2024 by settling the disputed tax amount and avoiding additional interest and penalties.",
         "article_url": "https://www.indiatoday.in/business/story/direct-tax-vivad-se-vishwas-scheme-2024-dtvsv-faqs-for-settling-tax-disputes-easily-2652961-2024-12-20",
         "category": "business",
@@ -6154,5 +6010,176 @@
         "uuid": "9e07b01f-86a9-4d6c-ad75-95661f659c99",
         "positive": 10.7,
         "negative": 3.6
+    },
+    {
+        "headlines": "GST Council delays decision on lowering tax for health, life insurance premiumsGST Council Meeting: During the 55th meeting held on Saturday, technical considerations led to the deferral, with the Group of Ministers (GoM) tasked to conduct further deliberations.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-council-delays-decision-on-lowering-tax-for-health-life-insurance-premiums-2653343-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T13:55:00",
+        "uuid": "df8ba614-5870-4fa4-ad05-ca813dec5df0",
+        "positive": 6.4,
+        "negative": 3.3
+    },
+    {
+        "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
+        "article_url": "https://www.indiatoday.in/technology/talking-points/story/apple-needs-to-make-apple-tv-that-can-run-aaa-games-challenge-xbox-and-playstation-2651840-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T18:49:00",
+        "uuid": "a680fc88-868b-4ec6-8e71-abedfc4c690d",
+        "positive": 10.2,
+        "negative": 2.3
+    },
+    {
+        "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T16:43:00",
+        "uuid": "d51373ed-d52d-4d74-9d88-ce9d689f1f9c",
+        "positive": 5.2,
+        "negative": 0
+    },
+    {
+        "headlines": "Xiaomi Sound Outdoor speaker review: Affordable price, great sound, cool designIf you are in the market for a Bluetooth speaker that sounds good and is easy to carry around, while also being affordable, Xiaomi's new Sound Outdoor speakers are definitely worth considering. Priced at Rs 3,499, these outdoor speakers look cool and sound great. More details on it in this review by India Today Tech. ",
+        "article_url": "https://www.indiatoday.in/technology/reviews/story/xiaomi-sound-outdoor-speaker-review-affordable-price-great-sound-cool-design-2651719-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T16:15:00",
+        "uuid": "bebc8309-a888-4c33-b0f9-d5a5aaf9984f",
+        "positive": 15.8,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Using UPI for online payments? Do this to avoid QR code scamsScammers are tricking users into scanning fraudulent QR codes, leading to the loss of large sums of money in seconds. Here is how QR code scams work and how you can protect yourself from them.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/using-upi-for-online-payments-do-this-to-avoid-qr-code-scams-2651738-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T16:18:00",
+        "uuid": "d91d3906-fe62-4d29-a0fe-5659125ce25a",
+        "positive": 9.1,
+        "negative": 15.8
+    },
+    {
+        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T14:28:00",
+        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
+        "positive": 5.2,
+        "negative": 16.6
+    },
+    {
+        "headlines": "Poco M7 Pro 5G launched under Rs 15,000: 4 reasons to buy, 1 to skipThe Poco M7 Pro 5G is one of the most affordable phones you can buy right now in the sub-Rs 15,000 price segment. In this article, we give you 4 reasons why you should buy this phone and 1 reason to skip it.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/poco-m7-pro-5g-launched-under-rs-15000-4-reasons-to-buy-1-to-skip-2651621-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-19T10:15:00",
+        "uuid": "de77e0c3-1969-432c-9357-8dd1945a60bb",
+        "positive": 17.8,
+        "negative": 3
+    },
+    {
+        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T17:21:00",
+        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
+        "positive": 15.4,
+        "negative": 6
+    },
+    {
+        "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/new-youtube-rules-in-india-as-platform-bans-videos-with-clickbait-titles-2652709-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T09:30:00",
+        "uuid": "d6975c7e-71c1-45e7-8042-87c9bf42564c",
+        "positive": 11.2,
+        "negative": 7.6
+    },
+    {
+        "headlines": "Instagram teases AI tool that will change backgrounds, outfits with simple promptInstagram may soon allow users to change background, colour of clothes, and other things in a video, with just a simple text prompt. \r\n",
+        "article_url": "https://www.indiatoday.in/technology/news/story/instagram-teases-ai-video-editing-tool-that-will-change-backgrounds-outfits-with-a-simple-text-prompt-2652701-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T09:22:00",
+        "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
+        "positive": 10.4,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-20-flash-thinking-mode-a-reasoning-model-similar-to-openai-o1-2652683-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T09:04:00",
+        "uuid": "9a74d91e-5c5c-43de-8689-bd0266ba84ca",
+        "positive": 9.4,
+        "negative": 7
+    },
+    {
+        "headlines": "Worried about UPI frauds? Activate BharatPe 'Shield' now with these easy stepsShield is available on the BharatPe app, which can be downloaded on both Android and iOS devices.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/worried-about-upi-frauds-activate-bharatpe-shield-now-with-these-easy-steps-2652747-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T11:38:00",
+        "uuid": "97a8aad8-c811-4905-a859-d70e089d9168",
+        "positive": 13.1,
+        "negative": 8
+    },
+    {
+        "headlines": "Nvidia's most affordable Gen AI supercomputer, Jetson Orin Nano, is here: What is it and how it workNvidia has launched its most affordable Generative AI supercomputer that integrates a 6-core ARM CPU, delivering up to 67 INT8 TOPS. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nvidias-most-affordable-gen-ai-supercomputer-jetson-orin-nano-is-here-what-is-it-and-how-it-work-2652732-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T11:07:00",
+        "uuid": "a737bd69-ccb0-4a6f-95f3-56b7ba73cef7",
+        "positive": 11.6,
+        "negative": 0.6
+    },
+    {
+        "headlines": "OPPO Reno 13 live image leak reveals exclusive blue colour for IndiaA live image of the Oppo Reno 13 has surfaced, showcasing a deep blue or purple colour that looks nothing short of stunning.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-live-image-leak-reveals-exclusive-blue-colour-for-india-2652733-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T11:05:00",
+        "uuid": "4f45b819-ae93-4e91-b362-6e0ff40cc883",
+        "positive": 8.5,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Sennheiser Profile Wireless launched in India, targets content creators with a price of Rs 29,900Sennheiser has launched the Profile Wireless microphone system in India. The company believes that it would be useful to a number of content creators who want a robust microphone system at relatively affordable price point. \r\n",
+        "article_url": "https://www.indiatoday.in/technology/news/story/sennheiser-profile-wireless-launched-in-india-targets-content-creators-with-a-price-of-rs-29900-2652762-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T12:06:00",
+        "uuid": "69f740eb-7e2c-4e1e-ae30-b8cc3367357e",
+        "positive": 8.9,
+        "negative": 3
+    },
+    {
+        "headlines": "Amazon updates Prime membership policy: 2 new rules you should know aboutAmazon has two new rules that you should know about if you share your Amazon Prime account with friends or family.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/if-you-share-your-amazon-prime-video-account-with-your-family-there-are-2-new-rules-you-should-know-about-2652821-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T13:33:00",
+        "uuid": "f4462293-10b6-47b5-850e-f7c6c9d38195",
+        "positive": 9.1,
+        "negative": 1
+    },
+    {
+        "headlines": "GST at 18% on used EV car sale by business, jet fuel stays out of its ambitThe GST Council in its 55th meeting also decided to clarify on taxability of popcorn, saying caramelised popcorn will continue to attract tax at the rate of 18 per cent.",
+        "article_url": "https://www.indiatoday.in/business/story/goods-and-services-tax-eighteen-per-cent-used-ev-car-sale-business-jet-fuel-gst-2653536-2024-12-21",
+        "category": "business",
+        "date_time": "2024-12-21T21:39:00",
+        "uuid": "79bc526c-7c2c-4667-91c3-7db8de87ab4a",
+        "positive": 4.2,
+        "negative": 3.8
+    },
+    {
+        "headlines": "GST Council's key decisions: What's cheaper, what's costlier, and all other detailsGST Council brings key tax changes impacting everyday essentials like popcorn, used cars, fortified rice, corporate sponsorships, and penalties.\r\n",
+        "article_url": "https://www.indiatoday.in/business/story/gst-council-key-decisions-what-cheaper-what-costlier-and-all-other-details-2653637-2024-12-22",
+        "category": "business",
+        "date_time": "2024-12-22T11:44:00",
+        "uuid": "455f23b6-017c-4bd1-b2c3-fac1f9413104",
+        "positive": 10.8,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Epigamia co-founder Rohan Mirchandani dies at 42 due to cardiac arrestRohan Mirchandani, co-founder of Epigamia, died due to cardiac arrest. Known for transforming India's food market, he led Epigamia's growth to over 20,000 retail outlets in 30 cities.",
+        "article_url": "https://www.indiatoday.in/business/story/rohan-mirchandani-death-yogurt-brand-epigamia-co-founder-dies-at-42-due-to-cardiac-arrest-2653723-2024-12-22",
+        "category": "business",
+        "date_time": "2024-12-22T16:39:00",
+        "uuid": "4c546cd4-2ddd-4ffe-b1a9-24e77487bb62",
+        "positive": 13.5,
+        "negative": 6.7
     }
 ]
