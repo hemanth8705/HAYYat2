@@ -288,6 +288,15 @@
         "negative": 1.7
     },
     {
+        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:34:00",
+        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
+        "positive": 19.2,
+        "negative": 6.4
+    },
+    {
         "headlines": "Elon Musk says stop using hashtags on X because they look uglyHave you still been using hashtags? You don't need them anymore, at least on X, and the company CEO Elon Musk has confirmed that. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-stop-using-hashtags-on-x-because-you-dont-need-them-and-they-look-ugly-2651563-2024-12-18",
         "category": "technology",
@@ -1494,6 +1503,15 @@
         "negative": 0.3
     },
     {
+        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
+        "category": "lifestyle",
+        "date_time": "2024-12-09T18:58:00",
+        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
+        "positive": 17.6,
+        "negative": 1.2
+    },
+    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -2365,6 +2383,15 @@
         "uuid": "2cd9bbf8-f7c2-4a16-a82d-68db2b92fdab",
         "positive": 10.2,
         "negative": 5
+    },
+    {
+        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
+        "category": "lifestyle",
+        "date_time": "2024-12-08T18:40:00",
+        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
+        "positive": 20.3,
+        "negative": 3.3
     },
     {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
@@ -3843,31 +3870,31 @@
         "negative": 6.2
     },
     {
-        "headlines": "Bangladesh clinch 1st-ever 3-0 T20I sweep vs West Indies after Jaker specialBangladesh completed a stunning redemption arc, sweeping West Indies 3-0 in the T20I series after an 80-run victory in the final match, powered by Jaker Ali's brilliance and Rishad Hossain's exceptional bowling performance in St. Vincent.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-bangladesh-t20i-series-sweep-jaker-ali-special-kingstown-2652722-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T10:25:00",
-        "uuid": "e6c1e9ab-e601-4668-afc7-37d7a294cdb0",
-        "positive": 10.3,
-        "negative": 1.7
-    },
-    {
-        "headlines": "Australia drop Nathan McSweeney for Boxing Day Test, add teenage opener to squadBorder-Gavaskar Trophy: Australia named a 15-man squad for the last two tests against India on Friday. In a bold call, the Australian selectors dropped Nathan McSweeney and roped in 19-year-old Sam Konstas. Pacers Jhye Richardson and Sean Abbott also returned to the squad. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-squad-nathan-mcsweeney-dropped-sam-konstas-jhye-richardson-2652715-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T10:17:00",
-        "uuid": "28674c32-55d9-4384-9b56-28f9b97df423",
-        "positive": 8.4,
+        "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:37:00",
+        "uuid": "62676be9-a737-4469-af21-a0ebb1709656",
+        "positive": 18.6,
         "negative": 4.1
     },
     {
-        "headlines": "From sapno ka sheher to WPL deal: MI's Akshita set to take flightExclusive: Mumbai Indians' cricketer Akshita Maheshwari talked to IndiaToday.in and spoke about her WPL deal, her admiration for Jasprit Bumrah, Bhuvneshwar Kumar. In the auction that took place in Bengaluru, MI picked Maheshwari for Rs 20 lakhs. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-exclusive-interview-akshita-maheshwari-mumbai-indians-wpl-2025-deal-2652644-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T11:36:00",
-        "uuid": "bf7287ed-5fa1-4d06-bbaf-489a1e5c571f",
-        "positive": 13.4,
-        "negative": 2.1
+        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:40:00",
+        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
+        "positive": 21.6,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-12T15:30:00",
+        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
+        "positive": 19.1,
+        "negative": 6.7
     },
     {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
@@ -3904,6 +3931,33 @@
         "uuid": "64e3fd8d-cb46-4578-a9a9-462d774a0f34",
         "positive": 11.9,
         "negative": 0.6
+    },
+    {
+        "headlines": "Bangladesh clinch 1st-ever 3-0 T20I sweep vs West Indies after Jaker specialBangladesh completed a stunning redemption arc, sweeping West Indies 3-0 in the T20I series after an 80-run victory in the final match, powered by Jaker Ali's brilliance and Rishad Hossain's exceptional bowling performance in St. Vincent.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-bangladesh-t20i-series-sweep-jaker-ali-special-kingstown-2652722-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T10:25:00",
+        "uuid": "e6c1e9ab-e601-4668-afc7-37d7a294cdb0",
+        "positive": 10.3,
+        "negative": 1.7
+    },
+    {
+        "headlines": "Australia drop Nathan McSweeney for Boxing Day Test, add teenage opener to squadBorder-Gavaskar Trophy: Australia named a 15-man squad for the last two tests against India on Friday. In a bold call, the Australian selectors dropped Nathan McSweeney and roped in 19-year-old Sam Konstas. Pacers Jhye Richardson and Sean Abbott also returned to the squad. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-squad-nathan-mcsweeney-dropped-sam-konstas-jhye-richardson-2652715-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T10:17:00",
+        "uuid": "28674c32-55d9-4384-9b56-28f9b97df423",
+        "positive": 8.4,
+        "negative": 4.1
+    },
+    {
+        "headlines": "From sapno ka sheher to WPL deal: MI's Akshita set to take flightExclusive: Mumbai Indians' cricketer Akshita Maheshwari talked to IndiaToday.in and spoke about her WPL deal, her admiration for Jasprit Bumrah, Bhuvneshwar Kumar. In the auction that took place in Bengaluru, MI picked Maheshwari for Rs 20 lakhs. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-exclusive-interview-akshita-maheshwari-mumbai-indians-wpl-2025-deal-2652644-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T11:36:00",
+        "uuid": "bf7287ed-5fa1-4d06-bbaf-489a1e5c571f",
+        "positive": 13.4,
+        "negative": 2.1
     },
     {
         "headlines": "Manchester United ousted by Tottenham in Carabao Cup despite Amad Diallo-showRuben Amorim endured his first major setback as Manchester United manager, with his side crashing out of the Carabao Cup after a thrilling 4-3 defeat to Tottenham Hotspur, despite a spirited effort for a late comeback driven by the likes of Amad Diallo and Joshua Zirkzee.",
@@ -3978,6 +4032,15 @@
         "negative": 10
     },
     {
+        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T18:30:00",
+        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
+        "positive": 11.5,
+        "negative": 11.9
+    },
+    {
         "headlines": "BCCI to hold Special General Meeting in January to elect Jay Shah's replacementThe BCCI will host a Special General Meeting (SGM) in Mumbai on January 12 to pick a new secretary and treasurer, after Jay Shah and Ashish Shelar quit their positions earlier this month.",
         "article_url": "https://www.indiatoday.in/sports/story/bcci-to-hold-special-general-meeting-in-january-to-elect-jay-shahs-replacement-2652864-2024-12-20",
         "category": "sports",
@@ -3993,33 +4056,6 @@
         "date_time": "2024-12-20T14:29:00",
         "uuid": "d99da8de-fdc2-49d6-9d8c-0308e8013e5b",
         "positive": 12.7,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Pakistan will not lose face or money with hybrid Champions Trophy: ChopraAakash Chopra believes the ICC's hybrid model for Champions Trophy 2025 safeguards Pakistan Cricket Board's reputation and finances, even as India's refusal to travel altered the tournament's hosting dynamics.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-champions-trophy-hybrid-model-will-not-hurt-pakistan-money-lose-face-aakash-chopra-2652839-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T14:04:00",
-        "uuid": "a71ae42b-b59d-41c7-9ccb-38a4dde9d3a9",
-        "positive": 12.6,
-        "negative": 2.9
-    },
-    {
-        "headlines": "Mates club? Australian selectors accused of bias after Nathan McSweeney snub Australia vs India, 4th Test: Australia dropped 25-year-old Nathan McSweeney from the squad for the final two Tests of the Border-Gavaskar Trophy. Selector George Bailey has faced criticism for not backing the youngster, especially when senior players like Usman Khawaja and Marnus Labuschagne have struggled with the bat.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricke-ind-vs-aus-boxing-day-nathan-mcsweeney-dropped-george-bailey-criticism-2652823-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T13:48:00",
-        "uuid": "64406747-4863-4f7e-b2b5-e9270fa6452f",
-        "positive": 6.1,
-        "negative": 5.7
-    },
-    {
-        "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-u19-women-t20-asia-cup-aayushi-shukla-india-beat-sri-lanka-reach-final-2652897-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T15:16:00",
-        "uuid": "47b53052-1d98-4f0e-8604-4155f6eae0a2",
-        "positive": 13.2,
         "negative": 2.4
     },
     {
@@ -4201,6 +4237,33 @@
         "uuid": "4173d4f1-79da-4cab-a44a-fd533622a249",
         "positive": 9.9,
         "negative": 4.3
+    },
+    {
+        "headlines": "Pakistan will not lose face or money with hybrid Champions Trophy: ChopraAakash Chopra believes the ICC's hybrid model for Champions Trophy 2025 safeguards Pakistan Cricket Board's reputation and finances, even as India's refusal to travel altered the tournament's hosting dynamics.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-champions-trophy-hybrid-model-will-not-hurt-pakistan-money-lose-face-aakash-chopra-2652839-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T14:04:00",
+        "uuid": "a71ae42b-b59d-41c7-9ccb-38a4dde9d3a9",
+        "positive": 12.6,
+        "negative": 2.9
+    },
+    {
+        "headlines": "Mates club? Australian selectors accused of bias after Nathan McSweeney snub Australia vs India, 4th Test: Australia dropped 25-year-old Nathan McSweeney from the squad for the final two Tests of the Border-Gavaskar Trophy. Selector George Bailey has faced criticism for not backing the youngster, especially when senior players like Usman Khawaja and Marnus Labuschagne have struggled with the bat.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricke-ind-vs-aus-boxing-day-nathan-mcsweeney-dropped-george-bailey-criticism-2652823-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T13:48:00",
+        "uuid": "64406747-4863-4f7e-b2b5-e9270fa6452f",
+        "positive": 6.1,
+        "negative": 5.7
+    },
+    {
+        "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-u19-women-t20-asia-cup-aayushi-shukla-india-beat-sri-lanka-reach-final-2652897-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T15:16:00",
+        "uuid": "47b53052-1d98-4f0e-8604-4155f6eae0a2",
+        "positive": 13.2,
+        "negative": 2.4
     },
     {
         "headlines": "Pakistan Cricket Board to hold PSL 10 draft in GwadarThe PCB announced that the coastal city of Gwadar in the restive province of Balochistan will host the player's draft for the Pakistan Super League (PSL) on January 11.",
@@ -4426,6 +4489,15 @@
         "uuid": "00bb48cb-c6cf-4c1c-8d74-06cce1adbc7c",
         "positive": 8.6,
         "negative": 1.6
+    },
+    {
+        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T14:06:00",
+        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
+        "positive": 13.2,
+        "negative": 15
     },
     {
         "headlines": "I got to know Ashwin was retiring 5 minutes before he announced it: JadejaBorder-Gavaskar Trophy: Ravindra Jadeja revealed that R Ashwin did not give him the slightest hint about his retirement, even though the two shared adjacent seats in the Indian dressing room at the Gabba on the final day of the third Test.",
@@ -4824,6 +4896,15 @@
         "negative": 17.2
     },
     {
+        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T19:31:00",
+        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
+        "positive": 16,
+        "negative": 8.3
+    },
+    {
         "headlines": "Frustrated Flick says 'losing 9 points not normal' after tough Atletico resultFC Barcelona coach Hansi Flick was left frustrated after losing 1-2 to Atletico Madrid on Saturday, December 21. Flick said that losing 9 points was not normal.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/football-barcelona-vs-atletico-madrid-hansi-flick-reaction-laliga-points-table-2653594-2024-12-22",
         "category": "sports",
@@ -5067,15 +5148,6 @@
         "negative": 2.7
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
-    },
-    {
         "headlines": "McSweeney had hard start in his career: Vaughan suggests alternate batting positionMichael Vaughan sympathised with Nathan McSweeney after the 25-year-old was dropped from Australia's squad for the final two Tests. Sam Konstas has been given an opportunity for the MCG and SCG Tests. ",
         "article_url": "https://www.indiatoday.in/sports/story/mcsweeney-had-hard-start-in-career-vaughan-suggests-alternate-batting-position-2653758-2024-12-22",
         "category": "sports",
@@ -5175,6 +5247,87 @@
         "negative": 2.5
     },
     {
+        "headlines": "Kohli's intense batting practice, Jaiswal takes guidance before Boxing Day Test Let us have a sneak-peak into India's training session ahead of the much-anticipated Boxing Day Test on December 26.",
+        "article_url": "https://www.indiatoday.in/sports/story/virat-kohlis-intense-batting-practice-yashasvi-jaiswal-takes-guidance-ahead-of-boxing-day-test-2653803-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T20:42:00",
+        "uuid": "114bc070-dfe8-49ce-9efa-599835a68560",
+        "positive": 13.6,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Virat Kohli and Babar Azam comparisons make me laugh: Mohammad AmirFormer Pakistan fast bowler Mohammad Amir has said that Virat Kohli's comparisons with Babar Azam or any other cricketer from the current generation makes him laugh.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-and-babar-azam-comparisons-make-me-laugh-says-mohammad-amir-2653802-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T20:42:00",
+        "uuid": "ada06418-171e-40f2-8556-efb7d6cc9293",
+        "positive": 11.7,
+        "negative": 7.2
+    },
+    {
+        "headlines": "Renuka joins Jhulan Goswami in elite list with five wicket haul vs West IndiesIndia's right-arm seamer Renuka Singh became the fourth woman from the country to take a five-wicket haul in ODI cricket during the first match vs West Indies in Vadodra.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-renuka-singh-india-women-vs-west-indies-women-1st-odi-vadodra-smriti-mandhana-2653792-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T20:05:00",
+        "uuid": "df86d7b2-a2b8-4727-88be-8aaeef9ce999",
+        "positive": 4.7,
+        "negative": 1.3
+    },
+    {
+        "headlines": "INDW vs WIW: Smriti Mandhana, Renuka power India to biggest ODI win at homeThe Indian team registered a record-shattering 211-run victory over the West Indies in the 1st women's ODI contest in Vadodra. The Indian women's team registered their overall 2nd biggest win in the 50-over format contest. ",
+        "article_url": "https://www.indiatoday.in/sports/story/indw-vs-wiw-smriti-mandhana-renuka-power-india-to-biggest-odi-win-at-home-2653794-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T20:08:00",
+        "uuid": "c1995ab3-9d10-4308-851f-a5060e024ea5",
+        "positive": 9.1,
+        "negative": 5.1
+    },
+    {
+        "headlines": "Are we in Delhi or MCG? Usman Khawaja on massive support for India on Boxing DayThe MCG is set for an electrifying Boxing Day Test, but with Indian fans expected to dominate the stands, Usman Khawaja's humorous question lingers: 'Are we in Delhi or MCG?' The stage is set for cricketing fireworks. ",
+        "article_url": "https://www.indiatoday.in/sports/story/are-we-in-delhi-or-mcg-usman-khawaja-on-massive-support-for-india-on-boxing-day-2653788-2024-12-22",
+        "category": "sports",
+        "date_time": "2024-12-22T19:38:00",
+        "uuid": "aa83d060-c650-4585-aa95-0ea8a5ee2a1e",
+        "positive": 17.1,
+        "negative": 2.2
+    },
+    {
+        "headlines": "Chess star Tania Sachdev calls out Delhi government for lack of support to sport Tania Sachdev claimed she has not been recognised by the Delhi government for her role in India's historic win in Budapest earlier this year. Tania was also part of the bronze medal-winning women's team at the 2022 Olympiad in Chennai.",
+        "article_url": "https://www.indiatoday.in/sports/story/chess-tania-sachdev-delhi-government-recognition-olympiad-2653941-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T11:36:00",
+        "uuid": "52c057f3-9ac6-4a3f-afbd-e22f976fd47b",
+        "positive": 21.9,
+        "negative": 4.3
+    },
+    {
+        "headlines": "Jasprit Bumrah best in the world, but I have my plans: Sam KonstasAustralia youngster Sam Konstas is set for his Test debut at the Boxing Day game. Konstas was asked about facing Jasprit Bumrah with the new ball, to which the batter replied that he had his own plans.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-jasprit-bumrah-sam-konstas-comment-mcg-test-2653929-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T11:05:00",
+        "uuid": "86a01b90-70c4-4d85-8d9f-30a6de7f7716",
+        "positive": 11.9,
+        "negative": 5
+    },
+    {
+        "headlines": "Tired pitches for India, fresher ones for Australia: MCG practice row explainedAustralia vs India, 4th Test: After India trained on used pitches at the Melbourne Cricket Ground over the weekend, the home team got a spicier one during their first training session on Monday. Here's why the two teams were given pitches with different nature in the lead-up to the Boxing Day Test. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-australia-4th-test-practice-pitches-melbourne-cricket-ground-controversy-2653908-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T10:52:00",
+        "uuid": "9ee0aea1-9e46-4534-82fd-2d651a760c98",
+        "positive": 4.3,
+        "negative": 3.5
+    },
+    {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
         "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
         "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
         "category": "technology",
@@ -5182,6 +5335,15 @@
         "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
         "positive": 7.1,
         "negative": 2.8
+    },
+    {
+        "headlines": "Indians are chasing luxury travel like never before. What's driving this shift?Luxury travel among Indian tourists is no longer a rare occurrence. Recent statistics also reveal a clear shift in how Indians approach their travel plans. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/indians-are-chasing-luxury-travel-like-never-before-whats-driving-this-shift-2653015-2024-12-22",
+        "category": "lifestyle",
+        "date_time": "2024-12-22T14:03:00",
+        "uuid": "bf97c7e1-815e-4aed-800a-71d2a00ea7b0",
+        "positive": 11.2,
+        "negative": 1.3
     },
     {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
@@ -5218,6 +5380,15 @@
         "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
         "positive": 12.6,
         "negative": 1.8
+    },
+    {
+        "headlines": "Forget keys, Apple will soon let you lock and unlock doors with FaceIDApple is reportedly working on a Face ID-enabled smart doorbell as part of its push for home security devices. The device is expected to be released by late 2025.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/forget-keys-face-id-may-soon-lock-and-unlock-your-house-doors-apple-exploring-smart-doorbells-2653880-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T09:11:00",
+        "uuid": "fd61994c-a0b5-4f44-b7e1-20992f4371e4",
+        "positive": 18.1,
+        "negative": 1.7
     },
     {
         "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
@@ -5319,24 +5490,6 @@
         "negative": 16.6
     },
     {
-        "headlines": "Kohli's intense batting practice, Jaiswal takes guidance before Boxing Day Test Let us have a sneak-peak into India's training session ahead of the much-anticipated Boxing Day Test on December 26.",
-        "article_url": "https://www.indiatoday.in/sports/story/virat-kohlis-intense-batting-practice-yashasvi-jaiswal-takes-guidance-ahead-of-boxing-day-test-2653803-2024-12-22",
-        "category": "sports",
-        "date_time": "2024-12-22T20:42:00",
-        "uuid": "114bc070-dfe8-49ce-9efa-599835a68560",
-        "positive": 13.6,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Virat Kohli and Babar Azam comparisons make me laugh: Mohammad AmirFormer Pakistan fast bowler Mohammad Amir has said that Virat Kohli's comparisons with Babar Azam or any other cricketer from the current generation makes him laugh.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-and-babar-azam-comparisons-make-me-laugh-says-mohammad-amir-2653802-2024-12-22",
-        "category": "sports",
-        "date_time": "2024-12-22T20:42:00",
-        "uuid": "ada06418-171e-40f2-8556-efb7d6cc9293",
-        "positive": 11.7,
-        "negative": 7.2
-    },
-    {
         "headlines": "Poco M7 Pro 5G launched under Rs 15,000: 4 reasons to buy, 1 to skipThe Poco M7 Pro 5G is one of the most affordable phones you can buy right now in the sub-Rs 15,000 price segment. In this article, we give you 4 reasons why you should buy this phone and 1 reason to skip it.",
         "article_url": "https://www.indiatoday.in/technology/features/story/poco-m7-pro-5g-launched-under-rs-15000-4-reasons-to-buy-1-to-skip-2651621-2024-12-18",
         "category": "technology",
@@ -5391,33 +5544,6 @@
         "negative": 0.6
     },
     {
-        "headlines": "Renuka joins Jhulan Goswami in elite list with five wicket haul vs West IndiesIndia's right-arm seamer Renuka Singh became the fourth woman from the country to take a five-wicket haul in ODI cricket during the first match vs West Indies in Vadodra.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-renuka-singh-india-women-vs-west-indies-women-1st-odi-vadodra-smriti-mandhana-2653792-2024-12-22",
-        "category": "sports",
-        "date_time": "2024-12-22T20:05:00",
-        "uuid": "df86d7b2-a2b8-4727-88be-8aaeef9ce999",
-        "positive": 4.7,
-        "negative": 1.3
-    },
-    {
-        "headlines": "INDW vs WIW: Smriti Mandhana, Renuka power India to biggest ODI win at homeThe Indian team registered a record-shattering 211-run victory over the West Indies in the 1st women's ODI contest in Vadodra. The Indian women's team registered their overall 2nd biggest win in the 50-over format contest. ",
-        "article_url": "https://www.indiatoday.in/sports/story/indw-vs-wiw-smriti-mandhana-renuka-power-india-to-biggest-odi-win-at-home-2653794-2024-12-22",
-        "category": "sports",
-        "date_time": "2024-12-22T20:08:00",
-        "uuid": "c1995ab3-9d10-4308-851f-a5060e024ea5",
-        "positive": 9.1,
-        "negative": 5.1
-    },
-    {
-        "headlines": "Are we in Delhi or MCG? Usman Khawaja on massive support for India on Boxing DayThe MCG is set for an electrifying Boxing Day Test, but with Indian fans expected to dominate the stands, Usman Khawaja's humorous question lingers: 'Are we in Delhi or MCG?' The stage is set for cricketing fireworks. ",
-        "article_url": "https://www.indiatoday.in/sports/story/are-we-in-delhi-or-mcg-usman-khawaja-on-massive-support-for-india-on-boxing-day-2653788-2024-12-22",
-        "category": "sports",
-        "date_time": "2024-12-22T19:38:00",
-        "uuid": "aa83d060-c650-4585-aa95-0ea8a5ee2a1e",
-        "positive": 17.1,
-        "negative": 2.2
-    },
-    {
         "headlines": "OPPO Reno 13 live image leak reveals exclusive blue colour for IndiaA live image of the Oppo Reno 13 has surfaced, showcasing a deep blue or purple colour that looks nothing short of stunning.",
         "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-live-image-leak-reveals-exclusive-blue-colour-for-india-2652733-2024-12-20",
         "category": "technology",
@@ -5452,6 +5578,24 @@
         "uuid": "1e5b73b1-798a-4046-96f6-8d956aa20be2",
         "positive": 16.8,
         "negative": 0
+    },
+    {
+        "headlines": "Apple rumoured to bring iOS 19 support only to these iPhonesA new report claims that all iPhones running iOS 18 will be compatible with the iOS 19 update.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-rumoured-to-extend-ios-19-support-to-these-iphones-2653874-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T08:41:00",
+        "uuid": "6abb220e-ae7e-4d0e-8db8-6a72c0c0415c",
+        "positive": 7.4,
+        "negative": 1.5
+    },
+    {
+        "headlines": "AirPods Pro 3 could feature heart rate and temperature monitoring featuresApple may introduce health features to its upcoming AirPods Pro. According to Bloomberg's Mark Gurman, the company is testing features like heart rate and temperature monitoring for earbuds. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/next-gen-airpods-pro-could-sport-health-features-like-heart-rate-and-temperature-monitoring-2653872-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T08:34:00",
+        "uuid": "3767e6bb-df9e-4c20-af7f-e01d1ece9493",
+        "positive": 12.4,
+        "negative": 1
     },
     {
         "headlines": "OnePlus 13R battery, chipset and camera details confirmed ahead of India launchOnePlus 13R is confirmed to arrive in India with a Snapdragon 8 Gen 3 and 6000mAh battery. ",
@@ -5517,6 +5661,24 @@
         "negative": 0.3
     },
     {
+        "headlines": "OpenAI's next flagship model is running late, researchers blame low quality dataOpenAI's GPT 5, code-named Orion, is reportedly behind schedule and costing a lot. According to the Wall Street Journal, there are two reasons for it: lack of quality data and financial demands. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/openais-next-flagship-model-is-running-late-researchers-blame-low-quality-data-2653924-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T10:58:00",
+        "uuid": "6498d928-ac36-435d-a8a5-4d1ad5bedf97",
+        "positive": 9.2,
+        "negative": 4.3
+    },
+    {
+        "headlines": "OnePlus Watch 3 leak confirms similar design with rotary dial and advanced ECG monitoringThe OnePlus Watch 3 is expected to come with top-tier hardware. It will run on the Snapdragon W5 Gen 1 processor, paired with 2GB of RAM along with 32GB of onboard storage.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-watch-3-leak-confirms-similar-design-with-rotary-dial-and-advanced-ecg-monitoring-2653913-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T10:40:00",
+        "uuid": "1930813a-8184-46a4-82ea-164920cee52f",
+        "positive": 7,
+        "negative": 0.8
+    },
+    {
         "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
         "article_url": "https://www.indiatoday.in/lifestyle/society/story/why-now-december-is-a-better-time-to-start-your-new-year-resolutions-2652036-2024-12-19",
         "category": "lifestyle",
@@ -5535,15 +5697,6 @@
         "negative": 3.1
     },
     {
-        "headlines": "Indians are chasing luxury travel like never before. What's driving this shift?Luxury travel among Indian tourists is no longer a rare occurrence. Recent statistics also reveal a clear shift in how Indians approach their travel plans. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/indians-are-chasing-luxury-travel-like-never-before-whats-driving-this-shift-2653015-2024-12-22",
-        "category": "lifestyle",
-        "date_time": "2024-12-22T14:03:00",
-        "uuid": "bf97c7e1-815e-4aed-800a-71d2a00ea7b0",
-        "positive": 11.2,
-        "negative": 1.3
-    },
-    {
         "headlines": "Can microdosing on Ozempic help you lose weight without any side effects? Microdosing Ozempic has gained momentum online, with people hoping to use the weight-loss benefits while dodging the side effects. ",
         "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-microdosing-on-ozempic-help-you-lose-weight-without-any-side-effects-2651165-2024-12-18",
         "category": "lifestyle",
@@ -5553,6 +5706,15 @@
         "negative": 5.9
     },
     {
+        "headlines": "GST Council's key decisions: What's cheaper, what's costlier, and all other detailsGST Council brings key tax changes impacting everyday essentials like popcorn, used cars, fortified rice, corporate sponsorships, and penalties.\r\n",
+        "article_url": "https://www.indiatoday.in/business/story/gst-council-key-decisions-what-cheaper-what-costlier-and-all-other-details-2653637-2024-12-22",
+        "category": "business",
+        "date_time": "2024-12-22T11:44:00",
+        "uuid": "455f23b6-017c-4bd1-b2c3-fac1f9413104",
+        "positive": 10.8,
+        "negative": 2.3
+    },
+    {
         "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
         "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/youve-been-misunderstanding-trauma-bonding-all-along-its-a-toxic-trap-2651160-2024-12-17",
         "category": "lifestyle",
@@ -5560,6 +5722,15 @@
         "uuid": "db2bfbe8-64b7-468d-9da2-8553dc09fd2a",
         "positive": 18.4,
         "negative": 27.9
+    },
+    {
+        "headlines": "Epigamia co-founder Rohan Mirchandani dies at 42 due to cardiac arrestRohan Mirchandani, co-founder of Epigamia, died due to cardiac arrest. Known for transforming India's food market, he led Epigamia's growth to over 20,000 retail outlets in 30 cities.",
+        "article_url": "https://www.indiatoday.in/business/story/rohan-mirchandani-death-yogurt-brand-epigamia-co-founder-dies-at-42-due-to-cardiac-arrest-2653723-2024-12-22",
+        "category": "business",
+        "date_time": "2024-12-22T16:39:00",
+        "uuid": "4c546cd4-2ddd-4ffe-b1a9-24e77487bb62",
+        "positive": 13.5,
+        "negative": 6.7
     },
     {
         "headlines": "The struggles of pet owners no one talks about in IndiaIndian pet parents, especially dog owners, feel that India is yet to become more accommodating for pets. There are several struggles that often go unnoticed despite the ever-growing Indian pet market.",
@@ -5580,15 +5751,6 @@
         "negative": 8.3
     },
     {
-        "headlines": "Forget keys, Apple will soon let you lock and unlock doors with FaceIDApple is reportedly working on a Face ID-enabled smart doorbell as part of its push for home security devices. The device is expected to be released by late 2025.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/forget-keys-face-id-may-soon-lock-and-unlock-your-house-doors-apple-exploring-smart-doorbells-2653880-2024-12-23",
-        "category": "technology",
-        "date_time": "2024-12-23T09:11:00",
-        "uuid": "fd61994c-a0b5-4f44-b7e1-20992f4371e4",
-        "positive": 18.1,
-        "negative": 1.7
-    },
-    {
         "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
         "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/indian-married-couples-romance-alive-while-living-with-family-2648573-2024-12-15",
         "category": "lifestyle",
@@ -5607,6 +5769,15 @@
         "negative": 17.4
     },
     {
+        "headlines": "Dam Capital Advisors IPO: Check GMP as listing enters last day for bidding Dam Capital Advisors IPO is a book-built issue worth Rs 840.25 crore. The entire issue is an Offer for Sale (OFS) of 2.97 crore shares by the selling shareholders, meaning the company will not receive any funds from this offering.",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-check-latest-gmp-subscription-last-day-for-bidding-allotment-date-listing-2653892-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T09:55:00",
+        "uuid": "f42fad4c-f4ec-4744-8b22-63fbfecde6cb",
+        "positive": 10.3,
+        "negative": 1.3
+    },
+    {
         "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
         "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
         "category": "lifestyle",
@@ -5616,60 +5787,6 @@
         "negative": 1.9
     },
     {
-        "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:37:00",
-        "uuid": "62676be9-a737-4469-af21-a0ebb1709656",
-        "positive": 18.6,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:40:00",
-        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
-        "positive": 21.6,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-12T15:30:00",
-        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
-        "positive": 19.1,
-        "negative": 6.7
-    },
-    {
-        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T18:30:00",
-        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
-        "positive": 11.5,
-        "negative": 11.9
-    },
-    {
-        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T14:06:00",
-        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
-        "positive": 13.2,
-        "negative": 15
-    },
-    {
-        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-10T19:31:00",
-        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
-        "positive": 16,
-        "negative": 8.3
-    },
-    {
         "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
         "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
         "category": "lifestyle",
@@ -5677,51 +5794,6 @@
         "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
         "positive": 12.9,
         "negative": 4.5
-    },
-    {
-        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T19:34:00",
-        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
-        "positive": 19.2,
-        "negative": 6.4
-    },
-    {
-        "headlines": "Apple rumoured to bring iOS 19 support only to these iPhonesA new report claims that all iPhones running iOS 18 will be compatible with the iOS 19 update.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-rumoured-to-extend-ios-19-support-to-these-iphones-2653874-2024-12-23",
-        "category": "technology",
-        "date_time": "2024-12-23T08:41:00",
-        "uuid": "6abb220e-ae7e-4d0e-8db8-6a72c0c0415c",
-        "positive": 7.4,
-        "negative": 1.5
-    },
-    {
-        "headlines": "AirPods Pro 3 could feature heart rate and temperature monitoring featuresApple may introduce health features to its upcoming AirPods Pro. According to Bloomberg's Mark Gurman, the company is testing features like heart rate and temperature monitoring for earbuds. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/next-gen-airpods-pro-could-sport-health-features-like-heart-rate-and-temperature-monitoring-2653872-2024-12-23",
-        "category": "technology",
-        "date_time": "2024-12-23T08:34:00",
-        "uuid": "3767e6bb-df9e-4c20-af7f-e01d1ece9493",
-        "positive": 12.4,
-        "negative": 1
-    },
-    {
-        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
-        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
-        "category": "lifestyle",
-        "date_time": "2024-12-09T18:58:00",
-        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
-        "positive": 17.6,
-        "negative": 1.2
-    },
-    {
-        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
-        "category": "lifestyle",
-        "date_time": "2024-12-08T18:40:00",
-        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
-        "positive": 20.3,
-        "negative": 3.3
     },
     {
         "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
@@ -5920,24 +5992,6 @@
         "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
         "positive": 9.6,
         "negative": 2.1
-    },
-    {
-        "headlines": "GST Council's key decisions: What's cheaper, what's costlier, and all other detailsGST Council brings key tax changes impacting everyday essentials like popcorn, used cars, fortified rice, corporate sponsorships, and penalties.\r\n",
-        "article_url": "https://www.indiatoday.in/business/story/gst-council-key-decisions-what-cheaper-what-costlier-and-all-other-details-2653637-2024-12-22",
-        "category": "business",
-        "date_time": "2024-12-22T11:44:00",
-        "uuid": "455f23b6-017c-4bd1-b2c3-fac1f9413104",
-        "positive": 10.8,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Epigamia co-founder Rohan Mirchandani dies at 42 due to cardiac arrestRohan Mirchandani, co-founder of Epigamia, died due to cardiac arrest. Known for transforming India's food market, he led Epigamia's growth to over 20,000 retail outlets in 30 cities.",
-        "article_url": "https://www.indiatoday.in/business/story/rohan-mirchandani-death-yogurt-brand-epigamia-co-founder-dies-at-42-due-to-cardiac-arrest-2653723-2024-12-22",
-        "category": "business",
-        "date_time": "2024-12-22T16:39:00",
-        "uuid": "4c546cd4-2ddd-4ffe-b1a9-24e77487bb62",
-        "positive": 13.5,
-        "negative": 6.7
     },
     {
         "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
@@ -6336,12 +6390,39 @@
         "negative": 3.8
     },
     {
-        "headlines": "Dam Capital Advisors IPO: Check GMP as listing enters last day for bidding Dam Capital Advisors IPO is a book-built issue worth Rs 840.25 crore. The entire issue is an Offer for Sale (OFS) of 2.97 crore shares by the selling shareholders, meaning the company will not receive any funds from this offering.",
-        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-check-latest-gmp-subscription-last-day-for-bidding-allotment-date-listing-2653892-2024-12-23",
+        "headlines": "Sensex jumps 800 points: 3 factors behind today's stock market rallyThe S&P BSE Sensex climbed 802.66 points to 78,844.25 by 11:06 am, while the NSE Nifty50 advanced 243 points to trade at 23,828.60.",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-rally-today-sensex-jumps-800-points-key-factors-behind-bull-run-2653942-2024-12-23",
         "category": "business",
-        "date_time": "2024-12-23T09:55:00",
-        "uuid": "f42fad4c-f4ec-4744-8b22-63fbfecde6cb",
+        "date_time": "2024-12-23T11:38:00",
+        "uuid": "e76802aa-04b2-4a8f-bfb8-5fb9696d2ae6",
+        "positive": 16.7,
+        "negative": 1.9
+    },
+    {
+        "headlines": "Concord Enviro IPO closes for bidding: Check latest subscription, GMP The Concord Enviro IPO is a book-built issue worth Rs 500.33 crore. It consists of a fresh issue of 25 lakh shares, which will raise Rs 175 crore, and an offer for sale (OFS) of 46 lakh shares valued at Rs 325.33 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/concord-enviro-ipo-closes-for-bidding-check-latest-subscription-gmp-stmp-2653936-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T11:24:00",
+        "uuid": "bcacdab6-eeec-4cce-92bb-966396942285",
         "positive": 10.3,
-        "negative": 1.3
+        "negative": 2.7
+    },
+    {
+        "headlines": " Stocks to watch today: Zomato, RIL, TCS, Vedanta, NTPC Green, Ultratech CementBoth the BSE Sensex and NSE Nifty50 witnessed massive losses last week, with the Sensex dropping over 4,000 points across five consecutive sessions and the Nifty falling by nearly 1,200 points, marking a 5% weekly loss.",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-zomato-ril-tcs-vedanta-ntpc-green-ultratech-cement-bse-nse-sensex-nifty-2653866-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T10:56:00",
+        "uuid": "a31c03b3-1dce-4790-9b45-a808ef71687b",
+        "positive": 8.5,
+        "negative": 3.5
+    },
+    {
+        "headlines": "Unimech Aerospace IPO opens: Check opening date, gmp, price band, lot size Unimech Aerospace IPO: The price band for the IPO has been set at Rs 745 to Rs 785 per share. The minimum lot size for investors is 19 shares, which requires a minimum investment of Rs 14,915.",
+        "article_url": "https://www.indiatoday.in/business/story/unimech-aerospace-ipo-details-check-opening-date-gmp-price-band-lot-size-allotment-stmp-2653911-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T10:31:00",
+        "uuid": "badc2c4b-f134-404b-a525-225593018b1f",
+        "positive": 11.1,
+        "negative": 1.5
     }
 ]
