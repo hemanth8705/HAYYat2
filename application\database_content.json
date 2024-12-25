@@ -5319,24 +5319,6 @@
         "negative": 5.9
     },
     {
-        "headlines": "Watch: Vinod Kambli sings from hospital bed, shares positive health updateFormer India cricketer Vinod Kambli appeared emotional as he spoke to the media from a private hospital in Thane on Tuesday. The member of 1996 World Cup team was hospitalised on Saturday after his health deteriorated. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-vinod-kambli-thane-hospital-health-update-bed-song-we-are-champions-2654575-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T14:38:00",
-        "uuid": "9d3afec0-b405-4d1a-8ad0-6af25c39ca02",
-        "positive": 16.2,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Watch: Maharashtra's Kiran Navgire hits 8 sixes en route 24-ball 64 vs RailwaysKiran Navgire played a blistering knock of 64 off 25 balls with eight sixes in the Senior Women's One-Day Trophy quarterfinal against Railways.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-maharashtra-kiran-navgire-hits-8-sixes-en-route-24-ball-64-vs-railways-2654580-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T13:42:00",
-        "uuid": "1421afc9-9052-4f0b-84b6-122636c26097",
-        "positive": 8.1,
-        "negative": 2.6
-    },
-    {
         "headlines": "How can Australia crack the Jasprit Bumrah code? Simon Katich revealsFormer Australia batter Simon Katich has shared his advice to counter India fast bowler Jasprit Bumrah for Australian batters  in the last two Test matches.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-jasprit-bumrah-simon-katich-aus-vs-ind-border-gavaskar-trophy-2024-25-2654101-2024-12-23",
         "category": "sports",
@@ -5362,24 +5344,6 @@
         "uuid": "bc2f9865-01ce-442f-a765-94da5f7fb926",
         "positive": 7.2,
         "negative": 1.4
-    },
-    {
-        "headlines": "Sensex, Nifty open flat as market rally loses steam; TCS gains 1% The S&P BSE Sensex was up 47.25 points to 78,587.42, while the NSE Nifty50 was up by 10.80 points to 23,764.25 as of 9:30 AM. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-flat-as-market-rally-loses-steam-tcs-gains-1-percent-2654445-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T09:30:00",
-        "uuid": "59460cd8-a5ee-43d5-b29e-790c6ad1ce61",
-        "positive": 20.9,
-        "negative": 4
-    },
-    {
-        "headlines": "DAM Capital Advisors IPO allotment: Step-by-step guide to check statusDAM Capital Advisors IPO allotment: The allotment status can be checked by investors through the websites of either the Bombay Stock Exchange (BSE) or Link Intime India Private Ltd, the registrar for the issue. ",
-        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-allotment-status-online-guide-gmp-today-listing-date-bse-nse-2654441-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T09:08:00",
-        "uuid": "8455cd73-6749-4656-a318-825538df46a1",
-        "positive": 7.2,
-        "negative": 1.5
     },
     {
         "headlines": "Mbappe's adaptation period is over: Ancelotti after Sevilla winKylian Mbappe silenced critics with a stellar performance, netting a goal and an assist in Real Madrid's 4-2 victory over Sevilla, showcasing his seamless integration into the team and proving his readiness for bigger challenges ahead.",
@@ -5472,6 +5436,24 @@
         "negative": 1.9
     },
     {
+        "headlines": "Watch: Vinod Kambli sings from hospital bed, shares positive health updateFormer India cricketer Vinod Kambli appeared emotional as he spoke to the media from a private hospital in Thane on Tuesday. The member of 1996 World Cup team was hospitalised on Saturday after his health deteriorated. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-vinod-kambli-thane-hospital-health-update-bed-song-we-are-champions-2654575-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T14:38:00",
+        "uuid": "9d3afec0-b405-4d1a-8ad0-6af25c39ca02",
+        "positive": 16.2,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Watch: Maharashtra's Kiran Navgire hits 8 sixes en route 24-ball 64 vs RailwaysKiran Navgire played a blistering knock of 64 off 25 balls with eight sixes in the Senior Women's One-Day Trophy quarterfinal against Railways.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-maharashtra-kiran-navgire-hits-8-sixes-en-route-24-ball-64-vs-railways-2654580-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T13:42:00",
+        "uuid": "1421afc9-9052-4f0b-84b6-122636c26097",
+        "positive": 8.1,
+        "negative": 2.6
+    },
+    {
         "headlines": "Housing board to probe allegations of commercial activity at Dhoni's Ranchi houseThe Jharkhand State Housing Board has taken action against former Indian cricket captain Mahendra Singh Dhoni for reportedly using a residential plot at his Harmu Road residence for commercial activities.",
         "article_url": "https://www.indiatoday.in/sports/story/ms-dhoni-housing-board-allegations-commercial-activity-ranchi-house-2654248-2024-12-23",
         "category": "sports",
@@ -5499,6 +5481,24 @@
         "negative": 1.6
     },
     {
+        "headlines": "Sensex, Nifty open flat as market rally loses steam; TCS gains 1% The S&P BSE Sensex was up 47.25 points to 78,587.42, while the NSE Nifty50 was up by 10.80 points to 23,764.25 as of 9:30 AM. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-flat-as-market-rally-loses-steam-tcs-gains-1-percent-2654445-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T09:30:00",
+        "uuid": "59460cd8-a5ee-43d5-b29e-790c6ad1ce61",
+        "positive": 20.9,
+        "negative": 4
+    },
+    {
+        "headlines": "DAM Capital Advisors IPO allotment: Step-by-step guide to check statusDAM Capital Advisors IPO allotment: The allotment status can be checked by investors through the websites of either the Bombay Stock Exchange (BSE) or Link Intime India Private Ltd, the registrar for the issue. ",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-allotment-status-online-guide-gmp-today-listing-date-bse-nse-2654441-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T09:08:00",
+        "uuid": "8455cd73-6749-4656-a318-825538df46a1",
+        "positive": 7.2,
+        "negative": 1.5
+    },
+    {
         "headlines": "Shami's injury timeline: From injections in WC to getting ruled out of BGTLet us have a look at the injury timeline of India fast bowler Mohammed Shami who has been out of international action since November 19, 2023. ",
         "article_url": "https://www.indiatoday.in/sports/story/shamis-injury-timeline-from-taking-injections-in-world-cup-to-getting-ruled-out-of-bgt-2654280-2024-12-23",
         "category": "sports",
@@ -5515,33 +5515,6 @@
         "uuid": "102e7a7c-4690-420d-ba41-588f8f3db959",
         "positive": 10.4,
         "negative": 3.2
-    },
-    {
-        "headlines": "Rohit backs 'modern-day great' Virat, tight-lipped about his batting spotAustralia vs India, 4th Test: India captain Rohit Sharma expressed confidence in Virat Kohli overcoming his struggles outside the off-stump. However, the skipper refrained from revealing his batting position for the Boxing Day Test, adding to the speculation.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-boxing-day-test-rohit-sharma-virat-kohli-off-side-great-2654449-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T09:27:00",
-        "uuid": "25b2feb0-1810-4ff7-8887-39d10c5825f9",
-        "positive": 9.5,
-        "negative": 7.1
-    },
-    {
-        "headlines": "Kuldeep didn't have a visa: Rohit jokingly explains Tanush Kotian's selectionBorder-Gavaskar Trophy: Rohit Sharma jokingly said Tanush Kotian was included in the Test squad due to Kuldeep Yadav's visa issues. However, the Indian captain clarified Kotian's selection was based on performance.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-rohit-sharma-on-tanush-kotian-selection-melbourne-test-2654448-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T09:25:00",
-        "uuid": "a997517a-d659-4737-98ec-6ab2ff8909c1",
-        "positive": 7.7,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Travis Head under injury cloud ahead of Boxing Day TestBorder-Gavaskar Trophy: Travis Head is set to undergo a fitness test on his injured quad, but coach Andrew McDonald remains confident that the star left-hander will be ready to play.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-travis-head-injury-cloud-boxing-day-test-2654438-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T08:54:00",
-        "uuid": "371bbc2b-8e66-4bea-8247-2369ac202e95",
-        "positive": 11.6,
-        "negative": 6.7
     },
     {
         "headlines": "Raphael Varane attends Lens vs PSG in disguise, spotted among fansRaphaël Varane, former Real Madrid and Manchester United defender, returned to his roots, watching RC Lens' French Cup clash against PSG disguised amongst fans. His heartfelt gesture highlighted his enduring connection to the club where his illustrious journey began.",
@@ -5607,6 +5580,33 @@
         "negative": 5.6
     },
     {
+        "headlines": "Rohit backs 'modern-day great' Virat, tight-lipped about his batting spotAustralia vs India, 4th Test: India captain Rohit Sharma expressed confidence in Virat Kohli overcoming his struggles outside the off-stump. However, the skipper refrained from revealing his batting position for the Boxing Day Test, adding to the speculation.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-boxing-day-test-rohit-sharma-virat-kohli-off-side-great-2654449-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T09:27:00",
+        "uuid": "25b2feb0-1810-4ff7-8887-39d10c5825f9",
+        "positive": 9.5,
+        "negative": 7.1
+    },
+    {
+        "headlines": "Kuldeep didn't have a visa: Rohit jokingly explains Tanush Kotian's selectionBorder-Gavaskar Trophy: Rohit Sharma jokingly said Tanush Kotian was included in the Test squad due to Kuldeep Yadav's visa issues. However, the Indian captain clarified Kotian's selection was based on performance.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-rohit-sharma-on-tanush-kotian-selection-melbourne-test-2654448-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T09:25:00",
+        "uuid": "a997517a-d659-4737-98ec-6ab2ff8909c1",
+        "positive": 7.7,
+        "negative": 1.4
+    },
+    {
+        "headlines": "Travis Head under injury cloud ahead of Boxing Day TestBorder-Gavaskar Trophy: Travis Head is set to undergo a fitness test on his injured quad, but coach Andrew McDonald remains confident that the star left-hander will be ready to play.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-travis-head-injury-cloud-boxing-day-test-2654438-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T08:54:00",
+        "uuid": "371bbc2b-8e66-4bea-8247-2369ac202e95",
+        "positive": 11.6,
+        "negative": 6.7
+    },
+    {
         "headlines": "Gill needs to back his defensive technique to shine in Australia: PontingBorder-Gavaskar Trophy: Former Australian captain Ricky Ponting offered insights into how Shubman Gill could improve his performances in challenging conditions like Australia.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-ricky-ponting-on-shubman-gill-overseas-test-record-2654425-2024-12-24",
         "category": "sports",
@@ -5670,6 +5670,15 @@
         "negative": 0.6
     },
     {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
         "headlines": "Manchester United manager questions Rashford camp over new challenge commentsManchester United boss Ruben Amorim has questioned the decision-making of individuals close to forward Marcus Rashford, who has been absent from the team's last three games.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/football-manchester-united-manager-ruben-amorim-questions-rashford-camp-2654483-2024-12-24",
         "category": "sports",
@@ -5677,6 +5686,78 @@
         "uuid": "a45f6085-727e-4fd6-a77e-b208f25156e5",
         "positive": 9.8,
         "negative": 5.6
+    },
+    {
+        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T10:43:00",
+        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
+        "positive": 7.1,
+        "negative": 2.8
+    },
+    {
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
+    },
+    {
+        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:32:00",
+        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
+        "positive": 4.6,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:12:00",
+        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
+        "positive": 9.4,
+        "negative": 5.4
+    },
+    {
+        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T13:25:00",
+        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
+        "positive": 12.6,
+        "negative": 1.8
+    },
+    {
+        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:35:00",
+        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
+        "positive": 14.5,
+        "negative": 0.6
+    },
+    {
+        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:21:00",
+        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
+        "positive": 8.5,
+        "negative": 0.8
+    },
+    {
+        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
+        "positive": 5.6,
+        "negative": 1.5
     },
     {
         "headlines": "3 losses in 14 years: Breaking down Australia's recent record at the MCGAustralia will take on India in the Boxing Day Test match at the Melbourne Cricket Ground. The iconic 'G' has been a traditional stronghold of Australia, but the hosts have struggled against India at the venue in the recent past. ",
@@ -5706,6 +5787,15 @@
         "negative": 7.4
     },
     {
+        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
+        "positive": 6,
+        "negative": 1.7
+    },
+    {
         "headlines": "Cummins relates to Konstas's teenage call-up, gives hilarious adviceBoxing Day Test: Australia captain Pat Cummins discussed Sam Konstas' teenage call-up for the fourth Border Gavaskar Trophy while giving hilarious advice to the teen opener.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-pat-cummins-selector-advice-konstas-teenage-debut-mcg-2655017-2024-12-25",
         "category": "sports",
@@ -5724,31 +5814,31 @@
         "negative": 6.4
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
         "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
+        "date_time": "2024-12-19T08:59:00",
+        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
+        "positive": 9,
+        "negative": 2.3
     },
     {
-        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
         "category": "technology",
-        "date_time": "2024-12-19T10:43:00",
-        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
-        "positive": 7.1,
-        "negative": 2.8
+        "date_time": "2024-12-19T08:49:00",
+        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
+        "positive": 5.6,
+        "negative": 3.2
     },
     {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
+        "article_url": "https://www.indiatoday.in/technology/talking-points/story/apple-needs-to-make-apple-tv-that-can-run-aaa-games-challenge-xbox-and-playstation-2651840-2024-12-18",
         "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
+        "date_time": "2024-12-18T18:49:00",
+        "uuid": "a680fc88-868b-4ec6-8e71-abedfc4c690d",
+        "positive": 10.2,
+        "negative": 2.3
     },
     {
         "headlines": "Vinod Kambli develops fever in hospital, condition stableVinod Kambli, battling a severe urinary infection and brain clots, is stable in ICU. Maharashtra Deputy CM Eknath Shinde and MP Shrikant Shinde have extended financial aid and support, ensuring the former cricketer receives top-notch medical care.",
@@ -5796,22 +5886,13 @@
         "negative": 5.4
     },
     {
-        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
+        "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
         "category": "technology",
-        "date_time": "2024-12-19T16:32:00",
-        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
-        "positive": 4.6,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:12:00",
-        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
-        "positive": 9.4,
-        "negative": 5.4
+        "date_time": "2024-12-18T16:43:00",
+        "uuid": "d51373ed-d52d-4d74-9d88-ce9d689f1f9c",
+        "positive": 5.2,
+        "negative": 0
     },
     {
         "headlines": "Should have made Manu Bhaker a cricketer, not shooter: Father on Khel Ratna snubDouble Olympic medallist Manu Bhaker was reportedly snubbed from the Khel Ratna nominees list. Manu's father reacted to the reports and said that he should have made his daughter a cricketer and not a shooter.",
@@ -5868,40 +5949,40 @@
         "negative": 0
     },
     {
-        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
+        "headlines": "Xiaomi Sound Outdoor speaker review: Affordable price, great sound, cool designIf you are in the market for a Bluetooth speaker that sounds good and is easy to carry around, while also being affordable, Xiaomi's new Sound Outdoor speakers are definitely worth considering. Priced at Rs 3,499, these outdoor speakers look cool and sound great. More details on it in this review by India Today Tech. ",
+        "article_url": "https://www.indiatoday.in/technology/reviews/story/xiaomi-sound-outdoor-speaker-review-affordable-price-great-sound-cool-design-2651719-2024-12-18",
         "category": "technology",
-        "date_time": "2024-12-19T13:25:00",
-        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
-        "positive": 12.6,
-        "negative": 1.8
+        "date_time": "2024-12-18T16:15:00",
+        "uuid": "bebc8309-a888-4c33-b0f9-d5a5aaf9984f",
+        "positive": 15.8,
+        "negative": 2.8
     },
     {
-        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
+        "headlines": "Using UPI for online payments? Do this to avoid QR code scamsScammers are tricking users into scanning fraudulent QR codes, leading to the loss of large sums of money in seconds. Here is how QR code scams work and how you can protect yourself from them.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/using-upi-for-online-payments-do-this-to-avoid-qr-code-scams-2651738-2024-12-18",
         "category": "technology",
-        "date_time": "2024-12-19T12:35:00",
-        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
-        "positive": 14.5,
-        "negative": 0.6
+        "date_time": "2024-12-18T16:18:00",
+        "uuid": "d91d3906-fe62-4d29-a0fe-5659125ce25a",
+        "positive": 9.1,
+        "negative": 15.8
     },
     {
-        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
+        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
         "category": "technology",
-        "date_time": "2024-12-19T12:21:00",
-        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
-        "positive": 8.5,
-        "negative": 0.8
+        "date_time": "2024-12-18T14:28:00",
+        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
+        "positive": 5.2,
+        "negative": 16.6
     },
     {
-        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
+        "headlines": "Poco M7 Pro 5G launched under Rs 15,000: 4 reasons to buy, 1 to skipThe Poco M7 Pro 5G is one of the most affordable phones you can buy right now in the sub-Rs 15,000 price segment. In this article, we give you 4 reasons why you should buy this phone and 1 reason to skip it.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/poco-m7-pro-5g-launched-under-rs-15000-4-reasons-to-buy-1-to-skip-2651621-2024-12-18",
         "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
-        "positive": 5.6,
-        "negative": 1.5
+        "date_time": "2024-12-19T10:15:00",
+        "uuid": "de77e0c3-1969-432c-9357-8dd1945a60bb",
+        "positive": 17.8,
+        "negative": 3
     },
     {
         "headlines": "Watch: Rohit to bowl in Melbourne Test? India skipper flaunts grip in netsRohit Sharma's viral ball-grip moment fuelled speculation about his potential role as a bowler in India's Boxing Day Test against Australia, raising excitement as the skipper aims to navigate mounting criticism over his form and leadership.",
@@ -5922,22 +6003,22 @@
         "negative": 2.5
     },
     {
-        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
+        "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/new-youtube-rules-in-india-as-platform-bans-videos-with-clickbait-titles-2652709-2024-12-20",
         "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
-        "positive": 6,
-        "negative": 1.7
+        "date_time": "2024-12-20T09:30:00",
+        "uuid": "d6975c7e-71c1-45e7-8042-87c9bf42564c",
+        "positive": 11.2,
+        "negative": 7.6
     },
     {
-        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
+        "headlines": "Instagram teases AI tool that will change backgrounds, outfits with simple promptInstagram may soon allow users to change background, colour of clothes, and other things in a video, with just a simple text prompt. \r\n",
+        "article_url": "https://www.indiatoday.in/technology/news/story/instagram-teases-ai-video-editing-tool-that-will-change-backgrounds-outfits-with-a-simple-text-prompt-2652701-2024-12-20",
         "category": "technology",
-        "date_time": "2024-12-19T08:59:00",
-        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
-        "positive": 9,
-        "negative": 2.3
+        "date_time": "2024-12-20T09:22:00",
+        "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
+        "positive": 10.4,
+        "negative": 2.5
     },
     {
         "headlines": "Herculean Harleen fires India to ODI series win vs hapless West IndiesIndia sealed a commanding 115-run victory over West Indies in the second ODI, driven by Harleen Deol's maiden century and disciplined bowling. ",
@@ -5967,13 +6048,13 @@
         "negative": 3.7
     },
     {
-        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
+        "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-20-flash-thinking-mode-a-reasoning-model-similar-to-openai-o1-2652683-2024-12-20",
         "category": "technology",
-        "date_time": "2024-12-19T08:49:00",
-        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
-        "positive": 5.6,
-        "negative": 3.2
+        "date_time": "2024-12-20T09:04:00",
+        "uuid": "9a74d91e-5c5c-43de-8689-bd0266ba84ca",
+        "positive": 9.4,
+        "negative": 7
     },
     {
         "headlines": "Chelsea boss Maresca says Chelsea' not part of Premier League title race'Enzo Maresca dismissed Chelsea's Premier League title chances, emphasising satisfaction with their remarkable progress despite a shaky start. Chelsea's resurgence under his guidance is notable, but Maresca believes they still lack the consistency to challenge Liverpool's dominance.",
@@ -5985,22 +6066,13 @@
         "negative": 4
     },
     {
-        "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
-        "article_url": "https://www.indiatoday.in/technology/talking-points/story/apple-needs-to-make-apple-tv-that-can-run-aaa-games-challenge-xbox-and-playstation-2651840-2024-12-18",
+        "headlines": "Worried about UPI frauds? Activate BharatPe 'Shield' now with these easy stepsShield is available on the BharatPe app, which can be downloaded on both Android and iOS devices.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/worried-about-upi-frauds-activate-bharatpe-shield-now-with-these-easy-steps-2652747-2024-12-20",
         "category": "technology",
-        "date_time": "2024-12-18T18:49:00",
-        "uuid": "a680fc88-868b-4ec6-8e71-abedfc4c690d",
-        "positive": 10.2,
-        "negative": 2.3
-    },
-    {
-        "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:43:00",
-        "uuid": "d51373ed-d52d-4d74-9d88-ce9d689f1f9c",
-        "positive": 5.2,
-        "negative": 0
+        "date_time": "2024-12-20T11:38:00",
+        "uuid": "97a8aad8-c811-4905-a859-d70e089d9168",
+        "positive": 13.1,
+        "negative": 8
     },
     {
         "headlines": "Paralympics gold-medalist Harvinder adds to burning Khel Ratna controversyHarvinder Singh, Paris Paralympics gold medallist, criticised the exclusion of Paralympians from the Khel Ratna Award nominations, sparking concerns about recognition disparities in India's highest sporting honours compared to achievements celebrated after Tokyo 2020.",
@@ -6039,114 +6111,6 @@
         "negative": 2.8
     },
     {
-        "headlines": "Xiaomi Sound Outdoor speaker review: Affordable price, great sound, cool designIf you are in the market for a Bluetooth speaker that sounds good and is easy to carry around, while also being affordable, Xiaomi's new Sound Outdoor speakers are definitely worth considering. Priced at Rs 3,499, these outdoor speakers look cool and sound great. More details on it in this review by India Today Tech. ",
-        "article_url": "https://www.indiatoday.in/technology/reviews/story/xiaomi-sound-outdoor-speaker-review-affordable-price-great-sound-cool-design-2651719-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:15:00",
-        "uuid": "bebc8309-a888-4c33-b0f9-d5a5aaf9984f",
-        "positive": 15.8,
-        "negative": 2.8
-    },
-    {
-        "headlines": "Using UPI for online payments? Do this to avoid QR code scamsScammers are tricking users into scanning fraudulent QR codes, leading to the loss of large sums of money in seconds. Here is how QR code scams work and how you can protect yourself from them.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/using-upi-for-online-payments-do-this-to-avoid-qr-code-scams-2651738-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:18:00",
-        "uuid": "d91d3906-fe62-4d29-a0fe-5659125ce25a",
-        "positive": 9.1,
-        "negative": 15.8
-    },
-    {
-        "headlines": "HIL gave me a platform to make a comeback in the India team: Amit RohidasAmit Rohidas highlighted how the Hockey India League reignited his career, offering young players a vital platform to gain exposure and return stronger. With its revival, the league is poised to foster talent and bolster Indian hockey's future.",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/hockey-india-leauge-amit-rohidas-exclusive-platform-comeback-paris-olympics-2654912-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T21:53:00",
-        "uuid": "921e6809-bce8-46ec-8d8f-819e143b0037",
-        "positive": 15.4,
-        "negative": 0.8
-    },
-    {
-        "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/scan-qr-code-to-get-your-package-dhl-delivery-scam-goes-viral-2651624-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T14:28:00",
-        "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
-        "positive": 5.2,
-        "negative": 16.6
-    },
-    {
-        "headlines": "Poco M7 Pro 5G launched under Rs 15,000: 4 reasons to buy, 1 to skipThe Poco M7 Pro 5G is one of the most affordable phones you can buy right now in the sub-Rs 15,000 price segment. In this article, we give you 4 reasons why you should buy this phone and 1 reason to skip it.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/poco-m7-pro-5g-launched-under-rs-15000-4-reasons-to-buy-1-to-skip-2651621-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-19T10:15:00",
-        "uuid": "de77e0c3-1969-432c-9357-8dd1945a60bb",
-        "positive": 17.8,
-        "negative": 3
-    },
-    {
-        "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/new-youtube-rules-in-india-as-platform-bans-videos-with-clickbait-titles-2652709-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:30:00",
-        "uuid": "d6975c7e-71c1-45e7-8042-87c9bf42564c",
-        "positive": 11.2,
-        "negative": 7.6
-    },
-    {
-        "headlines": "Instagram teases AI tool that will change backgrounds, outfits with simple promptInstagram may soon allow users to change background, colour of clothes, and other things in a video, with just a simple text prompt. \r\n",
-        "article_url": "https://www.indiatoday.in/technology/news/story/instagram-teases-ai-video-editing-tool-that-will-change-backgrounds-outfits-with-a-simple-text-prompt-2652701-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:22:00",
-        "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
-        "positive": 10.4,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Apple nears $4 trillion valuation amid AI push and iPhone upgrade hopesApple's strategic push into AI and its resilience in navigating market challenges have positioned the tech giant as a leader in the sector. ",
-        "article_url": "https://www.indiatoday.in/business/story/apple-nears-4-trillion-dollar-market-valuation-amid-ai-push-and-iphone-upgrade-hopes-2654536-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T12:35:00",
-        "uuid": "d9b56e30-c633-46de-b9f8-40f2edb80725",
-        "positive": 12.2,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Fakhar Zaman breaks silence on contract snub, clarifies controversial tweetOut of favour Pakistan batter Fakhar Zaman has broken his silence on the central contract snub. Fakhar Zaman was punished for one of his tweets in 2024, which was perceived as a criticism of the Pakistan Cricket Board.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/fakhar-zaman-breaks-silence-on-contract-snub-clarifies-controversial-babar-azam-tweet-2654531-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T12:29:00",
-        "uuid": "2bc07601-18ef-4c73-9f9e-64bd4581a8d1",
-        "positive": 7.7,
-        "negative": 6.3
-    },
-    {
-        "headlines": "No regrets about not captaining India, but would have enjoyed it: R AshwinR Ashwin played 106 Tests and took 537 wickets, but the legendary off-spinner did not get an opportunity to lead the senior national team in the longest format of the game. Ashwin retired from international cricket on December 18. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ashwin-retires-captaincy-india-no-regrets-interview-2654507-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T11:51:00",
-        "uuid": "0327e1b3-d8f6-416b-8ef0-8c9003f41df2",
-        "positive": 15.6,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-20-flash-thinking-mode-a-reasoning-model-similar-to-openai-o1-2652683-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:04:00",
-        "uuid": "9a74d91e-5c5c-43de-8689-bd0266ba84ca",
-        "positive": 9.4,
-        "negative": 7
-    },
-    {
-        "headlines": "Worried about UPI frauds? Activate BharatPe 'Shield' now with these easy stepsShield is available on the BharatPe app, which can be downloaded on both Android and iOS devices.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/worried-about-upi-frauds-activate-bharatpe-shield-now-with-these-easy-steps-2652747-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T11:38:00",
-        "uuid": "97a8aad8-c811-4905-a859-d70e089d9168",
-        "positive": 13.1,
-        "negative": 8
-    },
-    {
         "headlines": "Nvidia's most affordable Gen AI supercomputer, Jetson Orin Nano, is here: What is it and how it workNvidia has launched its most affordable Generative AI supercomputer that integrates a 6-core ARM CPU, delivering up to 67 INT8 TOPS. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nvidias-most-affordable-gen-ai-supercomputer-jetson-orin-nano-is-here-what-is-it-and-how-it-work-2652732-2024-12-20",
         "category": "technology",
@@ -6165,31 +6129,13 @@
         "negative": 2.6
     },
     {
-        "headlines": "Explained: Why Champions Trophy final in Dubai and not Pakistan if India qualifyChampions Trophy 2025: India will play all their matches in Dubai. If India don't reach the final, then the Gaddafi Stadium in Lahore will host the title match. Pakistan will host 11 out of the 15 matches in the tournament.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-champions-trophy-schedule-format-final-options-reserve-days-hybrid-model-2654752-2024-12-24",
+        "headlines": "HIL gave me a platform to make a comeback in the India team: Amit RohidasAmit Rohidas highlighted how the Hockey India League reignited his career, offering young players a vital platform to gain exposure and return stronger. With its revival, the league is poised to foster talent and bolster Indian hockey's future.",
+        "article_url": "https://www.indiatoday.in/sports/other-sports/story/hockey-india-leauge-amit-rohidas-exclusive-platform-comeback-paris-olympics-2654912-2024-12-24",
         "category": "sports",
-        "date_time": "2024-12-24T18:11:00",
-        "uuid": "bc7fe46f-745d-42ce-9ab3-41f3b9895bd3",
-        "positive": 9.1,
-        "negative": 1.2
-    },
-    {
-        "headlines": "Cannot grudge Shami snub vs Australia: Aakash Chopra on pacer's injuryAakash Chopra supported BCCI's decision to exclude Mohammed Shami from the Border-Gavaskar Trophy squad, citing the pacer's ongoing knee injury recovery and emphasizing the importance of not rushing him back into high-pressure international cricket.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mohammed-shami-snub-cannot-be-gruged-aakash-chopra-injury-2654748-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T18:03:00",
-        "uuid": "05f27a68-8ef6-4c31-acf2-1c43a5e7dbdc",
-        "positive": 6.8,
-        "negative": 4.9
-    },
-    {
-        "headlines": "India's full schedule for Champions Trophy 2025. All you need to knowCheckout India's full schedule for Champions Trophy 2025, including fixtures, dates and venues. ",
-        "article_url": "https://www.indiatoday.in/sports/story/indias-full-schedule-for-champions-trophy-2025-all-you-need-to-know-2654745-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T18:36:00",
-        "uuid": "ceb625b2-c157-49d5-9e99-45e8e25ced72",
-        "positive": 12.7,
-        "negative": 0.3
+        "date_time": "2024-12-24T21:53:00",
+        "uuid": "921e6809-bce8-46ec-8d8f-819e143b0037",
+        "positive": 15.4,
+        "negative": 0.8
     },
     {
         "headlines": "Sennheiser Profile Wireless launched in India, targets content creators with a price of Rs 29,900Sennheiser has launched the Profile Wireless microphone system in India. The company believes that it would be useful to a number of content creators who want a robust microphone system at relatively affordable price point. \r\n",
@@ -6199,33 +6145,6 @@
         "uuid": "69f740eb-7e2c-4e1e-ae30-b8cc3367357e",
         "positive": 8.9,
         "negative": 3
-    },
-    {
-        "headlines": "OnePlus Open 2 launch timeline leaked: Here is when it will launch in 2025OnePlus' second generation foldable smartphone, OnePlus Open 2, was rumoured to launch in the first quarter of 2025. However, the timeline has reportedly been revised and now the phone will launch in the second half of 2025. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-open-2-launch-timeline-leaked-here-is-when-it-will-launch-in-2025-2654502-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T11:34:00",
-        "uuid": "7a487241-a917-4839-a8cb-532903342669",
-        "positive": 2.9,
-        "negative": 0.9
-    },
-    {
-        "headlines": "Oppo Find X8 Ultra battery and camera specs surface in latest leakThe Oppo Find X8 Ultra was spotted on China's UFSC certification website, shedding light on its battery specifications.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oppo-find-x8-ultra-battery-and-camera-specs-surface-in-latest-leak-2654491-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T11:09:00",
-        "uuid": "f2067ad6-ac7e-496c-8449-bf84b4cbd6ce",
-        "positive": 7.7,
-        "negative": 2
-    },
-    {
-        "headlines": " iPhone 18 Pro camera details leak, rumoured to work like DSLR According to the latest rumour, the iPhone 18 Pro models are expected to get a large sensor with great control over the depth of the field. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-18-pro-camera-details-leak-rumoured-to-work-like-dslr-2654464-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T10:58:00",
-        "uuid": "6e32f96d-0750-4632-baae-32d6419b29a4",
-        "positive": 9.5,
-        "negative": 0.9
     },
     {
         "headlines": "Amazon updates Prime membership policy: 2 new rules you should know aboutAmazon has two new rules that you should know about if you share your Amazon Prime account with friends or family.",
@@ -6255,6 +6174,33 @@
         "negative": 0
     },
     {
+        "headlines": "Apple nears $4 trillion valuation amid AI push and iPhone upgrade hopesApple's strategic push into AI and its resilience in navigating market challenges have positioned the tech giant as a leader in the sector. ",
+        "article_url": "https://www.indiatoday.in/business/story/apple-nears-4-trillion-dollar-market-valuation-amid-ai-push-and-iphone-upgrade-hopes-2654536-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:35:00",
+        "uuid": "d9b56e30-c633-46de-b9f8-40f2edb80725",
+        "positive": 12.2,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Fakhar Zaman breaks silence on contract snub, clarifies controversial tweetOut of favour Pakistan batter Fakhar Zaman has broken his silence on the central contract snub. Fakhar Zaman was punished for one of his tweets in 2024, which was perceived as a criticism of the Pakistan Cricket Board.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/fakhar-zaman-breaks-silence-on-contract-snub-clarifies-controversial-babar-azam-tweet-2654531-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T12:29:00",
+        "uuid": "2bc07601-18ef-4c73-9f9e-64bd4581a8d1",
+        "positive": 7.7,
+        "negative": 6.3
+    },
+    {
+        "headlines": "No regrets about not captaining India, but would have enjoyed it: R AshwinR Ashwin played 106 Tests and took 537 wickets, but the legendary off-spinner did not get an opportunity to lead the senior national team in the longest format of the game. Ashwin retired from international cricket on December 18. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ashwin-retires-captaincy-india-no-regrets-interview-2654507-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T11:51:00",
+        "uuid": "0327e1b3-d8f6-416b-8ef0-8c9003f41df2",
+        "positive": 15.6,
+        "negative": 1.9
+    },
+    {
         "headlines": "Google layoffs: CEO Sundar Pichai announces 10 per cent job cutsGoogle CEO Sundar Pichai has recently announced another major lay-off cycle as part of its efficiency drive. This time, the company plans to cut 10 per cent of the managerial roles. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/google-layoffs-ceo-sundar-pichai-announces-10-per-cent-job-cuts-says-it-is-to-boost-efficiency-2652915-2024-12-20",
         "category": "technology",
@@ -6282,24 +6228,6 @@
         "negative": 0.4
     },
     {
-        "headlines": "Apple approaches historic $4 trillion valuation, it is now also ahead of Nvidia and MicrosoftApple shares saw a 16 per cent jump in shares since early November that has added about $500 billion to its market capitalisation.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-approaches-historic-4-trillion-valuation-it-is-now-also-ahead-of-nvidia-and-microsoft-2654469-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T10:37:00",
-        "uuid": "8c4d0848-48e4-48ce-b1f4-4cf1b5d0b0a6",
-        "positive": 10.3,
-        "negative": 2.2
-    },
-    {
-        "headlines": "Apple M5 Pro chipset to feature separate CPU and GPU for server-grade performanceUnlike past SoCs, Apple is reportedly planning to separate the CPU and GPU in its upcoming M-series chips to take advantage of TSMC's latest chip-packaging technology, known as SoIC-mH.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-m5-pro-chipset-to-feature-separate-cpu-and-gpu-for-server-grade-performance-2654456-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T09:50:00",
-        "uuid": "c73f7c19-3f62-4f3b-b8f1-ba991ff39e86",
-        "positive": 11.8,
-        "negative": 1.7
-    },
-    {
         "headlines": "Qualcomm vs Arm: What is it about and how can it impact the global chip market Qualcomm's battle with Arm is not just about a big company acquiring a startup, it's a fight for the future of chip design, with profound implications on the global chip market.",
         "article_url": "https://www.indiatoday.in/technology/features/story/what-is-the-qualcomm-vs-arm-battle-that-could-have-huge-implications-on-the-chip-market-2652962-2024-12-20",
         "category": "technology",
@@ -6318,6 +6246,33 @@
         "negative": 2.4
     },
     {
+        "headlines": "Explained: Why Champions Trophy final in Dubai and not Pakistan if India qualifyChampions Trophy 2025: India will play all their matches in Dubai. If India don't reach the final, then the Gaddafi Stadium in Lahore will host the title match. Pakistan will host 11 out of the 15 matches in the tournament.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-champions-trophy-schedule-format-final-options-reserve-days-hybrid-model-2654752-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T18:11:00",
+        "uuid": "bc7fe46f-745d-42ce-9ab3-41f3b9895bd3",
+        "positive": 9.1,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Cannot grudge Shami snub vs Australia: Aakash Chopra on pacer's injuryAakash Chopra supported BCCI's decision to exclude Mohammed Shami from the Border-Gavaskar Trophy squad, citing the pacer's ongoing knee injury recovery and emphasizing the importance of not rushing him back into high-pressure international cricket.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mohammed-shami-snub-cannot-be-gruged-aakash-chopra-injury-2654748-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T18:03:00",
+        "uuid": "05f27a68-8ef6-4c31-acf2-1c43a5e7dbdc",
+        "positive": 6.8,
+        "negative": 4.9
+    },
+    {
+        "headlines": "India's full schedule for Champions Trophy 2025. All you need to knowCheckout India's full schedule for Champions Trophy 2025, including fixtures, dates and venues. ",
+        "article_url": "https://www.indiatoday.in/sports/story/indias-full-schedule-for-champions-trophy-2025-all-you-need-to-know-2654745-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T18:36:00",
+        "uuid": "ceb625b2-c157-49d5-9e99-45e8e25ced72",
+        "positive": 12.7,
+        "negative": 0.3
+    },
+    {
         "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
         "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
         "category": "technology",
@@ -6325,6 +6280,33 @@
         "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
         "positive": 10.4,
         "negative": 0.3
+    },
+    {
+        "headlines": "OnePlus Open 2 launch timeline leaked: Here is when it will launch in 2025OnePlus' second generation foldable smartphone, OnePlus Open 2, was rumoured to launch in the first quarter of 2025. However, the timeline has reportedly been revised and now the phone will launch in the second half of 2025. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-open-2-launch-timeline-leaked-here-is-when-it-will-launch-in-2025-2654502-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T11:34:00",
+        "uuid": "7a487241-a917-4839-a8cb-532903342669",
+        "positive": 2.9,
+        "negative": 0.9
+    },
+    {
+        "headlines": "Oppo Find X8 Ultra battery and camera specs surface in latest leakThe Oppo Find X8 Ultra was spotted on China's UFSC certification website, shedding light on its battery specifications.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oppo-find-x8-ultra-battery-and-camera-specs-surface-in-latest-leak-2654491-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T11:09:00",
+        "uuid": "f2067ad6-ac7e-496c-8449-bf84b4cbd6ce",
+        "positive": 7.7,
+        "negative": 2
+    },
+    {
+        "headlines": " iPhone 18 Pro camera details leak, rumoured to work like DSLR According to the latest rumour, the iPhone 18 Pro models are expected to get a large sensor with great control over the depth of the field. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-18-pro-camera-details-leak-rumoured-to-work-like-dslr-2654464-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T10:58:00",
+        "uuid": "6e32f96d-0750-4632-baae-32d6419b29a4",
+        "positive": 9.5,
+        "negative": 0.9
     },
     {
         "headlines": "Apple rumoured to bring iOS 19 support only to these iPhonesA new report claims that all iPhones running iOS 18 will be compatible with the iOS 19 update.",
@@ -6381,30 +6363,30 @@
         "negative": 5.1
     },
     {
+        "headlines": "Apple approaches historic $4 trillion valuation, it is now also ahead of Nvidia and MicrosoftApple shares saw a 16 per cent jump in shares since early November that has added about $500 billion to its market capitalisation.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-approaches-historic-4-trillion-valuation-it-is-now-also-ahead-of-nvidia-and-microsoft-2654469-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T10:37:00",
+        "uuid": "8c4d0848-48e4-48ce-b1f4-4cf1b5d0b0a6",
+        "positive": 10.3,
+        "negative": 2.2
+    },
+    {
+        "headlines": "Apple M5 Pro chipset to feature separate CPU and GPU for server-grade performanceUnlike past SoCs, Apple is reportedly planning to separate the CPU and GPU in its upcoming M-series chips to take advantage of TSMC's latest chip-packaging technology, known as SoIC-mH.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-m5-pro-chipset-to-feature-separate-cpu-and-gpu-for-server-grade-performance-2654456-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T09:50:00",
+        "uuid": "c73f7c19-3f62-4f3b-b8f1-ba991ff39e86",
+        "positive": 11.8,
+        "negative": 1.7
+    },
+    {
         "headlines": "Samsung Galaxy S24 series is available with big discount offersSamsung is offering discounts on its old and new premium Galaxy smartphones, along with offers on Galaxy wearables too, as part of its holiday sale.",
         "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s24-series-is-available-with-big-discount-offers-2653956-2024-12-23",
         "category": "technology",
         "date_time": "2024-12-23T12:02:00",
         "uuid": "2e7bda1a-dae7-4687-b6cb-606a71addffc",
         "positive": 11.4,
-        "negative": 0.9
-    },
-    {
-        "headlines": "Greaves Cotton share price gains over 10% today. What's behind the rally? Greaves Cotton stock price: The company's shares were trading 10.25% higher at Rs 252.70 on the BSE at 12:18 pm. ",
-        "article_url": "https://www.indiatoday.in/business/story/greaves-cotton-stock-price-gains-over-10-percent-today-whats-behind-the-rally-2654529-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T12:21:00",
-        "uuid": "eeb66c0b-bfa4-4d3f-8a12-ffe7adebc782",
-        "positive": 15.8,
-        "negative": 1.5
-    },
-    {
-        "headlines": "Explained: Why Tata Investment share price jumped 12% todayTata Investment stock price: At 11:53 am, shares of the company were up 11.51% to Rs 7,284 on the Bombay Stock Exchange (BSE). The surge followed reports that Tata Capital is gearing up for an initial public offering (IPO) worth Rs 15,000 crore.",
-        "article_url": "https://www.indiatoday.in/business/story/tata-investment-share-price-jumps-12-percent-today-ipo-buzz-tata-capital-stmp-2654512-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T12:11:00",
-        "uuid": "5005cf8f-fd20-45ea-86d9-08d06b09b8be",
-        "positive": 12.2,
         "negative": 0.9
     },
     {
@@ -6424,33 +6406,6 @@
         "uuid": "b56d760f-b809-4244-8c6d-823f58f53cd0",
         "positive": 9.7,
         "negative": 1.8
-    },
-    {
-        "headlines": "Diet Coke with protein shake? The new viral drink is not what experts recommendProtein Diet Coke is a blend of Diet Coke and a flavoured protein shake (mostly vanilla) that Rebecca Gordan, a teacher from Utah, introduced. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/diet-coke-with-protein-shake-the-new-viral-drink-is-not-what-experts-recommend-2654420-2024-12-24",
-        "category": "lifestyle",
-        "date_time": "2024-12-24T09:57:00",
-        "uuid": "ad6eef7a-172f-44d1-b7c3-743a85bfc7a9",
-        "positive": 13.8,
-        "negative": 8.2
-    },
-    {
-        "headlines": "Xiaomi 15 Ultra launching in India soon? Here is what we know about it Xiaomi 15 Ultra has recently been listed on the BIS certification website, which suggests that the smartphone may soon be launched in the Indian market.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-15-ultra-launching-in-india-soon-here-is-what-we-know-about-it-2654440-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T08:59:00",
-        "uuid": "378f73f0-a44f-4542-8fa8-91e1a182e216",
-        "positive": 4.3,
-        "negative": 0
-    },
-    {
-        "headlines": "Meta plans to introduce display to Ray-Ban smart glasses in 2025Meta's popular Ray-Ban smart glasses could see further improvements in the upcoming version. According to a Financial Times report, this updated device could be released as soon as 2025.  ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/meta-plans-to-introduce-display-to-ray-ban-smart-glasses-in-2025-2654437-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T08:52:00",
-        "uuid": "9ae69fe0-f63f-4030-aeb3-cc0d9ca168c1",
-        "positive": 10.4,
-        "negative": 0.3
     },
     {
         "headlines": "iPhone 15 and iPhone 15 Pro are available with massive discountsiPhone 15 and iPhone 15 Pro are selling at amazing discount offers. Here are all the details of the deals.",
@@ -6478,6 +6433,51 @@
         "uuid": "15abd406-17ef-4970-8e61-ac85648e6384",
         "positive": 14.9,
         "negative": 2.2
+    },
+    {
+        "headlines": "Greaves Cotton share price gains over 10% today. What's behind the rally? Greaves Cotton stock price: The company's shares were trading 10.25% higher at Rs 252.70 on the BSE at 12:18 pm. ",
+        "article_url": "https://www.indiatoday.in/business/story/greaves-cotton-stock-price-gains-over-10-percent-today-whats-behind-the-rally-2654529-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:21:00",
+        "uuid": "eeb66c0b-bfa4-4d3f-8a12-ffe7adebc782",
+        "positive": 15.8,
+        "negative": 1.5
+    },
+    {
+        "headlines": "Explained: Why Tata Investment share price jumped 12% todayTata Investment stock price: At 11:53 am, shares of the company were up 11.51% to Rs 7,284 on the Bombay Stock Exchange (BSE). The surge followed reports that Tata Capital is gearing up for an initial public offering (IPO) worth Rs 15,000 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/tata-investment-share-price-jumps-12-percent-today-ipo-buzz-tata-capital-stmp-2654512-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:11:00",
+        "uuid": "5005cf8f-fd20-45ea-86d9-08d06b09b8be",
+        "positive": 12.2,
+        "negative": 0.9
+    },
+    {
+        "headlines": "Diet Coke with protein shake? The new viral drink is not what experts recommendProtein Diet Coke is a blend of Diet Coke and a flavoured protein shake (mostly vanilla) that Rebecca Gordan, a teacher from Utah, introduced. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/diet-coke-with-protein-shake-the-new-viral-drink-is-not-what-experts-recommend-2654420-2024-12-24",
+        "category": "lifestyle",
+        "date_time": "2024-12-24T09:57:00",
+        "uuid": "ad6eef7a-172f-44d1-b7c3-743a85bfc7a9",
+        "positive": 13.8,
+        "negative": 8.2
+    },
+    {
+        "headlines": "Xiaomi 15 Ultra launching in India soon? Here is what we know about it Xiaomi 15 Ultra has recently been listed on the BIS certification website, which suggests that the smartphone may soon be launched in the Indian market.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-15-ultra-launching-in-india-soon-here-is-what-we-know-about-it-2654440-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T08:59:00",
+        "uuid": "378f73f0-a44f-4542-8fa8-91e1a182e216",
+        "positive": 4.3,
+        "negative": 0
+    },
+    {
+        "headlines": "Meta plans to introduce display to Ray-Ban smart glasses in 2025Meta's popular Ray-Ban smart glasses could see further improvements in the upcoming version. According to a Financial Times report, this updated device could be released as soon as 2025.  ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/meta-plans-to-introduce-display-to-ray-ban-smart-glasses-in-2025-2654437-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T08:52:00",
+        "uuid": "9ae69fe0-f63f-4030-aeb3-cc0d9ca168c1",
+        "positive": 10.4,
+        "negative": 0.3
     },
     {
         "headlines": "WhatsApp rolls out a new feature to scan documents directly via cameraSay goodbye to third-party apps to scan documents. WhatsApp has recently added a new feature that allows users to scan documents directly via camera. ",
@@ -6552,15 +6552,6 @@
         "negative": 8.3
     },
     {
-        "headlines": "Param Sundari: Sidharth Malhotra's swag meets Janhvi Kapoor's grace in new filmSidharth Malhotra and Janhvi Kapoor are set to star together in a film titled Param Sundari. This romantic comedy, directed by Tushar Jalota, is slated for a theatrical release in July 2025.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/param-sundari-janhvi-kapoor-sidharth-malhotra-rom-com-to-release-in-july-2025-2654585-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T14:01:00",
-        "uuid": "722953f6-570b-401d-bb4f-27b415cde4d7",
-        "positive": 14.7,
-        "negative": 0.3
-    },
-    {
         "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
         "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/indian-married-couples-romance-alive-while-living-with-family-2648573-2024-12-15",
         "category": "lifestyle",
@@ -6615,33 +6606,6 @@
         "negative": 6.7
     },
     {
-        "headlines": "OnePlus 13 to launch in India on January 7: Price, specs and more OnePlus has confirmed that its flagship model, OnePlus 13, will debut in India on January 7. While all the details will be confirmed during the launch, the company has been teasing about the upcoming device. Let's take a look at what is coming. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13-to-launch-in-india-on-january-7-price-specs-and-more-2654629-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T15:33:00",
-        "uuid": "7dd346d0-48a6-4dac-8298-df13ad3e2900",
-        "positive": 9.1,
-        "negative": 1.7
-    },
-    {
-        "headlines": "OnePlus 12 price drops just two weeks before OnePlus 13 India launch eventThe OnePlus 12 is currently listed on Amazon at a starting price of Rs 59,999. However, with a certain bank card, you can purchase the phone for even less.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-12-price-drops-just-two-weeks-before-oneplus-13-india-launch-event-2654614-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T14:43:00",
-        "uuid": "6c224102-5797-4535-bd7d-44a89ac2a1bf",
-        "positive": 18.5,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Samsung Galaxy M16 leaked renders show colour options and new designLeaked renders of the Samsung Galaxy M16 5G indicate a few design changes over the last generation model, the Galaxy M15 5G.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-m16-leaked-renders-show-colour-options-and-new-design-2654504-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T11:40:00",
-        "uuid": "a26ee664-e92e-4eff-a1cc-79385034445d",
-        "positive": 6.9,
-        "negative": 1
-    },
-    {
         "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
         "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
         "category": "lifestyle",
@@ -6676,6 +6640,15 @@
         "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
         "positive": 12.9,
         "negative": 4.5
+    },
+    {
+        "headlines": "Param Sundari: Sidharth Malhotra's swag meets Janhvi Kapoor's grace in new filmSidharth Malhotra and Janhvi Kapoor are set to star together in a film titled Param Sundari. This romantic comedy, directed by Tushar Jalota, is slated for a theatrical release in July 2025.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/param-sundari-janhvi-kapoor-sidharth-malhotra-rom-com-to-release-in-july-2025-2654585-2024-12-24",
+        "category": "bollywood",
+        "date_time": "2024-12-24T14:01:00",
+        "uuid": "722953f6-570b-401d-bb4f-27b415cde4d7",
+        "positive": 14.7,
+        "negative": 0.3
     },
     {
         "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
@@ -6741,6 +6714,33 @@
         "negative": 14.3
     },
     {
+        "headlines": "OnePlus 13 to launch in India on January 7: Price, specs and more OnePlus has confirmed that its flagship model, OnePlus 13, will debut in India on January 7. While all the details will be confirmed during the launch, the company has been teasing about the upcoming device. Let's take a look at what is coming. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13-to-launch-in-india-on-january-7-price-specs-and-more-2654629-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T15:33:00",
+        "uuid": "7dd346d0-48a6-4dac-8298-df13ad3e2900",
+        "positive": 9.1,
+        "negative": 1.7
+    },
+    {
+        "headlines": "OnePlus 12 price drops just two weeks before OnePlus 13 India launch eventThe OnePlus 12 is currently listed on Amazon at a starting price of Rs 59,999. However, with a certain bank card, you can purchase the phone for even less.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-12-price-drops-just-two-weeks-before-oneplus-13-india-launch-event-2654614-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T14:43:00",
+        "uuid": "6c224102-5797-4535-bd7d-44a89ac2a1bf",
+        "positive": 18.5,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Samsung Galaxy M16 leaked renders show colour options and new designLeaked renders of the Samsung Galaxy M16 5G indicate a few design changes over the last generation model, the Galaxy M15 5G.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-m16-leaked-renders-show-colour-options-and-new-design-2654504-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T11:40:00",
+        "uuid": "a26ee664-e92e-4eff-a1cc-79385034445d",
+        "positive": 6.9,
+        "negative": 1
+    },
+    {
         "headlines": "Indians are chasing luxury travel like never before. What's driving this shift?Luxury travel among Indian tourists is no longer a rare occurrence. Recent statistics also reveal a clear shift in how Indians approach their travel plans. ",
         "article_url": "https://www.indiatoday.in/lifestyle/travel/story/indians-are-chasing-luxury-travel-like-never-before-whats-driving-this-shift-2653015-2024-12-22",
         "category": "lifestyle",
@@ -6759,15 +6759,6 @@
         "negative": 18.5
     },
     {
-        "headlines": "Ventive Hospitality IPO: Check GMP as listing enters last day for biddingRetail investors must apply for a minimum of 23 shares per lot, which requires a minimum investment of Rs 14,789 for retail applicants.",
-        "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-ipo-check-subscription-latest-gmp-last-day-for-bidding-allotment-date-listing-stmp-2654463-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T10:17:00",
-        "uuid": "658c8a2a-3085-4a2e-a3ae-34516badc4a0",
-        "positive": 11.2,
-        "negative": 0
-    },
-    {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
         "category": "bollywood",
@@ -6784,15 +6775,6 @@
         "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
         "positive": 15.8,
         "negative": 1.3
-    },
-    {
-        "headlines": "Legendary Beatle Paul McCartney's Big 2025 Plan: A New Album In The WorksPaul McCartney's last solo album, McCartney III (2020), recorded during the pandemic, topped UK charts, marking his first solo number one since 1989, showcasing his creative freedom and personal musical expression.\r\n",
-        "article_url": "https://www.indiatoday.in/lifestyle/celebrity/story/legendary-beatle-paul-mccartneys-big-2025-plan-a-new-album-in-the-works-glbs-2654982-2024-12-24",
-        "category": "lifestyle",
-        "date_time": "2024-12-24T23:45:00",
-        "uuid": "2442e867-a5d5-459b-8318-340e7048131a",
-        "positive": 17.4,
-        "negative": 0
     },
     {
         "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
@@ -6858,6 +6840,15 @@
         "negative": 2.3
     },
     {
+        "headlines": "Ventive Hospitality IPO: Check GMP as listing enters last day for biddingRetail investors must apply for a minimum of 23 shares per lot, which requires a minimum investment of Rs 14,789 for retail applicants.",
+        "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-ipo-check-subscription-latest-gmp-last-day-for-bidding-allotment-date-listing-stmp-2654463-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T10:17:00",
+        "uuid": "658c8a2a-3085-4a2e-a3ae-34516badc4a0",
+        "positive": 11.2,
+        "negative": 0
+    },
+    {
         "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
         "category": "bollywood",
@@ -6883,6 +6874,15 @@
         "uuid": "6355b289-2ab9-4219-8f70-0fc3391ebcd4",
         "positive": 14.6,
         "negative": 0.8
+    },
+    {
+        "headlines": "Legendary Beatle Paul McCartney's Big 2025 Plan: A New Album In The WorksPaul McCartney's last solo album, McCartney III (2020), recorded during the pandemic, topped UK charts, marking his first solo number one since 1989, showcasing his creative freedom and personal musical expression.\r\n",
+        "article_url": "https://www.indiatoday.in/lifestyle/celebrity/story/legendary-beatle-paul-mccartneys-big-2025-plan-a-new-album-in-the-works-glbs-2654982-2024-12-24",
+        "category": "lifestyle",
+        "date_time": "2024-12-24T23:45:00",
+        "uuid": "2442e867-a5d5-459b-8318-340e7048131a",
+        "positive": 17.4,
+        "negative": 0
     },
     {
         "headlines": "SRK shares sweet birthday wish for 'coolest and bossest' RajinikanthSuperstar Shah Rukh Khan on Thursday shared the sweetest birthday wish for megastar Rajinikanth. Sharing a photo of himself with the icon, SRK called Rajinikanth 'remarkably simple' and 'inspiring.'",
@@ -6993,24 +6993,6 @@
         "negative": 3.6
     },
     {
-        "headlines": "Border 2: Sunny Deol, Varun Dhawan, Diljit Dosanjh begin shooting, see picSunny Deol, Varun Dhawan, and Diljit Dosanjh's Border 2 commenced filming today, December 24, with the makers exciting fans by sharing a glimpse from the sets.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/border-2-sunny-deol-varun-dhawan-diljit-dosanjh-ahan-shetty-film-shooting-begins-2654550-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:16:00",
-        "uuid": "4a2f074f-267a-4ad5-a4ae-5930ad17b847",
-        "positive": 17,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Subedaar teaser: Anil Kapoor plays a retired soldier in the gritty actionerThe teaser of Anil Kapoor's upcoming film, Subedaar, was released on his birthday today. The crime-thriller will also star Radhikka Madan and will release on Prime Video. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/subedaar-teaser-anil-kapoor-plays-a-retired-soldier-in-the-gritty-actioner-2654551-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:04:00",
-        "uuid": "744ffd05-8b82-4273-a517-dd2a36b61183",
-        "positive": 7.2,
-        "negative": 6.9
-    },
-    {
         "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
         "category": "bollywood",
@@ -7027,15 +7009,6 @@
         "uuid": "5670f2c4-9aae-44dc-a66e-7d6455c87243",
         "positive": 16.1,
         "negative": 2
-    },
-    {
-        "headlines": " Mamata Machinery IPO: Check allotment status, latest GMP and listing date Mamata Machinery IPO allotment: Investors who have bid can check their allotment status online by logging in to either the Bombay Stock Exchange (BSE) website or the website of Link Intime India Private Ltd. ",
-        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-allotment-status-step-by-step-guide-latest-gmp-listing-date-market-debut-2654435-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T08:41:00",
-        "uuid": "f0433c0c-6da5-4839-a1c6-ddfa330dd370",
-        "positive": 4.9,
-        "negative": 1.2
     },
     {
         "headlines": "When Diljit Dosanjh was cast as Priyanka Chopra's on-screen husbandFilmmaker Boney Kapoor recently revealed that he wanted to cast Diljit Dosanjh alongside Priyanka Chopra in a movie. In an interview, he said that he wanted the singer to play Chopra's husband in the film. \r\n",
@@ -7063,15 +7036,6 @@
         "uuid": "1da8afd0-c9dc-464e-91a0-20dd687bec8f",
         "positive": 4.9,
         "negative": 10
-    },
-    {
-        "headlines": "Stocks to watch today: Wipro, Vedanta, Adani Enterprises, TVS Motor Several companies are expected to remain in focus due to recent developments. Among them are Vedanta, Prestige Estates, Wipro, Adani Enterprises, and TVS Motor.",
-        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-market-opening-wipro-vedanta-adani-enterprises-tvs-motor-2654428-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T08:19:00",
-        "uuid": "2c41329b-2985-468c-af68-bc112a1743ec",
-        "positive": 11.3,
-        "negative": 0
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -7128,6 +7092,33 @@
         "negative": 10.6
     },
     {
+        "headlines": "Border 2: Sunny Deol, Varun Dhawan, Diljit Dosanjh begin shooting, see picSunny Deol, Varun Dhawan, and Diljit Dosanjh's Border 2 commenced filming today, December 24, with the makers exciting fans by sharing a glimpse from the sets.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/border-2-sunny-deol-varun-dhawan-diljit-dosanjh-ahan-shetty-film-shooting-begins-2654550-2024-12-24",
+        "category": "bollywood",
+        "date_time": "2024-12-24T13:16:00",
+        "uuid": "4a2f074f-267a-4ad5-a4ae-5930ad17b847",
+        "positive": 17,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Subedaar teaser: Anil Kapoor plays a retired soldier in the gritty actionerThe teaser of Anil Kapoor's upcoming film, Subedaar, was released on his birthday today. The crime-thriller will also star Radhikka Madan and will release on Prime Video. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/subedaar-teaser-anil-kapoor-plays-a-retired-soldier-in-the-gritty-actioner-2654551-2024-12-24",
+        "category": "bollywood",
+        "date_time": "2024-12-24T13:04:00",
+        "uuid": "744ffd05-8b82-4273-a517-dd2a36b61183",
+        "positive": 7.2,
+        "negative": 6.9
+    },
+    {
+        "headlines": " Mamata Machinery IPO: Check allotment status, latest GMP and listing date Mamata Machinery IPO allotment: Investors who have bid can check their allotment status online by logging in to either the Bombay Stock Exchange (BSE) website or the website of Link Intime India Private Ltd. ",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-allotment-status-step-by-step-guide-latest-gmp-listing-date-market-debut-2654435-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T08:41:00",
+        "uuid": "f0433c0c-6da5-4839-a1c6-ddfa330dd370",
+        "positive": 4.9,
+        "negative": 1.2
+    },
+    {
         "headlines": "Mamata Machinery IPO: Latest GMP sees sharp rise; should you subscribe?Mamata Machinery, a leading manufacturer of packaging machines, seeks to raise Rs 179.39 crore from its offer for sale, with promoters selling up to 73.82 lakh equity shares at a face value of Rs 10 each.",
         "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-latest-gmp-price-band-should-you-subscribe-stmp-2652244-2024-12-19",
         "category": "business",
@@ -7137,6 +7128,15 @@
         "negative": 0.3
     },
     {
+        "headlines": "Stocks to watch today: Wipro, Vedanta, Adani Enterprises, TVS Motor Several companies are expected to remain in focus due to recent developments. Among them are Vedanta, Prestige Estates, Wipro, Adani Enterprises, and TVS Motor.",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-market-opening-wipro-vedanta-adani-enterprises-tvs-motor-2654428-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T08:19:00",
+        "uuid": "2c41329b-2985-468c-af68-bc112a1743ec",
+        "positive": 11.3,
+        "negative": 0
+    },
+    {
         "headlines": "Explained: Why SpiceJet share price jumped nearly 8% todaySpicejet share price: The airline's share price was up 7.48% to Rs 60.49 on the Bombay Stock Exchange (BSE) at 12:40 pm.",
         "article_url": "https://www.indiatoday.in/business/story/spicejet-share-price-jumps-8-percent-settlement-with-aircraft-lessor-genesis-stmp-2652228-2024-12-19",
         "category": "business",
@@ -7144,15 +7144,6 @@
         "uuid": "d29e790b-a750-49a8-bf29-ac28a05e83e9",
         "positive": 20,
         "negative": 4.5
-    },
-    {
-        "headlines": "Understanding GST on used cars: Rules, examples, and exemptionsThe GST Council clarified rules for old vehicle sales, setting an 18 per cent tax on seller margins, exempting private sales and negative margins, and simplifying taxation for used and electric vehicles, ensuring fair application of GST across transactions.",
-        "article_url": "https://www.indiatoday.in/business/story/gst-council-issues-key-guidelines-sale-used-vehicles-2654994-2024-12-25",
-        "category": "business",
-        "date_time": "2024-12-25T01:13:00",
-        "uuid": "108db533-27ec-4285-91cf-115d8891fd1d",
-        "positive": 7.7,
-        "negative": 7.6
     },
     {
         "headlines": "PMAY-U 2.0: Who can apply for affordable homes under Pradhan Mantri Awas YojanaPradhan Mantri Awas Yojana Urban 2.0 aims to provide affordable housing to one crore urban families, focusing on inclusive development through various housing schemes and subsidies.",
@@ -7209,24 +7200,6 @@
         "negative": 8.5
     },
     {
-        "headlines": "Apple MacBook Air with M4 chip could launch even before iPhone SE 4Apple's M4-powered MacBook Air may launch sooner than expected. In fact, a report suggests it could be even sooner than the iPhone SE 4 launch.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-macbook-air-with-m4-chip-could-launch-even-before-iphone-se-4-2654675-2024-12-24",
-        "category": "technology",
-        "date_time": "2024-12-24T16:45:00",
-        "uuid": "a1cd2125-d544-4223-ba4c-1feb6b7183be",
-        "positive": 3.4,
-        "negative": 1.5
-    },
-    {
-        "headlines": "Tata Capital IPO buzz? All you need to knowIf the IPO goes through, it will be the Tata Group's second public offering in two decades. The last one was Tata Technologies' IPO in November last year. ",
-        "article_url": "https://www.indiatoday.in/business/story/tata-capital-ipo-usd-2-billion-kotak-investment-banking-all-you-need-to-know-2654599-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T14:04:00",
-        "uuid": "d02c6e53-a6ca-4a1e-a1e9-a0c33cdcd550",
-        "positive": 9.9,
-        "negative": 0.3
-    },
-    {
         "headlines": "Wall Street jitters: Sensex crashes, Nifty tumbles over US Fed rate cutStock market today: The S&P BSE Sensex was down 925.21 points to 79,256.69, while the NSE Nifty50 lost 309.75 points to 23,889.10. ",
         "article_url": "https://www.indiatoday.in/business/story/opening-bell-market-crash-fall-sensex-nifty-wall-street-jitters-hit-india-us-fed-rate-cuts-25-bps-2652111-2024-12-19",
         "category": "business",
@@ -7263,21 +7236,21 @@
         "negative": 0
     },
     {
+        "headlines": "Understanding GST on used cars: Rules, examples, and exemptionsThe GST Council clarified rules for old vehicle sales, setting an 18 per cent tax on seller margins, exempting private sales and negative margins, and simplifying taxation for used and electric vehicles, ensuring fair application of GST across transactions.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-council-issues-key-guidelines-sale-used-vehicles-2654994-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T01:13:00",
+        "uuid": "108db533-27ec-4285-91cf-115d8891fd1d",
+        "positive": 7.7,
+        "negative": 7.6
+    },
+    {
         "headlines": "Rama Mohan Rao Amara appointed as SBI's new managing director: ReportThe decision was made by the Appointments Committee of the Cabinet (ACC), which is headed by the Prime Minister.",
         "article_url": "https://www.indiatoday.in/business/story/rama-mohan-rao-amara-appointed-sbi-new-managing-director-report-2651798-2024-12-18",
         "category": "business",
         "date_time": "2024-12-18T17:49:00",
         "uuid": "6cb2bc37-3b7a-4d0c-b063-d514a6b475c2",
         "positive": 4.4,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Siddharth Anand replaces Sujoy Ghosh as director for SRK's King: ReportsAmid much buzz around Shah Rukh Khan's King, it has now been reported that Siddharth Aand has replaced Sujoy Ghosh to direct the entertainer. The film also stars Suhana Khan in a key role. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/siddharth-anand-replaces-sujoy-ghosh-director-shah-rukh-khan-king-stmp-2654749-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T18:11:00",
-        "uuid": "392068f8-177c-4a63-ba6b-cde3804a0180",
-        "positive": 5.6,
         "negative": 0.7
     },
     {
@@ -7326,6 +7299,15 @@
         "negative": 5.2
     },
     {
+        "headlines": "Apple MacBook Air with M4 chip could launch even before iPhone SE 4Apple's M4-powered MacBook Air may launch sooner than expected. In fact, a report suggests it could be even sooner than the iPhone SE 4 launch.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-macbook-air-with-m4-chip-could-launch-even-before-iphone-se-4-2654675-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T16:45:00",
+        "uuid": "a1cd2125-d544-4223-ba4c-1feb6b7183be",
+        "positive": 3.4,
+        "negative": 1.5
+    },
+    {
         "headlines": "Ventive Hospitality IPO opens: Check latest GMP, price band, and other detailsVentive Hospitality IPO: The subscription window closes on December 24, 2024. The basis of allotment is expected to be finalised by December 26, with shares credited to demat accounts by December 27. ",
         "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-ipo-opens-check-latest-gmp-price-band-and-other-key-details-stmp-2652752-2024-12-20",
         "category": "business",
@@ -7333,6 +7315,15 @@
         "uuid": "7159cf85-87ac-4140-9ea5-1d24c99ab682",
         "positive": 10.5,
         "negative": 1.7
+    },
+    {
+        "headlines": "Tata Capital IPO buzz? All you need to knowIf the IPO goes through, it will be the Tata Group's second public offering in two decades. The last one was Tata Technologies' IPO in November last year. ",
+        "article_url": "https://www.indiatoday.in/business/story/tata-capital-ipo-usd-2-billion-kotak-investment-banking-all-you-need-to-know-2654599-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T14:04:00",
+        "uuid": "d02c6e53-a6ca-4a1e-a1e9-a0c33cdcd550",
+        "positive": 9.9,
+        "negative": 0.3
     },
     {
         "headlines": "Sensex tumbles over 800 points. What's behind the bloodbath on Dalal Street?Stock market today: The Sensex had fallen 748.04 points to 78,470.01 at 1:18 pm, while the Nifty50 slipped 214.80 points to trade at 23,736.90. All broader market indices were also trading in negative territory.",
@@ -7378,6 +7369,15 @@
         "uuid": "e44307d2-33a6-49c6-b255-2a09b983a49b",
         "positive": 6.3,
         "negative": 11.1
+    },
+    {
+        "headlines": "Siddharth Anand replaces Sujoy Ghosh as director for SRK's King: ReportsAmid much buzz around Shah Rukh Khan's King, it has now been reported that Siddharth Aand has replaced Sujoy Ghosh to direct the entertainer. The film also stars Suhana Khan in a key role. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/siddharth-anand-replaces-sujoy-ghosh-director-shah-rukh-khan-king-stmp-2654749-2024-12-24",
+        "category": "bollywood",
+        "date_time": "2024-12-24T18:11:00",
+        "uuid": "392068f8-177c-4a63-ba6b-cde3804a0180",
+        "positive": 5.6,
+        "negative": 0.7
     },
     {
         "headlines": "Explained: Why Sensex fell 4,000 points in 5 trading sessionsThe BSE Sensex plummeted over 4,000 points across five consecutive sessions, while the NSE Nifty50 fell approximately 1,200 points, representing a nearly 5% loss within the week.",
@@ -7488,51 +7488,6 @@
         "negative": 1.3
     },
     {
-        "headlines": "Are stock markets closed on December 25? Check the full 2025 holiday scheduleOn regular weekdays, the stock market operates from 9:15 AM to 3:30 PM. A pre-opening session takes place from 9:00 AM to 9:15 AM to set the tone for the trading day. ",
-        "article_url": "https://www.indiatoday.in/business/story/stock-markets-nse-bse-closed-on-december-25-christmas-2024-check-full-2025-holiday-schedule-2654493-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T11:18:00",
-        "uuid": "d2b30698-38b8-455d-b2da-53ded4658664",
-        "positive": 10,
-        "negative": 0.6
-    },
-    {
-        "headlines": "Which Indian insurance companies reject claims the least? Report reveals truthPeople don't just put in money but trust when they buy insurance policies to cover for medical emergencies or motor accidents. A report by the Insurance Brokers Association of India reveals how many such claims have been accepted or rejected by insurance companies in 2022-23.",
-        "article_url": "https://www.indiatoday.in/business/story/irdai-report-indian-best-insurance-company-india-policies-medical-vehicle-claim-rejection-rate-data-2654475-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T11:29:00",
-        "uuid": "ee069b90-04ef-4fc4-8b4e-625b068aa37a",
-        "positive": 10,
-        "negative": 7.3
-    },
-    {
-        "headlines": "Carraro India IPO: Check GMP, price band and subscription statusCarraro India IPO is a Rs 1,250 crore offer for sale (OFS) consisting of 1.77 crore shares. As this is a pure OFS, the entire proceeds will go to the selling shareholders, and the company will not raise fresh capital.",
-        "article_url": "https://www.indiatoday.in/business/story/carraro-india-ipo-check-gmp-price-band-and-subscription-status-stmp-2654487-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T11:41:00",
-        "uuid": "1265416c-cc7a-4e87-8b93-1156af033ed2",
-        "positive": 13.4,
-        "negative": 2.6
-    },
-    {
-        "headlines": "Senores Pharmaceuticals IPO: Latest subscription status, GMP; listing dateThe IPO comprises a fresh issue of shares worth Rs 500 crore and an offer-for-sale (OFS) of up to 21,00,000 equity shares by promoters and existing shareholders.",
-        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-ipo-latest-subscription-status-gmp-allotment-listing-date-stmp-2654473-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T10:45:00",
-        "uuid": "2069e419-4c35-4115-98f2-51fb1993df5b",
-        "positive": 12.5,
-        "negative": 0.5
-    },
-    {
-        "headlines": "Sagility India share price rises 5% to hit upper circuit today. Here's why Sagility India debuted on the stock market with an issue price of Rs 30 per share. At its current level, the stock has surged over 63% from the IPO price, underscoring strong investor interest. ",
-        "article_url": "https://www.indiatoday.in/business/story/sagility-india-share-price-rises-5-percent-to-hit-upper-circuit-today-explained-stmp-2654468-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T10:36:00",
-        "uuid": "116c09dd-a54a-4281-987b-3bd09344d62a",
-        "positive": 17.2,
-        "negative": 1.6
-    },
-    {
         "headlines": "Sensex jumps 800 points: 3 factors behind today's stock market rallyThe S&P BSE Sensex climbed 802.66 points to 78,844.25 by 11:06 am, while the NSE Nifty50 advanced 243 points to trade at 23,828.60.",
         "article_url": "https://www.indiatoday.in/business/story/stock-market-rally-today-sensex-jumps-800-points-key-factors-behind-bull-run-2653942-2024-12-23",
         "category": "business",
@@ -7596,24 +7551,6 @@
         "negative": 1.6
     },
     {
-        "headlines": "Who is Aakash Chaudhry? Zerodha, Zomato founders bet on Sparkl EdventureInvestors include Zomato founder Deepinder Goyal and Zerodha founder Nithin Kamath, who have backed the platform that aims to transform personalised learning for students.",
-        "article_url": "https://www.indiatoday.in/business/story/aakash-chaudhry-sparkl-edventure-funding-usd-4-million-zomato-zerodha-founders-nithin-kamath-deepinder-goyal-stmp-2654552-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T13:01:00",
-        "uuid": "77ade4e7-163c-4d4a-87d9-b216a62553a7",
-        "positive": 14.8,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Sanathan Textiles IPO allotment: Check step-by-step guide to check statusSanathan Textiles IPO: Investors can verify their allotment status through two platforms: the Bombay Stock Exchange (BSE) website and the KFin Technologies portal. Here's a step-by-step guide:",
-        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-ipo-allotment-check-step-by-step-guide-to-check-status-2654543-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T13:00:00",
-        "uuid": "7aa10629-b568-481a-9b41-ba4d305eb582",
-        "positive": 6.5,
-        "negative": 1.2
-    },
-    {
         "headlines": "Explained: Why India Cements share price surged 11% today Shares of India Cements rose after UltraTech Cement received a crucial approval from the Competition Commission of India (CCI). ",
         "article_url": "https://www.indiatoday.in/business/story/india-cements-share-price-surged-11-percent-today-why-reason-ultratech-cement-accquisition-2653974-2024-12-23",
         "category": "business",
@@ -7630,6 +7567,51 @@
         "uuid": "393b4ead-572e-4898-8c68-2695413ea66a",
         "positive": 11.7,
         "negative": 4.6
+    },
+    {
+        "headlines": "Are stock markets closed on December 25? Check the full 2025 holiday scheduleOn regular weekdays, the stock market operates from 9:15 AM to 3:30 PM. A pre-opening session takes place from 9:00 AM to 9:15 AM to set the tone for the trading day. ",
+        "article_url": "https://www.indiatoday.in/business/story/stock-markets-nse-bse-closed-on-december-25-christmas-2024-check-full-2025-holiday-schedule-2654493-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:18:00",
+        "uuid": "d2b30698-38b8-455d-b2da-53ded4658664",
+        "positive": 10,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Which Indian insurance companies reject claims the least? Report reveals truthPeople don't just put in money but trust when they buy insurance policies to cover for medical emergencies or motor accidents. A report by the Insurance Brokers Association of India reveals how many such claims have been accepted or rejected by insurance companies in 2022-23.",
+        "article_url": "https://www.indiatoday.in/business/story/irdai-report-indian-best-insurance-company-india-policies-medical-vehicle-claim-rejection-rate-data-2654475-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:29:00",
+        "uuid": "ee069b90-04ef-4fc4-8b4e-625b068aa37a",
+        "positive": 10,
+        "negative": 7.3
+    },
+    {
+        "headlines": "Carraro India IPO: Check GMP, price band and subscription statusCarraro India IPO is a Rs 1,250 crore offer for sale (OFS) consisting of 1.77 crore shares. As this is a pure OFS, the entire proceeds will go to the selling shareholders, and the company will not raise fresh capital.",
+        "article_url": "https://www.indiatoday.in/business/story/carraro-india-ipo-check-gmp-price-band-and-subscription-status-stmp-2654487-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:41:00",
+        "uuid": "1265416c-cc7a-4e87-8b93-1156af033ed2",
+        "positive": 13.4,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Senores Pharmaceuticals IPO: Latest subscription status, GMP; listing dateThe IPO comprises a fresh issue of shares worth Rs 500 crore and an offer-for-sale (OFS) of up to 21,00,000 equity shares by promoters and existing shareholders.",
+        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-ipo-latest-subscription-status-gmp-allotment-listing-date-stmp-2654473-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T10:45:00",
+        "uuid": "2069e419-4c35-4115-98f2-51fb1993df5b",
+        "positive": 12.5,
+        "negative": 0.5
+    },
+    {
+        "headlines": "Sagility India share price rises 5% to hit upper circuit today. Here's why Sagility India debuted on the stock market with an issue price of Rs 30 per share. At its current level, the stock has surged over 63% from the IPO price, underscoring strong investor interest. ",
+        "article_url": "https://www.indiatoday.in/business/story/sagility-india-share-price-rises-5-percent-to-hit-upper-circuit-today-explained-stmp-2654468-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T10:36:00",
+        "uuid": "116c09dd-a54a-4281-987b-3bd09344d62a",
+        "positive": 17.2,
+        "negative": 1.6
     },
     {
         "headlines": "Salted, pre-packed or caramelised? Popcorn gets stuck in GST mazeThe GST Council's decision to impose different tax rates on salted, pre-packaged, and caramelised popcorn has faced criticism, with economists, industry experts, and former government officials arguing that the new tax structure adds complexity for consumers.",
@@ -7693,6 +7675,24 @@
         "uuid": "2bdd8079-235f-4d0e-a920-86c646dcd817",
         "positive": 12.3,
         "negative": 4.8
+    },
+    {
+        "headlines": "Who is Aakash Chaudhry? Zerodha, Zomato founders bet on Sparkl EdventureInvestors include Zomato founder Deepinder Goyal and Zerodha founder Nithin Kamath, who have backed the platform that aims to transform personalised learning for students.",
+        "article_url": "https://www.indiatoday.in/business/story/aakash-chaudhry-sparkl-edventure-funding-usd-4-million-zomato-zerodha-founders-nithin-kamath-deepinder-goyal-stmp-2654552-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T13:01:00",
+        "uuid": "77ade4e7-163c-4d4a-87d9-b216a62553a7",
+        "positive": 14.8,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Sanathan Textiles IPO allotment: Check step-by-step guide to check statusSanathan Textiles IPO: Investors can verify their allotment status through two platforms: the Bombay Stock Exchange (BSE) website and the KFin Technologies portal. Here's a step-by-step guide:",
+        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-ipo-allotment-check-step-by-step-guide-to-check-status-2654543-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T13:00:00",
+        "uuid": "7aa10629-b568-481a-9b41-ba4d305eb582",
+        "positive": 6.5,
+        "negative": 1.2
     },
     {
         "headlines": "Economy rebounds in Q3 with boost from festivals and rural demand: RBIAn article on the 'State of the Economy' in the December bulletin noted that the global economy continues to exhibit resilience with steady growth and moderating inflation.",
