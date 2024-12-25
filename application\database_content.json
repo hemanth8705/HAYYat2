@@ -5382,6 +5382,24 @@
         "negative": 3.4
     },
     {
+        "headlines": "Watch: Vinod Kambli sings from hospital bed, shares positive health updateFormer India cricketer Vinod Kambli appeared emotional as he spoke to the media from a private hospital in Thane on Tuesday. The member of 1996 World Cup team was hospitalised on Saturday after his health deteriorated. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-vinod-kambli-thane-hospital-health-update-bed-song-we-are-champions-2654575-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T14:38:00",
+        "uuid": "9d3afec0-b405-4d1a-8ad0-6af25c39ca02",
+        "positive": 16.2,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Watch: Maharashtra's Kiran Navgire hits 8 sixes en route 24-ball 64 vs RailwaysKiran Navgire played a blistering knock of 64 off 25 balls with eight sixes in the Senior Women's One-Day Trophy quarterfinal against Railways.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-maharashtra-kiran-navgire-hits-8-sixes-en-route-24-ball-64-vs-railways-2654580-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T13:42:00",
+        "uuid": "1421afc9-9052-4f0b-84b6-122636c26097",
+        "positive": 8.1,
+        "negative": 2.6
+    },
+    {
         "headlines": "All-rounder Tanush Kotian set to join India's squad for Melbourne, Sydney TestsBorder-Gavaskar Trophy: 26-year-old all-rounder Tanush Kotian received his maiden Test call-up on Monday, December 23. The Mumbai cricketer will leave for Australia on Tuesday, December 24. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-tanush-kotian-spinner-border-gavaskar-trophy-squad-2654151-2024-12-23",
         "category": "sports",
@@ -5389,6 +5407,15 @@
         "uuid": "ce1b8919-630f-48f8-b29e-376a348a2ca8",
         "positive": 5.5,
         "negative": 0.8
+    },
+    {
+        "headlines": "Mamata Machinery IPO share price: Strong listing ahead? Check latest GMPMamata Machinery IPO saw massive interest from investors over its 3-day bidding process and was subscribed close to 200 times. ",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-listing-date-share-price-strong-market-debut-check-latest-gmp-2655137-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T13:12:00",
+        "uuid": "d8999e11-2fa8-4829-8721-8211d3642d2e",
+        "positive": 12.3,
+        "negative": 0
     },
     {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
@@ -5436,24 +5463,6 @@
         "negative": 1.9
     },
     {
-        "headlines": "Watch: Vinod Kambli sings from hospital bed, shares positive health updateFormer India cricketer Vinod Kambli appeared emotional as he spoke to the media from a private hospital in Thane on Tuesday. The member of 1996 World Cup team was hospitalised on Saturday after his health deteriorated. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-vinod-kambli-thane-hospital-health-update-bed-song-we-are-champions-2654575-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T14:38:00",
-        "uuid": "9d3afec0-b405-4d1a-8ad0-6af25c39ca02",
-        "positive": 16.2,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Watch: Maharashtra's Kiran Navgire hits 8 sixes en route 24-ball 64 vs RailwaysKiran Navgire played a blistering knock of 64 off 25 balls with eight sixes in the Senior Women's One-Day Trophy quarterfinal against Railways.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-maharashtra-kiran-navgire-hits-8-sixes-en-route-24-ball-64-vs-railways-2654580-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T13:42:00",
-        "uuid": "1421afc9-9052-4f0b-84b6-122636c26097",
-        "positive": 8.1,
-        "negative": 2.6
-    },
-    {
         "headlines": "Housing board to probe allegations of commercial activity at Dhoni's Ranchi houseThe Jharkhand State Housing Board has taken action against former Indian cricket captain Mahendra Singh Dhoni for reportedly using a residential plot at his Harmu Road residence for commercial activities.",
         "article_url": "https://www.indiatoday.in/sports/story/ms-dhoni-housing-board-allegations-commercial-activity-ranchi-house-2654248-2024-12-23",
         "category": "sports",
@@ -5470,15 +5479,6 @@
         "uuid": "026031fd-edda-43c6-9460-21e088881f36",
         "positive": 5.6,
         "negative": 1.7
-    },
-    {
-        "headlines": "Mamata Machinery IPO share price: Strong listing ahead? Check latest GMPMamata Machinery IPO saw massive interest from investors over its 3-day bidding process and was subscribed close to 200 times. ",
-        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-listing-date-share-price-strong-market-debut-check-latest-gmp-2655137-2024-12-25",
-        "category": "business",
-        "date_time": "2024-12-25T13:12:00",
-        "uuid": "d8999e11-2fa8-4829-8721-8211d3642d2e",
-        "positive": 12.3,
-        "negative": 0
     },
     {
         "headlines": "R Ashwin reflects on India career after retirement: Don't cry because it's overRavichandran Ashwin shared a special message on Instagram after announcing his retirement from international cricket. Checkout what the Indian legend has to say as the cricketing world still overcomes the shocking announcement. ",
@@ -5679,6 +5679,15 @@
         "negative": 2.8
     },
     {
+        "headlines": "Fakhar Zaman breaks silence on contract snub, clarifies controversial tweetOut of favour Pakistan batter Fakhar Zaman has broken his silence on the central contract snub. Fakhar Zaman was punished for one of his tweets in 2024, which was perceived as a criticism of the Pakistan Cricket Board.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/fakhar-zaman-breaks-silence-on-contract-snub-clarifies-controversial-babar-azam-tweet-2654531-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T12:29:00",
+        "uuid": "2bc07601-18ef-4c73-9f9e-64bd4581a8d1",
+        "positive": 7.7,
+        "negative": 6.3
+    },
+    {
         "headlines": "No regrets about not captaining India, but would have enjoyed it: R AshwinR Ashwin played 106 Tests and took 537 wickets, but the legendary off-spinner did not get an opportunity to lead the senior national team in the longest format of the game. Ashwin retired from international cricket on December 18. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ashwin-retires-captaincy-india-no-regrets-interview-2654507-2024-12-24",
         "category": "sports",
@@ -5686,6 +5695,33 @@
         "uuid": "0327e1b3-d8f6-416b-8ef0-8c9003f41df2",
         "positive": 15.6,
         "negative": 1.9
+    },
+    {
+        "headlines": "Hurt Shubman Gill refuses to leave nets, declared fit for MCG TestIndis batter Shubman Gill was once again copped a blow to his finger, just days ahead of the Boxing Day Test match at the MCG. However, the batter refused to leave the nets and continued his practice.",
+        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-boxing-day-test-match-mcg-shubman-gill-finger-injury-2654566-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T13:17:00",
+        "uuid": "a06750f0-ccdc-4840-bf9f-d028e6db5489",
+        "positive": 13.5,
+        "negative": 5.5
+    },
+    {
+        "headlines": "Virat Kohli looks rock solid in nets, urges fans not to make noiseBorder-Gavaskar Trophy: India star batter Virat Kohli displayed impeccable technique in the nets at the Melbourne Cricket Ground ahead of the Boxing Day Test. Kohli also urged the fans not to make noise in the practice session.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-virat-kohli-rock-solid-nets-urges-fans-not-to-make-noise-2654554-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T13:07:00",
+        "uuid": "c2f8c603-8dd7-4b08-a389-1d84a9cac21b",
+        "positive": 11.4,
+        "negative": 4.9
+    },
+    {
+        "headlines": "As India's Shami hopes fade, time for Bumrah's support group to step upTeam India has received a massive setback as fast bowler Mohammed Shami failed to recover in time for the last two Tests against Australia. Shami's absence will further mount the pressure on pace spearhead Jasprit Bumrah, who has lacked the support from other bowlers. Will other bowlers finally step up in the remaining two Tests?",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-jasprit-bumrahs-workload-mohammed-shamis-injury-border-gavaskar-trophy-aus-vs-ind-2654376-2024-12-24",
+        "category": "sports",
+        "date_time": "2024-12-24T12:44:00",
+        "uuid": "85e7885d-03e7-4e1e-a685-6d7539f22977",
+        "positive": 6.6,
+        "negative": 5.2
     },
     {
         "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
@@ -5859,33 +5895,6 @@
         "negative": 5.5
     },
     {
-        "headlines": "Hurt Shubman Gill refuses to leave nets, declared fit for MCG TestIndis batter Shubman Gill was once again copped a blow to his finger, just days ahead of the Boxing Day Test match at the MCG. However, the batter refused to leave the nets and continued his practice.",
-        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-boxing-day-test-match-mcg-shubman-gill-finger-injury-2654566-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T13:17:00",
-        "uuid": "a06750f0-ccdc-4840-bf9f-d028e6db5489",
-        "positive": 13.5,
-        "negative": 5.5
-    },
-    {
-        "headlines": "Virat Kohli looks rock solid in nets, urges fans not to make noiseBorder-Gavaskar Trophy: India star batter Virat Kohli displayed impeccable technique in the nets at the Melbourne Cricket Ground ahead of the Boxing Day Test. Kohli also urged the fans not to make noise in the practice session.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-virat-kohli-rock-solid-nets-urges-fans-not-to-make-noise-2654554-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T13:07:00",
-        "uuid": "c2f8c603-8dd7-4b08-a389-1d84a9cac21b",
-        "positive": 11.4,
-        "negative": 4.9
-    },
-    {
-        "headlines": "As India's Shami hopes fade, time for Bumrah's support group to step upTeam India has received a massive setback as fast bowler Mohammed Shami failed to recover in time for the last two Tests against Australia. Shami's absence will further mount the pressure on pace spearhead Jasprit Bumrah, who has lacked the support from other bowlers. Will other bowlers finally step up in the remaining two Tests?",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-jasprit-bumrahs-workload-mohammed-shamis-injury-border-gavaskar-trophy-aus-vs-ind-2654376-2024-12-24",
-        "category": "sports",
-        "date_time": "2024-12-24T12:44:00",
-        "uuid": "85e7885d-03e7-4e1e-a685-6d7539f22977",
-        "positive": 6.6,
-        "negative": 5.2
-    },
-    {
         "headlines": "Harleen hits maiden ODI century in India's fiery batting-show vs West IndiesHarleen Deol dazzled with her maiden ODI century, leading India to their highest ODI total against West Indies. Her composed yet aggressive innings placed her alongside legends, showcasing India's batting brilliance in a dominant series display.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-west-indies-women-harleen-deol-maiden-odi-century-vadodara-2654701-2024-12-24",
         "category": "sports",
@@ -6057,22 +6066,22 @@
         "negative": 0.8
     },
     {
-        "headlines": "Apple nears $4 trillion valuation amid AI push and iPhone upgrade hopesApple's strategic push into AI and its resilience in navigating market challenges have positioned the tech giant as a leader in the sector. ",
-        "article_url": "https://www.indiatoday.in/business/story/apple-nears-4-trillion-dollar-market-valuation-amid-ai-push-and-iphone-upgrade-hopes-2654536-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T12:35:00",
-        "uuid": "d9b56e30-c633-46de-b9f8-40f2edb80725",
-        "positive": 12.2,
-        "negative": 1.1
+        "headlines": "Pakistan name playing XI for 1st Test, veteran pacer returns after 3 yearsSA vs PAK, 1st Test: Fast bowler Mohammad Abbas has returned to the Pakistan playing XI for the Boxing Day Test to be played from December 26 at the SuperSport Park in Centurion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-pakistan-playing-xi-vs-south-africa-centurion-babar-azam-2655295-2024-12-25",
+        "category": "sports",
+        "date_time": "2024-12-25T19:20:00",
+        "uuid": "7f6ac2a1-d9b3-4b35-a439-8396dc74e09c",
+        "positive": 5.6,
+        "negative": 4.2
     },
     {
-        "headlines": "Fakhar Zaman breaks silence on contract snub, clarifies controversial tweetOut of favour Pakistan batter Fakhar Zaman has broken his silence on the central contract snub. Fakhar Zaman was punished for one of his tweets in 2024, which was perceived as a criticism of the Pakistan Cricket Board.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/fakhar-zaman-breaks-silence-on-contract-snub-clarifies-controversial-babar-azam-tweet-2654531-2024-12-24",
+        "headlines": "AUS vs IND: Michael Clarke decodes Travis Head's 'smart batting' vs IndiaFormer Australia captain Michael Clarke feels Travis Head has been playing smart cricket in the ongoing Test series against India. Head is the leading run scorer of the series so far with 409 runs from three matches.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-michael-clarke-travis-head-aus-vs-ind-border-gavaskar-trophy-2024-25-2655291-2024-12-25",
         "category": "sports",
-        "date_time": "2024-12-24T12:29:00",
-        "uuid": "2bc07601-18ef-4c73-9f9e-64bd4581a8d1",
-        "positive": 7.7,
-        "negative": 6.3
+        "date_time": "2024-12-25T18:59:00",
+        "uuid": "b5c967ca-fc28-48a3-991f-b07ea8631aad",
+        "positive": 9.8,
+        "negative": 3.5
     },
     {
         "headlines": "Dele Alli comeback? Player set to start training with Como FC as signing testDele Alli began training with Serie A side Como FC under Cesc Fabregas, aiming to revive his career after a prolonged absence from competitive football. The former England international seeks to impress and secure a contract with the relegation-threatened club.",
@@ -6156,6 +6165,15 @@
         "negative": 2.1
     },
     {
+        "headlines": "Real Madrid Chritmas reunion ft Nacho, Joselu join Carvajal, VazquezFormer Real Madrid stars Nacho Fernandez and Joselu reunited with Lucas Vazquez and Dani Carvajal, creating a heartwarming moment for fans during Christmas as they reminisced about their time together at the Bernabeu and on the Spanish national team.",
+        "article_url": "https://www.indiatoday.in/sports/football/story/real-madrid-reunion-christmas-nacho-carvajal-joselu-lucas-vazquez-2655292-2024-12-25",
+        "category": "sports",
+        "date_time": "2024-12-25T18:55:00",
+        "uuid": "6fd17b79-2b36-40a2-8d2a-54e7ad478b47",
+        "positive": 13.1,
+        "negative": 0.8
+    },
+    {
         "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
         "category": "technology",
@@ -6174,15 +6192,6 @@
         "negative": 2.8
     },
     {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
-    },
-    {
         "headlines": "Boxing Day Test could be make or break for Team India. Here's whyAUS vs IND, 4th Test: India have won four out of 14 Tests at the MCG, having also won back-to-back matches in 2018 and 2020. The ongoing Test series is currently locked at 1-1 with two Tests remaining. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-boxing-day-test-rohit-sharma-2655201-2024-12-25",
         "category": "sports",
@@ -6199,6 +6208,15 @@
         "uuid": "79392075-2330-475c-bfb0-70a2ad1f40c7",
         "positive": 20.1,
         "negative": 0.5
+    },
+    {
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
     },
     {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
@@ -6435,15 +6453,6 @@
         "negative": 1.4
     },
     {
-        "headlines": "Bing Image Creator now generates images directly from Edge address barPowered by the DALL-E 3 PR16 model, Microsoft's Bing Image Creator now generates images twice as fast and features a redesigned homepage with light and dark mode options.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/bing-image-creator-now-generates-images-directly-from-edge-address-bar-2652908-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T15:44:00",
-        "uuid": "115a6eae-d5e0-4868-a4b4-3f99d4a30e76",
-        "positive": 18.9,
-        "negative": 0.4
-    },
-    {
         "headlines": "WhatsApp rolls out a new feature to scan documents directly via cameraSay goodbye to third-party apps to scan documents. WhatsApp has recently added a new feature that allows users to scan documents directly via camera. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/whatsapp-rolls-out-a-new-feature-to-scan-documents-directly-via-camera-2654573-2024-12-24",
         "category": "technology",
@@ -6453,13 +6462,13 @@
         "negative": 2.6
     },
     {
-        "headlines": "Samsung Galaxy S25 series is expected to go on sale on this dateSamsung Galaxy S25 series is rumoured to be launched on January 22. While the date is yet to be made official by the company, another report claims to reveal the day the new smartphones will hit the shelves. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-series-is-expected-to-go-on-sale-on-this-date-2654555-2024-12-24",
+        "headlines": "Bing Image Creator now generates images directly from Edge address barPowered by the DALL-E 3 PR16 model, Microsoft's Bing Image Creator now generates images twice as fast and features a redesigned homepage with light and dark mode options.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/bing-image-creator-now-generates-images-directly-from-edge-address-bar-2652908-2024-12-20",
         "category": "technology",
-        "date_time": "2024-12-24T13:05:00",
-        "uuid": "d6bfd0f4-4463-41d3-93a8-d2e738f4be9a",
-        "positive": 3.2,
-        "negative": 3
+        "date_time": "2024-12-20T15:44:00",
+        "uuid": "115a6eae-d5e0-4868-a4b4-3f99d4a30e76",
+        "positive": 18.9,
+        "negative": 0.4
     },
     {
         "headlines": "India predicted XI for 4th Test vs Australia: Will Rohit Sharma open in Melbourne?Boxing Day Test: If Rohit Sharma opts to open with Yashasvi Jaiswal in the fourth Test at the MCG, KL Rahul is likely to bat at No.3. Melbourne weather may influence India's decision to play two spinners.",
@@ -6712,6 +6721,15 @@
         "uuid": "a26ee664-e92e-4eff-a1cc-79385034445d",
         "positive": 6.9,
         "negative": 1
+    },
+    {
+        "headlines": "Samsung Galaxy S25 series is expected to go on sale on this dateSamsung Galaxy S25 series is rumoured to be launched on January 22. While the date is yet to be made official by the company, another report claims to reveal the day the new smartphones will hit the shelves. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-series-is-expected-to-go-on-sale-on-this-date-2654555-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T13:05:00",
+        "uuid": "d6bfd0f4-4463-41d3-93a8-d2e738f4be9a",
+        "positive": 3.2,
+        "negative": 3
     },
     {
         "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
@@ -7128,24 +7146,6 @@
         "negative": 0.6
     },
     {
-        "headlines": "Border 2: Sunny Deol, Varun Dhawan, Diljit Dosanjh begin shooting, see picSunny Deol, Varun Dhawan, and Diljit Dosanjh's Border 2 commenced filming today, December 24, with the makers exciting fans by sharing a glimpse from the sets.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/border-2-sunny-deol-varun-dhawan-diljit-dosanjh-ahan-shetty-film-shooting-begins-2654550-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:16:00",
-        "uuid": "4a2f074f-267a-4ad5-a4ae-5930ad17b847",
-        "positive": 17,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Subedaar teaser: Anil Kapoor plays a retired soldier in the gritty actionerThe teaser of Anil Kapoor's upcoming film, Subedaar, was released on his birthday today. The crime-thriller will also star Radhikka Madan and will release on Prime Video. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/subedaar-teaser-anil-kapoor-plays-a-retired-soldier-in-the-gritty-actioner-2654551-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:04:00",
-        "uuid": "744ffd05-8b82-4273-a517-dd2a36b61183",
-        "positive": 7.2,
-        "negative": 6.9
-    },
-    {
         "headlines": "Go this weekend: All We Imagine as Light back in cinemas, Payal Kapadia thrilledDirector Payal Kapadia's film, All We Imagine As Light, has returned to cinemas with improved showtimes in select cities.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/all-we-imagine-as-light-back-in-cinemas-director-payal-kapadia-thrilled-2648880-2024-12-12",
         "category": "bollywood",
@@ -7191,6 +7191,24 @@
         "negative": 1.3
     },
     {
+        "headlines": "AI models now create text-to-video clips, promise a new futureWhat is the future of video creation with AI tools like Veo2 and Sora generating high-quality, realistic videos? More importantly, which is better for you? We try to find some answers to some of these questions.",
+        "article_url": "https://www.indiatoday.in/technology/story/google-veo2-vs-openai-sora-ai-video-creators-promise-a-new-future-2655094-2024-12-25",
+        "category": "technology",
+        "date_time": "2024-12-25T11:33:00",
+        "uuid": "f9df786c-36bf-4046-8c00-d0196a91b00b",
+        "positive": 13.4,
+        "negative": 3.1
+    },
+    {
+        "headlines": "IcfaiTech Hyderabad inaugurates VLSI Center to boost semiconductor innovationIcfaiTech Hyderabad inaugurates Centre for VLSI with an aim to advance India's semiconductor capabilities.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/icfaitech-hyderabad-inaugurates-vlsi-center-to-boost-semiconductor-innovation-2655085-2024-12-25",
+        "category": "technology",
+        "date_time": "2024-12-25T11:05:00",
+        "uuid": "fcf6549c-7712-4891-872c-e0600c5986c7",
+        "positive": 17.7,
+        "negative": 1.1
+    },
+    {
         "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/thalapathy-vijay-impressed-baby-john-varun-dhawan-work-director-kalees-2652819-2024-12-20",
         "category": "bollywood",
@@ -7216,24 +7234,6 @@
         "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
         "positive": 16,
         "negative": 3.6
-    },
-    {
-        "headlines": "AI models now create text-to-video clips, promise a new futureWhat is the future of video creation with AI tools like Veo2 and Sora generating high-quality, realistic videos? More importantly, which is better for you? We try to find some answers to some of these questions.",
-        "article_url": "https://www.indiatoday.in/technology/story/google-veo2-vs-openai-sora-ai-video-creators-promise-a-new-future-2655094-2024-12-25",
-        "category": "technology",
-        "date_time": "2024-12-25T11:33:00",
-        "uuid": "f9df786c-36bf-4046-8c00-d0196a91b00b",
-        "positive": 13.4,
-        "negative": 3.1
-    },
-    {
-        "headlines": "IcfaiTech Hyderabad inaugurates VLSI Center to boost semiconductor innovationIcfaiTech Hyderabad inaugurates Centre for VLSI with an aim to advance India's semiconductor capabilities.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/icfaitech-hyderabad-inaugurates-vlsi-center-to-boost-semiconductor-innovation-2655085-2024-12-25",
-        "category": "technology",
-        "date_time": "2024-12-25T11:05:00",
-        "uuid": "fcf6549c-7712-4891-872c-e0600c5986c7",
-        "positive": 17.7,
-        "negative": 1.1
     },
     {
         "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
@@ -7272,15 +7272,6 @@
         "negative": 7.6
     },
     {
-        "headlines": "Fateh trailer: Sonu Sood is on a killing spree in his fight against cybercrimeSonu Sood's Fateh trailer is out. The film, starring Jacqueliene Fernandez alongside the actor, will release in theatres on January 10. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/fateh-trailer-sonu-sood-killing-spree-fight-against-cybercrime-jacqueliene-fernandez-2654264-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T19:40:00",
-        "uuid": "1da8afd0-c9dc-464e-91a0-20dd687bec8f",
-        "positive": 4.9,
-        "negative": 10
-    },
-    {
         "headlines": "Housefull 5: Akshay Kumar, Abhishek Bachchan, Riteish, others wrap film's shootAkshay Kumar, Riteish Deshmukh, Abhishek Bachchan and others have wrapped the shoot of the upcoming film, Housefull 5. Fardeen Khan shared pictures on social media from the bash. ",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-riteish-deshmukh-fardeen-khan-abhishek-bachchan-wrap-housefull-5-shoot-2655171-2024-12-25",
         "category": "bollywood",
@@ -7288,6 +7279,15 @@
         "uuid": "206eb097-9115-49b7-ad04-691f9605fb43",
         "positive": 15.8,
         "negative": 0.7
+    },
+    {
+        "headlines": "Fateh trailer: Sonu Sood is on a killing spree in his fight against cybercrimeSonu Sood's Fateh trailer is out. The film, starring Jacqueliene Fernandez alongside the actor, will release in theatres on January 10. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/fateh-trailer-sonu-sood-killing-spree-fight-against-cybercrime-jacqueliene-fernandez-2654264-2024-12-23",
+        "category": "bollywood",
+        "date_time": "2024-12-23T19:40:00",
+        "uuid": "1da8afd0-c9dc-464e-91a0-20dd687bec8f",
+        "positive": 4.9,
+        "negative": 10
     },
     {
         "headlines": "Understanding GST on used cars: Rules, examples, and exemptionsThe GST Council clarified rules for old vehicle sales, setting an 18 per cent tax on seller margins, exempting private sales and negative margins, and simplifying taxation for used and electric vehicles, ensuring fair application of GST across transactions.",
@@ -7299,13 +7299,22 @@
         "negative": 7.6
     },
     {
-        "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
-        "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T17:05:00",
-        "uuid": "913aea87-537c-435c-9e2b-f62608a6667a",
-        "positive": 31.9,
-        "negative": 6.6
+        "headlines": "Border 2: Sunny Deol, Varun Dhawan, Diljit Dosanjh begin shooting, see picSunny Deol, Varun Dhawan, and Diljit Dosanjh's Border 2 commenced filming today, December 24, with the makers exciting fans by sharing a glimpse from the sets.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/border-2-sunny-deol-varun-dhawan-diljit-dosanjh-ahan-shetty-film-shooting-begins-2654550-2024-12-24",
+        "category": "bollywood",
+        "date_time": "2024-12-24T13:16:00",
+        "uuid": "4a2f074f-267a-4ad5-a4ae-5930ad17b847",
+        "positive": 17,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Subedaar teaser: Anil Kapoor plays a retired soldier in the gritty actionerThe teaser of Anil Kapoor's upcoming film, Subedaar, was released on his birthday today. The crime-thriller will also star Radhikka Madan and will release on Prime Video. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/subedaar-teaser-anil-kapoor-plays-a-retired-soldier-in-the-gritty-actioner-2654551-2024-12-24",
+        "category": "bollywood",
+        "date_time": "2024-12-24T13:04:00",
+        "uuid": "744ffd05-8b82-4273-a517-dd2a36b61183",
+        "positive": 7.2,
+        "negative": 6.9
     },
     {
         "headlines": "Apple MacBook Air with M4 chip could launch even before iPhone SE 4Apple's M4-powered MacBook Air may launch sooner than expected. In fact, a report suggests it could be even sooner than the iPhone SE 4 launch.",
@@ -7326,6 +7335,15 @@
         "negative": 0.3
     },
     {
+        "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
+        "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T17:05:00",
+        "uuid": "913aea87-537c-435c-9e2b-f62608a6667a",
+        "positive": 31.9,
+        "negative": 6.6
+    },
+    {
         "headlines": "Tata Consumer dismisses reports of Starbucks exiting India as baselessAn earlier report claimed that Starbucks was considering exiting the Indian market due to high costs and mounting losses.",
         "article_url": "https://www.indiatoday.in/business/story/tata-consumer-dismisses-reports-of-starbucks-exiting-india-2652370-2024-12-19",
         "category": "business",
@@ -7342,6 +7360,15 @@
         "uuid": "009917bf-0232-4f45-9182-27d3fcf56fba",
         "positive": 13.3,
         "negative": 9
+    },
+    {
+        "headlines": "Siddharth Anand replaces Sujoy Ghosh as director for SRK's King: ReportsAmid much buzz around Shah Rukh Khan's King, it has now been reported that Siddharth Aand has replaced Sujoy Ghosh to direct the entertainer. The film also stars Suhana Khan in a key role. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/siddharth-anand-replaces-sujoy-ghosh-director-shah-rukh-khan-king-stmp-2654749-2024-12-24",
+        "category": "bollywood",
+        "date_time": "2024-12-24T18:11:00",
+        "uuid": "392068f8-177c-4a63-ba6b-cde3804a0180",
+        "positive": 5.6,
+        "negative": 0.7
     },
     {
         "headlines": "Missed ITR deadline? Here's your guide to filing belated return for AY 2024-25The last date to file a belated or revised ITR for FY 2023-24 is December 31, 2024—ensure all dues and penalties are paid to avoid additional charges.",
@@ -7369,15 +7396,6 @@
         "uuid": "7ac46f00-ee57-4572-8cdf-236f2153b892",
         "positive": 11.3,
         "negative": 10.6
-    },
-    {
-        "headlines": "Siddharth Anand replaces Sujoy Ghosh as director for SRK's King: ReportsAmid much buzz around Shah Rukh Khan's King, it has now been reported that Siddharth Aand has replaced Sujoy Ghosh to direct the entertainer. The film also stars Suhana Khan in a key role. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/siddharth-anand-replaces-sujoy-ghosh-director-shah-rukh-khan-king-stmp-2654749-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T18:11:00",
-        "uuid": "392068f8-177c-4a63-ba6b-cde3804a0180",
-        "positive": 5.6,
-        "negative": 0.7
     },
     {
         "headlines": "Mamata Machinery IPO: Latest GMP sees sharp rise; should you subscribe?Mamata Machinery, a leading manufacturer of packaging machines, seeks to raise Rs 179.39 crore from its offer for sale, with promoters selling up to 73.82 lakh equity shares at a face value of Rs 10 each.",
@@ -7695,24 +7713,6 @@
         "negative": 0
     },
     {
-        "headlines": "Who is Aakash Chaudhry? Zerodha, Zomato founders bet on Sparkl EdventureInvestors include Zomato founder Deepinder Goyal and Zerodha founder Nithin Kamath, who have backed the platform that aims to transform personalised learning for students.",
-        "article_url": "https://www.indiatoday.in/business/story/aakash-chaudhry-sparkl-edventure-funding-usd-4-million-zomato-zerodha-founders-nithin-kamath-deepinder-goyal-stmp-2654552-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T13:01:00",
-        "uuid": "77ade4e7-163c-4d4a-87d9-b216a62553a7",
-        "positive": 14.8,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Sanathan Textiles IPO allotment: Check step-by-step guide to check statusSanathan Textiles IPO: Investors can verify their allotment status through two platforms: the Bombay Stock Exchange (BSE) website and the KFin Technologies portal. Here's a step-by-step guide:",
-        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-ipo-allotment-check-step-by-step-guide-to-check-status-2654543-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T13:00:00",
-        "uuid": "7aa10629-b568-481a-9b41-ba4d305eb582",
-        "positive": 6.5,
-        "negative": 1.2
-    },
-    {
         "headlines": "Dam Capital Advisors IPO: Check GMP as listing enters last day for bidding Dam Capital Advisors IPO is a book-built issue worth Rs 840.25 crore. The entire issue is an Offer for Sale (OFS) of 2.97 crore shares by the selling shareholders, meaning the company will not receive any funds from this offering.",
         "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-check-latest-gmp-subscription-last-day-for-bidding-allotment-date-listing-2653892-2024-12-23",
         "category": "business",
@@ -7857,15 +7857,6 @@
         "negative": 2.6
     },
     {
-        "headlines": "IPOs in 2024: Big ticket listings that failed to impressRecord-breaking IPOs in India coexist with the struggles of billion-dollar listings, reflecting both market resilience and investor caution.",
-        "article_url": "https://www.indiatoday.in/business/story/indian-ipos-initial-public-offerings-in-2024-big-ticket-listings-that-failed-to-impress-2654147-2024-12-23",
-        "category": "business",
-        "date_time": "2024-12-23T17:28:00",
-        "uuid": "2bdd8079-235f-4d0e-a920-86c646dcd817",
-        "positive": 12.3,
-        "negative": 4.8
-    },
-    {
         "headlines": "Economy rebounds in Q3 with boost from festivals and rural demand: RBIAn article on the 'State of the Economy' in the December bulletin noted that the global economy continues to exhibit resilience with steady growth and moderating inflation.",
         "article_url": "https://www.indiatoday.in/business/story/rbi-bulletin-india-gdp-growth-economy-inflation-reserve-bank-of-india-2654906-2024-12-24",
         "category": "business",
@@ -7873,6 +7864,15 @@
         "uuid": "e4fdafd7-4eae-41d0-9d29-e9a8f5bcc7fd",
         "positive": 11,
         "negative": 6
+    },
+    {
+        "headlines": "IPOs in 2024: Big ticket listings that failed to impressRecord-breaking IPOs in India coexist with the struggles of billion-dollar listings, reflecting both market resilience and investor caution.",
+        "article_url": "https://www.indiatoday.in/business/story/indian-ipos-initial-public-offerings-in-2024-big-ticket-listings-that-failed-to-impress-2654147-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T17:28:00",
+        "uuid": "2bdd8079-235f-4d0e-a920-86c646dcd817",
+        "positive": 12.3,
+        "negative": 4.8
     },
     {
         "headlines": " Mamata Machinery IPO: Check allotment status, latest GMP and listing date Mamata Machinery IPO allotment: Investors who have bid can check their allotment status online by logging in to either the Bombay Stock Exchange (BSE) website or the website of Link Intime India Private Ltd. ",
@@ -7920,15 +7920,6 @@
         "negative": 0
     },
     {
-        "headlines": "Are stock markets closed on December 25? Check the full 2025 holiday scheduleOn regular weekdays, the stock market operates from 9:15 AM to 3:30 PM. A pre-opening session takes place from 9:00 AM to 9:15 AM to set the tone for the trading day. ",
-        "article_url": "https://www.indiatoday.in/business/story/stock-markets-nse-bse-closed-on-december-25-christmas-2024-check-full-2025-holiday-schedule-2654493-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T11:18:00",
-        "uuid": "d2b30698-38b8-455d-b2da-53ded4658664",
-        "positive": 10,
-        "negative": 0.6
-    },
-    {
         "headlines": "GST on popcorn: Know how much tax your movie-time snack will attractDuring its 55th meeting, the GST Council clarified the tax treatment for popcorn after a request from Uttar Pradesh to specify the GST rate for popcorn seasoned with salt and spices.",
         "article_url": "https://www.indiatoday.in/business/story/gst-caramelised-popcorn-tax-finance-minister-nirmala-sitharaman-gst-council-meeting-2655064-2024-12-25",
         "category": "business",
@@ -7936,6 +7927,15 @@
         "uuid": "be2b9ab5-3fa3-4ae3-afde-e2510756202f",
         "positive": 5.3,
         "negative": 2.9
+    },
+    {
+        "headlines": "Are stock markets closed on December 25? Check the full 2025 holiday scheduleOn regular weekdays, the stock market operates from 9:15 AM to 3:30 PM. A pre-opening session takes place from 9:00 AM to 9:15 AM to set the tone for the trading day. ",
+        "article_url": "https://www.indiatoday.in/business/story/stock-markets-nse-bse-closed-on-december-25-christmas-2024-check-full-2025-holiday-schedule-2654493-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:18:00",
+        "uuid": "d2b30698-38b8-455d-b2da-53ded4658664",
+        "positive": 10,
+        "negative": 0.6
     },
     {
         "headlines": "Which Indian insurance companies reject claims the least? Report reveals truthPeople don't just put in money but trust when they buy insurance policies to cover for medical emergencies or motor accidents. A report by the Insurance Brokers Association of India reveals how many such claims have been accepted or rejected by insurance companies in 2022-23.",
@@ -7974,6 +7974,15 @@
         "negative": 1.6
     },
     {
+        "headlines": "Apple nears $4 trillion valuation amid AI push and iPhone upgrade hopesApple's strategic push into AI and its resilience in navigating market challenges have positioned the tech giant as a leader in the sector. ",
+        "article_url": "https://www.indiatoday.in/business/story/apple-nears-4-trillion-dollar-market-valuation-amid-ai-push-and-iphone-upgrade-hopes-2654536-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:35:00",
+        "uuid": "d9b56e30-c633-46de-b9f8-40f2edb80725",
+        "positive": 12.2,
+        "negative": 1.1
+    },
+    {
         "headlines": "Greaves Cotton share price gains over 10% today. What's behind the rally? Greaves Cotton stock price: The company's shares were trading 10.25% higher at Rs 252.70 on the BSE at 12:18 pm. ",
         "article_url": "https://www.indiatoday.in/business/story/greaves-cotton-stock-price-gains-over-10-percent-today-whats-behind-the-rally-2654529-2024-12-24",
         "category": "business",
@@ -7990,6 +7999,24 @@
         "uuid": "5005cf8f-fd20-45ea-86d9-08d06b09b8be",
         "positive": 12.2,
         "negative": 0.9
+    },
+    {
+        "headlines": "Who is Aakash Chaudhry? Zerodha, Zomato founders bet on Sparkl EdventureInvestors include Zomato founder Deepinder Goyal and Zerodha founder Nithin Kamath, who have backed the platform that aims to transform personalised learning for students.",
+        "article_url": "https://www.indiatoday.in/business/story/aakash-chaudhry-sparkl-edventure-funding-usd-4-million-zomato-zerodha-founders-nithin-kamath-deepinder-goyal-stmp-2654552-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T13:01:00",
+        "uuid": "77ade4e7-163c-4d4a-87d9-b216a62553a7",
+        "positive": 14.8,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Sanathan Textiles IPO allotment: Check step-by-step guide to check statusSanathan Textiles IPO: Investors can verify their allotment status through two platforms: the Bombay Stock Exchange (BSE) website and the KFin Technologies portal. Here's a step-by-step guide:",
+        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-ipo-allotment-check-step-by-step-guide-to-check-status-2654543-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T13:00:00",
+        "uuid": "7aa10629-b568-481a-9b41-ba4d305eb582",
+        "positive": 6.5,
+        "negative": 1.2
     },
     {
         "headlines": "Sensex, Nifty close lower in a choppy session; IT and metal stocks weighThe S&P BSE Sensex was down by 67.30 points to close at 78,472.87, while the NSE Nifty50 lost 23.35 points to end at 23,730.10. ",
