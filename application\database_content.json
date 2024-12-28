@@ -2367,6 +2367,15 @@
         "negative": 5
     },
     {
+        "headlines": "Sensex, Nifty open higher as auto stocks fuel early rally; Tata Motors up 2%The S&P BSE Sensex was up 323.12 points to 78,795.60, while the NSE Nifty50 gained 101.95 points to 23,852.15 as of 9:44 AM. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-higher-auto-stocks-shine-tata-motors-bajaj-2656032-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T09:47:00",
+        "uuid": "26269c43-14c6-4d2b-8722-28b6883ae4a2",
+        "positive": 16.2,
+        "negative": 0
+    },
+    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -3112,6 +3121,15 @@
         "uuid": "0ce6c839-1a21-442f-af42-921a2189e84c",
         "positive": 15,
         "negative": 4.3
+    },
+    {
+        "headlines": "Sensex, Nifty rise for 2nd straight day as auto stocks rally The S&P BSE Sensex settled 226.59 points higher at 78,690.07, while the NSE Nifty50 gained 63.20 points to end at 23,813.40.",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-nifty-rise-for-2nd-straight-day-as-auto-stocks-rally-2656246-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T15:47:00",
+        "uuid": "6d224803-8835-48fb-8eb2-a39c059e0527",
+        "positive": 15.6,
+        "negative": 6.8
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -4003,6 +4021,15 @@
         "uuid": "a71ae42b-b59d-41c7-9ccb-38a4dde9d3a9",
         "positive": 12.6,
         "negative": 2.9
+    },
+    {
+        "headlines": "DAM Capital Advisors IPO allotment: Step-by-step guide to check statusDAM Capital Advisors IPO allotment: The allotment status can be checked by investors through the websites of either the Bombay Stock Exchange (BSE) or Link Intime India Private Ltd, the registrar for the issue. ",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-allotment-status-online-guide-gmp-today-listing-date-bse-nse-2654441-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T09:08:00",
+        "uuid": "8455cd73-6749-4656-a318-825538df46a1",
+        "positive": 7.2,
+        "negative": 1.5
     },
     {
         "headlines": "Mates club? Australian selectors accused of bias after Nathan McSweeney snub Australia vs India, 4th Test: Australia dropped 25-year-old Nathan McSweeney from the squad for the final two Tests of the Border-Gavaskar Trophy. Selector George Bailey has faced criticism for not backing the youngster, especially when senior players like Usman Khawaja and Marnus Labuschagne have struggled with the bat.",
@@ -5796,15 +5823,6 @@
         "negative": 3
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Smriti Mandhana jumps to 2nd spot in ODI and T20I batting rankingsSmriti Mandhana's stellar performances catapulted her to the 2nd spot in the ODI and T20I batting rankings, highlighting her consistency with five consecutive 50-plus scores. Her dominance cements her as a crucial asset in India's batting lineup.",
         "article_url": "https://www.indiatoday.in/sports/story/smriti-mandhana-jumps-to-2nd-spot-in-odi-and-t20i-batting-rankings-2654681-2024-12-24",
         "category": "sports",
@@ -5929,6 +5947,15 @@
         "uuid": "c31544fc-5e43-4c0c-82ed-9d58eb456986",
         "positive": 11.9,
         "negative": 1.6
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
@@ -6082,6 +6109,150 @@
         "uuid": "8b794853-28dd-48fa-97a9-f1121b322e94",
         "positive": 3.5,
         "negative": 2.1
+    },
+    {
+        "headlines": "Ventive Hospitality IPO: Check GMP as listing enters last day for biddingRetail investors must apply for a minimum of 23 shares per lot, which requires a minimum investment of Rs 14,789 for retail applicants.",
+        "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-ipo-check-subscription-latest-gmp-last-day-for-bidding-allotment-date-listing-stmp-2654463-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T10:17:00",
+        "uuid": "658c8a2a-3085-4a2e-a3ae-34516badc4a0",
+        "positive": 11.2,
+        "negative": 0
+    },
+    {
+        "headlines": "Are stock markets closed on December 25? Check the full 2025 holiday scheduleOn regular weekdays, the stock market operates from 9:15 AM to 3:30 PM. A pre-opening session takes place from 9:00 AM to 9:15 AM to set the tone for the trading day. ",
+        "article_url": "https://www.indiatoday.in/business/story/stock-markets-nse-bse-closed-on-december-25-christmas-2024-check-full-2025-holiday-schedule-2654493-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:18:00",
+        "uuid": "d2b30698-38b8-455d-b2da-53ded4658664",
+        "positive": 10,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Which Indian insurance companies reject claims the least? Report reveals truthPeople don't just put in money but trust when they buy insurance policies to cover for medical emergencies or motor accidents. A report by the Insurance Brokers Association of India reveals how many such claims have been accepted or rejected by insurance companies in 2022-23.",
+        "article_url": "https://www.indiatoday.in/business/story/irdai-report-indian-best-insurance-company-india-policies-medical-vehicle-claim-rejection-rate-data-2654475-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:29:00",
+        "uuid": "ee069b90-04ef-4fc4-8b4e-625b068aa37a",
+        "positive": 10,
+        "negative": 7.3
+    },
+    {
+        "headlines": "Carraro India IPO: Check GMP, price band and subscription statusCarraro India IPO is a Rs 1,250 crore offer for sale (OFS) consisting of 1.77 crore shares. As this is a pure OFS, the entire proceeds will go to the selling shareholders, and the company will not raise fresh capital.",
+        "article_url": "https://www.indiatoday.in/business/story/carraro-india-ipo-check-gmp-price-band-and-subscription-status-stmp-2654487-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:41:00",
+        "uuid": "1265416c-cc7a-4e87-8b93-1156af033ed2",
+        "positive": 13.4,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Senores Pharmaceuticals IPO: Latest subscription status, GMP; listing dateThe IPO comprises a fresh issue of shares worth Rs 500 crore and an offer-for-sale (OFS) of up to 21,00,000 equity shares by promoters and existing shareholders.",
+        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-ipo-latest-subscription-status-gmp-allotment-listing-date-stmp-2654473-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T10:45:00",
+        "uuid": "2069e419-4c35-4115-98f2-51fb1993df5b",
+        "positive": 12.5,
+        "negative": 0.5
+    },
+    {
+        "headlines": "Sagility India share price rises 5% to hit upper circuit today. Here's why Sagility India debuted on the stock market with an issue price of Rs 30 per share. At its current level, the stock has surged over 63% from the IPO price, underscoring strong investor interest. ",
+        "article_url": "https://www.indiatoday.in/business/story/sagility-india-share-price-rises-5-percent-to-hit-upper-circuit-today-explained-stmp-2654468-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T10:36:00",
+        "uuid": "116c09dd-a54a-4281-987b-3bd09344d62a",
+        "positive": 17.2,
+        "negative": 1.6
+    },
+    {
+        "headlines": "Apple nears $4 trillion valuation amid AI push and iPhone upgrade hopesApple's strategic push into AI and its resilience in navigating market challenges have positioned the tech giant as a leader in the sector. ",
+        "article_url": "https://www.indiatoday.in/business/story/apple-nears-4-trillion-dollar-market-valuation-amid-ai-push-and-iphone-upgrade-hopes-2654536-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:35:00",
+        "uuid": "d9b56e30-c633-46de-b9f8-40f2edb80725",
+        "positive": 12.2,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Greaves Cotton share price gains over 10% today. What's behind the rally? Greaves Cotton stock price: The company's shares were trading 10.25% higher at Rs 252.70 on the BSE at 12:18 pm. ",
+        "article_url": "https://www.indiatoday.in/business/story/greaves-cotton-stock-price-gains-over-10-percent-today-whats-behind-the-rally-2654529-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:21:00",
+        "uuid": "eeb66c0b-bfa4-4d3f-8a12-ffe7adebc782",
+        "positive": 15.8,
+        "negative": 1.5
+    },
+    {
+        "headlines": "Explained: Why Tata Investment share price jumped 12% todayTata Investment stock price: At 11:53 am, shares of the company were up 11.51% to Rs 7,284 on the Bombay Stock Exchange (BSE). The surge followed reports that Tata Capital is gearing up for an initial public offering (IPO) worth Rs 15,000 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/tata-investment-share-price-jumps-12-percent-today-ipo-buzz-tata-capital-stmp-2654512-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:11:00",
+        "uuid": "5005cf8f-fd20-45ea-86d9-08d06b09b8be",
+        "positive": 12.2,
+        "negative": 0.9
+    },
+    {
+        "headlines": "Who is Aakash Chaudhry? Zerodha, Zomato founders bet on Sparkl EdventureInvestors include Zomato founder Deepinder Goyal and Zerodha founder Nithin Kamath, who have backed the platform that aims to transform personalised learning for students.",
+        "article_url": "https://www.indiatoday.in/business/story/aakash-chaudhry-sparkl-edventure-funding-usd-4-million-zomato-zerodha-founders-nithin-kamath-deepinder-goyal-stmp-2654552-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T13:01:00",
+        "uuid": "77ade4e7-163c-4d4a-87d9-b216a62553a7",
+        "positive": 14.8,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Sanathan Textiles IPO allotment: Check step-by-step guide to check statusSanathan Textiles IPO: Investors can verify their allotment status through two platforms: the Bombay Stock Exchange (BSE) website and the KFin Technologies portal. Here's a step-by-step guide:",
+        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-ipo-allotment-check-step-by-step-guide-to-check-status-2654543-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T13:00:00",
+        "uuid": "7aa10629-b568-481a-9b41-ba4d305eb582",
+        "positive": 6.5,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Tata Capital IPO buzz? All you need to knowIf the IPO goes through, it will be the Tata Group's second public offering in two decades. The last one was Tata Technologies' IPO in November last year. ",
+        "article_url": "https://www.indiatoday.in/business/story/tata-capital-ipo-usd-2-billion-kotak-investment-banking-all-you-need-to-know-2654599-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T14:04:00",
+        "uuid": "d02c6e53-a6ca-4a1e-a1e9-a0c33cdcd550",
+        "positive": 9.9,
+        "negative": 0.3
+    },
+    {
+        "headlines": "18% GST on used cars: Will it leave you paying more?The decision has sparked debates as it comes at a time when India's used car market is poised for growth. Many believe the move aims to tap into the rapidly expanding sector to boost government revenue.",
+        "article_url": "https://www.indiatoday.in/business/story/18-percent-gst-on-used-cars-finance-minister-nirmala-sitharaman-leave-you-paying-more-amit-malviya-2654625-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T15:35:00",
+        "uuid": "ca204e3a-1040-4eeb-80a8-8089529da42a",
+        "positive": 6.7,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Sensex, Nifty close lower in a choppy session; IT and metal stocks weighThe S&P BSE Sensex was down by 67.30 points to close at 78,472.87, while the NSE Nifty50 lost 23.35 points to end at 23,730.10. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-close-lower-in-a-choppy-session-it-metal-stocks-weigh-2654640-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T15:50:00",
+        "uuid": "b7dbf985-3441-4d45-851c-fda526c81eea",
+        "positive": 17.1,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Economy rebounds in Q3 with boost from festivals and rural demand: RBIAn article on the 'State of the Economy' in the December bulletin noted that the global economy continues to exhibit resilience with steady growth and moderating inflation.",
+        "article_url": "https://www.indiatoday.in/business/story/rbi-bulletin-india-gdp-growth-economy-inflation-reserve-bank-of-india-2654906-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T21:37:00",
+        "uuid": "e4fdafd7-4eae-41d0-9d29-e9a8f5bcc7fd",
+        "positive": 11,
+        "negative": 6
+    },
+    {
+        "headlines": "Understanding GST on used cars: Rules, examples, and exemptionsThe GST Council clarified rules for old vehicle sales, setting an 18 per cent tax on seller margins, exempting private sales and negative margins, and simplifying taxation for used and electric vehicles, ensuring fair application of GST across transactions.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-council-issues-key-guidelines-sale-used-vehicles-2654994-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T01:13:00",
+        "uuid": "108db533-27ec-4285-91cf-115d8891fd1d",
+        "positive": 7.7,
+        "negative": 7.6
     },
     {
         "headlines": "Ricky Ponting backs 'talented teenager' Sam Konstas to shine on debutBorder-Gavaskar Trophy: Australian legend Ricky Ponting believes Sam Konstas possesses the talent and composure to shine on his debut in the Boxing Day Test against India.\r\n",
@@ -6361,6 +6532,15 @@
         "uuid": "7b5fb79a-a430-423c-86a4-78363afd7cce",
         "positive": 7.3,
         "negative": 5.1
+    },
+    {
+        "headlines": "Zoho CEO Sridhar Vembu revives debate on 70-hour work weekZoho CEO Sridhar Vembu weighs in on the 70-hour work week debate initiated by Infosys founder Narayana Murthy. Here's his perspective.",
+        "article_url": "https://www.indiatoday.in/business/story/zoho-ceo-sridhar-vembu-revives-debate-on-70-hour-work-week-advocated-by-infosys-founder-narayana-murthy-2656318-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T17:47:00",
+        "uuid": "5a12d874-5463-4802-b778-c25de487bb77",
+        "positive": 11,
+        "negative": 5.9
     },
     {
         "headlines": "King rattled? Pundits react to Virat Kohli's confrontation with Sam Konstas Border-Gavaskar Trophy: Sunil Gavaskar and Michael Vaughan were among the many who criticised Virat Kohli after the former India captain was involved in a physical altercation with 19-year-old debutant, Sam Konstas in Melbourne. ",
@@ -6849,6 +7029,15 @@
         "negative": 2.5
     },
     {
+        "headlines": "Sam Konstas reminded me of my best mate Andrew Symonds: Matthew HaydenMatthew Hayden fondly remembered Andrew Symonds's maiden Test century in 2006, comparing the late cricketer's fearless knock to debutant Sam Konstas's blazing 60-run innings, which set the tone for Australia's dominant position against India in the Melbourne Test.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sam-konstas-reminds-about-andrew-symonds-matthew-hayden-post-2656389-2024-12-27",
+        "category": "sports",
+        "date_time": "2024-12-27T19:22:00",
+        "uuid": "62fb123d-fe45-4b51-be37-8d0683683cdd",
+        "positive": 9.4,
+        "negative": 3.7
+    },
+    {
         "headlines": "SA vs PAK: Corbin Bosch breaks 122-year-old record with heroic 81* vs Pakistan Corbin Bosch dazzled on debut with a record-breaking 81*, the highest score by a South African No. 8 or below in Tests. His composed knock rescued South Africa from trouble, securing a crucial 90-run lead against Pakistan.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/sa-vs-pak-corbin-bosch-breaks-122-year-old-record-with-heroic-81-vs-pakistan-2656386-2024-12-27",
         "category": "sports",
@@ -6919,6 +7108,15 @@
         "uuid": "53831d3b-4885-47a5-bea2-a5e8aa22679f",
         "positive": 7.8,
         "negative": 6.8
+    },
+    {
+        "headlines": "GST on popcorn: Know how much tax your movie-time snack will attractDuring its 55th meeting, the GST Council clarified the tax treatment for popcorn after a request from Uttar Pradesh to specify the GST rate for popcorn seasoned with salt and spices.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-caramelised-popcorn-tax-finance-minister-nirmala-sitharaman-gst-council-meeting-2655064-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T09:41:00",
+        "uuid": "be2b9ab5-3fa3-4ae3-afde-e2510756202f",
+        "positive": 5.3,
+        "negative": 2.9
     },
     {
         "headlines": "AUS vs IND: Will rain play spoilsport on Day 3 of Boxing Day Test? Checkout hereRain threatens to disrupt Day 3 of the Boxing Day Test at the MCG, with showers expected in the afternoon. Cloudy skies and fluctuating conditions could challenge both teams as India fight to avoid the follow-on against Australia.",
@@ -7110,15 +7308,6 @@
         "negative": 6.2
     },
     {
-        "headlines": "Sam Konstas reminded me of my best mate Andrew Symonds: Matthew HaydenMatthew Hayden fondly remembered Andrew Symonds's maiden Test century in 2006, comparing the late cricketer's fearless knock to debutant Sam Konstas's blazing 60-run innings, which set the tone for Australia's dominant position against India in the Melbourne Test.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sam-konstas-reminds-about-andrew-symonds-matthew-hayden-post-2656389-2024-12-27",
-        "category": "sports",
-        "date_time": "2024-12-27T19:22:00",
-        "uuid": "62fb123d-fe45-4b51-be37-8d0683683cdd",
-        "positive": 9.4,
-        "negative": 3.7
-    },
-    {
         "headlines": "Dreams come true at MCG: How father's sacrifice fuelled Nitish's journeyNitish Kumar Reddy's maiden Test century at the MCG was a historic and emotional moment, showcasing his resilience and honouring his father's sacrifices. The 21-year-old all-rounder scripted a remarkable recovery for India in the Boxing Day Test.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-fathers-sacrifices-melbourne-test-century-rescuing-2656624-2024-12-28",
         "category": "sports",
@@ -7171,6 +7360,15 @@
         "uuid": "406fe96f-ae9e-47d3-bd16-dc9842bb9eaf",
         "positive": 3.5,
         "negative": 6.1
+    },
+    {
+        "headlines": "DAM Capital Advisors IPO listing: Is strong market debut on cards? Check GMPDAM Capital Advisors IPO received an overwhelming response, being subscribed 81.88 times overall by the close of Day 3 on December 23, 2024.",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-listing-date-strong-market-debut-on-cards-check-gmp-allotment-status-2655106-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T11:48:00",
+        "uuid": "601fe9e2-eb16-42a4-aae5-7fc52fde8d35",
+        "positive": 11.7,
+        "negative": 0.4
     },
     {
         "headlines": "A new star has arrived: How pundits and greats reacted to Nitish's MCG 105Nitish Kumar Reddy's maiden Test century at the MCG rescued India from a dire situation, showcasing his immense talent and composure. The young all-rounder's historic knock earned him praise and cemented his place as a future cricketing star.",
@@ -7344,6 +7542,24 @@
         "negative": 5.4
     },
     {
+        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T13:25:00",
+        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
+        "positive": 12.6,
+        "negative": 1.8
+    },
+    {
+        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:35:00",
+        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
+        "positive": 14.5,
+        "negative": 0.6
+    },
+    {
         "headlines": "Watch: Pat Cummins claps from behind as Nitish Reddy celebrates hundred at MCGPat Cummins' applause for Nitish Reddy's maiden Test century at the MCG showcased true sportsmanship. The SRH teammates shared a moment of mutual respect, as Cummins celebrated Reddy's stellar knock with heartfelt claps. ",
         "article_url": "https://www.indiatoday.in/sports/story/watch-pat-cummins-claps-from-behind-as-nitish-reddy-celebrates-hundred-at-mcg-2656735-2024-12-28",
         "category": "sports",
@@ -7369,24 +7585,6 @@
         "uuid": "b5f01ebd-3f1f-49c2-9e83-f6ee2cc69105",
         "positive": 10.1,
         "negative": 2.4
-    },
-    {
-        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T13:25:00",
-        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
-        "positive": 12.6,
-        "negative": 1.8
-    },
-    {
-        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T12:35:00",
-        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
-        "positive": 14.5,
-        "negative": 0.6
     },
     {
         "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
@@ -7533,24 +7731,6 @@
         "negative": 0.6
     },
     {
-        "headlines": "ICC Women's emerging cricketer of the year: India's rising player nominatedShreyanka Patil's stellar performances in 2024, including 15 T20I wickets and key contributions in major tournaments, earned her a nomination for ICC Women's Emerging Cricketer of the Year. ",
-        "article_url": "https://www.indiatoday.in/sports/story/icc-womens-emerging-cricketer-of-the-year-indias-rising-player-nominated-2656755-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T19:55:00",
-        "uuid": "f198212b-1ae8-4f0e-8dcc-5cefbdcfe80d",
-        "positive": 10.1,
-        "negative": 2.6
-    },
-    {
-        "headlines": "Nitish borrows Cummins' mentality, Klaasen's gameplan for MCG Test hundredNitish Kumar Reddy became the first Indian No.8 to score a Test century in Australia. Nitish's incredible innings not only helped India save follow-on, but nearly helped India massively cut down the deficit against Australia's massive first innings total of 474.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-pat-cummins-mentality-heinrich-klaasen-gameplan-melbourne-2656754-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T19:55:00",
-        "uuid": "6fc65412-c66c-4afe-830a-f0cd7c245118",
-        "positive": 12.5,
-        "negative": 5.5
-    },
-    {
         "headlines": "OPPO Reno 13 live image leak reveals exclusive blue colour for IndiaA live image of the Oppo Reno 13 has surfaced, showcasing a deep blue or purple colour that looks nothing short of stunning.",
         "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-live-image-leak-reveals-exclusive-blue-colour-for-india-2652733-2024-12-20",
         "category": "technology",
@@ -7576,6 +7756,24 @@
         "uuid": "f4462293-10b6-47b5-850e-f7c6c9d38195",
         "positive": 9.1,
         "negative": 1
+    },
+    {
+        "headlines": "ICC Women's emerging cricketer of the year: India's rising player nominatedShreyanka Patil's stellar performances in 2024, including 15 T20I wickets and key contributions in major tournaments, earned her a nomination for ICC Women's Emerging Cricketer of the Year. ",
+        "article_url": "https://www.indiatoday.in/sports/story/icc-womens-emerging-cricketer-of-the-year-indias-rising-player-nominated-2656755-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T19:55:00",
+        "uuid": "f198212b-1ae8-4f0e-8dcc-5cefbdcfe80d",
+        "positive": 10.1,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Nitish borrows Cummins' mentality, Klaasen's gameplan for MCG Test hundredNitish Kumar Reddy became the first Indian No.8 to score a Test century in Australia. Nitish's incredible innings not only helped India save follow-on, but nearly helped India massively cut down the deficit against Australia's massive first innings total of 474.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-pat-cummins-mentality-heinrich-klaasen-gameplan-melbourne-2656754-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T19:55:00",
+        "uuid": "6fc65412-c66c-4afe-830a-f0cd7c245118",
+        "positive": 12.5,
+        "negative": 5.5
     },
     {
         "headlines": "Xiaomi reveals plans for open ecosystem for apps, connected TV and ads in IndiaAt the Xiaomi Internet Partner Conference 2024, Xiaomi India reveals plans for India's digital future through its open ecosystem, HyperOS.",
@@ -7866,15 +8064,6 @@
         "negative": 1.3
     },
     {
-        "headlines": "Baby John box office Day 3: Varun Dhawan's film sees decline in earningsIt has been three days since Varun Dhawan's Baby John hit theatres. However, the film has been experiencing a lull at the box office, with earnings steadily declining since its opening day.\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-3-varun-dhawans-film-sees-decline-in-earnings-2656548-2024-12-28",
-        "category": "bollywood",
-        "date_time": "2024-12-28T08:36:00",
-        "uuid": "b34d8f45-941d-4c4c-a6aa-a20d8595fcf2",
-        "positive": 3.4,
-        "negative": 2.9
-    },
-    {
         "headlines": "Apple MacBook Air with M4 chip could launch even before iPhone SE 4Apple's M4-powered MacBook Air may launch sooner than expected. In fact, a report suggests it could be even sooner than the iPhone SE 4 launch.",
         "article_url": "https://www.indiatoday.in/technology/news/story/apple-macbook-air-with-m4-chip-could-launch-even-before-iphone-se-4-2654675-2024-12-24",
         "category": "technology",
@@ -7900,6 +8089,15 @@
         "uuid": "fcf6549c-7712-4891-872c-e0600c5986c7",
         "positive": 17.7,
         "negative": 1.1
+    },
+    {
+        "headlines": "Baby John box office Day 3: Varun Dhawan's film sees decline in earningsIt has been three days since Varun Dhawan's Baby John hit theatres. However, the film has been experiencing a lull at the box office, with earnings steadily declining since its opening day.\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-3-varun-dhawans-film-sees-decline-in-earnings-2656548-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T08:36:00",
+        "uuid": "b34d8f45-941d-4c4c-a6aa-a20d8595fcf2",
+        "positive": 3.4,
+        "negative": 2.9
     },
     {
         "headlines": "iPhone 16 available with big discount but the deal is only for todayApple iPhone 16 is available with a discount up to Rs 16,000 but the deal is only valid till today.",
@@ -8055,6 +8253,132 @@
         "negative": 3.9
     },
     {
+        "headlines": "Mamata Machinery IPO share price: Strong listing ahead? Check latest GMPMamata Machinery IPO saw massive interest from investors over its 3-day bidding process and was subscribed close to 200 times. ",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-listing-date-share-price-strong-market-debut-check-latest-gmp-2655137-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T13:12:00",
+        "uuid": "d8999e11-2fa8-4829-8721-8211d3642d2e",
+        "positive": 12.3,
+        "negative": 0
+    },
+    {
+        "headlines": "Income tax relief in Budget 2025? Economists push for cuts to help save moreEconomists argued that reducing the tax burden would increase disposable income, enabling citizens to save more and spend on essentials. This, in turn, could help revive demand in sectors impacted by weak consumption.",
+        "article_url": "https://www.indiatoday.in/business/story/budget-2025-income-tax-relief-economists-meet-pm-modi-high-inflation-money-save-low-gdp-2655173-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T14:38:00",
+        "uuid": "41056730-7752-45c2-9f66-52120ff86663",
+        "positive": 15.7,
+        "negative": 8.1
+    },
+    {
+        "headlines": "Insurance penetration in India dipped, but premium collection grewInsurance penetration in India, which is already low, saw a dip for the second successive year, shows the latest report by the insurance industry regulator. This is against the global trend. The Insurance Regulatory and Development Authority (IRDAI) report shows growth in premium collection in 2023-24. Insurance companies rejected 11% of all claims in FY24.",
+        "article_url": "https://www.indiatoday.in/business/story/insurance-policy-penetration-india-dipped-premium-collection-grew-irdai-report-claim-settlement-ratio-gst-rate-cut-2655158-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T14:43:00",
+        "uuid": "1b134453-ca53-42d7-924a-2826a9285904",
+        "positive": 8.2,
+        "negative": 5.5
+    },
+    {
+        "headlines": "Indo Farm Equipment: All you need to know about last IPO of the yearThe IPO is a book-built issue worth Rs 260.15 crore. It consists of a fresh issue of 0.86 crore shares, aggregating to Rs 184.90 crore, and an offer for sale (OFS) of 0.35 crore shares, amounting to Rs 75.25 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/indo-farm-equipment-ipo-details-issue-size-price-band-gmp-all-you-need-to-know-last-ipo-of-year-2655195-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T15:40:00",
+        "uuid": "8bed6458-7757-482e-8d60-55bde2f084cc",
+        "positive": 11.9,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Sensex, Nifty rally post-Christmas on banking stocks boost; SBI gains 1% The S&P BSE Sensex added 369.59 points to 78,842.46, while the NSE Nifty50 gained 100.05 points to 23,827.70 as of 9:20 AM.",
+        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-rally-post-christmas-on-banking-stocks-boost-sbi-gains-1-percent-2655443-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T09:26:00",
+        "uuid": "0632cf7f-1536-4e69-a088-cb3b6f5bb46b",
+        "positive": 9.5,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Ventive Hospitality IPO: Check allotment status and latest GMPVentive Hospitality IPO allotment status: Investors can check their allotment through the websites of Kfin Technologies Limited and the Bombay Stock Exchange (BSE). ",
+        "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-ipo-allotment-status-online-guide-latest-gmp-listing-share-price-2655435-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T09:14:00",
+        "uuid": "b59c8952-e935-41a1-adef-1e23d4ef7709",
+        "positive": 7.7,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Stocks to watch today: Yes Bank, RIL, Ola Electric, BPCL, NalcoFrom new contracts and rating updates to strategic developments, companies such as Yes Bank, RIL, Ola Electric, BPCL, Nalcoare, etc will be in focus for various reasons, making headlines.",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-market-open-yes-bank-ril-ola-electric-bpcl-nalco-2655431-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T08:56:00",
+        "uuid": "4480bd36-0d23-42d1-b54b-113acb887ce8",
+        "positive": 8.9,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Unimech Aerospace IPO: Check GMP as listing enters last day for biddingThe IPO comprises a fresh issue of 32 lakh shares valued at Rs 250 crore and an offer for sale (OFS) of an equal number of shares, also worth Rs 250 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/unimech-aerospace-ipo-day-3-check-latest-gmp-allotment-date-subscription-last-day-for-bidding-stmp-2655463-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T10:18:00",
+        "uuid": "c0fc8723-73f4-48eb-854b-0b2854a084b9",
+        "positive": 12.8,
+        "negative": 0.8
+    },
+    {
+        "headlines": "Sagility India share price jumps 5%, up 71% post-listing. More gains ahead?Sagility India stock price: Since its listing, Sagility India's shares have delivered a 71% return, significantly outperforming the broader indices.",
+        "article_url": "https://www.indiatoday.in/business/story/sagility-india-share-price-jumps-5-percent-to-hit-upper-circuit-today-will-rally-continue-stmp-2655493-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T11:35:00",
+        "uuid": "d2c939b1-2adb-4a4e-b129-e88fc0f1b889",
+        "positive": 19,
+        "negative": 1
+    },
+    {
+        "headlines": "11% of all health insurance claims rejected, premiums to remain high: ReportInsurance companies in India rejected 11% of all health insurance claims in 2023-24, according to the latest report from India's insurance regulator. The Insurance Regulatory Authority of India (IRDAI) report also predicts that health insurance premiums are \"likely to remain elevated\" this year.",
+        "article_url": "https://www.indiatoday.in/business/story/health-insurance-claims-rejected-pending-irdai-report-premiums-to-remain-high-india-insurers-2655186-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T11:00:00",
+        "uuid": "e17445f6-85a1-42fd-971b-c5de32e55de6",
+        "positive": 2.7,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Explained: Why Ola Electric share price surged 6% in early tradeOla Electric stock price: The company's share price hit an intraday high of Rs 99.90 on Thursday, reflecting a 6.22% increase.",
+        "article_url": "https://www.indiatoday.in/business/story/ola-electric-stock-price-jumps-6-percent-early-trade-key-reason-stmp-2655477-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T10:56:00",
+        "uuid": "9d05b92f-35b3-4ec5-a2d2-6577aa501ad8",
+        "positive": 8.9,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Senores Pharmaceuticals IPO allotment: Check status, GMP, and listing dateSenores Pharmaceuticals IPO allotment status: Investors can check their allotment by visiting the websites of the Bombay Stock Exchange (BSE) or Link Intime India. ",
+        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-ipo-allotment-status-check-latest-gmp-expected-gain-listing-date-2655473-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T10:42:00",
+        "uuid": "07fbbcf0-397f-4d96-a591-d8f798d16286",
+        "positive": 8.5,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Explained: Why International Gemmological Institute share price jumped 10% todayInternational Gemmological Institute stock price: In a stock exchange filing, IGI confirmed that it had acquired a 100% stake in IGI Netherlands B.V. and International Gemmological Institute BV for $88.44 million and $69.76 million, respectively.",
+        "article_url": "https://www.indiatoday.in/business/story/international-gemmological-institute-share-price-jumped-10-percent-today-2655527-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T12:37:00",
+        "uuid": "91ab5a5f-21de-4f7a-b06c-7b4f105e1e64",
+        "positive": 12.5,
+        "negative": 0.4
+    },
+    {
+        "headlines": "NTPC Green Energy share price falls sharply today. Here's whyNTPC Green Energy stock price: The company debuted on the Indian stock exchanges on November 29, listing at Rs 111.50 on the NSE, just 3.2% above its issue price of Rs 108 per share.",
+        "article_url": "https://www.indiatoday.in/business/story/ntpc-green-energy-share-price-falls-sharply-today-explained-2655519-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T12:26:00",
+        "uuid": "1ee3b308-6777-4c32-a62e-5193ee181ec4",
+        "positive": 13.7,
+        "negative": 3.5
+    },
+    {
         "headlines": "Oppo Reno 13, Reno 13 Pro design details confirmed ahead of launchOppo is set to launch its flagship Reno 13 series next month. Ahead of that, the smartphones' design details have been revealed.",
         "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-series-design-details-confirmed-price-specs-and-all-we-know-ahead-of-launch-2656110-2024-12-27",
         "category": "technology",
@@ -8100,6 +8424,15 @@
         "negative": 0.8
     },
     {
+        "headlines": "iPhone 15 is selling at big discount on Flipkart: Should you buy it?The iPhone 15 is selling for under Rs 60,000 on Flipkart right now. Additionally, if you exchange your old phone, you could bring down the effective price of the iPhone 15 to almost half its original cost.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-is-selling-at-big-discount-on-flipkart-should-you-buy-it-2656737-2024-12-28",
+        "category": "technology",
+        "date_time": "2024-12-28T18:40:00",
+        "uuid": "87b26094-d296-454e-b326-45c5a554ffcd",
+        "positive": 14.6,
+        "negative": 2.5
+    },
+    {
         "headlines": "Vivo X200 Ultra launch timeline leaks, but is it coming to India?The Vivo X200 Ultra variant could debut in China in April 2025, with a slight possibility of arriving as early as March, according to tipster Digital Chat Station (DCS). However, for those wondering whether the Ultra model will be launched in India, the chances appear slim.",
         "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-ultra-launch-timeline-leaks-but-is-it-coming-to-india-2656244-2024-12-27",
         "category": "technology",
@@ -8125,6 +8458,15 @@
         "uuid": "aa0ffc76-5087-42d1-a470-d9ae05feaea1",
         "positive": 14.5,
         "negative": 14
+    },
+    {
+        "headlines": "iPhone 16 Pro gets a huge discount, but should you buy it?Amazon was recently selling the iPhone 16 at a slightly lower price and the iPhone 16 Pro is now listed on Vijay Sales with a flat discount offer of Rs 3,600. Here are the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-16-pro-gets-a-huge-discount-but-should-you-buy-it-2656390-2024-12-27",
+        "category": "technology",
+        "date_time": "2024-12-27T19:26:00",
+        "uuid": "4c36a0be-d898-4ae9-890e-86ea4552c370",
+        "positive": 17.6,
+        "negative": 2.6
     },
     {
         "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
@@ -8179,15 +8521,6 @@
         "uuid": "38816f10-2d42-49dc-8740-fa2e0a5a0a7a",
         "positive": 14.2,
         "negative": 8.3
-    },
-    {
-        "headlines": "iPhone 15 is selling at big discount on Flipkart: Should you buy it?The iPhone 15 is selling for under Rs 60,000 on Flipkart right now. Additionally, if you exchange your old phone, you could bring down the effective price of the iPhone 15 to almost half its original cost.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-is-selling-at-big-discount-on-flipkart-should-you-buy-it-2656737-2024-12-28",
-        "category": "technology",
-        "date_time": "2024-12-28T18:40:00",
-        "uuid": "87b26094-d296-454e-b326-45c5a554ffcd",
-        "positive": 14.6,
-        "negative": 2.5
     },
     {
         "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
@@ -8280,6 +8613,15 @@
         "negative": 4.5
     },
     {
+        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
+        "category": "lifestyle",
+        "date_time": "2024-12-28T17:48:00",
+        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
+        "positive": 13.5,
+        "negative": 1.6
+    },
+    {
         "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
         "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
         "category": "lifestyle",
@@ -8352,6 +8694,15 @@
         "negative": 1.3
     },
     {
+        "headlines": "Sikandar teaser X reactions: Fans call Salman Khan 'badass', say 'bhai is back'The highly-anticipated teaser of Salman Khan's upcoming film Sikandar was unveiled today, sending fans into a frenzy online. Enthusiastic users hailed the mass actioner, declaring it a \"blockbuster in the making.\"",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-x-reactions-fans-call-salman-khan-badass-say-bhai-is-back-2656701-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T16:58:00",
+        "uuid": "4c088c3f-fcc3-4fb2-a9f8-7f761cd155fd",
+        "positive": 17.9,
+        "negative": 3.7
+    },
+    {
         "headlines": "Retirement depression is real and rising in India. How to manage itFor many people, retirement brings feelings of emptiness, loneliness, and worthlessness, which can potentially lead to clinical depression.",
         "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/retirement-depression-is-real-how-to-manage-prevent-it-2654219-2024-12-23",
         "category": "lifestyle",
@@ -8395,15 +8746,6 @@
         "uuid": "f7bba38b-649f-4872-a79a-c23ae3543a3f",
         "positive": 21.2,
         "negative": 2.3
-    },
-    {
-        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
-        "category": "lifestyle",
-        "date_time": "2024-12-28T17:48:00",
-        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
-        "positive": 13.5,
-        "negative": 1.6
     },
     {
         "headlines": "Renting wedding lehenga is practical, but why Indian brides still not up for itPractical, sustainable, and hassle-free, renting a wedding lehenga seems perfect in theory. Yet, it remains far from becoming a mainstream choice amo",
@@ -8640,6 +8982,15 @@
         "negative": 6
     },
     {
+        "headlines": "Mamata Machinery shares make bumper debut with 147% premium over IPO priceMamata Machinery listing: Shares of Mamata Machinery made a bumper debut and listed at Rs 600 per share on the NSE, a lot higher than the IPO issue price of Rs 243 per share. ",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-listing-share-price-bumper-debut-147-percent-premium-rs-600-nse-bse-stmp-2656037-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T10:10:00",
+        "uuid": "8c5e4026-cb43-4643-b9cb-dbc51633574d",
+        "positive": 14,
+        "negative": 0
+    },
+    {
         "headlines": "Yeh Jawaani Hai Deewani to re-release? Dharma's cryptic post sparks speculationDharma Movies shared a cryptic post on Monday suggesting the re-release of the hit film Yeh Jawaani Hai Deewani. The film stars Ranbir Kapoor, Deepika Padukone, Kalki Koechlin, Aditya Roy Kapur and others. ",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-to-re-release-in-theatres-dharma-production-shares-cryptic-post-2654007-2024-12-23",
         "category": "bollywood",
@@ -8647,356 +8998,5 @@
         "uuid": "5670f2c4-9aae-44dc-a66e-7d6455c87243",
         "positive": 16.1,
         "negative": 2
-    },
-    {
-        "headlines": "When Diljit Dosanjh was cast as Priyanka Chopra's on-screen husbandFilmmaker Boney Kapoor recently revealed that he wanted to cast Diljit Dosanjh alongside Priyanka Chopra in a movie. In an interview, he said that he wanted the singer to play Chopra's husband in the film. \r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/boney-kapoor-shared-that-diljit-dosanjh-was-cast-to-play-priyanka-chopra-on-screen-husband-2654024-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T14:13:00",
-        "uuid": "cbd44945-5e72-46f5-a82d-5cb1cc8db5f8",
-        "positive": 7.3,
-        "negative": 2
-    },
-    {
-        "headlines": "Orry joins Bhansali's Love and War cast, Deepika Padukone to make cameo Sanjay Leela Bhansali's Love and War will star Orry, alongside Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal. Deepika Padukone will make a cameo. The film releases in March 2026.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/orry-sanjay-leela-bhansali-love-and-war-deepika-padukone-cameo-2654018-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T13:58:00",
-        "uuid": "8e84250e-3914-4f43-8e3b-376f61f4491d",
-        "positive": 15.7,
-        "negative": 7.6
-    },
-    {
-        "headlines": "Fateh trailer: Sonu Sood is on a killing spree in his fight against cybercrimeSonu Sood's Fateh trailer is out. The film, starring Jacqueliene Fernandez alongside the actor, will release in theatres on January 10. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/fateh-trailer-sonu-sood-killing-spree-fight-against-cybercrime-jacqueliene-fernandez-2654264-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T19:40:00",
-        "uuid": "1da8afd0-c9dc-464e-91a0-20dd687bec8f",
-        "positive": 4.9,
-        "negative": 10
-    },
-    {
-        "headlines": "Border 2: Sunny Deol, Varun Dhawan, Diljit Dosanjh begin shooting, see picSunny Deol, Varun Dhawan, and Diljit Dosanjh's Border 2 commenced filming today, December 24, with the makers exciting fans by sharing a glimpse from the sets.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/border-2-sunny-deol-varun-dhawan-diljit-dosanjh-ahan-shetty-film-shooting-begins-2654550-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:16:00",
-        "uuid": "4a2f074f-267a-4ad5-a4ae-5930ad17b847",
-        "positive": 17,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Subedaar teaser: Anil Kapoor plays a retired soldier in the gritty actionerThe teaser of Anil Kapoor's upcoming film, Subedaar, was released on his birthday today. The crime-thriller will also star Radhikka Madan and will release on Prime Video. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/subedaar-teaser-anil-kapoor-plays-a-retired-soldier-in-the-gritty-actioner-2654551-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:04:00",
-        "uuid": "744ffd05-8b82-4273-a517-dd2a36b61183",
-        "positive": 7.2,
-        "negative": 6.9
-    },
-    {
-        "headlines": "Param Sundari: Sidharth Malhotra's swag meets Janhvi Kapoor's grace in new filmSidharth Malhotra and Janhvi Kapoor are set to star together in a film titled Param Sundari. This romantic comedy, directed by Tushar Jalota, is slated for a theatrical release in July 2025.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/param-sundari-janhvi-kapoor-sidharth-malhotra-rom-com-to-release-in-july-2025-2654585-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T14:01:00",
-        "uuid": "722953f6-570b-401d-bb4f-27b415cde4d7",
-        "positive": 14.7,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Siddharth Anand replaces Sujoy Ghosh as director for SRK's King: ReportsAmid much buzz around Shah Rukh Khan's King, it has now been reported that Siddharth Aand has replaced Sujoy Ghosh to direct the entertainer. The film also stars Suhana Khan in a key role. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/siddharth-anand-replaces-sujoy-ghosh-director-shah-rukh-khan-king-stmp-2654749-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T18:11:00",
-        "uuid": "392068f8-177c-4a63-ba6b-cde3804a0180",
-        "positive": 5.6,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Baby John review: Varun Dhawan-Keerthy Suresh's actioner is massy but messyReleased-Wed Dec 25, 2024Baby John movie review: Varun Dhawan, Keerthy Suresh and Jackie Shroff-starrer Baby John is a commercial entertainer with an overdose of mass moments. The performances of lead cast make the film enjoyable.",
-        "article_url": "https://www.indiatoday.in/movies/reviews/story/baby-john-movie-review-varun-dhawan-keerthy-suresh-atlee-actioner-massy-messy-2655044-2024-12-25",
-        "category": "bollywood",
-        "date_time": "2024-12-25T09:44:00",
-        "uuid": "91b787bf-e5e2-4905-9842-95857ef23ca3",
-        "positive": 14.9,
-        "negative": 8.4
-    },
-    {
-        "headlines": "The Idiot of Istanbul: Imtiaz Ali confirms his next with Fahadh Faasil Imtiaz Ali confirmed his film with Malayalam superstar Fahadh Faasil. During an interview, he revealed that the film has been titled The Idiot of Istanbul. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/the-idiot-of-istanbul-imtiaz-ali-confirms-his-next-with-fahadh-faasil-2655077-2024-12-25",
-        "category": "bollywood",
-        "date_time": "2024-12-25T10:37:00",
-        "uuid": "93d182bd-cb00-4e39-9a95-597c203b1241",
-        "positive": 10.1,
-        "negative": 5.7
-    },
-    {
-        "headlines": "Housefull 5: Akshay Kumar, Abhishek Bachchan, Riteish, others wrap film's shootAkshay Kumar, Riteish Deshmukh, Abhishek Bachchan and others have wrapped the shoot of the upcoming film, Housefull 5. Fardeen Khan shared pictures on social media from the bash. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-riteish-deshmukh-fardeen-khan-abhishek-bachchan-wrap-housefull-5-shoot-2655171-2024-12-25",
-        "category": "bollywood",
-        "date_time": "2024-12-25T14:43:00",
-        "uuid": "206eb097-9115-49b7-ad04-691f9605fb43",
-        "positive": 15.8,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Karan Johar, Kartik Aaryan team up for new film Tu Meri Main TeraKaran Johar and Kartik Aaryan have finally joined forces for a romantic drama directed by Sameer Vidwans. The film, Tu Meri Main Tera, Main Tera Tu Meri, is set to release in 2026.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-kartik-aaryan-team-up-romantic-drama-tu-meri-main-tera-main-tera-tu-meri-2655308-2024-12-25",
-        "category": "bollywood",
-        "date_time": "2024-12-25T21:12:00",
-        "uuid": "2990ab97-cd6f-4227-91cb-08adfbf9cca1",
-        "positive": 15.2,
-        "negative": 0
-    },
-    {
-        "headlines": "Baby John box office Day 1: Varun Dhawan, Atlee's film opens at Rs 12.5 crore Varun Dhawan's Baby John had a modest opening on Christmas Day, overshadowed by the continued success of Pushpa 2. The intense box office competition was further fuelled by other releases, including Max.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-1-collection-varun-dhawan-atlee-film-opens-at-rs-125-crore-2655424-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T08:57:00",
-        "uuid": "e1924837-3054-4e5e-8822-aadd5a6dc1cf",
-        "positive": 9.9,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Anil Kapoor skipped bathing for days to preserve makeup after his debut: Boney KapoorProducer Boney Kapoor recently revealed a personal anecdote about his actor-brother Anil Kapoor. He shared he didn't bathe for days after shooting for his first film. \r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anil-kapoor-skipped-bathing-for-days-to-preserve-makeup-after-his-debut-boney-kapoor-2655450-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T09:48:00",
-        "uuid": "8878c9ac-26e6-46d9-b661-d85dc48465d0",
-        "positive": 8.9,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Shahana Goswami on Laapataa Ladies' exit from Oscars: It's still a big winShahana Goswami discusses the significance of Laapataa Ladies' journey despite not advancing in the Oscars race, highlighting the ongoing debates around India's film selection for the awards.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shahana-goswami-on-laapataa-ladies-exit-from-oscars-its-still-a-big-win-2655584-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T14:19:00",
-        "uuid": "16785322-14f8-4267-8be6-aed680c61029",
-        "positive": 11,
-        "negative": 0.5
-    },
-    {
-        "headlines": "Akshay Kumar's Welcome to the Jungle team to shoot mega schedule in DubaiAkshay Kumar's Welcome to the Jungle team is set to start a major shooting schedule in Dubai and Abu Dhabi, following extensive shoots in Mumbai and Kashmir. The film promises a cinematic spectacle with scenes to be shot at exclusive UAE locations.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-welcome-to-the-jungle-team-shoot-mega-schedule-dubai-abu-dhabi-2655617-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T14:53:00",
-        "uuid": "8b3ca2f7-2370-4688-b9cd-897b479600a8",
-        "positive": 7.5,
-        "negative": 3.8
-    },
-    {
-        "headlines": "Hrithik Roshan to start Krrish 4 shoot after wrapping War 2: ReportActor Hrithik Roshan will reportedly begin Krrish 4 shooting after completing Ayan Mukerji's War 2. The shooting of the superhero franchise is expected to begin in the summer of 2025.  ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/hrithik-roshan-krrish-4-shoot-wrapping-war-2-ayan-mukerji-rakesh-roshan-2655749-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T18:01:00",
-        "uuid": "ae01c873-09b2-4a7a-960c-0c32ffd4255f",
-        "positive": 4.7,
-        "negative": 5.8
-    },
-    {
-        "headlines": "Junaid Khan and Khushi Kapoor's next titled Loveyapa, to release in 2025Junaid Khan and Khushi Kapoor have teamed up for their upcoming rom-com, Loveyapa, set to release on February 7, 2025. The film explores modern-day romance with vibrant music and visuals.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/junaid-khan-khushi-kapoor-new-film-loveyapa-release-2025-2655780-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T19:16:00",
-        "uuid": "5ec809c1-a5db-4d6b-8516-92f3a833da95",
-        "positive": 16,
-        "negative": 1
-    },
-    {
-        "headlines": "Sikandar poster: Salman Khan's first look from AR Murugadoss film revealedA new poster of Salman Khan-starrer Sikandar has been unveiled ahead of his birthday. It features the actor's first look from the AR Murugadoss film, where he can be seen carrying a spear.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-sikandar-first-poster-out-ahead-of-his-birthday-2655783-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T19:07:00",
-        "uuid": "71150f8e-d1a7-41d4-8b53-4005b34f6d22",
-        "positive": 7.4,
-        "negative": 3.3
-    },
-    {
-        "headlines": "Baby John box office Day 2: Varun Dhawan's film sees drop after strong openingVarun Dhawan's latest film, Baby John, witnessed a sharp decline in its second-day collections, earning around Rs 4.5 crore. The figures highlight an urgent need for increased audience engagement.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-2-varun-dhawan-film-sees-drop-after-strong-opening-2656003-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T08:32:00",
-        "uuid": "4297b76a-2803-47fb-9369-e0cd4f127b4c",
-        "positive": 9,
-        "negative": 1.8
-    },
-    {
-        "headlines": "Salman Khan's Sikandar teaser delayed after Manmohan Singh's deathSalman Khan's Sikandar teaser has been rescheduled for December 28. It was earlier slated to release on December 27, on the actor's 59th birthday. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-sikandar-teaser-postponed-manmohan-singh-death-new-date-out-2656025-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T09:38:00",
-        "uuid": "bce31ba7-92ee-43c4-9bfa-a6126ab0dad1",
-        "positive": 6.9,
-        "negative": 10.4
-    },
-    {
-        "headlines": "Baby John: What derails Varun Dhawan and Atlee's action thriller?Despite much anticipation for Varun Dhawan's action thriller Baby John, it failed to impress fans.  Here's a complete round-up highlighting points about what did not work for the film. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-varun-dhawan-atlee-action-thriller-kalees-keerthy-suresh-wamiqa-gabbi-jackie-shroff-2655601-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T09:56:00",
-        "uuid": "8ac85c02-1d02-4e62-8ee7-c7850d738ad5",
-        "positive": 16.2,
-        "negative": 11.8
-    },
-    {
-        "headlines": "Karan Johar calls Varun Dhawan's Baby John 'one helluva masala ride' Baby John is currently running in theatres. Karan Johar praised Varun Dhawan's film and urged fans to watch the \"new year spectacle\".",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-calls-varun-dhawans-baby-john-one-helluva-masala-ride-2656101-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T12:03:00",
-        "uuid": "57971feb-6b54-40c5-8fcc-a455cca3d1d7",
-        "positive": 11.5,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Yeh Jawaani Hai Deewani to re-release in theatres in JanuaryThe beloved romantic comedy Yeh Jawaani Hai Deewani, starring Ranbir Kapoor, Deepika Padukone, and Aditya Roy Kapur, is set to return to theatres. On Friday, Dharma Movies announced the re-release date in an exciting social media post.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-to-re-release-in-theatres-in-january-2656164-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T13:59:00",
-        "uuid": "e5b2fde1-b7aa-4579-98ca-cae308dfc840",
-        "positive": 17.2,
-        "negative": 2.3
-    },
-    {
-        "headlines": "iPhone 16 Pro gets a huge discount, but should you buy it?Amazon was recently selling the iPhone 16 at a slightly lower price and the iPhone 16 Pro is now listed on Vijay Sales with a flat discount offer of Rs 3,600. Here are the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-16-pro-gets-a-huge-discount-but-should-you-buy-it-2656390-2024-12-27",
-        "category": "technology",
-        "date_time": "2024-12-27T19:26:00",
-        "uuid": "4c36a0be-d898-4ae9-890e-86ea4552c370",
-        "positive": 17.6,
-        "negative": 2.6
-    },
-    {
-        "headlines": "Sikandar teaser X reactions: Fans call Salman Khan 'badass', say 'bhai is back'The highly-anticipated teaser of Salman Khan's upcoming film Sikandar was unveiled today, sending fans into a frenzy online. Enthusiastic users hailed the mass actioner, declaring it a \"blockbuster in the making.\"",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-x-reactions-fans-call-salman-khan-badass-say-bhai-is-back-2656701-2024-12-28",
-        "category": "bollywood",
-        "date_time": "2024-12-28T16:58:00",
-        "uuid": "4c088c3f-fcc3-4fb2-a9f8-7f761cd155fd",
-        "positive": 17.9,
-        "negative": 3.7
-    },
-    {
-        "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
-        "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T17:05:00",
-        "uuid": "913aea87-537c-435c-9e2b-f62608a6667a",
-        "positive": 31.9,
-        "negative": 6.6
-    },
-    {
-        "headlines": "Tata Consumer dismisses reports of Starbucks exiting India as baselessAn earlier report claimed that Starbucks was considering exiting the Indian market due to high costs and mounting losses.",
-        "article_url": "https://www.indiatoday.in/business/story/tata-consumer-dismisses-reports-of-starbucks-exiting-india-2652370-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T16:26:00",
-        "uuid": "fb2ab85f-7b82-4662-9124-df0bf03c74aa",
-        "positive": 5.3,
-        "negative": 5.4
-    },
-    {
-        "headlines": "Sensex ends nearly 1,000 points lower, Nifty below 24,000The Sensex ended 964.15 points lower at 79,218.05, while the Nifty50 settled 247.15 points lower at 23,951.70.",
-        "article_url": "https://www.indiatoday.in/business/story/stock-market-closing-sensex-1000-points-lower-nifty-below-24000-us-federal-reserve-2652345-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T15:52:00",
-        "uuid": "009917bf-0232-4f45-9182-27d3fcf56fba",
-        "positive": 13.3,
-        "negative": 9
-    },
-    {
-        "headlines": "Missed ITR deadline? Here's your guide to filing belated return for AY 2024-25The last date to file a belated or revised ITR for FY 2023-24 is December 31, 2024—ensure all dues and penalties are paid to avoid additional charges.",
-        "article_url": "https://www.indiatoday.in/business/story/income-tax-filing-missed-itr-deadline-here-is-your-guide-to-filing-belated-return-for-ay-2024-25-2652309-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T15:42:00",
-        "uuid": "c33d5908-f7ea-4309-91d0-370ce60653fc",
-        "positive": 7.5,
-        "negative": 7.5
-    },
-    {
-        "headlines": "Quick delivery, quicker success: Zepto founders top Hurun listZepto, established in 2021 by the duo of Kaivalya Vohra and Aadit Palicha, has revolutionised the quick-commerce sector with its 10-minute grocery delivery model.",
-        "article_url": "https://www.indiatoday.in/business/story/zepto-co-founders-take-top-spot-in-hurun-self-made-entrepreneurs-list-kaivalya-vohra-aadit-palicha-2652329-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T16:03:00",
-        "uuid": "4c754995-f993-488b-a39c-1179c2d2edd0",
-        "positive": 6.6,
-        "negative": 0
-    },
-    {
-        "headlines": "US Fed rate cut decision: How will it impact Indian stock markets? The Sensex declined over 1,100 points and the Nifty fell below 24,000 after the US Federal Reserve's decision to cut interest rates by 0.25% to 4.5%, coupled with a hawkish outlook on future rate adjustments.",
-        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-decision-impact-on-sensex-nifty-indian-stock-markets-2652262-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T13:25:00",
-        "uuid": "7ac46f00-ee57-4572-8cdf-236f2153b892",
-        "positive": 11.3,
-        "negative": 10.6
-    },
-    {
-        "headlines": "Mamata Machinery IPO: Latest GMP sees sharp rise; should you subscribe?Mamata Machinery, a leading manufacturer of packaging machines, seeks to raise Rs 179.39 crore from its offer for sale, with promoters selling up to 73.82 lakh equity shares at a face value of Rs 10 each.",
-        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-latest-gmp-price-band-should-you-subscribe-stmp-2652244-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T16:00:00",
-        "uuid": "563715b2-c6c4-421a-ba60-c40bca975656",
-        "positive": 12.5,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Explained: Why SpiceJet share price jumped nearly 8% todaySpicejet share price: The airline's share price was up 7.48% to Rs 60.49 on the Bombay Stock Exchange (BSE) at 12:40 pm.",
-        "article_url": "https://www.indiatoday.in/business/story/spicejet-share-price-jumps-8-percent-settlement-with-aircraft-lessor-genesis-stmp-2652228-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T12:45:00",
-        "uuid": "d29e790b-a750-49a8-bf29-ac28a05e83e9",
-        "positive": 20,
-        "negative": 4.5
-    },
-    {
-        "headlines": "PMAY-U 2.0: Who can apply for affordable homes under Pradhan Mantri Awas YojanaPradhan Mantri Awas Yojana Urban 2.0 aims to provide affordable housing to one crore urban families, focusing on inclusive development through various housing schemes and subsidies.",
-        "article_url": "https://www.indiatoday.in/business/story/pmay-u-20-who-can-apply-for-affordable-homes-under-pradhan-mantri-awas-yojana-check-eligibility-document-required-application-process-2652215-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T12:30:00",
-        "uuid": "8e853609-7f6e-4ab0-b2ac-8ea7b6cf7e60",
-        "positive": 9.2,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Explained: Why Sensex fell over 1,000 points today and will bloodbath continue? Sensex and Nifty extended their losing streak as global markets plunged after the US Fed's cautious rate cut signal. Will the bears tighten their grip on Dalal Street, or is a reversal in sight?",
-        "article_url": "https://www.indiatoday.in/business/story/stock-market-crash-key-factors-sensex-falls-1100-points-nifty-tumbles-what-next-on-dalal-street-2652208-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T18:20:00",
-        "uuid": "d61d9f75-4bed-45aa-baf3-56e669710bb7",
-        "positive": 9,
-        "negative": 11.3
-    },
-    {
-        "headlines": "Sanathan Textiles IPO opens for bidding: Check issue size, price band, latest GMPSanathan Textiles' Rs 550 crore IPO offers investment opportunities in a leading yarn manufacturer, with proceeds directed towards debt repayment and growth initiatives.",
-        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-ipo-opens-for-bidding-check-opening-date-closing-date-issue-size-price-band-latest-gmp-2652183-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "242ae4c3-d846-45bb-9e34-fdc8bd208212",
-        "positive": 13.2,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Inventurus Knowledge Solutions IPO share listing: Stocks list at 43% premium Inventurus Knowledge Solutions IPO share price: On the NSE, the shares opened at Rs 1,900 per share, marking a premium of 42.96% over the issue price. ",
-        "article_url": "https://www.indiatoday.in/business/story/inventurus-knowledge-solutions-share-price-today-ipo-listing-43-percent-premium-stmp-2652146-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T10:50:00",
-        "uuid": "d6532780-0246-4792-83cd-becd937400e2",
-        "positive": 22.1,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Rupee plunges to all-time low, reaches Rs 85 against US dollar Rupee falls to all-time low: The rupee dropped to 85.0650 against the US dollar in early trade, compared to 84.9525 on Wednesday.",
-        "article_url": "https://www.indiatoday.in/business/story/rupee-hits-all-time-low-rs-85-against-us-dollar-reason-us-fed-rate-cut-market-fall-2652136-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T17:37:00",
-        "uuid": "b00b7e98-4c06-4538-a41f-a18c0f21c753",
-        "positive": 6.1,
-        "negative": 8.5
-    },
-    {
-        "headlines": "Dalal Street bloodbath: 3 reasons behind today's stock market crashStock market crash: Sensex dropped over 1,000 points while Nifty fell below 24,000, marking the fourth consecutive day of losses for the benchmark indices. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-crash-dalal-street-bloodbath-3-reasons-behind-today-fall-us-fed-rate-cut-weak-rupee-2652125-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T10:13:00",
-        "uuid": "726ddefa-be48-4b52-9ad4-4ca7c33feee1",
-        "positive": 7.6,
-        "negative": 8.5
     }
 ]
