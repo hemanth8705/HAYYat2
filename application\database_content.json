@@ -4761,6 +4761,24 @@
         "negative": 8.6
     },
     {
+        "headlines": "Rishabh Pant is only hype: Fans slam wicketkeeper for throwing his wicketAustralia vs India, Boxing Day Test: Fans slammed Rishabh Pant after the Indian wicketkeeper effectively gifted his wicket to Australia due to a reckless shot on Day 3 at the MCG. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-rishabh-pant-dismissal-boxing-day-test-2656524-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T06:25:00",
+        "uuid": "05043ca3-098b-42fe-81ca-cc817d51d67b",
+        "positive": 8.4,
+        "negative": 5.4
+    },
+    {
+        "headlines": "Magnus penalised for wearing jeans, quits World Rapid and Blitz ChampionshipDefending World Rapid and Blitz Champion Magnus Carlsen quit the World Rapid Chess Championship after being penalised for a dress code violation (jeans) and a previous warning. \r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/magnus-carlsen-disqualified-world-rapid-and-blitz-championships-wearing-jeans-2656520-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T05:34:00",
+        "uuid": "31781251-3dac-49a4-b575-7275db8727cf",
+        "positive": 12.2,
+        "negative": 3.1
+    },
+    {
         "headlines": "Sam Konstas ready to face Bumrah? Australia batter opens up on his preparationYoung Australia batter Sam Konstas revealed that he's ready with plans to face Indian bowlers in the upcoming fourth Test against India in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-sam-konstas-ready-with-plans-to-face-jasprit-bumrah-aus-vs-ind-border-gavaskar-trophy-2653547-2024-12-21",
         "category": "sports",
@@ -4876,24 +4894,6 @@
         "uuid": "4f334acb-bf55-42c6-ac35-000f6d47aaa6",
         "positive": 14.8,
         "negative": 1.3
-    },
-    {
-        "headlines": "Rishabh Pant is only hype: Fans slam wicketkeeper for throwing his wicketAustralia vs India, Boxing Day Test: Fans slammed Rishabh Pant after the Indian wicketkeeper effectively gifted his wicket to Australia due to a reckless shot on Day 3 at the MCG. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-rishabh-pant-dismissal-boxing-day-test-2656524-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T06:25:00",
-        "uuid": "05043ca3-098b-42fe-81ca-cc817d51d67b",
-        "positive": 8.4,
-        "negative": 5.4
-    },
-    {
-        "headlines": "Magnus penalised for wearing jeans, quits World Rapid and Blitz ChampionshipDefending World Rapid and Blitz Champion Magnus Carlsen quit the World Rapid Chess Championship after being penalised for a dress code violation (jeans) and a previous warning. \r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/magnus-carlsen-disqualified-world-rapid-and-blitz-championships-wearing-jeans-2656520-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T05:34:00",
-        "uuid": "31781251-3dac-49a4-b575-7275db8727cf",
-        "positive": 12.2,
-        "negative": 3.1
     },
     {
         "headlines": "Disciplined Akash Deep credits Rohit-Kohli for massive growth-curve in AustraliaIndia pacer Akash Deep credited senior batters Virat Kohli and Rohit Sharma for the betterment of young India fast bowlers. The seamer credited the duo for helping young pacers not look like novices on their first tour of Australia.\r\n",
@@ -5778,15 +5778,6 @@
         "negative": 5.8
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "West Indies Test team to tour Pakistan for 1st time since 2006, announce squadAmir Jangoo earns his maiden Test call-up, while Gudakesh Motie returns as West Indies prepare for their first Test series in Pakistan since 2006. Kraigg Brathwaite leads a 15-member squad, aiming for a strong finish to the WTC cycle.",
         "article_url": "https://www.indiatoday.in/sports/story/west-indies-test-team-to-tour-pakistan-for-1st-time-since-2006-announce-squad-2654705-2024-12-24",
         "category": "sports",
@@ -5794,6 +5785,15 @@
         "uuid": "8d639160-2b08-418b-ba57-e26a9822b631",
         "positive": 9.1,
         "negative": 1.4
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Harleen hits maiden ODI century in India's fiery batting-show vs West IndiesHarleen Deol dazzled with her maiden ODI century, leading India to their highest ODI total against West Indies. Her composed yet aggressive innings placed her alongside legends, showcasing India's batting brilliance in a dominant series display.",
@@ -6840,6 +6840,24 @@
         "negative": 9.4
     },
     {
+        "headlines": "Cristiano Ronaldo makes bold Manchester United ownership claimCristiano Ronaldo has defended Ruben Amorim amid the Manchester United \"storm\" and made a very bold claim about his possible return to the club.",
+        "article_url": "https://www.indiatoday.in/sports/story/cristiano-ronaldo-bold-manchester-united-ownership-claim-2656546-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T08:31:00",
+        "uuid": "2495fa62-9d25-4087-ad92-b8b79d57b317",
+        "positive": 10,
+        "negative": 9.7
+    },
+    {
+        "headlines": "Carlsen trolls Chess Federation with OOTD post after quitting championshipThe world's best chess player Magnus Carlsen quit the 2024 World Rapid and Blitz Championship after being fined by FIDE over dress code. Carlsen trolled the tournament with a cheeky post on social media after quitting.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/magnus-carlsen-trolls-chess-federation-with-jeans-pant-rapid-blitz-championship-2656545-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T08:31:00",
+        "uuid": "9f676058-0f71-4197-80bd-1a771ec60c41",
+        "positive": 9.7,
+        "negative": 7
+    },
+    {
         "headlines": "Feels like grade cricket: Nathan Lyon reveals Sam Konstas' debut verdict vs IndiaAt just 19, Sam Konstas stole the spotlight with a fearless 60 on his Boxing Day Test debut. Calm under pressure, the youngest Aussie in decades to hit fifty-plus showed why he's a star in the making. ",
         "article_url": "https://www.indiatoday.in/sports/story/feels-like-grade-cricket-nathan-lyon-reveals-sam-konstas-debut-verdict-vs-india-2656345-2024-12-27",
         "category": "sports",
@@ -6910,24 +6928,6 @@
         "uuid": "84e78dc1-33ac-428a-a916-af86033f9eb5",
         "positive": 12.2,
         "negative": 5.4
-    },
-    {
-        "headlines": "Cristiano Ronaldo makes bold Manchester United ownership claimCristiano Ronaldo has defended Ruben Amorim amid the Manchester United \"storm\" and made a very bold claim about his possible return to the club.",
-        "article_url": "https://www.indiatoday.in/sports/story/cristiano-ronaldo-bold-manchester-united-ownership-claim-2656546-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T08:31:00",
-        "uuid": "2495fa62-9d25-4087-ad92-b8b79d57b317",
-        "positive": 10,
-        "negative": 9.7
-    },
-    {
-        "headlines": "Carlsen trolls Chess Federation with OOTD post after quitting championshipThe world's best chess player Magnus Carlsen quit the 2024 World Rapid and Blitz Championship after being fined by FIDE over dress code. Carlsen trolled the tournament with a cheeky post on social media after quitting.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/magnus-carlsen-trolls-chess-federation-with-jeans-pant-rapid-blitz-championship-2656545-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T08:31:00",
-        "uuid": "9f676058-0f71-4197-80bd-1a771ec60c41",
-        "positive": 9.7,
-        "negative": 7
     },
     {
         "headlines": "Sanjay Manjrekar urges team India to get rid of VIP treatment for senior playersFormer India cricketer turned commentator Sanjay Manjrekar has urged the Indian team management to stop VIP treatment of senior players.  ",
@@ -7353,24 +7353,6 @@
         "negative": 3
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
-    },
-    {
-        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T10:43:00",
-        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
-        "positive": 7.1,
-        "negative": 2.8
-    },
-    {
         "headlines": "Watch: Pat Cummins claps from behind as Nitish Reddy celebrates hundred at MCGPat Cummins' applause for Nitish Reddy's maiden Test century at the MCG showcased true sportsmanship. The SRH teammates shared a moment of mutual respect, as Cummins celebrated Reddy's stellar knock with heartfelt claps. ",
         "article_url": "https://www.indiatoday.in/sports/story/watch-pat-cummins-claps-from-behind-as-nitish-reddy-celebrates-hundred-at-mcg-2656735-2024-12-28",
         "category": "sports",
@@ -7396,6 +7378,51 @@
         "uuid": "b5f01ebd-3f1f-49c2-9e83-f6ee2cc69105",
         "positive": 10.1,
         "negative": 2.4
+    },
+    {
+        "headlines": "What is the highest successful run-chase in Melbourne Tests? AUS vs IND: The Boxing Day Test at the Melbourne Cricket Ground is poised to be a thriller with a day left. India have a healthy record at the MCG and would be fancying their chances, but what are the chances?  ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-india-vs-australia-melbourne-test-successful-run-chase-india-2656844-2024-12-29",
+        "category": "sports",
+        "date_time": "2024-12-29T10:28:00",
+        "uuid": "a761769f-848a-45d1-a242-d53289057e84",
+        "positive": 14.8,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Injury crisis hits Australia: Keeper ruled out, pacer provides key updateIND vs AUS: Australia wicketkeeper-batter Josh Inglis has been ruled out for the remainder of the Border-Gavaskar Trophy. Cricket Australia announced the development on Sunday, 29 December after Inglis suffered a calf strain.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-mcg-test-bgt-australia-injuries-mitchell-starc-josh-inglis-2656842-2024-12-29",
+        "category": "sports",
+        "date_time": "2024-12-29T09:51:00",
+        "uuid": "cb48f76d-4274-4a96-88c9-247c195f4bef",
+        "positive": 8.4,
+        "negative": 8.2
+    },
+    {
+        "headlines": "Yashasvi Jaiswal drops 3 catches on Day 4, leaves Rohit Sharma furiousAustralia vs India, 4th Test: Rohit Sharma was not able to hide his emotions as he punched the air in rage after Yashasvi Jaiswal dropped a catch. The drop offered Marnus Labuschagne a lifeline when the Australian star was batting on 46. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-mcg-test-yashasvi-jaiswal-drop-catch-rohit-sharma-angry-reaction-2656837-2024-12-29",
+        "category": "sports",
+        "date_time": "2024-12-29T09:50:00",
+        "uuid": "3f48feee-0265-41f7-b499-a5afdb00dfa6",
+        "positive": 6.6,
+        "negative": 10.5
+    },
+    {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
+        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T10:43:00",
+        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
+        "positive": 7.1,
+        "negative": 2.8
     },
     {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
@@ -7459,6 +7486,24 @@
         "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
         "positive": 5.6,
         "negative": 1.5
+    },
+    {
+        "headlines": "ICC Women's emerging cricketer of the year: India's rising player nominatedShreyanka Patil's stellar performances in 2024, including 15 T20I wickets and key contributions in major tournaments, earned her a nomination for ICC Women's Emerging Cricketer of the Year. ",
+        "article_url": "https://www.indiatoday.in/sports/story/icc-womens-emerging-cricketer-of-the-year-indias-rising-player-nominated-2656755-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T19:55:00",
+        "uuid": "f198212b-1ae8-4f0e-8dcc-5cefbdcfe80d",
+        "positive": 10.1,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Nitish borrows Cummins' mentality, Klaasen's gameplan for MCG Test hundredNitish Kumar Reddy became the first Indian No.8 to score a Test century in Australia. Nitish's incredible innings not only helped India save follow-on, but nearly helped India massively cut down the deficit against Australia's massive first innings total of 474.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-pat-cummins-mentality-heinrich-klaasen-gameplan-melbourne-2656754-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T19:55:00",
+        "uuid": "6fc65412-c66c-4afe-830a-f0cd7c245118",
+        "positive": 12.5,
+        "negative": 5.5
     },
     {
         "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
@@ -7558,24 +7603,6 @@
         "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
         "positive": 10.4,
         "negative": 2.5
-    },
-    {
-        "headlines": "ICC Women's emerging cricketer of the year: India's rising player nominatedShreyanka Patil's stellar performances in 2024, including 15 T20I wickets and key contributions in major tournaments, earned her a nomination for ICC Women's Emerging Cricketer of the Year. ",
-        "article_url": "https://www.indiatoday.in/sports/story/icc-womens-emerging-cricketer-of-the-year-indias-rising-player-nominated-2656755-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T19:55:00",
-        "uuid": "f198212b-1ae8-4f0e-8dcc-5cefbdcfe80d",
-        "positive": 10.1,
-        "negative": 2.6
-    },
-    {
-        "headlines": "Nitish borrows Cummins' mentality, Klaasen's gameplan for MCG Test hundredNitish Kumar Reddy became the first Indian No.8 to score a Test century in Australia. Nitish's incredible innings not only helped India save follow-on, but nearly helped India massively cut down the deficit against Australia's massive first innings total of 474.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-pat-cummins-mentality-heinrich-klaasen-gameplan-melbourne-2656754-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T19:55:00",
-        "uuid": "6fc65412-c66c-4afe-830a-f0cd7c245118",
-        "positive": 12.5,
-        "negative": 5.5
     },
     {
         "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
@@ -7794,6 +7821,15 @@
         "negative": 1.2
     },
     {
+        "headlines": "Baby John box office Day 3: Varun Dhawan's film sees decline in earningsIt has been three days since Varun Dhawan's Baby John hit theatres. However, the film has been experiencing a lull at the box office, with earnings steadily declining since its opening day.\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-3-varun-dhawans-film-sees-decline-in-earnings-2656548-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T08:36:00",
+        "uuid": "b34d8f45-941d-4c4c-a6aa-a20d8595fcf2",
+        "positive": 3.4,
+        "negative": 2.9
+    },
+    {
         "headlines": "Galaxy S25 Slim vs iPhone 17 Air: 2 most exciting phones of 2025Samsung and Apple, the biggest competitors in the smartphone market, are both set to launch a slim version of their flagships in September 2025. Here is everything we know about the phones so far.",
         "article_url": "https://www.indiatoday.in/technology/features/story/samsung-galaxy-s25-slim-vs-apple-iphone-17-air-all-we-know-about-the-2-most-exciting-phones-of-2025-2654081-2024-12-23",
         "category": "technology",
@@ -7891,15 +7927,6 @@
         "uuid": "68c967be-19a5-44c6-8cbb-58f42f889447",
         "positive": 13.1,
         "negative": 2.6
-    },
-    {
-        "headlines": "Baby John box office Day 3: Varun Dhawan's film sees decline in earningsIt has been three days since Varun Dhawan's Baby John hit theatres. However, the film has been experiencing a lull at the box office, with earnings steadily declining since its opening day.\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-3-varun-dhawans-film-sees-decline-in-earnings-2656548-2024-12-28",
-        "category": "bollywood",
-        "date_time": "2024-12-28T08:36:00",
-        "uuid": "b34d8f45-941d-4c4c-a6aa-a20d8595fcf2",
-        "positive": 3.4,
-        "negative": 2.9
     },
     {
         "headlines": "Samsung Galaxy S25 series is expected to go on sale on this dateSamsung Galaxy S25 series is rumoured to be launched on January 22. While the date is yet to be made official by the company, another report claims to reveal the day the new smartphones will hit the shelves. ",
@@ -8136,6 +8163,15 @@
         "negative": 0.3
     },
     {
+        "headlines": "iPhone 15 is selling at big discount on Flipkart: Should you buy it?The iPhone 15 is selling for under Rs 60,000 on Flipkart right now. Additionally, if you exchange your old phone, you could bring down the effective price of the iPhone 15 to almost half its original cost.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-is-selling-at-big-discount-on-flipkart-should-you-buy-it-2656737-2024-12-28",
+        "category": "technology",
+        "date_time": "2024-12-28T18:40:00",
+        "uuid": "87b26094-d296-454e-b326-45c5a554ffcd",
+        "positive": 14.6,
+        "negative": 2.5
+    },
+    {
         "headlines": "Xiaomi 15 Ultra tipped to launch in February: Here is everything we know so farXiaomi 15 Ultra is tipped to debut in China on February 28. The phone is also expected to arrive with an upgraded macro sensor, a large aperture across the focal range and a low-light telephoto camera.",
         "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-15-ultra-with-snapdragon-8-elite-chip-tipped-to-launch-in-february-here-is-everything-we-know-so-far-2656123-2024-12-27",
         "category": "technology",
@@ -8215,15 +8251,6 @@
         "uuid": "fce50e2e-5fc7-431e-a1e2-8e87a9bdab5c",
         "positive": 8.4,
         "negative": 5.9
-    },
-    {
-        "headlines": "iPhone 15 is selling at big discount on Flipkart: Should you buy it?The iPhone 15 is selling for under Rs 60,000 on Flipkart right now. Additionally, if you exchange your old phone, you could bring down the effective price of the iPhone 15 to almost half its original cost.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-is-selling-at-big-discount-on-flipkart-should-you-buy-it-2656737-2024-12-28",
-        "category": "technology",
-        "date_time": "2024-12-28T18:40:00",
-        "uuid": "87b26094-d296-454e-b326-45c5a554ffcd",
-        "positive": 14.6,
-        "negative": 2.5
     },
     {
         "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
@@ -8314,6 +8341,15 @@
         "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
         "positive": 11.5,
         "negative": 11.9
+    },
+    {
+        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
+        "category": "lifestyle",
+        "date_time": "2024-12-28T17:48:00",
+        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
+        "positive": 13.5,
+        "negative": 1.6
     },
     {
         "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
@@ -8422,15 +8458,6 @@
         "uuid": "0f8587f3-b100-4bd9-863d-25648330d1d9",
         "positive": 15.5,
         "negative": 18.5
-    },
-    {
-        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
-        "category": "lifestyle",
-        "date_time": "2024-12-28T17:48:00",
-        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
-        "positive": 13.5,
-        "negative": 1.6
     },
     {
         "headlines": "Diet Coke with protein shake? The new viral drink is not what experts recommendProtein Diet Coke is a blend of Diet Coke and a flavoured protein shake (mostly vanilla) that Rebecca Gordan, a teacher from Utah, introduced. ",
@@ -8838,6 +8865,15 @@
         "negative": 0.5
     },
     {
+        "headlines": "Sikandar teaser X reactions: Fans call Salman Khan 'badass', say 'bhai is back'The highly-anticipated teaser of Salman Khan's upcoming film Sikandar was unveiled today, sending fans into a frenzy online. Enthusiastic users hailed the mass actioner, declaring it a \"blockbuster in the making.\"",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-x-reactions-fans-call-salman-khan-badass-say-bhai-is-back-2656701-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T16:58:00",
+        "uuid": "4c088c3f-fcc3-4fb2-a9f8-7f761cd155fd",
+        "positive": 17.9,
+        "negative": 3.7
+    },
+    {
         "headlines": "Akshay Kumar's Welcome to the Jungle team to shoot mega schedule in DubaiAkshay Kumar's Welcome to the Jungle team is set to start a major shooting schedule in Dubai and Abu Dhabi, following extensive shoots in Mumbai and Kashmir. The film promises a cinematic spectacle with scenes to be shot at exclusive UAE locations.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-welcome-to-the-jungle-team-shoot-mega-schedule-dubai-abu-dhabi-2655617-2024-12-26",
         "category": "bollywood",
@@ -8910,15 +8946,6 @@
         "negative": 2.3
     },
     {
-        "headlines": "Sikandar teaser X reactions: Fans call Salman Khan 'badass', say 'bhai is back'The highly-anticipated teaser of Salman Khan's upcoming film Sikandar was unveiled today, sending fans into a frenzy online. Enthusiastic users hailed the mass actioner, declaring it a \"blockbuster in the making.\"",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-x-reactions-fans-call-salman-khan-badass-say-bhai-is-back-2656701-2024-12-28",
-        "category": "bollywood",
-        "date_time": "2024-12-28T16:58:00",
-        "uuid": "4c088c3f-fcc3-4fb2-a9f8-7f761cd155fd",
-        "positive": 17.9,
-        "negative": 3.7
-    },
-    {
         "headlines": "Yeh Jawaani Hai Deewani to re-release in theatres in JanuaryThe beloved romantic comedy Yeh Jawaani Hai Deewani, starring Ranbir Kapoor, Deepika Padukone, and Aditya Roy Kapur, is set to return to theatres. On Friday, Dharma Movies announced the re-release date in an exciting social media post.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-to-re-release-in-theatres-in-january-2656164-2024-12-27",
         "category": "bollywood",
@@ -8926,6 +8953,15 @@
         "uuid": "e5b2fde1-b7aa-4579-98ca-cae308dfc840",
         "positive": 17.2,
         "negative": 2.3
+    },
+    {
+        "headlines": "Baby John box office Day 4: Varun Dhawan film crosses Rs 20-crore mark in IndiaBaby John, featuring Varun Dhawan, is currently being screened in theatres. After four days of release, the film has crossed Rs 20 crore in India.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-4-varun-dhawan-film-crosses-rs-20-crore-mark-in-india-2656843-2024-12-29",
+        "category": "bollywood",
+        "date_time": "2024-12-29T09:59:00",
+        "uuid": "8f8c765e-6074-44ee-bf83-0a9e49739564",
+        "positive": 1.8,
+        "negative": 1.4
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -8962,41 +8998,5 @@
         "uuid": "c33d5908-f7ea-4309-91d0-370ce60653fc",
         "positive": 7.5,
         "negative": 7.5
-    },
-    {
-        "headlines": "Quick delivery, quicker success: Zepto founders top Hurun listZepto, established in 2021 by the duo of Kaivalya Vohra and Aadit Palicha, has revolutionised the quick-commerce sector with its 10-minute grocery delivery model.",
-        "article_url": "https://www.indiatoday.in/business/story/zepto-co-founders-take-top-spot-in-hurun-self-made-entrepreneurs-list-kaivalya-vohra-aadit-palicha-2652329-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T16:03:00",
-        "uuid": "4c754995-f993-488b-a39c-1179c2d2edd0",
-        "positive": 6.6,
-        "negative": 0
-    },
-    {
-        "headlines": "US Fed rate cut decision: How will it impact Indian stock markets? The Sensex declined over 1,100 points and the Nifty fell below 24,000 after the US Federal Reserve's decision to cut interest rates by 0.25% to 4.5%, coupled with a hawkish outlook on future rate adjustments.",
-        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-decision-impact-on-sensex-nifty-indian-stock-markets-2652262-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T13:25:00",
-        "uuid": "7ac46f00-ee57-4572-8cdf-236f2153b892",
-        "positive": 11.3,
-        "negative": 10.6
-    },
-    {
-        "headlines": "Mamata Machinery IPO: Latest GMP sees sharp rise; should you subscribe?Mamata Machinery, a leading manufacturer of packaging machines, seeks to raise Rs 179.39 crore from its offer for sale, with promoters selling up to 73.82 lakh equity shares at a face value of Rs 10 each.",
-        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-latest-gmp-price-band-should-you-subscribe-stmp-2652244-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T16:00:00",
-        "uuid": "563715b2-c6c4-421a-ba60-c40bca975656",
-        "positive": 12.5,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Explained: Why SpiceJet share price jumped nearly 8% todaySpicejet share price: The airline's share price was up 7.48% to Rs 60.49 on the Bombay Stock Exchange (BSE) at 12:40 pm.",
-        "article_url": "https://www.indiatoday.in/business/story/spicejet-share-price-jumps-8-percent-settlement-with-aircraft-lessor-genesis-stmp-2652228-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T12:45:00",
-        "uuid": "d29e790b-a750-49a8-bf29-ac28a05e83e9",
-        "positive": 20,
-        "negative": 4.5
     }
 ]
