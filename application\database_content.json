@@ -5778,15 +5778,6 @@
         "negative": 3
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Smriti Mandhana jumps to 2nd spot in ODI and T20I batting rankingsSmriti Mandhana's stellar performances catapulted her to the 2nd spot in the ODI and T20I batting rankings, highlighting her consistency with five consecutive 50-plus scores. Her dominance cements her as a crucial asset in India's batting lineup.",
         "article_url": "https://www.indiatoday.in/sports/story/smriti-mandhana-jumps-to-2nd-spot-in-odi-and-t20i-batting-rankings-2654681-2024-12-24",
         "category": "sports",
@@ -5911,6 +5902,15 @@
         "uuid": "c31544fc-5e43-4c0c-82ed-9d58eb456986",
         "positive": 11.9,
         "negative": 1.6
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
@@ -7020,6 +7020,33 @@
         "negative": 0.8
     },
     {
+        "headlines": "Justin Langer picks 'gladiatorial' Virat Kohli over Tendulkar, LaraIND vs AUS: Former Australia batter Justin Langer picked Virat Kohli as the best player he had ever seen. Langer picked Kohli ahead of Sachin Tendulkar and Brian Lara.",
+        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-justin-langer-virat-kohli-sachin-tendulkar-brian-lara-2656576-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T10:40:00",
+        "uuid": "f1dac051-8990-4bf2-b037-c36ad3e2cafc",
+        "positive": 5.6,
+        "negative": 2.2
+    },
+    {
+        "headlines": "Australia name 14-member squad for Women's Ashes, Molineux misses outWomen's Ashes 2025: All-rounder Sophie Molineux missed out due to a knee injury as Australia named a strong 14-member squad for the upcoming multi-format series against England. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-womens-ashes-australia-squad-sophie-molineux-2656574-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T10:30:00",
+        "uuid": "0d22fdc3-1344-4878-bb88-a3c093a85bdb",
+        "positive": 11.5,
+        "negative": 3
+    },
+    {
+        "headlines": "Nitish should be batting at No 6, will help balance the Indian side: Ravi ShastriFormer India head coach Ravi Shastri praised Nitish Reddy's fearless MCG knock, backing the youngster to bat at No. 6 in India's Test lineup. Nitish was batting at 85 unbeaten in the post-lunch session on Day 3. \r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-melbourne-test-nitish-reddy-no6-ravi-shastri-2656571-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T10:25:00",
+        "uuid": "24a9d404-b56d-4056-a883-ebd612e152dc",
+        "positive": 12.2,
+        "negative": 9.2
+    },
+    {
         "headlines": "Mitchell Starc can play through a lot of pain: Boland on pacer's injury concernAUS vs IND: Australian fast bowler Scott Boland shared an update on Mitchell Starc, who faced troubles with his back on Day 3 of the Boxing Day Test at the Melbourne Cricket Ground. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-mitchell-starc-injury-concern-scott-boland-mcg-test-2656654-2024-12-28",
         "category": "sports",
@@ -7072,33 +7099,6 @@
         "uuid": "5d23791b-1ab9-485d-a724-ee900739e936",
         "positive": 10.7,
         "negative": 13
-    },
-    {
-        "headlines": "Justin Langer picks 'gladiatorial' Virat Kohli over Tendulkar, LaraIND vs AUS: Former Australia batter Justin Langer picked Virat Kohli as the best player he had ever seen. Langer picked Kohli ahead of Sachin Tendulkar and Brian Lara.",
-        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-justin-langer-virat-kohli-sachin-tendulkar-brian-lara-2656576-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T10:40:00",
-        "uuid": "f1dac051-8990-4bf2-b037-c36ad3e2cafc",
-        "positive": 5.6,
-        "negative": 2.2
-    },
-    {
-        "headlines": "Australia name 14-member squad for Women's Ashes, Molineux misses outWomen's Ashes 2025: All-rounder Sophie Molineux missed out due to a knee injury as Australia named a strong 14-member squad for the upcoming multi-format series against England. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-womens-ashes-australia-squad-sophie-molineux-2656574-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T10:30:00",
-        "uuid": "0d22fdc3-1344-4878-bb88-a3c093a85bdb",
-        "positive": 11.5,
-        "negative": 3
-    },
-    {
-        "headlines": "Nitish should be batting at No 6, will help balance the Indian side: Ravi ShastriFormer India head coach Ravi Shastri praised Nitish Reddy's fearless MCG knock, backing the youngster to bat at No. 6 in India's Test lineup. Nitish was batting at 85 unbeaten in the post-lunch session on Day 3. \r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-melbourne-test-nitish-reddy-no6-ravi-shastri-2656571-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T10:25:00",
-        "uuid": "24a9d404-b56d-4056-a883-ebd612e152dc",
-        "positive": 12.2,
-        "negative": 9.2
     },
     {
         "headlines": "Watch: Pushpa for fifty, Baahubali for hundred: Nitish rocks celebrations Border Gavaskar Trophy, IND vs AUS: Nitish Reddy struck the Pushpa pose after he scored a fifty at the Melbourne Cricket Ground. He followed it up with the Baahubali celebration after notching his century at the iconic venue. ",
@@ -7497,6 +7497,24 @@
         "negative": 0.9
     },
     {
+        "headlines": "Had always dreamt about Virat Kohli appreciating me: Nitish Kumar ReddyIndia all rounder Nitish Kumar Reddy revealed that he had always dreamt about Virat Kohli praising him after his maiden Test century vs Australia in Melbourne.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-nitish-kumar-reddy-virat-kohli-border-gavaskar-trophy-2024-25-2656966-2024-12-29",
+        "category": "sports",
+        "date_time": "2024-12-29T17:01:00",
+        "uuid": "ff66e5db-833d-41bd-8bf1-b4636e4b5058",
+        "positive": 16.1,
+        "negative": 1.7
+    },
+    {
+        "headlines": "South Africa qualify for WTC final with thrilling 2-wicket win vs PakistanSouth Africa have qualified for their maiden World Test Championship final. Kagiso Rabada and Marco Jansen's ninth wicket stand ensured South Africa chased down the tricky target of 148 runs. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/south-africa-qualify-for-wtc-final-with-thrilling-2-wicket-win-vs-pakistan-2656972-2024-12-29",
+        "category": "sports",
+        "date_time": "2024-12-29T17:17:00",
+        "uuid": "d97cd3c4-f552-4ef5-a7b2-4630179337d4",
+        "positive": 9.6,
+        "negative": 3.4
+    },
+    {
         "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
         "category": "technology",
@@ -7513,6 +7531,24 @@
         "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
         "positive": 7.1,
         "negative": 2.8
+    },
+    {
+        "headlines": "ICC Women's emerging cricketer of the year: India's rising player nominatedShreyanka Patil's stellar performances in 2024, including 15 T20I wickets and key contributions in major tournaments, earned her a nomination for ICC Women's Emerging Cricketer of the Year. ",
+        "article_url": "https://www.indiatoday.in/sports/story/icc-womens-emerging-cricketer-of-the-year-indias-rising-player-nominated-2656755-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T19:55:00",
+        "uuid": "f198212b-1ae8-4f0e-8dcc-5cefbdcfe80d",
+        "positive": 10.1,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Nitish borrows Cummins' mentality, Klaasen's gameplan for MCG Test hundredNitish Kumar Reddy became the first Indian No.8 to score a Test century in Australia. Nitish's incredible innings not only helped India save follow-on, but nearly helped India massively cut down the deficit against Australia's massive first innings total of 474.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-pat-cummins-mentality-heinrich-klaasen-gameplan-melbourne-2656754-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T19:55:00",
+        "uuid": "6fc65412-c66c-4afe-830a-f0cd7c245118",
+        "positive": 12.5,
+        "negative": 5.5
     },
     {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
@@ -7549,24 +7585,6 @@
         "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
         "positive": 12.6,
         "negative": 1.8
-    },
-    {
-        "headlines": "ICC Women's emerging cricketer of the year: India's rising player nominatedShreyanka Patil's stellar performances in 2024, including 15 T20I wickets and key contributions in major tournaments, earned her a nomination for ICC Women's Emerging Cricketer of the Year. ",
-        "article_url": "https://www.indiatoday.in/sports/story/icc-womens-emerging-cricketer-of-the-year-indias-rising-player-nominated-2656755-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T19:55:00",
-        "uuid": "f198212b-1ae8-4f0e-8dcc-5cefbdcfe80d",
-        "positive": 10.1,
-        "negative": 2.6
-    },
-    {
-        "headlines": "Nitish borrows Cummins' mentality, Klaasen's gameplan for MCG Test hundredNitish Kumar Reddy became the first Indian No.8 to score a Test century in Australia. Nitish's incredible innings not only helped India save follow-on, but nearly helped India massively cut down the deficit against Australia's massive first innings total of 474.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-pat-cummins-mentality-heinrich-klaasen-gameplan-melbourne-2656754-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T19:55:00",
-        "uuid": "6fc65412-c66c-4afe-830a-f0cd7c245118",
-        "positive": 12.5,
-        "negative": 5.5
     },
     {
         "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
@@ -8199,6 +8217,15 @@
         "negative": 1.7
     },
     {
+        "headlines": "iPhone 15 is selling at big discount on Flipkart: Should you buy it?The iPhone 15 is selling for under Rs 60,000 on Flipkart right now. Additionally, if you exchange your old phone, you could bring down the effective price of the iPhone 15 to almost half its original cost.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-is-selling-at-big-discount-on-flipkart-should-you-buy-it-2656737-2024-12-28",
+        "category": "technology",
+        "date_time": "2024-12-28T18:40:00",
+        "uuid": "87b26094-d296-454e-b326-45c5a554ffcd",
+        "positive": 14.6,
+        "negative": 2.5
+    },
+    {
         "headlines": "Samsung Galaxy S25 Ultra colour variant leaked ahead of rumoured launch on January 22Samsung is expected to host its annual Galaxy Unpacked event on January 22 where he will launch the Galaxy S25 series and the Galaxy Ring. The company may also unveil the Galaxy S24 Slim at the event.",
         "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-ultra-colour-variant-leaked-ahead-of-rumoured-launch-on-january-22-2656029-2024-12-27",
         "category": "technology",
@@ -8224,15 +8251,6 @@
         "uuid": "0ee38fe2-5b7c-4bcc-91a5-31af41438472",
         "positive": 10.9,
         "negative": 2.1
-    },
-    {
-        "headlines": "iPhone 15 is selling at big discount on Flipkart: Should you buy it?The iPhone 15 is selling for under Rs 60,000 on Flipkart right now. Additionally, if you exchange your old phone, you could bring down the effective price of the iPhone 15 to almost half its original cost.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-is-selling-at-big-discount-on-flipkart-should-you-buy-it-2656737-2024-12-28",
-        "category": "technology",
-        "date_time": "2024-12-28T18:40:00",
-        "uuid": "87b26094-d296-454e-b326-45c5a554ffcd",
-        "positive": 14.6,
-        "negative": 2.5
     },
     {
         "headlines": "Xiaomi is launching another budget phone? Redmi 14C is coming Xiaomi is gearing up for the launch of its latest budget smartphone, Redmi 14C, as we approach 2025. Here is a look at its expected price and specs.",
@@ -8379,6 +8397,15 @@
         "negative": 17.4
     },
     {
+        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
+        "category": "lifestyle",
+        "date_time": "2024-12-28T17:48:00",
+        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
+        "positive": 13.5,
+        "negative": 1.6
+    },
+    {
         "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
         "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
         "category": "lifestyle",
@@ -8406,15 +8433,6 @@
         "negative": 2.4
     },
     {
-        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
-        "category": "lifestyle",
-        "date_time": "2024-12-28T17:48:00",
-        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
-        "positive": 13.5,
-        "negative": 1.6
-    },
-    {
         "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
         "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
         "category": "lifestyle",
@@ -8422,6 +8440,15 @@
         "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
         "positive": 19.1,
         "negative": 6.7
+    },
+    {
+        "headlines": "How India is now partying with non-alcoholic spiritsAlso known as zero-proof spirits, non-alcoholic spirits are crafted to replicate the taste of traditional spirits but without the alcohol. These zero-proof drinks are not like your other non-alcoholic beverages such as ginger ale, soda, or mocktails.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/india-party-culture-non-alcoholic-spirits-gen-z-millennials-2656796-2024-12-29",
+        "category": "lifestyle",
+        "date_time": "2024-12-29T14:38:00",
+        "uuid": "744eeb7f-9d73-415c-9faf-da0969839713",
+        "positive": 12.3,
+        "negative": 4.1
     },
     {
         "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
@@ -8449,15 +8476,6 @@
         "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
         "positive": 16,
         "negative": 8.3
-    },
-    {
-        "headlines": "How India is now partying with non-alcoholic spiritsAlso known as zero-proof spirits, non-alcoholic spirits are crafted to replicate the taste of traditional spirits but without the alcohol. These zero-proof drinks are not like your other non-alcoholic beverages such as ginger ale, soda, or mocktails.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/india-party-culture-non-alcoholic-spirits-gen-z-millennials-2656796-2024-12-29",
-        "category": "lifestyle",
-        "date_time": "2024-12-29T14:38:00",
-        "uuid": "744eeb7f-9d73-415c-9faf-da0969839713",
-        "positive": 12.3,
-        "negative": 4.1
     },
     {
         "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
@@ -8784,6 +8802,15 @@
         "negative": 1.3
     },
     {
+        "headlines": "Sikandar teaser X reactions: Fans call Salman Khan 'badass', say 'bhai is back'The highly-anticipated teaser of Salman Khan's upcoming film Sikandar was unveiled today, sending fans into a frenzy online. Enthusiastic users hailed the mass actioner, declaring it a \"blockbuster in the making.\"",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-x-reactions-fans-call-salman-khan-badass-say-bhai-is-back-2656701-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T16:58:00",
+        "uuid": "4c088c3f-fcc3-4fb2-a9f8-7f761cd155fd",
+        "positive": 17.9,
+        "negative": 3.7
+    },
+    {
         "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/thalapathy-vijay-impressed-baby-john-varun-dhawan-work-director-kalees-2652819-2024-12-20",
         "category": "bollywood",
@@ -8892,6 +8919,15 @@
         "negative": 0.7
     },
     {
+        "headlines": "Baby John box office Day 4: Varun Dhawan film crosses Rs 20-crore mark in IndiaBaby John, featuring Varun Dhawan, is currently being screened in theatres. After four days of release, the film has crossed Rs 20 crore in India.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-4-varun-dhawan-film-crosses-rs-20-crore-mark-in-india-2656843-2024-12-29",
+        "category": "bollywood",
+        "date_time": "2024-12-29T09:59:00",
+        "uuid": "8f8c765e-6074-44ee-bf83-0a9e49739564",
+        "positive": 1.8,
+        "negative": 1.4
+    },
+    {
         "headlines": "Baby John review: Varun Dhawan-Keerthy Suresh's actioner is massy but messyReleased-Wed Dec 25, 2024Baby John movie review: Varun Dhawan, Keerthy Suresh and Jackie Shroff-starrer Baby John is a commercial entertainer with an overdose of mass moments. The performances of lead cast make the film enjoyable.",
         "article_url": "https://www.indiatoday.in/movies/reviews/story/baby-john-movie-review-varun-dhawan-keerthy-suresh-atlee-actioner-massy-messy-2655044-2024-12-25",
         "category": "bollywood",
@@ -8908,15 +8944,6 @@
         "uuid": "93d182bd-cb00-4e39-9a95-597c203b1241",
         "positive": 10.1,
         "negative": 5.7
-    },
-    {
-        "headlines": "Sikandar teaser X reactions: Fans call Salman Khan 'badass', say 'bhai is back'The highly-anticipated teaser of Salman Khan's upcoming film Sikandar was unveiled today, sending fans into a frenzy online. Enthusiastic users hailed the mass actioner, declaring it a \"blockbuster in the making.\"",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-x-reactions-fans-call-salman-khan-badass-say-bhai-is-back-2656701-2024-12-28",
-        "category": "bollywood",
-        "date_time": "2024-12-28T16:58:00",
-        "uuid": "4c088c3f-fcc3-4fb2-a9f8-7f761cd155fd",
-        "positive": 17.9,
-        "negative": 3.7
     },
     {
         "headlines": "Housefull 5: Akshay Kumar, Abhishek Bachchan, Riteish, others wrap film's shootAkshay Kumar, Riteish Deshmukh, Abhishek Bachchan and others have wrapped the shoot of the upcoming film, Housefull 5. Fardeen Khan shared pictures on social media from the bash. ",
@@ -8971,32 +8998,5 @@
         "uuid": "8b3ca2f7-2370-4688-b9cd-897b479600a8",
         "positive": 7.5,
         "negative": 3.8
-    },
-    {
-        "headlines": "Hrithik Roshan to start Krrish 4 shoot after wrapping War 2: ReportActor Hrithik Roshan will reportedly begin Krrish 4 shooting after completing Ayan Mukerji's War 2. The shooting of the superhero franchise is expected to begin in the summer of 2025.  ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/hrithik-roshan-krrish-4-shoot-wrapping-war-2-ayan-mukerji-rakesh-roshan-2655749-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T18:01:00",
-        "uuid": "ae01c873-09b2-4a7a-960c-0c32ffd4255f",
-        "positive": 4.7,
-        "negative": 5.8
-    },
-    {
-        "headlines": "Junaid Khan and Khushi Kapoor's next titled Loveyapa, to release in 2025Junaid Khan and Khushi Kapoor have teamed up for their upcoming rom-com, Loveyapa, set to release on February 7, 2025. The film explores modern-day romance with vibrant music and visuals.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/junaid-khan-khushi-kapoor-new-film-loveyapa-release-2025-2655780-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T19:16:00",
-        "uuid": "5ec809c1-a5db-4d6b-8516-92f3a833da95",
-        "positive": 16,
-        "negative": 1
-    },
-    {
-        "headlines": "Sikandar poster: Salman Khan's first look from AR Murugadoss film revealedA new poster of Salman Khan-starrer Sikandar has been unveiled ahead of his birthday. It features the actor's first look from the AR Murugadoss film, where he can be seen carrying a spear.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-sikandar-first-poster-out-ahead-of-his-birthday-2655783-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T19:07:00",
-        "uuid": "71150f8e-d1a7-41d4-8b53-4005b34f6d22",
-        "positive": 7.4,
-        "negative": 3.3
     }
 ]
