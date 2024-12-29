@@ -6912,15 +6912,6 @@
         "negative": 5.4
     },
     {
-        "headlines": "Sanjay Manjrekar urges team India to get rid of VIP treatment for senior playersFormer India cricketer turned commentator Sanjay Manjrekar has urged the Indian team management to stop VIP treatment of senior players.  ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-sanjay-manjrekar-rohit-sharma-virat-kohli-aus-vs-ind-border-gavaskar-trophy-2656436-2024-12-27",
-        "category": "sports",
-        "date_time": "2024-12-27T22:09:00",
-        "uuid": "53831d3b-4885-47a5-bea2-a5e8aa22679f",
-        "positive": 7.8,
-        "negative": 6.8
-    },
-    {
         "headlines": "Cristiano Ronaldo makes bold Manchester United ownership claimCristiano Ronaldo has defended Ruben Amorim amid the Manchester United \"storm\" and made a very bold claim about his possible return to the club.",
         "article_url": "https://www.indiatoday.in/sports/story/cristiano-ronaldo-bold-manchester-united-ownership-claim-2656546-2024-12-28",
         "category": "sports",
@@ -6937,6 +6928,15 @@
         "uuid": "9f676058-0f71-4197-80bd-1a771ec60c41",
         "positive": 9.7,
         "negative": 7
+    },
+    {
+        "headlines": "Sanjay Manjrekar urges team India to get rid of VIP treatment for senior playersFormer India cricketer turned commentator Sanjay Manjrekar has urged the Indian team management to stop VIP treatment of senior players.  ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-sanjay-manjrekar-rohit-sharma-virat-kohli-aus-vs-ind-border-gavaskar-trophy-2656436-2024-12-27",
+        "category": "sports",
+        "date_time": "2024-12-27T22:09:00",
+        "uuid": "53831d3b-4885-47a5-bea2-a5e8aa22679f",
+        "positive": 7.8,
+        "negative": 6.8
     },
     {
         "headlines": "AUS vs IND: Will rain play spoilsport on Day 3 of Boxing Day Test? Checkout hereRain threatens to disrupt Day 3 of the Boxing Day Test at the MCG, with showers expected in the afternoon. Cloudy skies and fluctuating conditions could challenge both teams as India fight to avoid the follow-on against Australia.",
@@ -7344,6 +7344,15 @@
         "negative": 8
     },
     {
+        "headlines": "Jasprit Bumrah becomes fastest Indian pacer to 200 Test wicketsAUS vs IND: Jasprit Bumrah broke Kapil Dev's record to become the fastest Indian pacer to the landmark of 200 wickets in Test cricket. He reached the landmark on Day 4 of the Boxing Day Test at the Melbourne Cricket Ground. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-jasprit-bumrah-200-wickets-kapil-dev-record-mcg-test-2656830-2024-12-29",
+        "category": "sports",
+        "date_time": "2024-12-29T09:06:00",
+        "uuid": "b1c8a39e-96da-49a2-bebb-f74616ba981b",
+        "positive": 5.2,
+        "negative": 3
+    },
+    {
         "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
         "category": "technology",
@@ -7360,33 +7369,6 @@
         "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
         "positive": 7.1,
         "negative": 2.8
-    },
-    {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:32:00",
-        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
-        "positive": 4.6,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:12:00",
-        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
-        "positive": 9.4,
-        "negative": 5.4
     },
     {
         "headlines": "Watch: Pat Cummins claps from behind as Nitish Reddy celebrates hundred at MCGPat Cummins' applause for Nitish Reddy's maiden Test century at the MCG showcased true sportsmanship. The SRH teammates shared a moment of mutual respect, as Cummins celebrated Reddy's stellar knock with heartfelt claps. ",
@@ -7414,6 +7396,33 @@
         "uuid": "b5f01ebd-3f1f-49c2-9e83-f6ee2cc69105",
         "positive": 10.1,
         "negative": 2.4
+    },
+    {
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
+    },
+    {
+        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:32:00",
+        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
+        "positive": 4.6,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:12:00",
+        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
+        "positive": 9.4,
+        "negative": 5.4
     },
     {
         "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
@@ -7488,24 +7497,6 @@
         "negative": 2.3
     },
     {
-        "headlines": "ICC Women's emerging cricketer of the year: India's rising player nominatedShreyanka Patil's stellar performances in 2024, including 15 T20I wickets and key contributions in major tournaments, earned her a nomination for ICC Women's Emerging Cricketer of the Year. ",
-        "article_url": "https://www.indiatoday.in/sports/story/icc-womens-emerging-cricketer-of-the-year-indias-rising-player-nominated-2656755-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T19:55:00",
-        "uuid": "f198212b-1ae8-4f0e-8dcc-5cefbdcfe80d",
-        "positive": 10.1,
-        "negative": 2.6
-    },
-    {
-        "headlines": "Nitish borrows Cummins' mentality, Klaasen's gameplan for MCG Test hundredNitish Kumar Reddy became the first Indian No.8 to score a Test century in Australia. Nitish's incredible innings not only helped India save follow-on, but nearly helped India massively cut down the deficit against Australia's massive first innings total of 474.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-pat-cummins-mentality-heinrich-klaasen-gameplan-melbourne-2656754-2024-12-28",
-        "category": "sports",
-        "date_time": "2024-12-28T19:55:00",
-        "uuid": "6fc65412-c66c-4afe-830a-f0cd7c245118",
-        "positive": 12.5,
-        "negative": 5.5
-    },
-    {
         "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
         "category": "technology",
@@ -7567,6 +7558,24 @@
         "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
         "positive": 10.4,
         "negative": 2.5
+    },
+    {
+        "headlines": "ICC Women's emerging cricketer of the year: India's rising player nominatedShreyanka Patil's stellar performances in 2024, including 15 T20I wickets and key contributions in major tournaments, earned her a nomination for ICC Women's Emerging Cricketer of the Year. ",
+        "article_url": "https://www.indiatoday.in/sports/story/icc-womens-emerging-cricketer-of-the-year-indias-rising-player-nominated-2656755-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T19:55:00",
+        "uuid": "f198212b-1ae8-4f0e-8dcc-5cefbdcfe80d",
+        "positive": 10.1,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Nitish borrows Cummins' mentality, Klaasen's gameplan for MCG Test hundredNitish Kumar Reddy became the first Indian No.8 to score a Test century in Australia. Nitish's incredible innings not only helped India save follow-on, but nearly helped India massively cut down the deficit against Australia's massive first innings total of 474.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-pat-cummins-mentality-heinrich-klaasen-gameplan-melbourne-2656754-2024-12-28",
+        "category": "sports",
+        "date_time": "2024-12-28T19:55:00",
+        "uuid": "6fc65412-c66c-4afe-830a-f0cd7c245118",
+        "positive": 12.5,
+        "negative": 5.5
     },
     {
         "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
@@ -7821,15 +7830,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Baby John box office Day 3: Varun Dhawan's film sees decline in earningsIt has been three days since Varun Dhawan's Baby John hit theatres. However, the film has been experiencing a lull at the box office, with earnings steadily declining since its opening day.\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-3-varun-dhawans-film-sees-decline-in-earnings-2656548-2024-12-28",
-        "category": "bollywood",
-        "date_time": "2024-12-28T08:36:00",
-        "uuid": "b34d8f45-941d-4c4c-a6aa-a20d8595fcf2",
-        "positive": 3.4,
-        "negative": 2.9
-    },
-    {
         "headlines": "Apple approaches historic $4 trillion valuation, it is now also ahead of Nvidia and MicrosoftApple shares saw a 16 per cent jump in shares since early November that has added about $500 billion to its market capitalisation.",
         "article_url": "https://www.indiatoday.in/technology/news/story/apple-approaches-historic-4-trillion-valuation-it-is-now-also-ahead-of-nvidia-and-microsoft-2654469-2024-12-24",
         "category": "technology",
@@ -7891,6 +7891,15 @@
         "uuid": "68c967be-19a5-44c6-8cbb-58f42f889447",
         "positive": 13.1,
         "negative": 2.6
+    },
+    {
+        "headlines": "Baby John box office Day 3: Varun Dhawan's film sees decline in earningsIt has been three days since Varun Dhawan's Baby John hit theatres. However, the film has been experiencing a lull at the box office, with earnings steadily declining since its opening day.\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-3-varun-dhawans-film-sees-decline-in-earnings-2656548-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T08:36:00",
+        "uuid": "b34d8f45-941d-4c4c-a6aa-a20d8595fcf2",
+        "positive": 3.4,
+        "negative": 2.9
     },
     {
         "headlines": "Samsung Galaxy S25 series is expected to go on sale on this dateSamsung Galaxy S25 series is rumoured to be launched on January 22. While the date is yet to be made official by the company, another report claims to reveal the day the new smartphones will hit the shelves. ",
@@ -8163,15 +8172,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "iPhone 15 is selling at big discount on Flipkart: Should you buy it?The iPhone 15 is selling for under Rs 60,000 on Flipkart right now. Additionally, if you exchange your old phone, you could bring down the effective price of the iPhone 15 to almost half its original cost.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-is-selling-at-big-discount-on-flipkart-should-you-buy-it-2656737-2024-12-28",
-        "category": "technology",
-        "date_time": "2024-12-28T18:40:00",
-        "uuid": "87b26094-d296-454e-b326-45c5a554ffcd",
-        "positive": 14.6,
-        "negative": 2.5
-    },
-    {
         "headlines": "Vivek Ramaswamy says American parents raising their kids wrongTrump supporters are demanding an H-1B freeze but American entrepreneur and politician, Vivek Ramaswamy, has a cultural diagnosis for the country's STEM shortfall. He says American parents are raising their kids wrong. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/maga-crowd-demands-no-h-1b-visas-for-indians-vivek-ramaswamy-says-american-parents-raising-their-kids-wrong-2656273-2024-12-27",
         "category": "technology",
@@ -8215,6 +8215,15 @@
         "uuid": "fce50e2e-5fc7-431e-a1e2-8e87a9bdab5c",
         "positive": 8.4,
         "negative": 5.9
+    },
+    {
+        "headlines": "iPhone 15 is selling at big discount on Flipkart: Should you buy it?The iPhone 15 is selling for under Rs 60,000 on Flipkart right now. Additionally, if you exchange your old phone, you could bring down the effective price of the iPhone 15 to almost half its original cost.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-is-selling-at-big-discount-on-flipkart-should-you-buy-it-2656737-2024-12-28",
+        "category": "technology",
+        "date_time": "2024-12-28T18:40:00",
+        "uuid": "87b26094-d296-454e-b326-45c5a554ffcd",
+        "positive": 14.6,
+        "negative": 2.5
     },
     {
         "headlines": "You've been misunderstanding Trauma Bonding all along. It's a toxic trapMany may assume trauma bonding is a positive bond shared over a past trauma, but you will be surprised that it is absolutely not what you think.",
@@ -8352,15 +8361,6 @@
         "negative": 1.2
     },
     {
-        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
-        "category": "lifestyle",
-        "date_time": "2024-12-28T17:48:00",
-        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
-        "positive": 13.5,
-        "negative": 1.6
-    },
-    {
         "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
         "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
         "category": "lifestyle",
@@ -8422,6 +8422,15 @@
         "uuid": "0f8587f3-b100-4bd9-863d-25648330d1d9",
         "positive": 15.5,
         "negative": 18.5
+    },
+    {
+        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
+        "category": "lifestyle",
+        "date_time": "2024-12-28T17:48:00",
+        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
+        "positive": 13.5,
+        "negative": 1.6
     },
     {
         "headlines": "Diet Coke with protein shake? The new viral drink is not what experts recommendProtein Diet Coke is a blend of Diet Coke and a flavoured protein shake (mostly vanilla) that Rebecca Gordan, a teacher from Utah, introduced. ",
@@ -8856,15 +8865,6 @@
         "negative": 1
     },
     {
-        "headlines": "Sikandar teaser X reactions: Fans call Salman Khan 'badass', say 'bhai is back'The highly-anticipated teaser of Salman Khan's upcoming film Sikandar was unveiled today, sending fans into a frenzy online. Enthusiastic users hailed the mass actioner, declaring it a \"blockbuster in the making.\"",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-x-reactions-fans-call-salman-khan-badass-say-bhai-is-back-2656701-2024-12-28",
-        "category": "bollywood",
-        "date_time": "2024-12-28T16:58:00",
-        "uuid": "4c088c3f-fcc3-4fb2-a9f8-7f761cd155fd",
-        "positive": 17.9,
-        "negative": 3.7
-    },
-    {
         "headlines": "Sikandar poster: Salman Khan's first look from AR Murugadoss film revealedA new poster of Salman Khan-starrer Sikandar has been unveiled ahead of his birthday. It features the actor's first look from the AR Murugadoss film, where he can be seen carrying a spear.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-sikandar-first-poster-out-ahead-of-his-birthday-2655783-2024-12-26",
         "category": "bollywood",
@@ -8908,6 +8908,15 @@
         "uuid": "57971feb-6b54-40c5-8fcc-a455cca3d1d7",
         "positive": 11.5,
         "negative": 2.3
+    },
+    {
+        "headlines": "Sikandar teaser X reactions: Fans call Salman Khan 'badass', say 'bhai is back'The highly-anticipated teaser of Salman Khan's upcoming film Sikandar was unveiled today, sending fans into a frenzy online. Enthusiastic users hailed the mass actioner, declaring it a \"blockbuster in the making.\"",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-x-reactions-fans-call-salman-khan-badass-say-bhai-is-back-2656701-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T16:58:00",
+        "uuid": "4c088c3f-fcc3-4fb2-a9f8-7f761cd155fd",
+        "positive": 17.9,
+        "negative": 3.7
     },
     {
         "headlines": "Yeh Jawaani Hai Deewani to re-release in theatres in JanuaryThe beloved romantic comedy Yeh Jawaani Hai Deewani, starring Ranbir Kapoor, Deepika Padukone, and Aditya Roy Kapur, is set to return to theatres. On Friday, Dharma Movies announced the re-release date in an exciting social media post.",
@@ -8989,14 +8998,5 @@
         "uuid": "d29e790b-a750-49a8-bf29-ac28a05e83e9",
         "positive": 20,
         "negative": 4.5
-    },
-    {
-        "headlines": "PMAY-U 2.0: Who can apply for affordable homes under Pradhan Mantri Awas YojanaPradhan Mantri Awas Yojana Urban 2.0 aims to provide affordable housing to one crore urban families, focusing on inclusive development through various housing schemes and subsidies.",
-        "article_url": "https://www.indiatoday.in/business/story/pmay-u-20-who-can-apply-for-affordable-homes-under-pradhan-mantri-awas-yojana-check-eligibility-document-required-application-process-2652215-2024-12-19",
-        "category": "business",
-        "date_time": "2024-12-19T12:30:00",
-        "uuid": "8e853609-7f6e-4ab0-b2ac-8ea7b6cf7e60",
-        "positive": 9.2,
-        "negative": 2.5
     }
 ]
