@@ -7344,15 +7344,6 @@
         "negative": 4.7
     },
     {
-        "headlines": "Watch: Jasprit Bumrah wins battle vs Sam Konstas and gives him animated send-offAustralia vs India, 4th Test: Jasprit Bumrah came up with an uncharacteristically animated send-off after picking up the wicket of Sam Konstas on Day 4 morning. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-jasprit-bumrah-send-off-sam-konstas-video-animated-crowd-mcg-2656816-2024-12-29",
-        "category": "sports",
-        "date_time": "2024-12-29T06:03:00",
-        "uuid": "b683e12f-a690-4f21-99bd-7f0558ffa972",
-        "positive": 7.5,
-        "negative": 5.3
-    },
-    {
         "headlines": "India's Koneru Humpy crowned World Rapid Champion for historic second timeIndia's Koneru Humpy scored a decisive win over Irene Sukandar in the final round on Sunday to clinch the World Rapid Chess Championship title for the second time in her career. ",
         "article_url": "https://www.indiatoday.in/sports/story/chess-koneru-humpy-world-rapid-chess-champion-new-york-second-title-2656814-2024-12-29",
         "category": "sports",
@@ -7360,6 +7351,15 @@
         "uuid": "844158a3-2348-4f9a-9502-f85606679b2a",
         "positive": 21.7,
         "negative": 2.8
+    },
+    {
+        "headlines": "Watch: Jasprit Bumrah wins battle vs Sam Konstas and gives him animated send-offAustralia vs India, 4th Test: Jasprit Bumrah came up with an uncharacteristically animated send-off after picking up the wicket of Sam Konstas on Day 4 morning. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-jasprit-bumrah-send-off-sam-konstas-video-animated-crowd-mcg-2656816-2024-12-29",
+        "category": "sports",
+        "date_time": "2024-12-29T06:03:00",
+        "uuid": "b683e12f-a690-4f21-99bd-7f0558ffa972",
+        "positive": 7.5,
+        "negative": 5.3
     },
     {
         "headlines": "Sharing 'Tom and Jerry' bond, Nitish fulfils promise to make sister proud AUS vs IND: Nitish Reddy's sister Tejaswi talked about the relationship she shares with her brother. She was delighted after the 21-year-old Nitish racked up his maiden Test hundred on Day 3 of the Boxing Day Test against Australia at the Melbourne Cricket Ground. ",
@@ -7461,6 +7461,15 @@
         "negative": 7.9
     },
     {
+        "headlines": "King is dead: Simon Katich's commentary on Virat Kohli's dismissal at MCG goes viralAustralia vs India, 4th Test: Former Australia opener Simon Katch's description of Virat Kohli's dismissal on Day 5 in Melbourne went viral on social media. Kohli fell for 3 at the stroke of the lunch break. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mcg-test-virat-kohli-king-is-dead-simon-katich-2657152-2024-12-30",
+        "category": "sports",
+        "date_time": "2024-12-30T11:19:00",
+        "uuid": "bc761176-19cd-4108-9404-6ff1114ad263",
+        "positive": 3.4,
+        "negative": 8.7
+    },
+    {
         "headlines": "Australia vs India: Bumper MCG crowd on Day 5 breaks Bradman-era recordThe Boxing Day Test between Australia and India at the Melbourne Cricket Ground (MCG) entered the history books on Monday, the fifth and final day of the match. This Test holds the all-time attendance record at the MCG, surpassing the previous mark of 350,534 set during the 1936-37 Ashes series.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-4th-test-mcg-crowd-on-day-5-breaks-bradman-era-record-2657072-2024-12-30",
         "category": "sports",
@@ -7497,13 +7506,13 @@
         "negative": 4.8
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
+        "headlines": "Commentator explains Travis Head's bizarre finger celebration at MCGAustralia vs India: A commentator explained Travis Head's bizarre finger celebration after removing Rishabh Pant in the final session on Day 5 of the Boxing Day Test.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-travis-head-bizarre-finger-celebration-rishabh-pant-mcg-test-2657151-2024-12-30",
+        "category": "sports",
+        "date_time": "2024-12-30T11:13:00",
+        "uuid": "af3617ff-9b8c-4c66-9db9-775e79f8c024",
+        "positive": 11.8,
+        "negative": 4.5
     },
     {
         "headlines": "Mumbai to host Conor McGregor vs Logan Paul? UFC star responds to speculationConor McGregor, one of the most decorated UFC stars in the history of combat sport, nearly confirmed the bout in Mumbai, responding to a news report on social media. The Wankhede Stadium, which hosted the cricket World Cup final in 2011, is speculated to host the bout. ",
@@ -7515,6 +7524,15 @@
         "negative": 6.5
     },
     {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
         "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
         "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
         "category": "technology",
@@ -7522,15 +7540,6 @@
         "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
         "positive": 7.1,
         "negative": 2.8
-    },
-    {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
     },
     {
         "headlines": "Jasprit Bumrah becomes fastest Indian pacer to 200 Test wicketsAUS vs IND: Jasprit Bumrah broke Kapil Dev's record to become the fastest Indian pacer to the landmark of 200 wickets in Test cricket. He reached the landmark on Day 4 of the Boxing Day Test at the Melbourne Cricket Ground. ",
@@ -7542,13 +7551,13 @@
         "negative": 3
     },
     {
-        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
-        "date_time": "2024-12-19T16:32:00",
-        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
-        "positive": 4.6,
-        "negative": 3.1
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
     },
     {
         "headlines": "WTC 2025 final scenario: How can India join South Africa in title matchAfter South Africa became the first team to qualify for the WTC 2025 final, here's how India can join them in the summit clash.",
@@ -7558,6 +7567,15 @@
         "uuid": "3cd5a64d-3d39-4a4d-9ea7-f3fcba6912d5",
         "positive": 10,
         "negative": 0
+    },
+    {
+        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:32:00",
+        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
+        "positive": 4.6,
+        "negative": 3.1
     },
     {
         "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
@@ -7587,15 +7605,6 @@
         "negative": 0.6
     },
     {
-        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T12:21:00",
-        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
-        "positive": 8.5,
-        "negative": 0.8
-    },
-    {
         "headlines": "How can India script MCG miracle? Show courage and character, says Ravi ShastriAustralia vs India, 4th Test: Former head coach Ravi Shastri said India have it in them to snatch a draw, but stressed it would be a test of character for their batters. India need more than 333 -- a record chase to win the Test on Monday, December 30. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-4th-test-day-5-message-ravi-shastri-draw-gabba-inspiration-2656911-2024-12-29",
         "category": "sports",
@@ -7614,6 +7623,15 @@
         "negative": 3.4
     },
     {
+        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:21:00",
+        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
+        "positive": 8.5,
+        "negative": 0.8
+    },
+    {
         "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
         "category": "technology",
@@ -7621,15 +7639,6 @@
         "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
         "positive": 5.6,
         "negative": 1.5
-    },
-    {
-        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
-        "positive": 6,
-        "negative": 1.7
     },
     {
         "headlines": "ICC Women's ODI Cricketer of the Year: Smriti Mandhana named as nomineeSmriti Mandhana's stellar 2024, featuring 743 runs and key performances, earned her a nomination for ICC Women's ODI Cricketer of the Year. Competing alongside Wolvaardt, Athapaththu, and Sutherland, her consistency and match-winning efforts set her apart.",
@@ -7704,13 +7713,13 @@
         "negative": 0.9
     },
     {
-        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
+        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
         "category": "technology",
-        "date_time": "2024-12-19T08:59:00",
-        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
-        "positive": 9,
-        "negative": 2.3
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
+        "positive": 6,
+        "negative": 1.7
     },
     {
         "headlines": "Pundits slam Rohit Sharma for angry reactions on Yashasvi Jaiswal's catch dropsSeveral experts slammed the India captain Rohit Sharma for his angry reactions on Yashasvi Jaiswal's catch drops on Day 4 of the fourth Test vs Australia in Melbourne.                                                                                                                                                                                                                                                                                   ",
@@ -7740,13 +7749,13 @@
         "negative": 3.4
     },
     {
-        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
+        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
         "category": "technology",
-        "date_time": "2024-12-19T08:49:00",
-        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
-        "positive": 5.6,
-        "negative": 3.2
+        "date_time": "2024-12-19T08:59:00",
+        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
+        "positive": 9,
+        "negative": 2.3
     },
     {
         "headlines": "Jasprit Bumrah is a genie that Indian cricket have brought as a gift: ManjrekarFormer India cricketer turned commentator Sanjay Manjrekar has called Jasprit Bumrah, the genie of Indian cricket.",
@@ -7758,6 +7767,15 @@
         "negative": 0.5
     },
     {
+        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T08:49:00",
+        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
+        "positive": 5.6,
+        "negative": 3.2
+    },
+    {
         "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
         "article_url": "https://www.indiatoday.in/technology/talking-points/story/apple-needs-to-make-apple-tv-that-can-run-aaa-games-challenge-xbox-and-playstation-2651840-2024-12-18",
         "category": "technology",
@@ -7767,15 +7785,6 @@
         "negative": 2.3
     },
     {
-        "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T16:43:00",
-        "uuid": "d51373ed-d52d-4d74-9d88-ce9d689f1f9c",
-        "positive": 5.2,
-        "negative": 0
-    },
-    {
         "headlines": "I was sulking in toilet: Temba Bavuma reveals nervy hideout during tricky chaseTemba Bavuma revealed that he spent the nervy moments in South Africa's chase inside the washroom and came outside only when the Proteas needed 15 runs to win. ",
         "article_url": "https://www.indiatoday.in/sports/story/i-was-sulking-in-toilet-temba-bavuma-reveals-nervy-hideout-during-tricky-chase-2657025-2024-12-29",
         "category": "sports",
@@ -7783,6 +7792,15 @@
         "uuid": "807eb5ba-ae03-4c19-a0e3-693fe3ab5420",
         "positive": 11.6,
         "negative": 2.1
+    },
+    {
+        "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-is-coming-to-india-company-confirms-launch-date-and-key-features-2651754-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T16:43:00",
+        "uuid": "d51373ed-d52d-4d74-9d88-ce9d689f1f9c",
+        "positive": 5.2,
+        "negative": 0
     },
     {
         "headlines": "Xiaomi Sound Outdoor speaker review: Affordable price, great sound, cool designIf you are in the market for a Bluetooth speaker that sounds good and is easy to carry around, while also being affordable, Xiaomi's new Sound Outdoor speakers are definitely worth considering. Priced at Rs 3,499, these outdoor speakers look cool and sound great. More details on it in this review by India Today Tech. ",
@@ -7839,15 +7857,6 @@
         "negative": 2.5
     },
     {
-        "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-20-flash-thinking-mode-a-reasoning-model-similar-to-openai-o1-2652683-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T09:04:00",
-        "uuid": "9a74d91e-5c5c-43de-8689-bd0266ba84ca",
-        "positive": 9.4,
-        "negative": 7
-    },
-    {
         "headlines": "Aus vs IND, MCG Test: How pitch and weather can impact Day 5 A thrilling finish awaits as Day 5 promises uninterrupted action in the 4th Test. With all three results possible, India's chase and Australia's bowling will decide the fate of the Border-Gavaskar Trophy in Melbourne's ideal cricketing conditions.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-mcg-test-how-pitch-and-weather-can-impact-day-5-2657011-2024-12-29",
         "category": "sports",
@@ -7864,6 +7873,15 @@
         "uuid": "5d83ddfc-6724-4593-a904-bcec021962f3",
         "positive": 13.5,
         "negative": 0.9
+    },
+    {
+        "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/google-launches-gemini-20-flash-thinking-mode-a-reasoning-model-similar-to-openai-o1-2652683-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T09:04:00",
+        "uuid": "9a74d91e-5c5c-43de-8689-bd0266ba84ca",
+        "positive": 9.4,
+        "negative": 7
     },
     {
         "headlines": "Worried about UPI frauds? Activate BharatPe 'Shield' now with these easy stepsShield is available on the BharatPe app, which can be downloaded on both Android and iOS devices.",
@@ -8469,6 +8487,24 @@
         "negative": 2.5
     },
     {
+        "headlines": "YouTube's Play something randomly picks videos for users who don't know what to watchYouTube is testing a floating \"Play something\" button on Android, randomly picking videos to play. It uses the Shorts player for all videos, including standard ones, for quick discovery.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/youtubes-play-something-randomly-picks-videos-for-users-who-dont-know-what-to-watch-2657163-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T11:32:00",
+        "uuid": "3c062c54-d9f9-4e14-b6e0-83bc7eb5d22c",
+        "positive": 12.9,
+        "negative": 1.2
+    },
+    {
+        "headlines": "iPhone 17 Pro design rumours divided over design: Will it follow a new pattern?The iPhone 17 series is speculated to debut in September 2025. Previous leaks suggest that this series will debut with a new design pattern. However, a new rumour sheds light that the Pro model might follow the OG design pattern. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-rumours-divided-over-design-will-it-follow-a-new-pattern-2657147-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T11:09:00",
+        "uuid": "5e3bef6a-365d-4f8e-8976-eb17a00b1e73",
+        "positive": 11.5,
+        "negative": 1.2
+    },
+    {
         "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
         "article_url": "https://www.indiatoday.in/lifestyle/society/story/why-now-december-is-a-better-time-to-start-your-new-year-resolutions-2652036-2024-12-19",
         "category": "lifestyle",
@@ -8559,51 +8595,6 @@
         "negative": 4.1
     },
     {
-        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-13T11:40:00",
-        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
-        "positive": 21.6,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
-        "category": "lifestyle",
-        "date_time": "2024-12-12T15:30:00",
-        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
-        "positive": 19.1,
-        "negative": 6.7
-    },
-    {
-        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T18:30:00",
-        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
-        "positive": 11.5,
-        "negative": 11.9
-    },
-    {
-        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
-        "category": "lifestyle",
-        "date_time": "2024-12-11T14:06:00",
-        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
-        "positive": 13.2,
-        "negative": 15
-    },
-    {
-        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
-        "category": "lifestyle",
-        "date_time": "2024-12-10T19:31:00",
-        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
-        "positive": 16,
-        "negative": 8.3
-    },
-    {
         "headlines": "Apple discontinues iPhone SE and iPhone 14 in EU: Here's whyApple has discontinued the iPhone 14 and iPhone SE in the EU as these models feature the lightning port, whereas the USB-C is now the official charging standard in the region. \r\n",
         "article_url": "https://www.indiatoday.in/technology/news/story/apple-discontinues-iphone-se-and-iphone-14-as-eu-officially-adopts-usb-c-as-universal-charging-standard-2657116-2024-12-30",
         "category": "technology",
@@ -8647,6 +8638,51 @@
         "uuid": "744eeb7f-9d73-415c-9faf-da0969839713",
         "positive": 12.3,
         "negative": 4.1
+    },
+    {
+        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:40:00",
+        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
+        "positive": 21.6,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-12T15:30:00",
+        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
+        "positive": 19.1,
+        "negative": 6.7
+    },
+    {
+        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T18:30:00",
+        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
+        "positive": 11.5,
+        "negative": 11.9
+    },
+    {
+        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T14:06:00",
+        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
+        "positive": 13.2,
+        "negative": 15
+    },
+    {
+        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T19:31:00",
+        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
+        "positive": 16,
+        "negative": 8.3
     },
     {
         "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
@@ -8962,41 +8998,5 @@
         "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
         "positive": 11.3,
         "negative": 3.9
-    },
-    {
-        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
-        "category": "bollywood",
-        "date_time": "2024-12-11T11:31:00",
-        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
-        "positive": 17,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Singham Again OTT release: When and where to watch Ajay Devgn's actionerSingham Again, starring Ajay Devgn, is now available on Prime Video. The film, which was released on Diwali, earned around Rs 300 crore in India. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/singham-again-on-ott-when-and-where-to-watch-rohit-shetty-ajay-devgns-actioner-2652743-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T12:11:00",
-        "uuid": "0e006bea-61bf-45f3-9ffc-2b75d976e3cb",
-        "positive": 9.4,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/thalapathy-vijay-impressed-baby-john-varun-dhawan-work-director-kalees-2652819-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T13:30:00",
-        "uuid": "6968f830-dcd4-46c5-a90b-8c2c065ceee6",
-        "positive": 16.3,
-        "negative": 0.9
-    },
-    {
-        "headlines": "Vanvaas review: Nana Patekar, Utkarsh Sharma's film is a dull version of BaghbanReleased-Fri Dec 20, 2024Vanvaas, starring Nana Patekar and Utkarsh Sharma, explores the deteriorating bond between parents and children, reminiscent of Baghban but with a deeper twist. Despite its noble intentions, the film struggles with execution and fails to evoke the emotional depth it aims for.",
-        "article_url": "https://www.indiatoday.in/movies/reviews/story/vanvaas-movie-review-nana-patekar-utkarsh-sharma-film-dull-version-baghban-2652809-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T13:37:00",
-        "uuid": "47cbd85a-5124-418f-94a8-9c5c096ba740",
-        "positive": 12.5,
-        "negative": 11.1
     }
 ]
