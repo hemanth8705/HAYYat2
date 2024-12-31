@@ -5841,15 +5841,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Paralympics gold-medalist Harvinder adds to burning Khel Ratna controversyHarvinder Singh, Paris Paralympics gold medallist, criticised the exclusion of Paralympians from the Khel Ratna Award nominations, sparking concerns about recognition disparities in India's highest sporting honours compared to achievements celebrated after Tokyo 2020.",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/harvinder-singh-paralympics-khel-ratna-discrimination-tokyo-paris-games-controversy-2654826-2024-12-24",
         "category": "sports",
@@ -5911,6 +5902,15 @@
         "uuid": "2b334625-9b08-49fd-a2e4-3658db37127e",
         "positive": 2.8,
         "negative": 8.3
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Chelsea boss Maresca says Chelsea' not part of Premier League title race'Enzo Maresca dismissed Chelsea's Premier League title chances, emphasising satisfaction with their remarkable progress despite a shaky start. Chelsea's resurgence under his guidance is notable, but Maresca believes they still lack the consistency to challenge Liverpool's dominance.",
@@ -6534,15 +6534,6 @@
         "negative": 9.2
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "What are India's chances of winning Boxing Day Test after Day 1? AUS vs IND, Boxing Day Test: With Australia at 311 for six at Stumps on Day 1, are India still in with a good enough chance to come up trumps at the Melbourne Cricket Ground (MCG)? ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-border-gavaskar-trophy-australia-vs-india-boxing-day-test-2655750-2024-12-26",
         "category": "sports",
@@ -6613,6 +6604,15 @@
         "uuid": "43bdd332-63e2-4b0e-bb56-2147b87ba2ed",
         "positive": 8.8,
         "negative": 3.2
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "Steve Smith hits 11th Test hundred vs India, most by any batterStar Australia batter Steve Smith hit his 34th Test hundred on Day 2 of the fourth Test against India at the Melbourne Cricket Ground on Friday. This was Smith's 11th Test hundred against India, most by any batter.",
@@ -7776,6 +7776,60 @@
         "negative": 11.4
     },
     {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
+        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T10:43:00",
+        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
+        "positive": 7.1,
+        "negative": 2.8
+    },
+    {
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
+    },
+    {
+        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:32:00",
+        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
+        "positive": 4.6,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:12:00",
+        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
+        "positive": 9.4,
+        "negative": 5.4
+    },
+    {
+        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T13:25:00",
+        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
+        "positive": 12.6,
+        "negative": 1.8
+    },
+    {
         "headlines": "Sunil Gavaskar blasts Yashasvi Jaiswal's controversial MCG dismissalLegendary Indian cricketer Sunil Gavaskar and the BCCI vice president Rajeev Shukla questioned third umpire Sharfuddoula's decision to adjudge Yashasvi Jaiswal out on Day 5 of the Boxing Day Test. ",
         "article_url": "https://www.indiatoday.in/sports/story/australia-vs-india-melbourne-test-yashasvi-jaiswal-dismissal-drs-gavaskar-2657194-2024-12-30",
         "category": "sports",
@@ -7839,6 +7893,24 @@
         "negative": 0.8
     },
     {
+        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:35:00",
+        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
+        "positive": 14.5,
+        "negative": 0.6
+    },
+    {
+        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:21:00",
+        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
+        "positive": 8.5,
+        "negative": 0.8
+    },
+    {
         "headlines": "Will Starc be available for Sydney Test? Cummins gives positive updatePat Cummins confirmed Mitchell Starc's availability for the Sydney Test, alleviating concerns over his back injury. Starc bowled through pain in Melbourne, displaying resilience, and his availability strengthens Australia's chances in the Border-Gavaskar Trophy decider.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mitchell-starc-availability-sydney-test-pat-cummins-gives-update-2657267-2024-12-30",
         "category": "sports",
@@ -7855,6 +7927,15 @@
         "uuid": "0604cf54-0ae5-416d-b326-492962d4c9e4",
         "positive": 10.8,
         "negative": 2.3
+    },
+    {
+        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
+        "positive": 5.6,
+        "negative": 1.5
     },
     {
         "headlines": "Barcelona lose another appeal to register Dani Olmo before deadlineBarcelona have lost another appeal to register Spain forward Dani Olmo for the rest of the season - one day before the deadline.\r\n\r\n",
@@ -7929,22 +8010,22 @@
         "negative": 8.4
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
         "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
+        "positive": 6,
+        "negative": 1.7
     },
     {
-        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
         "category": "technology",
-        "date_time": "2024-12-19T10:43:00",
-        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
-        "positive": 7.1,
-        "negative": 2.8
+        "date_time": "2024-12-19T08:59:00",
+        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
+        "positive": 9,
+        "negative": 2.3
     },
     {
         "headlines": "Mitch Hay stars as New Zealand crush Sri Lanka to claim series NZ vs SL: Mitch Hay's unbeaten 41 off 19 balls helped New Zealand win the T20I series after beating Sri Lanka by 45 runs in the second game at the Bay Oval in Mount Maunganui. ",
@@ -7963,96 +8044,6 @@
         "uuid": "a595b92e-2be8-4515-9c14-cfb5968eb699",
         "positive": 8.4,
         "negative": 11.7
-    },
-    {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:32:00",
-        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
-        "positive": 4.6,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:12:00",
-        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
-        "positive": 9.4,
-        "negative": 5.4
-    },
-    {
-        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T13:25:00",
-        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
-        "positive": 12.6,
-        "negative": 1.8
-    },
-    {
-        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T12:35:00",
-        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
-        "positive": 14.5,
-        "negative": 0.6
-    },
-    {
-        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T12:21:00",
-        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
-        "positive": 8.5,
-        "negative": 0.8
-    },
-    {
-        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
-        "positive": 5.6,
-        "negative": 1.5
-    },
-    {
-        "headlines": "Watch: Jaiswal tells chatty Konstas to shut up, then hits a shot at himYashasvi Jaiswal and Sam Konstas clashed in a fiery spat during the MCG Test, with Jaiswal responding to constant sledging by smashing a shot onto Konstas' body, adding another layer of tension to the Border-Gavaskar Trophy series.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-yashasvi-jaiswal-shut-up-to-sam-konstas-hits-a-shot-silly-point-melbourne-test-2657386-2024-12-30",
-        "category": "sports",
-        "date_time": "2024-12-30T17:53:00",
-        "uuid": "994082d2-f5d2-410e-a1a9-001b209b37b0",
-        "positive": 6.4,
-        "negative": 4
-    },
-    {
-        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
-        "positive": 6,
-        "negative": 1.7
-    },
-    {
-        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T08:59:00",
-        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
-        "positive": 9,
-        "negative": 2.3
     },
     {
         "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
@@ -8116,6 +8107,15 @@
         "uuid": "de77e0c3-1969-432c-9357-8dd1945a60bb",
         "positive": 17.8,
         "negative": 3
+    },
+    {
+        "headlines": "Watch: Jaiswal tells chatty Konstas to shut up, then hits a shot at himYashasvi Jaiswal and Sam Konstas clashed in a fiery spat during the MCG Test, with Jaiswal responding to constant sledging by smashing a shot onto Konstas' body, adding another layer of tension to the Border-Gavaskar Trophy series.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-yashasvi-jaiswal-shut-up-to-sam-konstas-hits-a-shot-silly-point-melbourne-test-2657386-2024-12-30",
+        "category": "sports",
+        "date_time": "2024-12-30T17:53:00",
+        "uuid": "994082d2-f5d2-410e-a1a9-001b209b37b0",
+        "positive": 6.4,
+        "negative": 4
     },
     {
         "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
@@ -8460,15 +8460,6 @@
         "negative": 3
     },
     {
-        "headlines": "YouTube's Play something randomly picks videos for users who don't know what to watchYouTube is testing a floating \"Play something\" button on Android, randomly picking videos to play. It uses the Shorts player for all videos, including standard ones, for quick discovery.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/youtubes-play-something-randomly-picks-videos-for-users-who-dont-know-what-to-watch-2657163-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T11:32:00",
-        "uuid": "3c062c54-d9f9-4e14-b6e0-83bc7eb5d22c",
-        "positive": 12.9,
-        "negative": 1.2
-    },
-    {
         "headlines": "OnePlus 13 to launch in India on January 7: Price, specs and more OnePlus has confirmed that its flagship model, OnePlus 13, will debut in India on January 7. While all the details will be confirmed during the launch, the company has been teasing about the upcoming device. Let's take a look at what is coming. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13-to-launch-in-india-on-january-7-price-specs-and-more-2654629-2024-12-24",
         "category": "technology",
@@ -8476,15 +8467,6 @@
         "uuid": "7dd346d0-48a6-4dac-8298-df13ad3e2900",
         "positive": 9.1,
         "negative": 1.7
-    },
-    {
-        "headlines": "iPhone 17 Pro design rumours divided over design: Will it follow a new pattern?The iPhone 17 series is speculated to debut in September 2025. Previous leaks suggest that this series will debut with a new design pattern. However, a new rumour sheds light that the Pro model might follow the OG design pattern. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-rumours-divided-over-design-will-it-follow-a-new-pattern-2657147-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T11:09:00",
-        "uuid": "5e3bef6a-365d-4f8e-8976-eb17a00b1e73",
-        "positive": 11.5,
-        "negative": 1.2
     },
     {
         "headlines": "OnePlus 12 price drops just two weeks before OnePlus 13 India launch eventThe OnePlus 12 is currently listed on Amazon at a starting price of Rs 59,999. However, with a certain bank card, you can purchase the phone for even less.",
@@ -8559,6 +8541,15 @@
         "negative": 7.2
     },
     {
+        "headlines": "YouTube's Play something randomly picks videos for users who don't know what to watchYouTube is testing a floating \"Play something\" button on Android, randomly picking videos to play. It uses the Shorts player for all videos, including standard ones, for quick discovery.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/youtubes-play-something-randomly-picks-videos-for-users-who-dont-know-what-to-watch-2657163-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T11:32:00",
+        "uuid": "3c062c54-d9f9-4e14-b6e0-83bc7eb5d22c",
+        "positive": 12.9,
+        "negative": 1.2
+    },
+    {
         "headlines": "OnePlus 13 India launch on January 7 and we already know everything about itOnePlus 13 is scheduled to launch in India on January 7 and we already know pretty much everything about the smartphone.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-in-india-on-january-7-and-we-already-know-almost-everything-about-it-2655529-2024-12-26",
         "category": "technology",
@@ -8577,40 +8568,13 @@
         "negative": 5.6
     },
     {
-        "headlines": "Apple discontinues iPhone SE and iPhone 14 in EU: Here's whyApple has discontinued the iPhone 14 and iPhone SE in the EU as these models feature the lightning port, whereas the USB-C is now the official charging standard in the region. \r\n",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-discontinues-iphone-se-and-iphone-14-as-eu-officially-adopts-usb-c-as-universal-charging-standard-2657116-2024-12-30",
+        "headlines": "iPhone 17 Pro design rumours divided over design: Will it follow a new pattern?The iPhone 17 series is speculated to debut in September 2025. Previous leaks suggest that this series will debut with a new design pattern. However, a new rumour sheds light that the Pro model might follow the OG design pattern. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-rumours-divided-over-design-will-it-follow-a-new-pattern-2657147-2024-12-30",
         "category": "technology",
-        "date_time": "2024-12-30T09:30:00",
-        "uuid": "23ea1d74-a636-4eef-be01-241e6edcebaf",
-        "positive": 10.6,
-        "negative": 3.1
-    },
-    {
-        "headlines": "iPhone SE 4 said to launch soon, likely to get 5 big upgradesThe iPhone SE 4 is expected to launch this spring with an updated design, USB-C, 48MP camera, Apple Intelligence, and Apple's first in-house modem, making it the biggest SE upgrade yet.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-said-to-launch-soon-likely-to-get-5-big-upgrades-2657110-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T09:30:00",
-        "uuid": "8daa3f8a-e50f-46d9-8bf5-4e482eabd047",
-        "positive": 11.8,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Samsung Galaxy S25 slim expected to arrive later than the rest of the seriesThe Samsung Galaxy S25 series is rumoured to debut on January 22, but not its new entry. The Galaxy S25 Slim is rumoured to arrive months later than the rest. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-slim-expected-to-arrive-later-than-the-rest-of-the-series-2657077-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T08:46:00",
-        "uuid": "35058684-590e-4640-b13e-bd371ac640f8",
-        "positive": 8,
-        "negative": 0.3
-    },
-    {
-        "headlines": "iPhone 18 Fold leaks: When is Apple's first foldable phone coming?Apple's foldable iPhone is reportedly set to debut in 2026, featuring a clamshell design with a screen expected to be larger than the iPhone 16 Pro Max screen.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-18-fold-leaks-when-is-apples-first-foldable-phone-coming-2657088-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T08:41:00",
-        "uuid": "31042fce-a735-44a8-baa6-3aacaab47ac2",
-        "positive": 14.6,
-        "negative": 2.9
+        "date_time": "2024-12-30T11:09:00",
+        "uuid": "5e3bef6a-365d-4f8e-8976-eb17a00b1e73",
+        "positive": 11.5,
+        "negative": 1.2
     },
     {
         "headlines": "iPhone 17 Air to feature sleek build, improved camera, big battery: All we know so farWith the iPhone 17 series expected to launch in September 2025, Apple might introduce a new model, the iPhone 17 Air, replacing the Plus. Read about all the details.",
@@ -8703,6 +8667,42 @@
         "negative": 1.8
     },
     {
+        "headlines": "Apple discontinues iPhone SE and iPhone 14 in EU: Here's whyApple has discontinued the iPhone 14 and iPhone SE in the EU as these models feature the lightning port, whereas the USB-C is now the official charging standard in the region. \r\n",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-discontinues-iphone-se-and-iphone-14-as-eu-officially-adopts-usb-c-as-universal-charging-standard-2657116-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T09:30:00",
+        "uuid": "23ea1d74-a636-4eef-be01-241e6edcebaf",
+        "positive": 10.6,
+        "negative": 3.1
+    },
+    {
+        "headlines": "iPhone SE 4 said to launch soon, likely to get 5 big upgradesThe iPhone SE 4 is expected to launch this spring with an updated design, USB-C, 48MP camera, Apple Intelligence, and Apple's first in-house modem, making it the biggest SE upgrade yet.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-said-to-launch-soon-likely-to-get-5-big-upgrades-2657110-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T09:30:00",
+        "uuid": "8daa3f8a-e50f-46d9-8bf5-4e482eabd047",
+        "positive": 11.8,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Samsung Galaxy S25 slim expected to arrive later than the rest of the seriesThe Samsung Galaxy S25 series is rumoured to debut on January 22, but not its new entry. The Galaxy S25 Slim is rumoured to arrive months later than the rest. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-slim-expected-to-arrive-later-than-the-rest-of-the-series-2657077-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T08:46:00",
+        "uuid": "35058684-590e-4640-b13e-bd371ac640f8",
+        "positive": 8,
+        "negative": 0.3
+    },
+    {
+        "headlines": "iPhone 18 Fold leaks: When is Apple's first foldable phone coming?Apple's foldable iPhone is reportedly set to debut in 2026, featuring a clamshell design with a screen expected to be larger than the iPhone 16 Pro Max screen.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-18-fold-leaks-when-is-apples-first-foldable-phone-coming-2657088-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T08:41:00",
+        "uuid": "31042fce-a735-44a8-baa6-3aacaab47ac2",
+        "positive": 14.6,
+        "negative": 2.9
+    },
+    {
         "headlines": "Google collaborates with Anthropic to improve Gemini AI using ClaudeGoogle is reportedly using Anthropic's AI model Claude to compare and improve the responses of its own AI, Gemini. Contractors noticed that Claude has stricter safety settings, avoiding unsafe prompts, while Gemini flags such inputs more explicitly.",
         "article_url": "https://www.indiatoday.in/technology/news/story/google-collaborates-with-anthropic-to-improve-gemini-ai-using-claude-2656066-2024-12-27",
         "category": "technology",
@@ -8737,33 +8737,6 @@
         "uuid": "64dc13e5-2d25-4554-92b0-e30f8804b3b4",
         "positive": 18.4,
         "negative": 0.3
-    },
-    {
-        "headlines": "iOS 18 shares your photo data with Apple by default: What it means and how to turn it offiPhones and Macs running iOS 18 and macOS Sequoia are sharing photo data with Apple by default, potentially without users' explicit consent.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/ios-18-shares-your-photo-data-with-apple-by-default-what-it-means-and-how-to-turn-it-off-2657223-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T13:36:00",
-        "uuid": "dd6f743d-2dfc-4cf4-b2d9-e4856a447383",
-        "positive": 6,
-        "negative": 2.9
-    },
-    {
-        "headlines": "WhatsApp may soon let you chat with a human agent to fix app issuesWhatsApp is apparently working on a feature that will let you interact with a human in case of an issue with the app.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/whatsapp-may-soon-offer-direct-chat-support-so-you-can-talk-to-a-human-to-fix-app-issues-2657203-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T12:57:00",
-        "uuid": "379ed805-1a06-499f-ace3-8525160da0f2",
-        "positive": 12.4,
-        "negative": 5.3
-    },
-    {
-        "headlines": "iPhone 16, 16 Pro get huge discount, but it is a limited time dealAfter a few months of launch, the iPhone 16 series is getting a huge discount. While the iPhone 16 gets Rs 9,000 off, the iPhone 16 Pro gets a Rs 16,000 discount.  ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-16-16-pro-get-huge-discount-during-new-year-sale-but-it-is-a-limited-time-deal-2657196-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T12:49:00",
-        "uuid": "8b4d0708-1d9b-4c2c-bd3f-0dc690de3a8d",
-        "positive": 8,
-        "negative": 1
     },
     {
         "headlines": "Xiaomi 15 Ultra tipped to launch in February: Here is everything we know so farXiaomi 15 Ultra is tipped to debut in China on February 28. The phone is also expected to arrive with an upgraded macro sensor, a large aperture across the focal range and a low-light telephoto camera.",
@@ -8829,6 +8802,33 @@
         "negative": 2.5
     },
     {
+        "headlines": "iOS 18 shares your photo data with Apple by default: What it means and how to turn it offiPhones and Macs running iOS 18 and macOS Sequoia are sharing photo data with Apple by default, potentially without users' explicit consent.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/ios-18-shares-your-photo-data-with-apple-by-default-what-it-means-and-how-to-turn-it-off-2657223-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T13:36:00",
+        "uuid": "dd6f743d-2dfc-4cf4-b2d9-e4856a447383",
+        "positive": 6,
+        "negative": 2.9
+    },
+    {
+        "headlines": "WhatsApp may soon let you chat with a human agent to fix app issuesWhatsApp is apparently working on a feature that will let you interact with a human in case of an issue with the app.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/whatsapp-may-soon-offer-direct-chat-support-so-you-can-talk-to-a-human-to-fix-app-issues-2657203-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T12:57:00",
+        "uuid": "379ed805-1a06-499f-ace3-8525160da0f2",
+        "positive": 12.4,
+        "negative": 5.3
+    },
+    {
+        "headlines": "iPhone 16, 16 Pro get huge discount, but it is a limited time dealAfter a few months of launch, the iPhone 16 series is getting a huge discount. While the iPhone 16 gets Rs 9,000 off, the iPhone 16 Pro gets a Rs 16,000 discount.  ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-16-16-pro-get-huge-discount-during-new-year-sale-but-it-is-a-limited-time-deal-2657196-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T12:49:00",
+        "uuid": "8b4d0708-1d9b-4c2c-bd3f-0dc690de3a8d",
+        "positive": 8,
+        "negative": 1
+    },
+    {
         "headlines": "Vivek Ramaswamy is an American-Indian that Trump supporters love to hate Vivek Ramaswamy, once a MAGA favourite, now faces backlash after a tweet on American parenting ignites fierce debates on culture, immigration, and American values.",
         "article_url": "https://www.indiatoday.in/technology/talking-points/story/maga-darling-a-month-ago-vivek-ramaswamy-now-an-american-indian-trump-supporters-love-to-hate-2657276-2024-12-30",
         "category": "technology",
@@ -8865,6 +8865,15 @@
         "negative": 5.3
     },
     {
+        "headlines": "Snapdragon 8 Elite Gen 2 may launch soon: Check details hereQualcomm might launch the Snapdragon 8 Elite Gen 2 earlier than expected, with big performance upgrades. Meanwhile, the current Snapdragon 8 Elite is just starting to appear in flagship phones worldwide.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/snapdragon-8-elite-gen-2-may-launch-soon-check-details-here-2657602-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T08:56:00",
+        "uuid": "51f8417d-57cb-4169-9198-91b94a687ccf",
+        "positive": 10.3,
+        "negative": 0
+    },
+    {
         "headlines": "I tested 5 heatless curling methods to find the best one. Here's what I foundFrom foam rollers to headbands, heatless curlers are going viral across social media. But which one works the best?",
         "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/i-tested-5-heatless-curling-methods-to-find-the-best-one-heres-what-i-found-2657051-2024-12-30",
         "category": "lifestyle",
@@ -8872,33 +8881,6 @@
         "uuid": "6e4d6695-ec51-4da3-88f9-7cd60b1cae74",
         "positive": 18.2,
         "negative": 2.5
-    },
-    {
-        "headlines": "iPhone SE 4 price leaked ahead of launch in March 2025: All details hereThe iPhone SE 4 is speculated to be released in March 2025. A recent leak suggests that the toned-down version might be more expensive than its predecessor, the iPhone SE 3. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-price-leaked-ahead-of-launch-in-march-2025-all-details-here-2657301-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T16:10:00",
-        "uuid": "fe117166-d2d7-47fe-bca8-22e96373d339",
-        "positive": 6.9,
-        "negative": 2.1
-    },
-    {
-        "headlines": "Man loses Rs 87,000 after applying for loan, here is what happenedA man ended up losing a large sum of money while trying to apply for a loan. Surprisingly, this incident happened through the Flipkart app. Here's what happened.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/man-loses-rs-87000-after-applying-for-loan-here-is-what-happened-2657595-2024-12-31",
-        "category": "technology",
-        "date_time": "2024-12-31T08:43:00",
-        "uuid": "c7d7600d-4503-4540-a4ad-849fe831acb7",
-        "positive": 5.5,
-        "negative": 13
-    },
-    {
-        "headlines": "OnePlus 13R leaks show off two colour variants, ahead of January 7 launchAs OnePlus gears up to launch its flagship series, the recent leak shows two colourways of the upcoming OnePlus 13R. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-leaks-show-off-two-colour-variants-ahead-of-india-launch-on-january-7-2657576-2024-12-31",
-        "category": "technology",
-        "date_time": "2024-12-31T08:39:00",
-        "uuid": "8ad6dcf5-d324-45be-a17b-10ecedefaacb",
-        "positive": 7.4,
-        "negative": 3.1
     },
     {
         "headlines": "Why now (December) is a better time to start your New Year resolutionsAre you always excited about New Year's resolutions, only for the enthusiasm to fade away within a few days or weeks? Psychologists have an innovative solution to help you stick to your resolutions – start them in December.",
@@ -8919,15 +8901,6 @@
         "negative": 3.1
     },
     {
-        "headlines": "iPhone 17 said to get a big display upgrade that iPhone 16 lacksThe iPhone 17 is said to bring a big display upgrade, one that is missing from the iPhone 16 series. Here are the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-to-get-a-big-display-upgrade-that-iphone-16-lacks-2657433-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T19:22:00",
-        "uuid": "6e1f97c4-366c-4895-8845-c0b26f7e87c2",
-        "positive": 7.4,
-        "negative": 2.3
-    },
-    {
         "headlines": "Can microdosing on Ozempic help you lose weight without any side effects? Microdosing Ozempic has gained momentum online, with people hoping to use the weight-loss benefits while dodging the side effects. ",
         "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-microdosing-on-ozempic-help-you-lose-weight-without-any-side-effects-2651165-2024-12-18",
         "category": "lifestyle",
@@ -8944,6 +8917,15 @@
         "uuid": "db2bfbe8-64b7-468d-9da2-8553dc09fd2a",
         "positive": 18.4,
         "negative": 27.9
+    },
+    {
+        "headlines": "iPhone SE 4 price leaked ahead of launch in March 2025: All details hereThe iPhone SE 4 is speculated to be released in March 2025. A recent leak suggests that the toned-down version might be more expensive than its predecessor, the iPhone SE 3. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-price-leaked-ahead-of-launch-in-march-2025-all-details-here-2657301-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T16:10:00",
+        "uuid": "fe117166-d2d7-47fe-bca8-22e96373d339",
+        "positive": 6.9,
+        "negative": 2.1
     },
     {
         "headlines": "The struggles of pet owners no one talks about in IndiaIndian pet parents, especially dog owners, feel that India is yet to become more accommodating for pets. There are several struggles that often go unnoticed despite the ever-growing Indian pet market.",
@@ -8964,22 +8946,22 @@
         "negative": 8.3
     },
     {
-        "headlines": "OnePlus 13 coming to India soon, it brings Project Starlight, lifetime display warranty and AI smarts with itThe OnePlus 13 series, including the OnePlus 13 and the OnePlus 13R, are set to launch in India with OxygenOS 15 AI features, top quality hardware and — this is big — lifetime display warranty. ",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-coming-to-india-soon-it-brings-project-starlight-lifetime-display-warranty-and-ai-smarts-with-it-2657417-2024-12-30",
+        "headlines": "Man loses Rs 87,000 after applying for loan, here is what happenedA man ended up losing a large sum of money while trying to apply for a loan. Surprisingly, this incident happened through the Flipkart app. Here's what happened.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/man-loses-rs-87000-after-applying-for-loan-here-is-what-happened-2657595-2024-12-31",
         "category": "technology",
-        "date_time": "2024-12-30T18:49:00",
-        "uuid": "138b7d28-e3b8-44ed-a3a7-b7a910e329b4",
-        "positive": 14.2,
-        "negative": 1.5
+        "date_time": "2024-12-31T08:43:00",
+        "uuid": "c7d7600d-4503-4540-a4ad-849fe831acb7",
+        "positive": 5.5,
+        "negative": 13
     },
     {
-        "headlines": "OnePlus Nord CE 4 price drops, but is it worth buying?The OnePlus Nord CE 4 has received a price cut on Amazon, Vijay Sales, and the official OnePlus India website.  It is a good deal for those eyeing this OnePlus phone at a lower price. ",
-        "article_url": "https://www.indiatoday.in/technology/buying-guide/story/oneplus-nord-ce-4-price-drops-but-is-it-worth-buying-2657396-2024-12-30",
+        "headlines": "OnePlus 13R leaks show off two colour variants, ahead of January 7 launchAs OnePlus gears up to launch its flagship series, the recent leak shows two colourways of the upcoming OnePlus 13R. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-leaks-show-off-two-colour-variants-ahead-of-india-launch-on-january-7-2657576-2024-12-31",
         "category": "technology",
-        "date_time": "2024-12-30T18:29:00",
-        "uuid": "be4a5c8e-d3f1-4b2d-964c-87efc17bd439",
-        "positive": 9.8,
-        "negative": 4.3
+        "date_time": "2024-12-31T08:39:00",
+        "uuid": "8ad6dcf5-d324-45be-a17b-10ecedefaacb",
+        "positive": 7.4,
+        "negative": 3.1
     },
     {
         "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
@@ -8998,5 +8980,23 @@
         "uuid": "9a679325-a16f-4509-8c4a-fe6f20f5b738",
         "positive": 13.7,
         "negative": 17.4
+    },
+    {
+        "headlines": "iPhone 17 said to get a big display upgrade that iPhone 16 lacksThe iPhone 17 is said to bring a big display upgrade, one that is missing from the iPhone 16 series. Here are the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-to-get-a-big-display-upgrade-that-iphone-16-lacks-2657433-2024-12-30",
+        "category": "technology",
+        "date_time": "2024-12-30T19:22:00",
+        "uuid": "6e1f97c4-366c-4895-8845-c0b26f7e87c2",
+        "positive": 7.4,
+        "negative": 2.3
+    },
+    {
+        "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T19:26:00",
+        "uuid": "4560b915-9ef2-46f2-a72a-b99dab1ef740",
+        "positive": 13,
+        "negative": 1.9
     }
 ]
