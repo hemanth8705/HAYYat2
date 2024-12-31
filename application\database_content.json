@@ -5841,6 +5841,15 @@
         "negative": 2.3
     },
     {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "PV Sindhu shares dreamy wedding pictures with husband Venkatta Datta SaiPV Sindhu celebrated her grand wedding with Venkata Datta Sai in a traditional Telugu ceremony in Udaipur, surrounded by family and friends. The badminton icon shared the first proper images of her wedding via her social media handle.",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/pv-sindhu-wedding-pictures-husband-venkatta-datta-sai-udaipur-grand-ceremony-2654801-2024-12-24",
         "category": "sports",
@@ -5902,15 +5911,6 @@
         "uuid": "c31544fc-5e43-4c0c-82ed-9d58eb456986",
         "positive": 11.9,
         "negative": 1.6
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
     },
     {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
@@ -6534,21 +6534,21 @@
         "negative": 6.6
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "Marnus look at that: Siraj's bail switch does the trick for Bumrah at  MCGSiraj's playful bail-switching act against Labuschagne added humor to a tense Boxing Day Test, coinciding with Bumrah's crucial breakthroughs. The cheeky tactic sparked laughter and boosted India's momentum. ",
         "article_url": "https://www.indiatoday.in/sports/story/marnus-look-at-that-sirajs-bail-switch-does-the-trick-for-bumrah-at-mcg-2655861-2024-12-26",
         "category": "sports",
         "date_time": "2024-12-26T21:01:00",
         "uuid": "49278726-f3ed-424c-9672-c4e05dd93717",
         "positive": 11.5,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
         "negative": 6.2
     },
     {
@@ -7983,42 +7983,6 @@
         "negative": 8.3
     },
     {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
-    },
-    {
-        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T10:43:00",
-        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
-        "positive": 7.1,
-        "negative": 2.8
-    },
-    {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:32:00",
-        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
-        "positive": 4.6,
-        "negative": 3.1
-    },
-    {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-mcg-test-personal-decision-aakash-chopra-2657713-2024-12-31",
         "category": "sports",
@@ -8037,15 +8001,6 @@
         "negative": 3.1
     },
     {
-        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T16:12:00",
-        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
-        "positive": 9.4,
-        "negative": 5.4
-    },
-    {
         "headlines": "FC Barcelona to loan out Ansu Fati in January window? Agent reveals stanceAnsu Fati's agent Jorge Mendes revealed Barcelona might loan the 22-year-old in January, balancing crucial game time and his commitment to fight for a spot under Hansi Flick amidst struggles with form and recurring injury setbacks.",
         "article_url": "https://www.indiatoday.in/sports/football/story/fc-barcelona-ansu-fati-january-window-loan-agent-jorge-mendes-reveals-stance-2657960-2024-12-31",
         "category": "sports",
@@ -8053,69 +8008,6 @@
         "uuid": "ee94f627-c1f4-496a-9cd6-c2a348de9052",
         "positive": 18.2,
         "negative": 5.6
-    },
-    {
-        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T13:25:00",
-        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
-        "positive": 12.6,
-        "negative": 1.8
-    },
-    {
-        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T12:35:00",
-        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
-        "positive": 14.5,
-        "negative": 0.6
-    },
-    {
-        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T12:21:00",
-        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
-        "positive": 8.5,
-        "negative": 0.8
-    },
-    {
-        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
-        "positive": 5.6,
-        "negative": 1.5
-    },
-    {
-        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
-        "positive": 6,
-        "negative": 1.7
-    },
-    {
-        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T08:59:00",
-        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
-        "positive": 9,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T08:49:00",
-        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
-        "positive": 5.6,
-        "negative": 3.2
     },
     {
         "headlines": "Jasprit Bumrah named captain, Cummins ignored in Australian media's Test Team of 2024India fast bowler Jasprit Bumrah was named the captain of the Test team of the year by the Australian media but captain Pat Cummins failed to find any spot. ",
@@ -8208,15 +8100,6 @@
         "negative": 8.3
     },
     {
-        "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
-        "article_url": "https://www.indiatoday.in/technology/talking-points/story/apple-needs-to-make-apple-tv-that-can-run-aaa-games-challenge-xbox-and-playstation-2651840-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-18T18:49:00",
-        "uuid": "a680fc88-868b-4ec6-8e71-abedfc4c690d",
-        "positive": 10.2,
-        "negative": 2.3
-    },
-    {
         "headlines": "R Ashwin reacts to Jamie Overton's non-striker run-out warning in BBL gameBig Bash League: R Ashwin was thrilled at Jamie Overton's attempt to run out a batter at the non-striker's end during a Big Bash League match. Ashwin and Overton will play for Chennai Super Kings in IPl 2025. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/big-bash-league-jamie-overton-finn-allen-run-out-warning-r-ashwin-reacts-2657897-2024-12-31",
         "category": "sports",
@@ -8224,6 +8107,168 @@
         "uuid": "21b6e23b-03aa-4837-bd09-478cdcc046f2",
         "positive": 11.2,
         "negative": 3.5
+    },
+    {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
+        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T10:43:00",
+        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
+        "positive": 7.1,
+        "negative": 2.8
+    },
+    {
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
+    },
+    {
+        "headlines": "Rohit Sharma bids emotional goodbye to rollercoaster 2024Rohit Sharma bid adieu to 2024 with an emotional post on his social media account, recalling all the memories in his personal and professional life. Rohit is currently in Australia for the Border-Gavaskar Trophy. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-bids-goodbye-2024-instagram-post-2657949-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T19:37:00",
+        "uuid": "59d1e558-880d-4548-a729-26d7ba8085b9",
+        "positive": 12.6,
+        "negative": 1
+    },
+    {
+        "headlines": "TikTok with Iga Swiatek? Aryna Sabalenka responds with cheeky remarkWorld No.1 Aryna Sabalenka spoke about her camaraderie with Poland's Iga Swiatek and gave a cheeky response about featuring in TikTok videos with her. Sabalenka is currently plying her trade in the Brisbane International where she defeated Renata Zarazua in the first round. ",
+        "article_url": "https://www.indiatoday.in/sports/tennis/story/brisbane-international-aryna-sabalenka-iga-swiatek-tiktok-cheeky-remark-2657935-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T19:09:00",
+        "uuid": "26711ad8-6193-4311-9399-6c214f97427f",
+        "positive": 18.4,
+        "negative": 8.6
+    },
+    {
+        "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:32:00",
+        "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
+        "positive": 4.6,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/netflix-fined-rs-423-crore-for-not-being-transparent-about-how-they-were-using-user-data-2652354-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T16:12:00",
+        "uuid": "99586d5a-9c7c-46b3-a66e-95a4fd5ab5ae",
+        "positive": 9.4,
+        "negative": 5.4
+    },
+    {
+        "headlines": "Nothing OS 3.0 stable update now available for Nothing Phone 2 and Phone 2aOne of the standout additions of the Nothing OS 3.0 stable update is the new Nothing Gallery app.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/nothing-os-30-stable-update-now-available-for-nothing-phone-2-and-phone-2a-2652264-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T13:25:00",
+        "uuid": "2d5ab4cf-8168-4983-ab2a-00acee0f53b1",
+        "positive": 12.6,
+        "negative": 1.8
+    },
+    {
+        "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:35:00",
+        "uuid": "bace56d6-6704-417c-a279-8a4d75a1d0a3",
+        "positive": 14.5,
+        "negative": 0.6
+    },
+    {
+        "headlines": "If you play good cricket, you don't need PR: MS Dhoni on 'social media' era  MS Dhoni opened up about his views on social media, saying that if players perform well on the ground, they should not need a PR. At the age of 43, Dhoni is set to play in his 18th season of the Indian Premier League (IPL). ",
+        "article_url": "https://www.indiatoday.in/sports/story/ms-dhoni-pr-good-cricket-social-media-era-2657814-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T16:07:00",
+        "uuid": "96e11370-755d-46b6-8aac-63006ffccf13",
+        "positive": 16.5,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Jasprit Bumrah to be rested for England ODIs ahead of Champions Trophy: SourcesIndia vs England, 2025: Star pacer Jasprit Bumrah is likely to be rested for the white-ball series against England. India will play five ODIs and three T20Is against a visiting England side from January 22 to February 9. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-odi-series-jasprit-bumrah-rest-virat-kohli-rohit-sharma-selection-2657800-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T15:42:00",
+        "uuid": "7871ee23-2dcf-436a-9879-279e8a9de932",
+        "positive": 8.7,
+        "negative": 1.9
+    },
+    {
+        "headlines": "Bumrah best bowler I have ever seen: Lehmann compares pacer legendsDarren Lehmann compared Jasprit Bumrah to cricket legends Glenn McGrath and Wasim Akram, praising his extraordinary impact in the Border-Gavaskar Trophy and backing him as a future India captain.\r\n\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-jasprit-bumrah-best-bowler-ever-seen-darren-lehmann-glenn-mcgrath-wasim-akram-2657799-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T15:41:00",
+        "uuid": "42165829-e354-4b8a-92ef-1702b15dc2e2",
+        "positive": 13.9,
+        "negative": 3.1
+    },
+    {
+        "headlines": "OnePlus Ace 5 aka OnePlus 13R launching in China on December 26The OnePlus Ace 5 features an impressive set of features, making it an exciting device for gaming enthusiasts and power users alike.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launching-in-china-on-december-26-2652210-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T12:21:00",
+        "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
+        "positive": 8.5,
+        "negative": 0.8
+    },
+    {
+        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
+        "positive": 5.6,
+        "negative": 1.5
+    },
+    {
+        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
+        "positive": 6,
+        "negative": 1.7
+    },
+    {
+        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T08:59:00",
+        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
+        "positive": 9,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-has-reportedly-cancelled-plans-to-launch-its-iphone-hardware-subscription-service-2652085-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T08:49:00",
+        "uuid": "9eabb13a-6843-4e62-ab95-9935644e711d",
+        "positive": 5.6,
+        "negative": 3.2
+    },
+    {
+        "headlines": "Apple needs to make Apple TV that can run AAA games, challenge Xbox and PlaystationApple needs a gaming boost for its devices. Until now, it might have been the case that its devices were not powerful enough for AAA games. Now they are, and Apple might do well to create a new Apple TV that can challenge Xbox and PlayStation in gaming. ",
+        "article_url": "https://www.indiatoday.in/technology/talking-points/story/apple-needs-to-make-apple-tv-that-can-run-aaa-games-challenge-xbox-and-playstation-2651840-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-18T18:49:00",
+        "uuid": "a680fc88-868b-4ec6-8e71-abedfc4c690d",
+        "positive": 10.2,
+        "negative": 2.3
     },
     {
         "headlines": "OnePlus 13R is coming to India, company confirms launch date and key featuresThe OnePlus 13R is also coming to India. The company has finally confirmed the existence of this device and revealed the launch date as well. The mid-range premium phone will debut on January 7, alongside the flagship OnePlus 13 smartphone and OnePlus Buds Pro 3 earphones. ",
@@ -8251,24 +8296,6 @@
         "uuid": "d91d3906-fe62-4d29-a0fe-5659125ce25a",
         "positive": 9.1,
         "negative": 15.8
-    },
-    {
-        "headlines": "Rohit Sharma bids emotional goodbye to rollercoaster 2024Rohit Sharma bid adieu to 2024 with an emotional post on his social media account, recalling all the memories in his personal and professional life. Rohit is currently in Australia for the Border-Gavaskar Trophy. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-bids-goodbye-2024-instagram-post-2657949-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T19:37:00",
-        "uuid": "59d1e558-880d-4548-a729-26d7ba8085b9",
-        "positive": 12.6,
-        "negative": 1
-    },
-    {
-        "headlines": "TikTok with Iga Swiatek? Aryna Sabalenka responds with cheeky remarkWorld No.1 Aryna Sabalenka spoke about her camaraderie with Poland's Iga Swiatek and gave a cheeky response about featuring in TikTok videos with her. Sabalenka is currently plying her trade in the Brisbane International where she defeated Renata Zarazua in the first round. ",
-        "article_url": "https://www.indiatoday.in/sports/tennis/story/brisbane-international-aryna-sabalenka-iga-swiatek-tiktok-cheeky-remark-2657935-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T19:09:00",
-        "uuid": "26711ad8-6193-4311-9399-6c214f97427f",
-        "positive": 18.4,
-        "negative": 8.6
     },
     {
         "headlines": "Scan QR code to get your package: DHL delivery scam goes viralA new scam involving DHL package delivery has surfaced, causing concerns among citizens who are receiving suspicious notifications. Here are the details.",
@@ -8307,31 +8334,13 @@
         "negative": 2.5
     },
     {
-        "headlines": "If you play good cricket, you don't need PR: MS Dhoni on 'social media' era  MS Dhoni opened up about his views on social media, saying that if players perform well on the ground, they should not need a PR. At the age of 43, Dhoni is set to play in his 18th season of the Indian Premier League (IPL). ",
-        "article_url": "https://www.indiatoday.in/sports/story/ms-dhoni-pr-good-cricket-social-media-era-2657814-2024-12-31",
+        "headlines": "Historic 2024: Test cricket achieves special 50 first time in 148 years As 2024 comes to an end, it ushers in a historic achievement in Test cricket. With 50 outright results in 53 Test matches, this year has become the first in the sport's history to reach such an extraordinary milestone.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/test-cricket-historic-australia-india-england-2657979-2024-12-31",
         "category": "sports",
-        "date_time": "2024-12-31T16:07:00",
-        "uuid": "96e11370-755d-46b6-8aac-63006ffccf13",
-        "positive": 16.5,
-        "negative": 3.6
-    },
-    {
-        "headlines": "Jasprit Bumrah to be rested for England ODIs ahead of Champions Trophy: SourcesIndia vs England, 2025: Star pacer Jasprit Bumrah is likely to be rested for the white-ball series against England. India will play five ODIs and three T20Is against a visiting England side from January 22 to February 9. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-odi-series-jasprit-bumrah-rest-virat-kohli-rohit-sharma-selection-2657800-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T15:42:00",
-        "uuid": "7871ee23-2dcf-436a-9879-279e8a9de932",
-        "positive": 8.7,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Bumrah best bowler I have ever seen: Lehmann compares pacer legendsDarren Lehmann compared Jasprit Bumrah to cricket legends Glenn McGrath and Wasim Akram, praising his extraordinary impact in the Border-Gavaskar Trophy and backing him as a future India captain.\r\n\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-jasprit-bumrah-best-bowler-ever-seen-darren-lehmann-glenn-mcgrath-wasim-akram-2657799-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T15:41:00",
-        "uuid": "42165829-e354-4b8a-92ef-1702b15dc2e2",
-        "positive": 13.9,
-        "negative": 3.1
+        "date_time": "2024-12-31T20:56:00",
+        "uuid": "35009074-60eb-4a0c-a4d7-5be252c92daa",
+        "positive": 15.3,
+        "negative": 1.7
     },
     {
         "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
@@ -8440,15 +8449,6 @@
         "uuid": "52a96c65-3ef9-4374-ae5d-8cfc52438da2",
         "positive": 7,
         "negative": 5.2
-    },
-    {
-        "headlines": "Historic 2024: Test cricket achieves special 50 first time in 148 years As 2024 comes to an end, it ushers in a historic achievement in Test cricket. With 50 outright results in 53 Test matches, this year has become the first in the sport's history to reach such an extraordinary milestone.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/test-cricket-historic-australia-india-england-2657979-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T20:56:00",
-        "uuid": "35009074-60eb-4a0c-a4d7-5be252c92daa",
-        "positive": 15.3,
-        "negative": 1.7
     },
     {
         "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
@@ -8883,6 +8883,15 @@
         "negative": 1.6
     },
     {
+        "headlines": "Snapdragon 8 Elite Gen 2 may launch soon: Check details hereQualcomm might launch the Snapdragon 8 Elite Gen 2 earlier than expected, with big performance upgrades. Meanwhile, the current Snapdragon 8 Elite is just starting to appear in flagship phones worldwide.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/snapdragon-8-elite-gen-2-may-launch-soon-check-details-here-2657602-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T08:56:00",
+        "uuid": "51f8417d-57cb-4169-9198-91b94a687ccf",
+        "positive": 10.3,
+        "negative": 0
+    },
+    {
         "headlines": "Galaxy S25 expected to be a big upgrade, but you should still consider Galaxy S24 or Galaxy S23: Here's whyThe upcoming Samsung Galaxy S25 seems like a fantastic upgrade in many ways. However, Samsung's last-generation flagship models, the Galaxy S24 and Galaxy S23, offer excellent alternatives at much more affordable prices.",
         "article_url": "https://www.indiatoday.in/technology/news/story/galaxy-s25-expected-to-be-a-big-upgrade-but-you-should-still-consider-galaxy-s24-or-galaxy-s23-heres-why-2656130-2024-12-27",
         "category": "technology",
@@ -8955,6 +8964,24 @@
         "negative": 2.5
     },
     {
+        "headlines": "Man loses Rs 87,000 after applying for loan, here is what happenedA man ended up losing a large sum of money while trying to apply for a loan. Surprisingly, this incident happened through the Flipkart app. Here's what happened.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/man-loses-rs-87000-after-applying-for-loan-here-is-what-happened-2657595-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T08:43:00",
+        "uuid": "c7d7600d-4503-4540-a4ad-849fe831acb7",
+        "positive": 5.5,
+        "negative": 13
+    },
+    {
+        "headlines": "OnePlus 13R leaks show off two colour variants, ahead of January 7 launchAs OnePlus gears up to launch its flagship series, the recent leak shows two colourways of the upcoming OnePlus 13R. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-leaks-show-off-two-colour-variants-ahead-of-india-launch-on-january-7-2657576-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T08:39:00",
+        "uuid": "8ad6dcf5-d324-45be-a17b-10ecedefaacb",
+        "positive": 7.4,
+        "negative": 3.1
+    },
+    {
         "headlines": "Apple discontinues iPhone SE and iPhone 14 in EU: Here's whyApple has discontinued the iPhone 14 and iPhone SE in the EU as these models feature the lightning port, whereas the USB-C is now the official charging standard in the region. \r\n",
         "article_url": "https://www.indiatoday.in/technology/news/story/apple-discontinues-iphone-se-and-iphone-14-as-eu-officially-adopts-usb-c-as-universal-charging-standard-2657116-2024-12-30",
         "category": "technology",
@@ -8971,32 +8998,5 @@
         "uuid": "8daa3f8a-e50f-46d9-8bf5-4e482eabd047",
         "positive": 11.8,
         "negative": 1.1
-    },
-    {
-        "headlines": "Samsung Galaxy S25 slim expected to arrive later than the rest of the seriesThe Samsung Galaxy S25 series is rumoured to debut on January 22, but not its new entry. The Galaxy S25 Slim is rumoured to arrive months later than the rest. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-slim-expected-to-arrive-later-than-the-rest-of-the-series-2657077-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T08:46:00",
-        "uuid": "35058684-590e-4640-b13e-bd371ac640f8",
-        "positive": 8,
-        "negative": 0.3
-    },
-    {
-        "headlines": "iPhone 18 Fold leaks: When is Apple's first foldable phone coming?Apple's foldable iPhone is reportedly set to debut in 2026, featuring a clamshell design with a screen expected to be larger than the iPhone 16 Pro Max screen.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-18-fold-leaks-when-is-apples-first-foldable-phone-coming-2657088-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T08:41:00",
-        "uuid": "31042fce-a735-44a8-baa6-3aacaab47ac2",
-        "positive": 14.6,
-        "negative": 2.9
-    },
-    {
-        "headlines": "Snapdragon 8 Elite Gen 2 may launch soon: Check details hereQualcomm might launch the Snapdragon 8 Elite Gen 2 earlier than expected, with big performance upgrades. Meanwhile, the current Snapdragon 8 Elite is just starting to appear in flagship phones worldwide.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/snapdragon-8-elite-gen-2-may-launch-soon-check-details-here-2657602-2024-12-31",
-        "category": "technology",
-        "date_time": "2024-12-31T08:56:00",
-        "uuid": "51f8417d-57cb-4169-9198-91b94a687ccf",
-        "positive": 10.3,
-        "negative": 0
     }
 ]
