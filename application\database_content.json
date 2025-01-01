@@ -3978,51 +3978,6 @@
         "negative": 10
     },
     {
-        "headlines": "BCCI to hold Special General Meeting in January to elect Jay Shah's replacementThe BCCI will host a Special General Meeting (SGM) in Mumbai on January 12 to pick a new secretary and treasurer, after Jay Shah and Ashish Shelar quit their positions earlier this month.",
-        "article_url": "https://www.indiatoday.in/sports/story/bcci-to-hold-special-general-meeting-in-january-to-elect-jay-shahs-replacement-2652864-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T14:33:00",
-        "uuid": "31a262c3-9f13-4dee-b711-2d6a7b916017",
-        "positive": 10.4,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Watch: CSK captain Gaikwad takes subtle dig at RCB at a promotional eventRuturaj Gaikwad's cheeky jab at RCB during a fan event added fuel to the ongoing CSK-RCB rivalry, showcasing his humor and further intensifying anticipation for their upcoming IPL 2025 clash.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ruturaj-gaikwad-subtle-dig-rcb-promotional-event-mic-malfunction-2652862-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T14:29:00",
-        "uuid": "d99da8de-fdc2-49d6-9d8c-0308e8013e5b",
-        "positive": 12.7,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Pakistan will not lose face or money with hybrid Champions Trophy: ChopraAakash Chopra believes the ICC's hybrid model for Champions Trophy 2025 safeguards Pakistan Cricket Board's reputation and finances, even as India's refusal to travel altered the tournament's hosting dynamics.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-champions-trophy-hybrid-model-will-not-hurt-pakistan-money-lose-face-aakash-chopra-2652839-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T14:04:00",
-        "uuid": "a71ae42b-b59d-41c7-9ccb-38a4dde9d3a9",
-        "positive": 12.6,
-        "negative": 2.9
-    },
-    {
-        "headlines": "Mates club? Australian selectors accused of bias after Nathan McSweeney snub Australia vs India, 4th Test: Australia dropped 25-year-old Nathan McSweeney from the squad for the final two Tests of the Border-Gavaskar Trophy. Selector George Bailey has faced criticism for not backing the youngster, especially when senior players like Usman Khawaja and Marnus Labuschagne have struggled with the bat.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricke-ind-vs-aus-boxing-day-nathan-mcsweeney-dropped-george-bailey-criticism-2652823-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T13:48:00",
-        "uuid": "64406747-4863-4f7e-b2b5-e9270fa6452f",
-        "positive": 6.1,
-        "negative": 5.7
-    },
-    {
-        "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-u19-women-t20-asia-cup-aayushi-shukla-india-beat-sri-lanka-reach-final-2652897-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T15:16:00",
-        "uuid": "47b53052-1d98-4f0e-8604-4155f6eae0a2",
-        "positive": 13.2,
-        "negative": 2.4
-    },
-    {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
         "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
         "category": "business",
@@ -4201,6 +4156,51 @@
         "uuid": "4173d4f1-79da-4cab-a44a-fd533622a249",
         "positive": 9.9,
         "negative": 4.3
+    },
+    {
+        "headlines": "BCCI to hold Special General Meeting in January to elect Jay Shah's replacementThe BCCI will host a Special General Meeting (SGM) in Mumbai on January 12 to pick a new secretary and treasurer, after Jay Shah and Ashish Shelar quit their positions earlier this month.",
+        "article_url": "https://www.indiatoday.in/sports/story/bcci-to-hold-special-general-meeting-in-january-to-elect-jay-shahs-replacement-2652864-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T14:33:00",
+        "uuid": "31a262c3-9f13-4dee-b711-2d6a7b916017",
+        "positive": 10.4,
+        "negative": 1.9
+    },
+    {
+        "headlines": "Watch: CSK captain Gaikwad takes subtle dig at RCB at a promotional eventRuturaj Gaikwad's cheeky jab at RCB during a fan event added fuel to the ongoing CSK-RCB rivalry, showcasing his humor and further intensifying anticipation for their upcoming IPL 2025 clash.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ruturaj-gaikwad-subtle-dig-rcb-promotional-event-mic-malfunction-2652862-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T14:29:00",
+        "uuid": "d99da8de-fdc2-49d6-9d8c-0308e8013e5b",
+        "positive": 12.7,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Pakistan will not lose face or money with hybrid Champions Trophy: ChopraAakash Chopra believes the ICC's hybrid model for Champions Trophy 2025 safeguards Pakistan Cricket Board's reputation and finances, even as India's refusal to travel altered the tournament's hosting dynamics.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-champions-trophy-hybrid-model-will-not-hurt-pakistan-money-lose-face-aakash-chopra-2652839-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T14:04:00",
+        "uuid": "a71ae42b-b59d-41c7-9ccb-38a4dde9d3a9",
+        "positive": 12.6,
+        "negative": 2.9
+    },
+    {
+        "headlines": "Mates club? Australian selectors accused of bias after Nathan McSweeney snub Australia vs India, 4th Test: Australia dropped 25-year-old Nathan McSweeney from the squad for the final two Tests of the Border-Gavaskar Trophy. Selector George Bailey has faced criticism for not backing the youngster, especially when senior players like Usman Khawaja and Marnus Labuschagne have struggled with the bat.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricke-ind-vs-aus-boxing-day-nathan-mcsweeney-dropped-george-bailey-criticism-2652823-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T13:48:00",
+        "uuid": "64406747-4863-4f7e-b2b5-e9270fa6452f",
+        "positive": 6.1,
+        "negative": 5.7
+    },
+    {
+        "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-u19-women-t20-asia-cup-aayushi-shukla-india-beat-sri-lanka-reach-final-2652897-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T15:16:00",
+        "uuid": "47b53052-1d98-4f0e-8604-4155f6eae0a2",
+        "positive": 13.2,
+        "negative": 2.4
     },
     {
         "headlines": "Pakistan Cricket Board to hold PSL 10 draft in GwadarThe PCB announced that the coastal city of Gwadar in the restive province of Balochistan will host the player's draft for the Pakistan Super League (PSL) on January 11.",
@@ -5850,15 +5850,6 @@
         "negative": 2.8
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Travis Head treated Jasprit Bumrah like any regular bowler: Greg ChapellGreg Chappell opened about how Travis Head has managed to nullify the Jasprit Bumrah threat and treat him like any regular bowler",
         "article_url": "https://www.indiatoday.in/sports/story/travis-head-treated-jasprit-bumrah-like-any-regular-bowler-greg-chapell-2654854-2024-12-24",
         "category": "sports",
@@ -5884,6 +5875,15 @@
         "uuid": "2b334625-9b08-49fd-a2e4-3658db37127e",
         "positive": 2.8,
         "negative": 8.3
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Chelsea boss Maresca says Chelsea' not part of Premier League title race'Enzo Maresca dismissed Chelsea's Premier League title chances, emphasising satisfaction with their remarkable progress despite a shaky start. Chelsea's resurgence under his guidance is notable, but Maresca believes they still lack the consistency to challenge Liverpool's dominance.",
@@ -6552,15 +6552,6 @@
         "negative": 5.7
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "Manmohan Singh dies at 92: Yuvraj, Vinesh Phogat lead tributes to former PMIndia mourns the loss of former Prime Minister Dr. Manmohan Singh, a visionary economist and leader. Sporting legends like Yuvraj Singh and Virender Sehwag lead heartfelt tributes, honouring his contributions that inspired progress across the nation, including sports.",
         "article_url": "https://www.indiatoday.in/sports/story/manmohan-singh-dies-at-92-yuvraj-vinesh-phogat-lead-tribute-to-former-pm-2655923-2024-12-26",
         "category": "sports",
@@ -6568,6 +6559,15 @@
         "uuid": "b3429fab-9554-47d6-a889-bb7541a92c15",
         "positive": 15.8,
         "negative": 4
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "Sean Williams scores 5th Test ton as Zimbabwe dominate Day 1 vs AfghanistanSean Williams' unbeaten 145 and Ben Curran's debut fifty powered Zimbabwe to 363/4 on Day 1 against Afghanistan. Williams' partnerships with Ervine, Kaitano, and Myers showcased Zimbabwe's dominance, leaving the visitors struggling with erratic bowling and sloppy fielding.",
@@ -8271,6 +8271,33 @@
         "negative": 4.2
     },
     {
+        "headlines": "When Dhoni ridiculed dressing room leaks in 2014-15 Australia tourBorder Gavaskar Trophy, IND vs AUS: Amid reports of tensions in the dressing room where head coach Gautam Gambhir criticised the players after the MCG Test defeat, a video has been circulating where MS Dhoni tactfully dodged questions about the rift between the players on India's 2014-15 tour of Australia. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-ms-dhoni-dressing-room-leak-india-vs-australia-melbourne-2658293-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T20:22:00",
+        "uuid": "3032fa35-0293-4a0c-9363-9f08ade90f66",
+        "positive": 7.3,
+        "negative": 6.9
+    },
+    {
+        "headlines": "Jasprit Bumrah eyes BS Chandrasekhar's historic 52-year-old recordBorder Gavaskar Trophy, IND vs AUS: Indian fast bowler Jasprit Bumrah has been phenomenal in the ongoing series, having taken 30 wickets from four Tests with three five-wicket hauls. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-jasprit-bumrah-bs-chandrasekhar-record-india-vs-australia-2658307-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T20:15:00",
+        "uuid": "2ca0693e-6f88-4d17-9763-8dc6795b8664",
+        "positive": 5.2,
+        "negative": 0
+    },
+    {
+        "headlines": "IND vs AUS, Sydney Weather Report: Rain set to affect New Year's TestIndia are set to play their final Test match of the Border-Gavaskar Trophy against Trophy in Sydney. India will need to win the final Test match to remain in the hunt for the World Test Championship Final. The Sydney weather might make life tricky for Indian players and fans.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sydney-weather-report-rain-to-effect-new-year-test-2658302-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T20:06:00",
+        "uuid": "295ee86a-3ff4-4b90-8fab-d37823d4fbd0",
+        "positive": 10.3,
+        "negative": 4.7
+    },
+    {
         "headlines": "ICC Test Rankings: Virat Kohli slips to 24th, Rohit Sharma on 40 after MCG TestStar India batters Virat Kohli and Rohit Sharma have suffered massive drops in the ICC Test batting rankings following their continuous poor outings in the ongoing Test series against Australia.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-test-rankings-virat-kohli-slips-to-24th-rohit-sharma-on-40-after-mcg-test-2658187-2025-01-01",
         "category": "sports",
@@ -8379,6 +8406,24 @@
         "negative": 12.6
     },
     {
+        "headlines": "'Fully fit' Vinod Kambli discharged from hospital after successful treatmentFormer India cricketer Vinod Kambli has been released from hospital after being declared fully fit by the doctors.  Kambli was initially admitted to Akruti Hospital on December 21 for urinary infection and cramps.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/vinod-kambli-released-from-hospital-kambli-health-update-vinod-kambli-hospital-treatment-2658300-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T20:04:00",
+        "uuid": "f823cb27-0fe9-4cbe-ac3c-03b3d9d04ab5",
+        "positive": 14.1,
+        "negative": 4.6
+    },
+    {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
         "headlines": "Gautam Gambhir was not first choice coach, his position not safe: ReportGautam Gambhir's tenure as India's head coach faces scrutiny amid dressing room unrest, team selection debates, and disappointing performances in the Border-Gavaskar Trophy, with the Champions Trophy now looming as a decisive test for his leadership.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-not-first-choice-coach-dont-recover-melbourne-reports-2658256-2025-01-01",
         "category": "sports",
@@ -8415,24 +8460,6 @@
         "negative": 3
     },
     {
-        "headlines": "Ashes, Champions League, Grand Slams: Full list of major sports events in 20252025 promises a blockbuster year for sports fans worldwide, with cricket, football, athletics, and more delivering high-stakes events, thrilling rivalries, and iconic moments that will capture global attention and celebrate the unifying spirit of sports.",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/sports-calendar-australia-vs-england-uefa-champions-league-india-vs-australia-2025-2658294-2025-01-01",
-        "category": "sports",
-        "date_time": "2025-01-01T19:32:00",
-        "uuid": "2ad6e9f0-402b-4d8c-ada3-3a467538cb4a",
-        "positive": 10.5,
-        "negative": 0.2
-    },
-    {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
-    },
-    {
         "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
         "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
         "category": "technology",
@@ -8458,6 +8485,15 @@
         "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
         "positive": 4.6,
         "negative": 3.1
+    },
+    {
+        "headlines": "Ashes, Champions League, Grand Slams: Full list of major sports events in 20252025 promises a blockbuster year for sports fans worldwide, with cricket, football, athletics, and more delivering high-stakes events, thrilling rivalries, and iconic moments that will capture global attention and celebrate the unifying spirit of sports.",
+        "article_url": "https://www.indiatoday.in/sports/other-sports/story/sports-calendar-australia-vs-england-uefa-champions-league-india-vs-australia-2025-2658294-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T19:32:00",
+        "uuid": "2ad6e9f0-402b-4d8c-ada3-3a467538cb4a",
+        "positive": 10.5,
+        "negative": 0.2
     },
     {
         "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
@@ -8962,41 +8998,5 @@
         "uuid": "f9df786c-36bf-4046-8c00-d0196a91b00b",
         "positive": 13.4,
         "negative": 3.1
-    },
-    {
-        "headlines": "IcfaiTech Hyderabad inaugurates VLSI Center to boost semiconductor innovationIcfaiTech Hyderabad inaugurates Centre for VLSI with an aim to advance India's semiconductor capabilities.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/icfaitech-hyderabad-inaugurates-vlsi-center-to-boost-semiconductor-innovation-2655085-2024-12-25",
-        "category": "technology",
-        "date_time": "2024-12-25T11:05:00",
-        "uuid": "fcf6549c-7712-4891-872c-e0600c5986c7",
-        "positive": 17.7,
-        "negative": 1.1
-    },
-    {
-        "headlines": "iPhone 16 available with big discount but the deal is only for todayApple iPhone 16 is available with a discount up to Rs 16,000 but the deal is only valid till today.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-16-available-with-big-discount-but-the-deal-is-only-for-today-2655446-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T09:42:00",
-        "uuid": "123b0465-6111-4b2c-8d72-730efe9cab2f",
-        "positive": 16.6,
-        "negative": 2.1
-    },
-    {
-        "headlines": "Rs 601 annual Jio plan offers unlimited 5G data to subscribers: Check plan details hereThe new annual Jio mobile plan offers unlimited 5G data for a whole year.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/rs-601-annual-jio-plan-offers-unlimited-5g-data-to-subscribers-check-plan-details-here-2655445-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T09:41:00",
-        "uuid": "ec1ab3ef-da13-4cd2-be4c-0596c5a784a5",
-        "positive": 14.2,
-        "negative": 0.5
-    },
-    {
-        "headlines": "TRAI directs telcos to provide call and SMS-only tariff plansThe latest TRAI mandate directs telecom operators to now also offer mobile tariff plans that focus only on SMS and voice calls.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/trai-directs-telecom-operators-to-provide-non-data-tariff-plans-2655486-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T11:19:00",
-        "uuid": "7cff180b-2882-407e-a296-3c774db98888",
-        "positive": 13.1,
-        "negative": 3.6
     }
 ]
