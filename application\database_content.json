@@ -7929,6 +7929,33 @@
         "negative": 8.4
     },
     {
+        "headlines": "Head's celebration insulted not just Pant but 1.5 billion Indians: Navjot SidhuAustralia vs India: Former Indian batter Navjot Singh Sidhu has slammed Travis Head's 'obnoxious' celebration after Rishabh Pant's dismissal in the recent Boxing Day Test. Sidhu labeled the act as \"obnoxious behavior\", saying the celebration insulted not just Pant but the entire Indian population of 1.5 billion.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-navjot-sindhu-slams-travis-head-celebration-pant-insult-indian-2657635-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T10:34:00",
+        "uuid": "19520a48-eb7f-4cd7-9ae6-c7642903157b",
+        "positive": 8.6,
+        "negative": 11.5
+    },
+    {
+        "headlines": "Captain fantastic: Cummins steps up to haunt India againBoxing Day Test, IND vs AUS: Pat Cummins has been a thorn in the flesh for India over the last one and a half years. On Monday, he captained Australia to a 2-1 series lead with an 184-run win at the Melbourne Cricket Ground. ",
+        "article_url": "https://www.indiatoday.in/sports/story/pat-cummins-india-vs-australia-boxing-day-test-melbourne-2657511-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T10:30:00",
+        "uuid": "bd2ff007-c74c-415a-8b31-e419c03958b2",
+        "positive": 11,
+        "negative": 4.5
+    },
+    {
+        "headlines": "Mitchell Starc to miss Sydney Test? Australia head coach gives injury updateAustralia vs India: Australia head coach Andrew McDoland remained optimistic about Mitchell Starc's chances of playing the fifth Test, starting January 3 in Sydney. The left-arm pacer picked up an upper-body concern in Australia's 184-run win in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mitchell-starc-injury-update-new-year-test-sydney-andrew-mcdonald-2657633-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T10:29:00",
+        "uuid": "26b9a7fc-eb64-4791-ba4b-0743b88089ae",
+        "positive": 13.7,
+        "negative": 1.7
+    },
+    {
         "headlines": "Warner praises Konstas, questions senior Australian batters' approach vs BumrahFormer opener David Warner praised Sam Konstas for his brave batting approach against India's ace pacer Jasprit Bumrah. However, Warner also questioned why it took a 19-year-old to show the initiative that senior players failed to display.\r\n",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sam-konstas-david-warner-jasprit-bumrah-brave-batting-2657624-2024-12-31",
         "category": "sports",
@@ -7956,15 +7983,6 @@
         "negative": 3.5
     },
     {
-        "headlines": "Head's celebration insulted not just Pant but 1.5 billion Indians: Navjot SidhuAustralia vs India: Former Indian batter Navjot Singh Sidhu has slammed Travis Head's 'obnoxious' celebration after Rishabh Pant's dismissal in the recent Boxing Day Test. Sidhu labeled the act as \"obnoxious behavior\", saying the celebration insulted not just Pant but the entire Indian population of 1.5 billion.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-navjot-sindhu-slams-travis-head-celebration-pant-insult-indian-2657635-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T10:34:00",
-        "uuid": "19520a48-eb7f-4cd7-9ae6-c7642903157b",
-        "positive": 8.6,
-        "negative": 11.5
-    },
-    {
         "headlines": "India cricket 2025 schedule: Full fixtures, dates, time for men's team matchesIndia Men's Cricket Schedule 2025: From Champions Trophy to England Tour, here's a detailed overview of the Indian men's cricket team's fixtures for the 2025 calendar year, featuring marquee tournaments and exciting series across all formats.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/india-mens-cricket-2025-schedule-champions-trophy-asia-cup-full-match-fixtures-list-2658027-2025-01-01",
         "category": "sports",
@@ -7981,24 +7999,6 @@
         "uuid": "9151726e-cc74-41fc-af93-c39f32a4c1ad",
         "positive": 16.7,
         "negative": 6.5
-    },
-    {
-        "headlines": "Captain fantastic: Cummins steps up to haunt India againBoxing Day Test, IND vs AUS: Pat Cummins has been a thorn in the flesh for India over the last one and a half years. On Monday, he captained Australia to a 2-1 series lead with an 184-run win at the Melbourne Cricket Ground. ",
-        "article_url": "https://www.indiatoday.in/sports/story/pat-cummins-india-vs-australia-boxing-day-test-melbourne-2657511-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T10:30:00",
-        "uuid": "bd2ff007-c74c-415a-8b31-e419c03958b2",
-        "positive": 11,
-        "negative": 4.5
-    },
-    {
-        "headlines": "Mitchell Starc to miss Sydney Test? Australia head coach gives injury updateAustralia vs India: Australia head coach Andrew McDoland remained optimistic about Mitchell Starc's chances of playing the fifth Test, starting January 3 in Sydney. The left-arm pacer picked up an upper-body concern in Australia's 184-run win in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mitchell-starc-injury-update-new-year-test-sydney-andrew-mcdonald-2657633-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T10:29:00",
-        "uuid": "26b9a7fc-eb64-4791-ba4b-0743b88089ae",
-        "positive": 13.7,
-        "negative": 1.7
     },
     {
         "headlines": "Indian cricket in 2025: Transition time again as Kohli, Rohit futures in focusWith the Champions Trophy and a few crucial Test series lined up in 2025, the Indian men's cricket team will be in the spotlight in the New Year. For the first time in over a decade, the team faces a transition phase, with questions looming over the futures of senior players.",
@@ -8350,6 +8350,42 @@
         "uuid": "ab38018c-0196-4a94-ab9c-00c5ebbf677a",
         "positive": 5.1,
         "negative": 12.6
+    },
+    {
+        "headlines": "Gautam Gambhir was not first choice coach, his position not safe: ReportGautam Gambhir's tenure as India's head coach faces scrutiny amid dressing room unrest, team selection debates, and disappointing performances in the Border-Gavaskar Trophy, with the Champions Trophy now looming as a decisive test for his leadership.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-not-first-choice-coach-dont-recover-melbourne-reports-2658256-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T17:24:00",
+        "uuid": "2501684a-96da-423e-ac75-6fcc779446ff",
+        "positive": 9.5,
+        "negative": 7
+    },
+    {
+        "headlines": "Litmus test for Harmanpreet, U19 title defence and WPL festival in 2025Women's cricket will be aplenty in 2025 with the national team also set to play in the ODI World Cup at home. Niki Prasad's troops will be defending India's U19 T20 World Cup title. The focus will also be on Royal Challengers Bengaluru (RCB), the defending champions of the Women's Premier League (WPL). ",
+        "article_url": "https://www.indiatoday.in/sports/story/india-women-2025-harmanpreet-kaur-rcb-u19-world-cup-2657999-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T17:06:00",
+        "uuid": "8571b853-5e0d-43df-aaaa-6ac29a0b6a50",
+        "positive": 13,
+        "negative": 2.6
+    },
+    {
+        "headlines": "AUS vs IND: Australian PM Anthony Albanese hosts both teams ahead of Sydney TestAustralian Prime Minister Anthony Albanese hosted the Australian and Indian Cricket teams ahead of the fifth Test scheduled to be held in Sydney.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-anthony-albanese-hosts-india-and-australia-ind-vs-aus-border-gavaskar-trophy-2024-25-2658245-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T17:02:00",
+        "uuid": "196726cb-28a4-4df2-8389-2fc1be14b576",
+        "positive": 7,
+        "negative": 5.5
+    },
+    {
+        "headlines": "Rybakina stars as Kazakhstan knock defending champion Germany outUnited Cup 2024: Kazakhstan knocked defending champion Germany out of the competition. Poland also secured their berth in the quarters after taking down the Czech Republic. ",
+        "article_url": "https://www.indiatoday.in/sports/tennis/story/united-cup-2024-elena-rybakina-kazakhstan-vs-germany-quarterfinal-2658242-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T16:52:00",
+        "uuid": "15ad93b3-7a80-41bf-9c33-1446d2b32628",
+        "positive": 14.8,
+        "negative": 3
     },
     {
         "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
@@ -8928,6 +8964,15 @@
         "negative": 3.6
     },
     {
+        "headlines": "MacBook Air price drops to lowest in India: All details hereThe price of the MacBook Air has hit an all-time low in India, thanks to Vijay Sales' Apple Days sale as part of their New Year celebration. Here are the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/macbook-air-price-drops-to-lowest-in-india-all-details-here-2657655-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T11:26:00",
+        "uuid": "5f4da79d-5f6a-4095-929c-5731008ffe5d",
+        "positive": 7.9,
+        "negative": 1.9
+    },
+    {
         "headlines": "Airtel down: Airtel mobile and broadband users unable to place calls, use internetAirtel mobile and broadband network is facing an outage due to which Airtel users are unable to place calls or use the internet. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/airtel-down-airtel-mobile-and-broadband-users-unable-to-place-calls-use-internet-2655502-2024-12-26",
         "category": "technology",
@@ -8953,50 +8998,5 @@
         "uuid": "be146680-e6e1-4b9e-9ec5-7936a2dabf10",
         "positive": 8.7,
         "negative": 5.6
-    },
-    {
-        "headlines": "iPhone 17 Air to feature sleek build, improved camera, big battery: All we know so farWith the iPhone 17 series expected to launch in September 2025, Apple might introduce a new model, the iPhone 17 Air, replacing the Plus. Read about all the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-air-to-feature-sleek-build-improved-camera-big-battery-all-we-know-so-far-2655524-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T12:35:00",
-        "uuid": "44d7ff23-c322-4a91-87c5-d11487a20b97",
-        "positive": 10.5,
-        "negative": 0.9
-    },
-    {
-        "headlines": "WhatsApp releases new update for iOS users, now apply AR effects and more to cameraIn the latest update on WhatsApp for iOS, users can now apply AR effects, add new backgrounds to video recordings and more, directly in the WhatsApp camera.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/whatsapp-releases-new-update-for-ios-users-now-apply-ar-effects-and-more-to-camera-2655669-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T16:19:00",
-        "uuid": "ece2bff5-3012-4b59-a658-f85f43351c2c",
-        "positive": 9.7,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Sriram in White House, Trump supporters demand ban on H1-B Visa The divide between Silicon Valley and Trump's base is emblematic of a broader cultural and political conflict in the US.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/sriram-in-white-house-trump-supporters-demand-ban-on-h1-b-visa-and-fewer-indians-in-silicon-valley-2655718-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T17:12:00",
-        "uuid": "546e2d6e-8e06-4a66-9264-83a459d27bfc",
-        "positive": 9.1,
-        "negative": 9.5
-    },
-    {
-        "headlines": "Poco M7 Pro 5G review: Strong on the fundamentalsAt a starting price of Rs 14,999, the Poco M7 Pro is a strong contender in the affordable smartphone price segment. While not perfect, it stands out with its ergonomic build, vibrant display, and solid battery life.",
-        "article_url": "https://www.indiatoday.in/technology/reviews/story/poco-m7-pro-5g-review-strong-on-the-fundamentals-2655685-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T17:10:00",
-        "uuid": "2611d619-9169-4617-88a9-eeb33f2c9453",
-        "positive": 20.6,
-        "negative": 2.2
-    },
-    {
-        "headlines": "27-year-old man loses Rs 57 lakh in part-time job scamA 27-year-old businessman from the electrical poles industry has been defrauded of Rs 57.75 lakh in a part-time job scam. Lured by promises of easy money for minimal work, the man ended up transferring a large sum of money over a period of time before realizing he had been scammed. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/27-year-old-man-loses-rs-57-lakh-in-part-time-job-scam-2655724-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T17:22:00",
-        "uuid": "ee697c7c-044e-47fc-81f2-374bd6459215",
-        "positive": 7.5,
-        "negative": 8.7
     }
 ]
