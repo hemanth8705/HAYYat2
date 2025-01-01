@@ -6561,15 +6561,6 @@
         "negative": 4
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "Sean Williams scores 5th Test ton as Zimbabwe dominate Day 1 vs AfghanistanSean Williams' unbeaten 145 and Ben Curran's debut fifty powered Zimbabwe to 363/4 on Day 1 against Afghanistan. Williams' partnerships with Ervine, Kaitano, and Myers showcased Zimbabwe's dominance, leaving the visitors struggling with erratic bowling and sloppy fielding.",
         "article_url": "https://www.indiatoday.in/sports/story/sean-williams-scores-5th-test-ton-as-zimbabwe-dominate-day-1-vs-afghanistan-2655916-2024-12-26",
         "category": "sports",
@@ -6595,6 +6586,15 @@
         "uuid": "8c081cf4-3b7c-45ef-a1b3-a1fd140616e9",
         "positive": 7.3,
         "negative": 1.1
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n",
@@ -7920,6 +7920,24 @@
         "negative": 11.5
     },
     {
+        "headlines": "India cricket 2025 schedule: Full fixtures, dates, time for men's team matchesIndia Men's Cricket Schedule 2025: From Champions Trophy to England Tour, here's a detailed overview of the Indian men's cricket team's fixtures for the 2025 calendar year, featuring marquee tournaments and exciting series across all formats.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-mens-cricket-2025-schedule-champions-trophy-asia-cup-full-match-fixtures-list-2658027-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T08:09:00",
+        "uuid": "eaa51136-3868-4fd2-878e-9621e0434dd6",
+        "positive": 7.1,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Historic tie: Magnus Carlsen, Ian Nepomniachtchi share World Blitz ChampionshipReigning FIDE World Blitz Champion Magnus Carlsen won his 8th title on Wednesday, 1 January. In a historic feat, Carlsen decided to share the title with his opponent Ian Nepomniachtchi, making them the first twin winners of the competition.",
+        "article_url": "https://www.indiatoday.in/sports/story/magnus-carlsen-wins-8th-fide-world-chess-blitz-championship-ian-nepomniachtchi-2658025-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T07:55:00",
+        "uuid": "9151726e-cc74-41fc-af93-c39f32a4c1ad",
+        "positive": 16.7,
+        "negative": 6.5
+    },
+    {
         "headlines": "Captain fantastic: Cummins steps up to haunt India againBoxing Day Test, IND vs AUS: Pat Cummins has been a thorn in the flesh for India over the last one and a half years. On Monday, he captained Australia to a 2-1 series lead with an 184-run win at the Melbourne Cricket Ground. ",
         "article_url": "https://www.indiatoday.in/sports/story/pat-cummins-india-vs-australia-boxing-day-test-melbourne-2657511-2024-12-31",
         "category": "sports",
@@ -7938,13 +7956,13 @@
         "negative": 1.7
     },
     {
-        "headlines": "Barcelona lose another appeal to register Dani Olmo before deadlineBarcelona have lost another appeal to register Spain forward Dani Olmo for the rest of the season - one day before the deadline.\r\n\r\n",
-        "article_url": "https://www.indiatoday.in/sports/football/story/barcelona-lose-another-appeal-to-register-dani-olmo-before-deadline-2657592-2024-12-31",
+        "headlines": "Indian cricket in 2025: Transition time again as Kohli, Rohit futures in focusWith the Champions Trophy and a few crucial Test series lined up in 2025, the Indian men's cricket team will be in the spotlight in the New Year. For the first time in over a decade, the team faces a transition phase, with questions looming over the futures of senior players.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-team-indias-transition-period-indian-cricket-in-2025-2657955-2025-01-01",
         "category": "sports",
-        "date_time": "2024-12-31T08:44:00",
-        "uuid": "b9ff1c42-4af9-4705-aeb2-65cd75911197",
-        "positive": 10.3,
-        "negative": 6.8
+        "date_time": "2025-01-01T07:10:00",
+        "uuid": "6b45c41b-d7c6-4c5e-93b5-44e9314dbc40",
+        "positive": 6.1,
+        "negative": 3.8
     },
     {
         "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
@@ -7954,6 +7972,33 @@
         "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
         "positive": 10.8,
         "negative": 0
+    },
+    {
+        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T10:43:00",
+        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
+        "positive": 7.1,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Barcelona lose another appeal to register Dani Olmo before deadlineBarcelona have lost another appeal to register Spain forward Dani Olmo for the rest of the season - one day before the deadline.\r\n\r\n",
+        "article_url": "https://www.indiatoday.in/sports/football/story/barcelona-lose-another-appeal-to-register-dani-olmo-before-deadline-2657592-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T08:44:00",
+        "uuid": "b9ff1c42-4af9-4705-aeb2-65cd75911197",
+        "positive": 10.3,
+        "negative": 6.8
+    },
+    {
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
     },
     {
         "headlines": "No more Fab 4: Virat Kohli fails to keep up with ever-evolving peers IND vs AUS: Virat Kohli has struggled to find his form in Test cricket over the last five years, while the other members of the Fab-Four, Steve Smith, Kane Williamson and Steve Smith, have kept hammering runs all around the globe. ",
@@ -7974,24 +8019,6 @@
         "negative": 7.5
     },
     {
-        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T10:43:00",
-        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
-        "positive": 7.1,
-        "negative": 2.8
-    },
-    {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
-    },
-    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -7999,24 +8026,6 @@
         "uuid": "0de50912-7484-4f65-b11e-244bb94e6255",
         "positive": 4.6,
         "negative": 3.1
-    },
-    {
-        "headlines": "Emma Raducanu pulls out of Australian Open warmup with back niggleGrand Slam champion Emma Raducanu has withdrawn from this week's WTA event in Auckland due to a back issue. However, Raducanu has decided to travel to Melbourne to continue her preparations for the Australian Open.",
-        "article_url": "https://www.indiatoday.in/sports/story/emma-raducanu-pulls-out-of-australian-open-warmup-with-back-niggle-2657577-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T08:03:00",
-        "uuid": "ecabf153-a5c2-41af-b23a-0db65a8cd750",
-        "positive": 14.3,
-        "negative": 8.4
-    },
-    {
-        "headlines": "Warner praises Konstas, questions senior Australian batters' approach vs BumrahFormer opener David Warner praised Sam Konstas for his brave batting approach against India's ace pacer Jasprit Bumrah. However, Warner also questioned why it took a 19-year-old to show the initiative that senior players failed to display.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sam-konstas-david-warner-jasprit-bumrah-brave-batting-2657624-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T10:05:00",
-        "uuid": "3474e89d-8641-4afc-8c9b-a43f59ee76e4",
-        "positive": 14.9,
-        "negative": 8.3
     },
     {
         "headlines": "Netflix fined Rs 42.3 crore for lack of transparency regarding user dataDutch watchdog has accused Netflix of lack of transparency when it comes to how the company was handling customer's data. According to the authorities, the company offered vague or insufficient information. ",
@@ -8037,6 +8046,24 @@
         "negative": 1.8
     },
     {
+        "headlines": "Emma Raducanu pulls out of Australian Open warmup with back niggleGrand Slam champion Emma Raducanu has withdrawn from this week's WTA event in Auckland due to a back issue. However, Raducanu has decided to travel to Melbourne to continue her preparations for the Australian Open.",
+        "article_url": "https://www.indiatoday.in/sports/story/emma-raducanu-pulls-out-of-australian-open-warmup-with-back-niggle-2657577-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T08:03:00",
+        "uuid": "ecabf153-a5c2-41af-b23a-0db65a8cd750",
+        "positive": 14.3,
+        "negative": 8.4
+    },
+    {
+        "headlines": "Warner praises Konstas, questions senior Australian batters' approach vs BumrahFormer opener David Warner praised Sam Konstas for his brave batting approach against India's ace pacer Jasprit Bumrah. However, Warner also questioned why it took a 19-year-old to show the initiative that senior players failed to display.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sam-konstas-david-warner-jasprit-bumrah-brave-batting-2657624-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T10:05:00",
+        "uuid": "3474e89d-8641-4afc-8c9b-a43f59ee76e4",
+        "positive": 14.9,
+        "negative": 8.3
+    },
+    {
         "headlines": "Vivo X200 series goes on its first sale today: Check India price, offers, specs and moreThe Vivo X200 and X200 Pro are now out for sale at a starting price of Rs 65,999. The company is also offering additional bank discounts. Here is what you should know before buying. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/vivo-x200-series-goes-on-its-first-sale-today-check-india-price-offers-specs-and-more-2652217-2024-12-19",
         "category": "technology",
@@ -8053,6 +8080,24 @@
         "uuid": "575cab87-2eac-4445-a272-03ba7fbcbe40",
         "positive": 8.5,
         "negative": 0.8
+    },
+    {
+        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
+        "positive": 5.6,
+        "negative": 1.5
+    },
+    {
+        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:17:00",
+        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
+        "positive": 6,
+        "negative": 1.7
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8073,13 +8118,13 @@
         "negative": 3.1
     },
     {
-        "headlines": "iPhone SE 4 may be called the iPhone 16e: Launch timeline, price, and all we knowThe iPhone SE 4 might get a new name, according to a recent leak. The rumour indicates that Apple plans to include the SE 4 in the iPhone 16 lineup and, might call it the iPhone 16e. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-may-be-called-the-iphone-16e-launch-timeline-price-and-all-we-know-2652121-2024-12-19",
+        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
         "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
-        "positive": 5.6,
-        "negative": 1.5
+        "date_time": "2024-12-19T08:59:00",
+        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
+        "positive": 9,
+        "negative": 2.3
     },
     {
         "headlines": "FC Barcelona to loan out Ansu Fati in January window? Agent reveals stanceAnsu Fati's agent Jorge Mendes revealed Barcelona might loan the 22-year-old in January, balancing crucial game time and his commitment to fight for a spot under Hansi Flick amidst struggles with form and recurring injury setbacks.",
@@ -8089,24 +8134,6 @@
         "uuid": "ee94f627-c1f4-496a-9cd6-c2a348de9052",
         "positive": 18.2,
         "negative": 5.6
-    },
-    {
-        "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/jiotag-go-android-tracker-launched-with-google-find-my-device-support-2652162-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:17:00",
-        "uuid": "2c05983e-558e-48d9-ba3f-da6c53961c71",
-        "positive": 6,
-        "negative": 1.7
-    },
-    {
-        "headlines": "EU asks Apple to make more changes to the way iOS worksAs part of a document released on Wednesday, December 18, the EU lists specific changes it wants Apple to make.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/eu-asks-apple-to-make-more-changes-to-the-way-ios-works-2652094-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T08:59:00",
-        "uuid": "e76d173b-6361-4824-ba74-008539cc9b1b",
-        "positive": 9,
-        "negative": 2.3
     },
     {
         "headlines": "Apple cancels plans to launch an iPhone hardware subscription service: ReportApple had been working on an iPhone hardware subscription service since 2022. However, reports suggest that Apple is no longer working on the project. ",
@@ -8161,6 +8188,15 @@
         "uuid": "c7f0cd59-31ee-4103-8680-e8c05bfa7c78",
         "positive": 5.2,
         "negative": 16.6
+    },
+    {
+        "headlines": "Poco M7 Pro 5G launched under Rs 15,000: 4 reasons to buy, 1 to skipThe Poco M7 Pro 5G is one of the most affordable phones you can buy right now in the sub-Rs 15,000 price segment. In this article, we give you 4 reasons why you should buy this phone and 1 reason to skip it.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/poco-m7-pro-5g-launched-under-rs-15000-4-reasons-to-buy-1-to-skip-2651621-2024-12-18",
+        "category": "technology",
+        "date_time": "2024-12-19T10:15:00",
+        "uuid": "de77e0c3-1969-432c-9357-8dd1945a60bb",
+        "positive": 17.8,
+        "negative": 3
     },
     {
         "headlines": "Jasprit Bumrah named captain, Cummins ignored in Australian media's Test Team of 2024India fast bowler Jasprit Bumrah was named the captain of the Test team of the year by the Australian media but captain Pat Cummins failed to find any spot. ",
@@ -8253,24 +8289,6 @@
         "negative": 8.3
     },
     {
-        "headlines": "R Ashwin reacts to Jamie Overton's non-striker run-out warning in BBL gameBig Bash League: R Ashwin was thrilled at Jamie Overton's attempt to run out a batter at the non-striker's end during a Big Bash League match. Ashwin and Overton will play for Chennai Super Kings in IPl 2025. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/big-bash-league-jamie-overton-finn-allen-run-out-warning-r-ashwin-reacts-2657897-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T18:02:00",
-        "uuid": "21b6e23b-03aa-4837-bd09-478cdcc046f2",
-        "positive": 11.2,
-        "negative": 3.5
-    },
-    {
-        "headlines": "Poco M7 Pro 5G launched under Rs 15,000: 4 reasons to buy, 1 to skipThe Poco M7 Pro 5G is one of the most affordable phones you can buy right now in the sub-Rs 15,000 price segment. In this article, we give you 4 reasons why you should buy this phone and 1 reason to skip it.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/poco-m7-pro-5g-launched-under-rs-15000-4-reasons-to-buy-1-to-skip-2651621-2024-12-18",
-        "category": "technology",
-        "date_time": "2024-12-19T10:15:00",
-        "uuid": "de77e0c3-1969-432c-9357-8dd1945a60bb",
-        "positive": 17.8,
-        "negative": 3
-    },
-    {
         "headlines": "New YouTube rules in India as platform bans videos with clickbait titlesClickbait titles and thumbnails have long been a frustration for YouTube viewers. They can mislead people into clicking on videos, only to find content that doesn't match their expectations.",
         "article_url": "https://www.indiatoday.in/technology/news/story/new-youtube-rules-in-india-as-platform-bans-videos-with-clickbait-titles-2652709-2024-12-20",
         "category": "technology",
@@ -8280,6 +8298,15 @@
         "negative": 7.6
     },
     {
+        "headlines": "R Ashwin reacts to Jamie Overton's non-striker run-out warning in BBL gameBig Bash League: R Ashwin was thrilled at Jamie Overton's attempt to run out a batter at the non-striker's end during a Big Bash League match. Ashwin and Overton will play for Chennai Super Kings in IPl 2025. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/big-bash-league-jamie-overton-finn-allen-run-out-warning-r-ashwin-reacts-2657897-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T18:02:00",
+        "uuid": "21b6e23b-03aa-4837-bd09-478cdcc046f2",
+        "positive": 11.2,
+        "negative": 3.5
+    },
+    {
         "headlines": "Instagram teases AI tool that will change backgrounds, outfits with simple promptInstagram may soon allow users to change background, colour of clothes, and other things in a video, with just a simple text prompt. \r\n",
         "article_url": "https://www.indiatoday.in/technology/news/story/instagram-teases-ai-video-editing-tool-that-will-change-backgrounds-outfits-with-a-simple-text-prompt-2652701-2024-12-20",
         "category": "technology",
@@ -8287,24 +8314,6 @@
         "uuid": "0f8fc79f-12c0-436c-a9fd-57a5d6311cf8",
         "positive": 10.4,
         "negative": 2.5
-    },
-    {
-        "headlines": "Rohit Sharma bids emotional goodbye to rollercoaster 2024Rohit Sharma bid adieu to 2024 with an emotional post on his social media account, recalling all the memories in his personal and professional life. Rohit is currently in Australia for the Border-Gavaskar Trophy. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-bids-goodbye-2024-instagram-post-2657949-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T19:37:00",
-        "uuid": "59d1e558-880d-4548-a729-26d7ba8085b9",
-        "positive": 12.6,
-        "negative": 1
-    },
-    {
-        "headlines": "TikTok with Iga Swiatek? Aryna Sabalenka responds with cheeky remarkWorld No.1 Aryna Sabalenka spoke about her camaraderie with Poland's Iga Swiatek and gave a cheeky response about featuring in TikTok videos with her. Sabalenka is currently plying her trade in the Brisbane International where she defeated Renata Zarazua in the first round. ",
-        "article_url": "https://www.indiatoday.in/sports/tennis/story/brisbane-international-aryna-sabalenka-iga-swiatek-tiktok-cheeky-remark-2657935-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T19:09:00",
-        "uuid": "26711ad8-6193-4311-9399-6c214f97427f",
-        "positive": 18.4,
-        "negative": 8.6
     },
     {
         "headlines": "Gemini 2.0 Flash Thinking Mode: Google launches its first reasoning modelGoogle's new reasoning model allows Gemini 2.0 to tackle a variety of tasks that demand logical thinking, in-depth analysis, and decision-making. ",
@@ -8325,6 +8334,24 @@
         "negative": 8
     },
     {
+        "headlines": "Rohit Sharma bids emotional goodbye to rollercoaster 2024Rohit Sharma bid adieu to 2024 with an emotional post on his social media account, recalling all the memories in his personal and professional life. Rohit is currently in Australia for the Border-Gavaskar Trophy. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-bids-goodbye-2024-instagram-post-2657949-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T19:37:00",
+        "uuid": "59d1e558-880d-4548-a729-26d7ba8085b9",
+        "positive": 12.6,
+        "negative": 1
+    },
+    {
+        "headlines": "TikTok with Iga Swiatek? Aryna Sabalenka responds with cheeky remarkWorld No.1 Aryna Sabalenka spoke about her camaraderie with Poland's Iga Swiatek and gave a cheeky response about featuring in TikTok videos with her. Sabalenka is currently plying her trade in the Brisbane International where she defeated Renata Zarazua in the first round. ",
+        "article_url": "https://www.indiatoday.in/sports/tennis/story/brisbane-international-aryna-sabalenka-iga-swiatek-tiktok-cheeky-remark-2657935-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T19:09:00",
+        "uuid": "26711ad8-6193-4311-9399-6c214f97427f",
+        "positive": 18.4,
+        "negative": 8.6
+    },
+    {
         "headlines": "Nvidia's most affordable Gen AI supercomputer, Jetson Orin Nano, is here: What is it and how it workNvidia has launched its most affordable Generative AI supercomputer that integrates a 6-core ARM CPU, delivering up to 67 INT8 TOPS. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nvidias-most-affordable-gen-ai-supercomputer-jetson-orin-nano-is-here-what-is-it-and-how-it-work-2652732-2024-12-20",
         "category": "technology",
@@ -8341,6 +8368,24 @@
         "uuid": "4f45b819-ae93-4e91-b362-6e0ff40cc883",
         "positive": 8.5,
         "negative": 2.6
+    },
+    {
+        "headlines": "Sennheiser Profile Wireless launched in India, targets content creators with a price of Rs 29,900Sennheiser has launched the Profile Wireless microphone system in India. The company believes that it would be useful to a number of content creators who want a robust microphone system at relatively affordable price point. \r\n",
+        "article_url": "https://www.indiatoday.in/technology/news/story/sennheiser-profile-wireless-launched-in-india-targets-content-creators-with-a-price-of-rs-29900-2652762-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T12:06:00",
+        "uuid": "69f740eb-7e2c-4e1e-ae30-b8cc3367357e",
+        "positive": 8.9,
+        "negative": 3
+    },
+    {
+        "headlines": "Amazon updates Prime membership policy: 2 new rules you should know aboutAmazon has two new rules that you should know about if you share your Amazon Prime account with friends or family.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/if-you-share-your-amazon-prime-video-account-with-your-family-there-are-2-new-rules-you-should-know-about-2652821-2024-12-20",
+        "category": "technology",
+        "date_time": "2024-12-20T13:33:00",
+        "uuid": "f4462293-10b6-47b5-850e-f7c6c9d38195",
+        "positive": 9.1,
+        "negative": 1
     },
     {
         "headlines": "If you play good cricket, you don't need PR: MS Dhoni on 'social media' era  MS Dhoni opened up about his views on social media, saying that if players perform well on the ground, they should not need a PR. At the age of 43, Dhoni is set to play in his 18th season of the Indian Premier League (IPL). ",
@@ -8368,24 +8413,6 @@
         "uuid": "42165829-e354-4b8a-92ef-1702b15dc2e2",
         "positive": 13.9,
         "negative": 3.1
-    },
-    {
-        "headlines": "Sennheiser Profile Wireless launched in India, targets content creators with a price of Rs 29,900Sennheiser has launched the Profile Wireless microphone system in India. The company believes that it would be useful to a number of content creators who want a robust microphone system at relatively affordable price point. \r\n",
-        "article_url": "https://www.indiatoday.in/technology/news/story/sennheiser-profile-wireless-launched-in-india-targets-content-creators-with-a-price-of-rs-29900-2652762-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T12:06:00",
-        "uuid": "69f740eb-7e2c-4e1e-ae30-b8cc3367357e",
-        "positive": 8.9,
-        "negative": 3
-    },
-    {
-        "headlines": "Amazon updates Prime membership policy: 2 new rules you should know aboutAmazon has two new rules that you should know about if you share your Amazon Prime account with friends or family.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/if-you-share-your-amazon-prime-video-account-with-your-family-there-are-2-new-rules-you-should-know-about-2652821-2024-12-20",
-        "category": "technology",
-        "date_time": "2024-12-20T13:33:00",
-        "uuid": "f4462293-10b6-47b5-850e-f7c6c9d38195",
-        "positive": 9.1,
-        "negative": 1
     },
     {
         "headlines": "Xiaomi reveals plans for open ecosystem for apps, connected TV and ads in IndiaAt the Xiaomi Internet Partner Conference 2024, Xiaomi India reveals plans for India's digital future through its open ecosystem, HyperOS.",
@@ -8487,15 +8514,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "Historic 2024: Test cricket achieves special 50 first time in 148 years As 2024 comes to an end, it ushers in a historic achievement in Test cricket. With 50 outright results in 53 Test matches, this year has become the first in the sport's history to reach such an extraordinary milestone.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/test-cricket-historic-australia-india-england-2657979-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T20:56:00",
-        "uuid": "35009074-60eb-4a0c-a4d7-5be252c92daa",
-        "positive": 15.3,
-        "negative": 1.7
-    },
-    {
         "headlines": "OpenAI's next flagship model is running late, researchers blame low quality dataOpenAI's GPT 5, code-named Orion, is reportedly behind schedule and costing a lot. According to the Wall Street Journal, there are two reasons for it: lack of quality data and financial demands. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/openais-next-flagship-model-is-running-late-researchers-blame-low-quality-data-2653924-2024-12-23",
         "category": "technology",
@@ -8512,6 +8530,15 @@
         "uuid": "1930813a-8184-46a4-82ea-164920cee52f",
         "positive": 7,
         "negative": 0.8
+    },
+    {
+        "headlines": "Historic 2024: Test cricket achieves special 50 first time in 148 years As 2024 comes to an end, it ushers in a historic achievement in Test cricket. With 50 outright results in 53 Test matches, this year has become the first in the sport's history to reach such an extraordinary milestone.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/test-cricket-historic-australia-india-england-2657979-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T20:56:00",
+        "uuid": "35009074-60eb-4a0c-a4d7-5be252c92daa",
+        "positive": 15.3,
+        "negative": 1.7
     },
     {
         "headlines": "WhatsApp releases full list of Android phones that will stop supporting the appWhatsApp will begin the New Year by withdrawing its services from selected Android phones. Starting January 1, 2025, more than 10-year-old devices running Android KitKat will not be able to access Meta's WhatsApp.   ",
@@ -8928,6 +8955,15 @@
         "negative": 0.3
     },
     {
+        "headlines": "Snapdragon 8 Elite Gen 2 may launch soon: Check details hereQualcomm might launch the Snapdragon 8 Elite Gen 2 earlier than expected, with big performance upgrades. Meanwhile, the current Snapdragon 8 Elite is just starting to appear in flagship phones worldwide.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/snapdragon-8-elite-gen-2-may-launch-soon-check-details-here-2657602-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T08:56:00",
+        "uuid": "51f8417d-57cb-4169-9198-91b94a687ccf",
+        "positive": 10.3,
+        "negative": 0
+    },
+    {
         "headlines": "Vivek Ramaswamy says American parents raising their kids wrongTrump supporters are demanding an H-1B freeze but American entrepreneur and politician, Vivek Ramaswamy, has a cultural diagnosis for the country's STEM shortfall. He says American parents are raising their kids wrong. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/maga-crowd-demands-no-h-1b-visas-for-indians-vivek-ramaswamy-says-american-parents-raising-their-kids-wrong-2656273-2024-12-27",
         "category": "technology",
@@ -8962,41 +8998,5 @@
         "uuid": "23ea1d74-a636-4eef-be01-241e6edcebaf",
         "positive": 10.6,
         "negative": 3.1
-    },
-    {
-        "headlines": "iPhone SE 4 said to launch soon, likely to get 5 big upgradesThe iPhone SE 4 is expected to launch this spring with an updated design, USB-C, 48MP camera, Apple Intelligence, and Apple's first in-house modem, making it the biggest SE upgrade yet.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-said-to-launch-soon-likely-to-get-5-big-upgrades-2657110-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T09:30:00",
-        "uuid": "8daa3f8a-e50f-46d9-8bf5-4e482eabd047",
-        "positive": 11.8,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Samsung Galaxy S25 slim expected to arrive later than the rest of the seriesThe Samsung Galaxy S25 series is rumoured to debut on January 22, but not its new entry. The Galaxy S25 Slim is rumoured to arrive months later than the rest. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-slim-expected-to-arrive-later-than-the-rest-of-the-series-2657077-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T08:46:00",
-        "uuid": "35058684-590e-4640-b13e-bd371ac640f8",
-        "positive": 8,
-        "negative": 0.3
-    },
-    {
-        "headlines": "iPhone 18 Fold leaks: When is Apple's first foldable phone coming?Apple's foldable iPhone is reportedly set to debut in 2026, featuring a clamshell design with a screen expected to be larger than the iPhone 16 Pro Max screen.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-18-fold-leaks-when-is-apples-first-foldable-phone-coming-2657088-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T08:41:00",
-        "uuid": "31042fce-a735-44a8-baa6-3aacaab47ac2",
-        "positive": 14.6,
-        "negative": 2.9
-    },
-    {
-        "headlines": "YouTube's Play something randomly picks videos for users who don't know what to watchYouTube is testing a floating \"Play something\" button on Android, randomly picking videos to play. It uses the Shorts player for all videos, including standard ones, for quick discovery.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/youtubes-play-something-randomly-picks-videos-for-users-who-dont-know-what-to-watch-2657163-2024-12-30",
-        "category": "technology",
-        "date_time": "2024-12-30T11:32:00",
-        "uuid": "3c062c54-d9f9-4e14-b6e0-83bc7eb5d22c",
-        "positive": 12.9,
-        "negative": 1.2
     }
 ]
