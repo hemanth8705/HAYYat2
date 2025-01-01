@@ -5769,6 +5769,15 @@
         "negative": 1.4
     },
     {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Harleen hits maiden ODI century in India's fiery batting-show vs West IndiesHarleen Deol dazzled with her maiden ODI century, leading India to their highest ODI total against West Indies. Her composed yet aggressive innings placed her alongside legends, showcasing India's batting brilliance in a dominant series display.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-west-indies-women-harleen-deol-maiden-odi-century-vadodara-2654701-2024-12-24",
         "category": "sports",
@@ -5902,15 +5911,6 @@
         "uuid": "c31544fc-5e43-4c0c-82ed-9d58eb456986",
         "positive": 11.9,
         "negative": 1.6
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
     },
     {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
@@ -6471,6 +6471,15 @@
         "negative": 2.7
     },
     {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/how-virat-kohli-and-rohit-sharma-geared-up-for-mcg-test-abhishek-nayar-reveals-2655689-2024-12-26",
         "category": "sports",
@@ -6532,15 +6541,6 @@
         "uuid": "3751b21d-723e-4a5d-a234-5b3e3a6ba890",
         "positive": 16.6,
         "negative": 6.6
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
     },
     {
         "headlines": "Marnus look at that: Siraj's bail switch does the trick for Bumrah at  MCGSiraj's playful bail-switching act against Labuschagne added humor to a tense Boxing Day Test, coinciding with Bumrah's crucial breakthroughs. The cheeky tactic sparked laughter and boosted India's momentum. ",
@@ -8235,6 +8235,69 @@
         "negative": 3.1
     },
     {
+        "headlines": "Watch: MS Dhoni and wife Sakshi dance at New Year party in GoaMS Dhoni welcomed the New Year with his family and friends at a lively beachside party in Goa. A video, which has since gone viral, showed Dhoni and his wife Sakshi dancing together.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-wife-sakshi-dance-video-new-year-2025-goa-party-2658093-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T11:35:00",
+        "uuid": "42e8b3d9-dd4f-4de0-b370-6ef56e7c48c8",
+        "positive": 18,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Smriti Mandhana drops in ICC ODI rankings despite record feat in 2024Star India batter Smriti Mandhana dropped one spot in the latest ICC ODI rankings despite her stellar show with the bat against New Zealand, Australia and West Indies. Mandhana recently broke Mithali Raj's record for India batter with the most hundreds in the WODIs.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-drops-in-icc-odi-rankings-despite-record-feat-in-2024-2658094-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T11:32:00",
+        "uuid": "b5e8feb9-98fe-48b0-8263-1c490e1f44a1",
+        "positive": 7.1,
+        "negative": 3.8
+    },
+    {
+        "headlines": "Historic 2024: Test cricket achieves special 50 first time in 148 years As 2024 comes to an end, it ushers in a historic achievement in Test cricket. With 50 outright results in 53 Test matches, this year has become the first in the sport's history to reach such an extraordinary milestone.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/test-cricket-historic-australia-india-england-2657979-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T20:56:00",
+        "uuid": "35009074-60eb-4a0c-a4d7-5be252c92daa",
+        "positive": 15.3,
+        "negative": 1.7
+    },
+    {
+        "headlines": "Virat Kohli exit plan: Ex-cricketer urges BCCI to be prepared for transitionFormer India medium pacer Atul Wassan emphasised the importance of preparing the Test team for a smooth transition, urging the BCCI to establish a clear succession plan for Virat Kohli. Kohli's place in the side has come under scrutiny following his lack of impactful performances in Australia.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-exit-plan-must-be-ready-atul-wassan-struggling-form-2657982-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T10:52:00",
+        "uuid": "367683a9-9fc5-4318-9586-875aa6ce62a1",
+        "positive": 9.3,
+        "negative": 6.7
+    },
+    {
+        "headlines": "Football in 2025: Ronaldo-Messi future and 4 other things coming upFootball in 2025 promises high-stakes drama as Lionel Messi, Cristiano Ronaldo, and major tournaments like the FIFA Club World Cup headline an exciting year, while clubs like Manchester United battle challenges and January transfers shape the season's fate.",
+        "article_url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-lionel-messi-future-fifa-world-cup-club-football-2025-action-champions-league-2657959-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T10:44:00",
+        "uuid": "1eb57766-e2a7-470c-9826-fab1cf6a1559",
+        "positive": 16.4,
+        "negative": 6.3
+    },
+    {
+        "headlines": "Without Bumrah, Test series would've been more 1-sided for Australia: McGrathLegendary Australia fast bowler Glenn McGrath feels the ongoing five-match Test series between India and Australia would've been a lot one-sided without Jasprit Bumrah.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/glenn-mcgrath-on-jasprit-bumrah-aus-vs-ind-border-gavaskar-trophy-2024-25-2658129-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T12:50:00",
+        "uuid": "46589122-115a-4957-868a-a720cd7602e4",
+        "positive": 8.1,
+        "negative": 0
+    },
+    {
+        "headlines": "Just not on: Ex-cricketers shocked by dressing room leaks from Australia TestsFormer cricketers, including Irfan Pathan, have condemned the leaks from the Indian dressing room during the Border-Gavaskar Trophy, following a news report about Gautam Gambhir's stern address to the team after their Boxing Day Test defeat. The controversy has added to the mounting pressure on the Indian team, which trails 1-2 in the series.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-dressing-room-gautam-gambhir-leak-irfan-pathan-criticism-2658124-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T12:39:00",
+        "uuid": "ab38018c-0196-4a94-ab9c-00c5ebbf677a",
+        "positive": 5.1,
+        "negative": 12.6
+    },
+    {
         "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
         "category": "technology",
@@ -8314,51 +8377,6 @@
         "uuid": "e56264c8-bbea-4f77-928b-581d01347516",
         "positive": 5.6,
         "negative": 1.5
-    },
-    {
-        "headlines": "Watch: MS Dhoni and wife Sakshi dance at New Year party in GoaMS Dhoni welcomed the New Year with his family and friends at a lively beachside party in Goa. A video, which has since gone viral, showed Dhoni and his wife Sakshi dancing together.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-wife-sakshi-dance-video-new-year-2025-goa-party-2658093-2025-01-01",
-        "category": "sports",
-        "date_time": "2025-01-01T11:35:00",
-        "uuid": "42e8b3d9-dd4f-4de0-b370-6ef56e7c48c8",
-        "positive": 18,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Smriti Mandhana drops in ICC ODI rankings despite record feat in 2024Star India batter Smriti Mandhana dropped one spot in the latest ICC ODI rankings despite her stellar show with the bat against New Zealand, Australia and West Indies. Mandhana recently broke Mithali Raj's record for India batter with the most hundreds in the WODIs.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-drops-in-icc-odi-rankings-despite-record-feat-in-2024-2658094-2025-01-01",
-        "category": "sports",
-        "date_time": "2025-01-01T11:32:00",
-        "uuid": "b5e8feb9-98fe-48b0-8263-1c490e1f44a1",
-        "positive": 7.1,
-        "negative": 3.8
-    },
-    {
-        "headlines": "Historic 2024: Test cricket achieves special 50 first time in 148 years As 2024 comes to an end, it ushers in a historic achievement in Test cricket. With 50 outright results in 53 Test matches, this year has become the first in the sport's history to reach such an extraordinary milestone.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/test-cricket-historic-australia-india-england-2657979-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T20:56:00",
-        "uuid": "35009074-60eb-4a0c-a4d7-5be252c92daa",
-        "positive": 15.3,
-        "negative": 1.7
-    },
-    {
-        "headlines": "Virat Kohli exit plan: Ex-cricketer urges BCCI to be prepared for transitionFormer India medium pacer Atul Wassan emphasised the importance of preparing the Test team for a smooth transition, urging the BCCI to establish a clear succession plan for Virat Kohli. Kohli's place in the side has come under scrutiny following his lack of impactful performances in Australia.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-exit-plan-must-be-ready-atul-wassan-struggling-form-2657982-2025-01-01",
-        "category": "sports",
-        "date_time": "2025-01-01T10:52:00",
-        "uuid": "367683a9-9fc5-4318-9586-875aa6ce62a1",
-        "positive": 9.3,
-        "negative": 6.7
-    },
-    {
-        "headlines": "Football in 2025: Ronaldo-Messi future and 4 other things coming upFootball in 2025 promises high-stakes drama as Lionel Messi, Cristiano Ronaldo, and major tournaments like the FIFA Club World Cup headline an exciting year, while clubs like Manchester United battle challenges and January transfers shape the season's fate.",
-        "article_url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-lionel-messi-future-fifa-world-cup-club-football-2025-action-champions-league-2657959-2025-01-01",
-        "category": "sports",
-        "date_time": "2025-01-01T10:44:00",
-        "uuid": "1eb57766-e2a7-470c-9826-fab1cf6a1559",
-        "positive": 16.4,
-        "negative": 6.3
     },
     {
         "headlines": "JioTag Go Android tracker launched with Google Find My Device supportJio has launched the first Android tracker in India. Called the JioTag Go, it works with Google's Find my Device network. ",
@@ -8739,6 +8757,15 @@
         "negative": 0.9
     },
     {
+        "headlines": "Snapdragon 8 Elite Gen 2 may launch soon: Check details hereQualcomm might launch the Snapdragon 8 Elite Gen 2 earlier than expected, with big performance upgrades. Meanwhile, the current Snapdragon 8 Elite is just starting to appear in flagship phones worldwide.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/snapdragon-8-elite-gen-2-may-launch-soon-check-details-here-2657602-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T08:56:00",
+        "uuid": "51f8417d-57cb-4169-9198-91b94a687ccf",
+        "positive": 10.3,
+        "negative": 0
+    },
+    {
         "headlines": "Oppo Find X8 Ultra battery and camera specs surface in latest leakThe Oppo Find X8 Ultra was spotted on China's UFSC certification website, shedding light on its battery specifications.",
         "article_url": "https://www.indiatoday.in/technology/news/story/oppo-find-x8-ultra-battery-and-camera-specs-surface-in-latest-leak-2654491-2024-12-24",
         "category": "technology",
@@ -8809,6 +8836,24 @@
         "uuid": "a1cd2125-d544-4223-ba4c-1feb6b7183be",
         "positive": 3.4,
         "negative": 1.5
+    },
+    {
+        "headlines": "Man loses Rs 87,000 after applying for loan, here is what happenedA man ended up losing a large sum of money while trying to apply for a loan. Surprisingly, this incident happened through the Flipkart app. Here's what happened.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/man-loses-rs-87000-after-applying-for-loan-here-is-what-happened-2657595-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T08:43:00",
+        "uuid": "c7d7600d-4503-4540-a4ad-849fe831acb7",
+        "positive": 5.5,
+        "negative": 13
+    },
+    {
+        "headlines": "OnePlus 13R leaks show off two colour variants, ahead of January 7 launchAs OnePlus gears up to launch its flagship series, the recent leak shows two colourways of the upcoming OnePlus 13R. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-leaks-show-off-two-colour-variants-ahead-of-india-launch-on-january-7-2657576-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T08:39:00",
+        "uuid": "8ad6dcf5-d324-45be-a17b-10ecedefaacb",
+        "positive": 7.4,
+        "negative": 3.1
     },
     {
         "headlines": "AI models now create text-to-video clips, promise a new futureWhat is the future of video creation with AI tools like Veo2 and Sora generating high-quality, realistic videos? More importantly, which is better for you? We try to find some answers to some of these questions.",
@@ -8892,15 +8937,6 @@
         "negative": 0.9
     },
     {
-        "headlines": "Snapdragon 8 Elite Gen 2 may launch soon: Check details hereQualcomm might launch the Snapdragon 8 Elite Gen 2 earlier than expected, with big performance upgrades. Meanwhile, the current Snapdragon 8 Elite is just starting to appear in flagship phones worldwide.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/snapdragon-8-elite-gen-2-may-launch-soon-check-details-here-2657602-2024-12-31",
-        "category": "technology",
-        "date_time": "2024-12-31T08:56:00",
-        "uuid": "51f8417d-57cb-4169-9198-91b94a687ccf",
-        "positive": 10.3,
-        "negative": 0
-    },
-    {
         "headlines": "WhatsApp releases new update for iOS users, now apply AR effects and more to cameraIn the latest update on WhatsApp for iOS, users can now apply AR effects, add new backgrounds to video recordings and more, directly in the WhatsApp camera.",
         "article_url": "https://www.indiatoday.in/technology/news/story/whatsapp-releases-new-update-for-ios-users-now-apply-ar-effects-and-more-to-camera-2655669-2024-12-26",
         "category": "technology",
@@ -8908,6 +8944,42 @@
         "uuid": "ece2bff5-3012-4b59-a658-f85f43351c2c",
         "positive": 9.7,
         "negative": 0.3
+    },
+    {
+        "headlines": "MacBook Air price drops to lowest in India: All details hereThe price of the MacBook Air has hit an all-time low in India, thanks to Vijay Sales' Apple Days sale as part of their New Year celebration. Here are the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/macbook-air-price-drops-to-lowest-in-india-all-details-here-2657655-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T11:26:00",
+        "uuid": "5f4da79d-5f6a-4095-929c-5731008ffe5d",
+        "positive": 7.9,
+        "negative": 1.9
+    },
+    {
+        "headlines": "iPhone 17 may get 120Hz display but there's a catchThe iPhone 17 is rumoured to bring high refresh rate displays to non-Pro models, along with an A19 chip, a 24-megapixel selfie camera, and other exciting upgrades.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-may-get-120hz-display-but-theres-a-catch-2657652-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T11:09:00",
+        "uuid": "8c374969-0579-4f90-b8fb-c69ed0ffd1f6",
+        "positive": 16.2,
+        "negative": 1.7
+    },
+    {
+        "headlines": "Oppo Reno 13 series set to launch in India next month: All we knowOppo India is set to launch the flagship Reno 13 series in India next month. Ahead of that, there are already a lot of details that have been revealed. From price, specifications to features, here is everything you can expect from the phones. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-series-set-to-launch-in-india-next-month-india-price-specs-and-all-we-know-2657634-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T10:28:00",
+        "uuid": "4c9a125d-7548-46b9-b156-95965fe38f25",
+        "positive": 6.2,
+        "negative": 1.4
+    },
+    {
+        "headlines": "Samsung Galaxy Z Flip 7 may arrive with a budget-friendly variant in 2025 Samsung is rumoured to be working on a new flip variant, which is reported to arrive at a budget-friendly price. The Samsung Galaxy Z Flip 7 FE could be the new entry. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-z-flip-7-may-arrive-with-a-budget-friendly-variant-in-2025-2657631-2024-12-31",
+        "category": "technology",
+        "date_time": "2024-12-31T10:24:00",
+        "uuid": "ed7bc67d-ef7a-475d-92aa-d27f8a5f201b",
+        "positive": 6.8,
+        "negative": 1.8
     },
     {
         "headlines": "Sriram in White House, Trump supporters demand ban on H1-B Visa The divide between Silicon Valley and Trump's base is emblematic of a broader cultural and political conflict in the US.",
@@ -8926,77 +8998,5 @@
         "uuid": "2611d619-9169-4617-88a9-eeb33f2c9453",
         "positive": 20.6,
         "negative": 2.2
-    },
-    {
-        "headlines": "27-year-old man loses Rs 57 lakh in part-time job scamA 27-year-old businessman from the electrical poles industry has been defrauded of Rs 57.75 lakh in a part-time job scam. Lured by promises of easy money for minimal work, the man ended up transferring a large sum of money over a period of time before realizing he had been scammed. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/27-year-old-man-loses-rs-57-lakh-in-part-time-job-scam-2655724-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T17:22:00",
-        "uuid": "ee697c7c-044e-47fc-81f2-374bd6459215",
-        "positive": 7.5,
-        "negative": 8.7
-    },
-    {
-        "headlines": "OnePlus Ace 5 aka OnePlus 13R launched: Price, specs and moreThe OnePlus Ace 5 smartphone has been launched in China, which is said to debut as the OnePlus 13R in global markets like India. If this turns out to be true, it won't be surprising because the same happened with previous versions too.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-ace-5-aka-oneplus-13r-launched-price-specs-and-more-2655800-2024-12-26",
-        "category": "technology",
-        "date_time": "2024-12-26T19:00:00",
-        "uuid": "1b31b478-d2a6-4e16-a6b2-5e5732c14170",
-        "positive": 8.4,
-        "negative": 0.4
-    },
-    {
-        "headlines": "ChatGPT faces second major outage in one month, Microsoft reveals causeOpenAI's ChatGPT suffered another blow this month when you were asleep. The company confirmed that its AI models, including its video model, Sora and ChatGPT, were down for several hours. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-faces-second-major-outage-in-december-2656015-2024-12-27",
-        "category": "technology",
-        "date_time": "2024-12-27T09:00:00",
-        "uuid": "f172bb88-7ce8-4964-b1e6-8febd6567e20",
-        "positive": 5.5,
-        "negative": 5.8
-    },
-    {
-        "headlines": "OneUI 7 adds improved continuity features for Galaxy devicesWith Camera continuity on OneUI 7, you can take a photo or scan a document on your Galaxy phone and then immediately continue working on it on another Galaxy device.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneui-7-adds-improved-continuity-features-for-galaxy-devices-2656027-2024-12-27",
-        "category": "technology",
-        "date_time": "2024-12-27T09:30:00",
-        "uuid": "b4e96463-505e-4a98-be67-9c8b3eb215e3",
-        "positive": 12,
-        "negative": 0.4
-    },
-    {
-        "headlines": "OnePlus 13, 13R India price leaked ahead of launch on January 7OnePlus 13 series is set to debut in India on January 7. The company has confirmed that the series will come with two devices: the OnePlus 13 and the OnePlus 13R. Ahead of the launch, a tipster has teased Indian prices for both.  ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13-13r-india-price-leaked-ahead-of-launch-on-january-7-2656034-2024-12-27",
-        "category": "technology",
-        "date_time": "2024-12-27T10:00:00",
-        "uuid": "bc8889e5-b9a4-4d58-b42b-697b0d6043d2",
-        "positive": 10.2,
-        "negative": 1.7
-    },
-    {
-        "headlines": "Man loses Rs 87,000 after applying for loan, here is what happenedA man ended up losing a large sum of money while trying to apply for a loan. Surprisingly, this incident happened through the Flipkart app. Here's what happened.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/man-loses-rs-87000-after-applying-for-loan-here-is-what-happened-2657595-2024-12-31",
-        "category": "technology",
-        "date_time": "2024-12-31T08:43:00",
-        "uuid": "c7d7600d-4503-4540-a4ad-849fe831acb7",
-        "positive": 5.5,
-        "negative": 13
-    },
-    {
-        "headlines": "OnePlus 13R leaks show off two colour variants, ahead of January 7 launchAs OnePlus gears up to launch its flagship series, the recent leak shows two colourways of the upcoming OnePlus 13R. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13r-leaks-show-off-two-colour-variants-ahead-of-india-launch-on-january-7-2657576-2024-12-31",
-        "category": "technology",
-        "date_time": "2024-12-31T08:39:00",
-        "uuid": "8ad6dcf5-d324-45be-a17b-10ecedefaacb",
-        "positive": 7.4,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Samsung Galaxy S25 Ultra colour variant leaked ahead of rumoured launch on January 22Samsung is expected to host its annual Galaxy Unpacked event on January 22 where he will launch the Galaxy S25 series and the Galaxy Ring. The company may also unveil the Galaxy S24 Slim at the event.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-ultra-colour-variant-leaked-ahead-of-rumoured-launch-on-january-22-2656029-2024-12-27",
-        "category": "technology",
-        "date_time": "2024-12-27T09:48:00",
-        "uuid": "8e72ac9a-5d27-488b-9038-9593da4b75c4",
-        "positive": 3.9,
-        "negative": 1.8
     }
 ]
