@@ -5787,15 +5787,6 @@
         "negative": 0
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Explained: Why Champions Trophy final in Dubai and not Pakistan if India qualifyChampions Trophy 2025: India will play all their matches in Dubai. If India don't reach the final, then the Gaddafi Stadium in Lahore will host the title match. Pakistan will host 11 out of the 15 matches in the tournament.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-champions-trophy-schedule-format-final-options-reserve-days-hybrid-model-2654752-2024-12-24",
         "category": "sports",
@@ -5866,6 +5857,15 @@
         "uuid": "23e072ab-93c7-4ec4-b84d-b1d08b6c160f",
         "positive": 9.6,
         "negative": 3.7
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Herculean Harleen fires India to ODI series win vs hapless West IndiesIndia sealed a commanding 115-run victory over West Indies in the second ODI, driven by Harleen Deol's maiden century and disciplined bowling. ",
@@ -6345,24 +6345,6 @@
         "negative": 5.1
     },
     {
-        "headlines": "Tata Motors share price rises 4%. Is it a good time to invest?Tata Motors stock: Over the past five trading sessions, Tata Motors has gained more than 6%. However, the stock has seen a decline of 18.36% in the last six months. ",
-        "article_url": "https://www.indiatoday.in/business/story/tata-motors-share-price-rises-4-percent-should-you-buy-brokerage-review-clsa-nomura-stmp-2659167-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:22:00",
-        "uuid": "0d42e310-e088-4be3-af4f-00eff674a2d1",
-        "positive": 9.6,
-        "negative": 2
-    },
-    {
-        "headlines": "Budget 2025: 5 key announcements India is waiting forBudget 2025 holds the potential to bring much-needed relief to the economy, addressing both long-term growth and immediate concerns like inflation.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-five-key-announcements-india-is-waiting-for-income-tax-relief-reduction-in-excise-duty-on-fuel-focus-on-job-creation-2659149-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:19:00",
-        "uuid": "1e18af1b-4984-47df-a82a-32d7d287e0a0",
-        "positive": 23.4,
-        "negative": 6.9
-    },
-    {
         "headlines": "King rattled? Pundits react to Virat Kohli's confrontation with Sam Konstas Border-Gavaskar Trophy: Sunil Gavaskar and Michael Vaughan were among the many who criticised Virat Kohli after the former India captain was involved in a physical altercation with 19-year-old debutant, Sam Konstas in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-4th-test-virat-kohli-sam-konstas-sunil-gavaskar-alyssa-healy-2655436-2024-12-26",
         "category": "sports",
@@ -6435,6 +6417,24 @@
         "negative": 7.7
     },
     {
+        "headlines": "Tata Motors share price rises 4%. Is it a good time to invest?Tata Motors stock: Over the past five trading sessions, Tata Motors has gained more than 6%. However, the stock has seen a decline of 18.36% in the last six months. ",
+        "article_url": "https://www.indiatoday.in/business/story/tata-motors-share-price-rises-4-percent-should-you-buy-brokerage-review-clsa-nomura-stmp-2659167-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T13:22:00",
+        "uuid": "0d42e310-e088-4be3-af4f-00eff674a2d1",
+        "positive": 9.6,
+        "negative": 2
+    },
+    {
+        "headlines": "Budget 2025: 5 key announcements India is waiting forBudget 2025 holds the potential to bring much-needed relief to the economy, addressing both long-term growth and immediate concerns like inflation.",
+        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-five-key-announcements-india-is-waiting-for-income-tax-relief-reduction-in-excise-duty-on-fuel-focus-on-job-creation-2659149-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T13:19:00",
+        "uuid": "1e18af1b-4984-47df-a82a-32d7d287e0a0",
+        "positive": 23.4,
+        "negative": 6.9
+    },
+    {
         "headlines": "Shikha Pandey signs for Canterbury Magicians for New Zealand Super Smash Indian speedster Shikha Pandey has signed for the Canterbury Magicians in the Women's Super Smash. The 35-year-old recently played for Brisbane Heat in the Women's Big Bash League (WBBL). ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-shikha-pandey-canterbury-magicians-super-smash-2655537-2024-12-26",
         "category": "sports",
@@ -6487,15 +6487,6 @@
         "uuid": "84160572-e95c-41b9-93aa-2d4ba5ca2667",
         "positive": 15.7,
         "negative": 2.7
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -6559,6 +6550,15 @@
         "uuid": "3751b21d-723e-4a5d-a234-5b3e3a6ba890",
         "positive": 16.6,
         "negative": 6.6
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "Marnus look at that: Siraj's bail switch does the trick for Bumrah at  MCGSiraj's playful bail-switching act against Labuschagne added humor to a tense Boxing Day Test, coinciding with Bumrah's crucial breakthroughs. The cheeky tactic sparked laughter and boosted India's momentum. ",
@@ -7704,15 +7704,6 @@
         "negative": 8.7
     },
     {
-        "headlines": "Commentator explains Travis Head's bizarre finger celebration at MCGAustralia vs India: A commentator explained Travis Head's bizarre finger celebration after removing Rishabh Pant in the final session on Day 5 of the Boxing Day Test.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-travis-head-bizarre-finger-celebration-rishabh-pant-mcg-test-2657151-2024-12-30",
-        "category": "sports",
-        "date_time": "2024-12-30T11:13:00",
-        "uuid": "af3617ff-9b8c-4c66-9db9-775e79f8c024",
-        "positive": 11.8,
-        "negative": 4.5
-    },
-    {
         "headlines": "DMart share price jumps 14% in early trade: Should you buy?DMart share price: The stock, which closed at Rs 3,617.75 in the previous session, rose to a high of Rs 4,165.00 during intraday trading.",
         "article_url": "https://www.indiatoday.in/business/story/dmart-share-price-avenue-supermarts-stock-jumps-13-percent-in-early-trade-should-you-buy-stmp-2659058-2025-01-03",
         "category": "business",
@@ -7729,6 +7720,15 @@
         "uuid": "4efce8ba-0944-4020-8728-69ab97953442",
         "positive": 20.5,
         "negative": 5.1
+    },
+    {
+        "headlines": "Commentator explains Travis Head's bizarre finger celebration at MCGAustralia vs India: A commentator explained Travis Head's bizarre finger celebration after removing Rishabh Pant in the final session on Day 5 of the Boxing Day Test.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-travis-head-bizarre-finger-celebration-rishabh-pant-mcg-test-2657151-2024-12-30",
+        "category": "sports",
+        "date_time": "2024-12-30T11:13:00",
+        "uuid": "af3617ff-9b8c-4c66-9db9-775e79f8c024",
+        "positive": 11.8,
+        "negative": 4.5
     },
     {
         "headlines": "Sunil Gavaskar blasts Yashasvi Jaiswal's controversial MCG dismissalLegendary Indian cricketer Sunil Gavaskar and the BCCI vice president Rajeev Shukla questioned third umpire Sharfuddoula's decision to adjudge Yashasvi Jaiswal out on Day 5 of the Boxing Day Test. ",
@@ -8217,24 +8217,6 @@
         "negative": 6.5
     },
     {
-        "headlines": "ITI share price soars over 12%, hits all-time high. Know whyITI stock price: Earlier, some analysts had advised investors to book profits as it was approaching a critical resistance zone. However, it has now surpassed the resistance zone and is likely to continue its upward momentum. ",
-        "article_url": "https://www.indiatoday.in/business/story/iti-share-price-gains-over-12-percent-hits-all-time-high-know-why-stmp-2659153-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:06:00",
-        "uuid": "5f33de41-c3dc-4590-a7d4-b0947c121e1f",
-        "positive": 9.1,
-        "negative": 3.5
-    },
-    {
-        "headlines": "Oil India, ONGC shares jump 5% today. What's fuelling the rally?The rally can be attributed to global policy measures aimed at economic revival, which investors believe could boost fuel demand and enhance earnings for upstream oil companies.",
-        "article_url": "https://www.indiatoday.in/business/story/oil-india-ongc-share-price-jump-5-percent-today-what-is-fuelling-the-rally-stmp-2659131-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T12:37:00",
-        "uuid": "c182a22b-c218-4ce8-80fb-e720c38c1ba0",
-        "positive": 11.8,
-        "negative": 6
-    },
-    {
         "headlines": "Indian cricket in 2025: Transition time again as Kohli, Rohit futures in focusWith the Champions Trophy and a few crucial Test series lined up in 2025, the Indian men's cricket team will be in the spotlight in the New Year. For the first time in over a decade, the team faces a transition phase, with questions looming over the futures of senior players.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-team-indias-transition-period-indian-cricket-in-2025-2657955-2025-01-01",
         "category": "sports",
@@ -8260,6 +8242,24 @@
         "uuid": "01079277-9acb-4880-93a5-6876a1af5a7a",
         "positive": 11.8,
         "negative": 1.4
+    },
+    {
+        "headlines": "ITI share price soars over 12%, hits all-time high. Know whyITI stock price: Earlier, some analysts had advised investors to book profits as it was approaching a critical resistance zone. However, it has now surpassed the resistance zone and is likely to continue its upward momentum. ",
+        "article_url": "https://www.indiatoday.in/business/story/iti-share-price-gains-over-12-percent-hits-all-time-high-know-why-stmp-2659153-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T13:06:00",
+        "uuid": "5f33de41-c3dc-4590-a7d4-b0947c121e1f",
+        "positive": 9.1,
+        "negative": 3.5
+    },
+    {
+        "headlines": "Oil India, ONGC shares jump 5% today. What's fuelling the rally?The rally can be attributed to global policy measures aimed at economic revival, which investors believe could boost fuel demand and enhance earnings for upstream oil companies.",
+        "article_url": "https://www.indiatoday.in/business/story/oil-india-ongc-share-price-jump-5-percent-today-what-is-fuelling-the-rally-stmp-2659131-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T12:37:00",
+        "uuid": "c182a22b-c218-4ce8-80fb-e720c38c1ba0",
+        "positive": 11.8,
+        "negative": 6
     },
     {
         "headlines": "What a joke: FIDE slammed after Carlsen, Nepomniachtchi share World Blitz crownGrandmasters Magnus Carlsen and Ian Nepomniachtchi made history by sharing the 2024 World Blitz Chess Championship title in New York. Carlsen proposed the tie, which Nepomniachtchi accepted, eliciting mixed reactions from the chess community.",
@@ -8667,15 +8667,6 @@
         "negative": 5.3
     },
     {
-        "headlines": "Leo Dry Fruits and Spices IPO: Check price band, GMP today  Leo Dry Fruits and Spices IPO last day: The initial public offering (IPO) of Leo Dry Fruits and Spices will close for bidding on Friday after having opened for subscription on January 1, 2025. ",
-        "article_url": "https://www.indiatoday.in/business/story/leo-dry-fruits-and-spices-ipo-last-day-check-price-band-gmp-today-stmp-2659089-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T11:24:00",
-        "uuid": "c2659c7f-63c5-4995-aa03-299569c9059b",
-        "positive": 9.8,
-        "negative": 0.5
-    },
-    {
         "headlines": "Transition phase in Test team has already begun, says coach Gautam GambhirAustralia vs India: Speaking to the press on the eve of the New Year's Test in Sydney, coach Gautam Gambhir said the transition phase in the Test team is not just a challenge but an exciting opportunity. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-coach-gautam-gambhir-press-conference-transition-phase-rohit-virat-2658458-2025-01-02",
         "category": "sports",
@@ -8692,6 +8683,15 @@
         "uuid": "23c31711-c99f-4b61-ab06-532168707f18",
         "positive": 4.9,
         "negative": 5.7
+    },
+    {
+        "headlines": "Leo Dry Fruits and Spices IPO: Check price band, GMP today  Leo Dry Fruits and Spices IPO last day: The initial public offering (IPO) of Leo Dry Fruits and Spices will close for bidding on Friday after having opened for subscription on January 1, 2025. ",
+        "article_url": "https://www.indiatoday.in/business/story/leo-dry-fruits-and-spices-ipo-last-day-check-price-band-gmp-today-stmp-2659089-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T11:24:00",
+        "uuid": "c2659c7f-63c5-4995-aa03-299569c9059b",
+        "positive": 9.8,
+        "negative": 0.5
     },
     {
         "headlines": "Pakistan board worried due to incomplete renovation work at Karachi StadiumThe Pakistan Cricket Board is racing against time to complete renovations at the National Stadium before the Champions Trophy, leading to a reshuffling of scheduled matches to alternate venues. ",
@@ -8712,6 +8712,15 @@
         "negative": 4.2
     },
     {
+        "headlines": "Won't be shocked if Rohit Sharma retires from Test cricket: Ravi ShastriFormer India coach Ravi Shastri said he would not be surprised if Rohit Sharma calls time on his Test career. Shastri's comments came after India coach Gautam Gambhir refrained from confirming Rohit's participation in the fifth Test against Australia.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-test-future-ravi-shastri-2658525-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T12:55:00",
+        "uuid": "131c9869-3c0e-4391-b656-cd35e9fc836a",
+        "positive": 12.6,
+        "negative": 4.4
+    },
+    {
         "headlines": "Rohit Sharma misses SCG Test, Jasprit Bumrah returns as captain Border Gavaskar Trophy, IND vs AUS: Rohit Sharma has been left out of India's playing XI for the New Year's Test against Australia. Shubman Gill has replaced him while Jasprit Bumrah has returned as captain. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/bgt-rohit-sharma-dropped-playing-xi-rested-jasprit-bumrah-sydney-test-captain-ind-vs-aus-2658937-2025-01-03",
         "category": "sports",
@@ -8721,13 +8730,13 @@
         "negative": 3.8
     },
     {
-        "headlines": "Won't be shocked if Rohit Sharma retires from Test cricket: Ravi ShastriFormer India coach Ravi Shastri said he would not be surprised if Rohit Sharma calls time on his Test career. Shastri's comments came after India coach Gautam Gambhir refrained from confirming Rohit's participation in the fifth Test against Australia.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-test-future-ravi-shastri-2658525-2025-01-02",
+        "headlines": "Poor Test form won't impact Rohit, Kohli in Champions Trophy: Shane WatsonShane Watson backed Virat Kohli and Rohit Sharma to shine in the Champions Trophy, dismissing concerns over their Test form. Despite struggles in the Border-Gavaskar Trophy, their ODI brilliance remains a critical factor for India's campaign success.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-virat-kohli-test-form-wont-impact-champions-trophy-shane-watson-2658570-2025-01-02",
         "category": "sports",
-        "date_time": "2025-01-02T12:55:00",
-        "uuid": "131c9869-3c0e-4391-b656-cd35e9fc836a",
-        "positive": 12.6,
-        "negative": 4.4
+        "date_time": "2025-01-02T14:03:00",
+        "uuid": "c43ff640-a650-48e8-8ba6-bc251abdefd7",
+        "positive": 11.9,
+        "negative": 6.2
     },
     {
         "headlines": "Sam Konstas built for this stage: Watson praises Australia opener's showmanshipFormer Australian all-rounder Shane Watson, who has mentored Sam Konstas, was pleasantly surprised by the 19-year-old's blockbuster debut in the fourth Test against India at the Melbourne Cricket Ground.",
@@ -8863,15 +8872,6 @@
         "uuid": "062f951a-697a-472f-8f94-2bbe18d310c9",
         "positive": 16.8,
         "negative": 2
-    },
-    {
-        "headlines": "Poor Test form won't impact Rohit, Kohli in Champions Trophy: Shane WatsonShane Watson backed Virat Kohli and Rohit Sharma to shine in the Champions Trophy, dismissing concerns over their Test form. Despite struggles in the Border-Gavaskar Trophy, their ODI brilliance remains a critical factor for India's campaign success.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-virat-kohli-test-form-wont-impact-champions-trophy-shane-watson-2658570-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T14:03:00",
-        "uuid": "c43ff640-a650-48e8-8ba6-bc251abdefd7",
-        "positive": 11.9,
-        "negative": 6.2
     },
     {
         "headlines": "South Africa vs Pakistan New Year's Test: All you need to knowSA vs PAK, 2nd Test: South Africa would be looking to carry on from where they left off in the Centurion Test, which they won by two wickets. The Proteas have already sealed their berth in the final of the World Test Championship. ",
