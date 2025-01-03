@@ -6588,15 +6588,6 @@
         "negative": 1.1
     },
     {
-        "headlines": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-india-players-black-armbands-tribute-former-pm-manmohan-singh-2655979-2024-12-27",
-        "category": "sports",
-        "date_time": "2024-12-27T06:00:00",
-        "uuid": "aafed959-c633-4310-b242-fe0c97a68ff6",
-        "positive": 9.5,
-        "negative": 5.1
-    },
-    {
         "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
         "category": "sports",
@@ -6604,6 +6595,15 @@
         "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
         "positive": 6.7,
         "negative": 6.2
+    },
+    {
+        "headlines": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-india-players-black-armbands-tribute-former-pm-manmohan-singh-2655979-2024-12-27",
+        "category": "sports",
+        "date_time": "2024-12-27T06:00:00",
+        "uuid": "aafed959-c633-4310-b242-fe0c97a68ff6",
+        "positive": 9.5,
+        "negative": 5.1
     },
     {
         "headlines": "Sam was gracious to brush it off: Cricket Australia CEO on Virat Kohli spatCricket Australia CEO Nick Hockley said teenage debutant Sam Konstas showed maturity beyond his age and was gracious to brush aside his physical altercation with India superstar Virat Kohli in the Boxing Day Test.",
@@ -7254,15 +7254,6 @@
         "negative": 2.7
     },
     {
-        "headlines": "Air India launches Wi-Fi service on select domestic flights. Check detailsAir India becomes the first airline within the country to offer in-flight Wi-Fi on domestic routes, starting January 1, 2025, with complimentary internet access for passengers.",
-        "article_url": "https://www.indiatoday.in/business/story/air-india-launches-wi-fi-service-on-select-domestic-flights-check-details-2658504-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T12:41:00",
-        "uuid": "b196cc35-87d3-401a-960e-a53d9f095038",
-        "positive": 12.7,
-        "negative": 0
-    },
-    {
         "headlines": "Can India win MCG Test if they concede lead? Here's what history says Border Gavaskar Trophy, IND vs AUS: At Stumps on Day 3 of the MCG Test, India trialed by 116 runs after Nitish Kumar Reddy's maiden Test hundred. But can India secure victory or salvage a draw from the position they are in? ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-australia-mcg-test-history-analysis-2656706-2024-12-28",
         "category": "sports",
@@ -7306,6 +7297,15 @@
         "uuid": "c887a387-2f1c-4986-abd8-6fca1a1299ac",
         "positive": 10.4,
         "negative": 2.8
+    },
+    {
+        "headlines": "Air India launches Wi-Fi service on select domestic flights. Check detailsAir India becomes the first airline within the country to offer in-flight Wi-Fi on domestic routes, starting January 1, 2025, with complimentary internet access for passengers.",
+        "article_url": "https://www.indiatoday.in/business/story/air-india-launches-wi-fi-service-on-select-domestic-flights-check-details-2658504-2025-01-02",
+        "category": "business",
+        "date_time": "2025-01-02T12:41:00",
+        "uuid": "b196cc35-87d3-401a-960e-a53d9f095038",
+        "positive": 12.7,
+        "negative": 0
     },
     {
         "headlines": "Will return better than ever: Lamine Yamal gives strong promise amidst injuryLamine Yamal vowed to return stronger after injuries disrupted his promising season, leaving Barcelona struggling in his absence as they lost their LaLiga top spot. The 17-year-old assured fans of his commitment to overcoming setbacks and regaining peak form.",
@@ -7776,24 +7776,6 @@
         "negative": 5.8
     },
     {
-        "headlines": "DMart share price jumps 14% in early trade: Should you buy?DMart share price: The stock, which closed at Rs 3,617.75 in the previous session, rose to a high of Rs 4,165.00 during intraday trading.",
-        "article_url": "https://www.indiatoday.in/business/story/dmart-share-price-avenue-supermarts-stock-jumps-13-percent-in-early-trade-should-you-buy-stmp-2659058-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T10:17:00",
-        "uuid": "6d735720-f25f-4026-a7c2-e09db160c540",
-        "positive": 12.9,
-        "negative": 2
-    },
-    {
-        "headlines": "Sensex drops 400 points; Nifty slips below 24,100 in early tradeThe S&P BSE Sensex lost 452.52 points to 79,491.29, while the NSE Nifty50 was down by 93.25 points to 24,095.40 as of 9:42 AM. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-drops-over-400-points-nifty-slips-below-24100-in-early-trade-2659048-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T10:32:00",
-        "uuid": "4efce8ba-0944-4020-8728-69ab97953442",
-        "positive": 20.5,
-        "negative": 5.1
-    },
-    {
         "headlines": "Virat Kohli deserves a longer rope, don't compare him to Rohit Sharma: ManjrekarSanjay Manjrekar said that it was unfair to judge Virat Kohli and Rohit Sharma's performances in the Border-Gavaskar Trophy by the same standard, particularly in light of calls for their retirement after their struggles in the Boxing Day Test.\r\n",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-virat-kohli-test-future-sanjay-manjrekar-2657236-2024-12-30",
         "category": "sports",
@@ -7846,6 +7828,24 @@
         "uuid": "3b1ae735-728d-46a2-b804-547c9ec6bfc3",
         "positive": 16.8,
         "negative": 3.2
+    },
+    {
+        "headlines": "DMart share price jumps 14% in early trade: Should you buy?DMart share price: The stock, which closed at Rs 3,617.75 in the previous session, rose to a high of Rs 4,165.00 during intraday trading.",
+        "article_url": "https://www.indiatoday.in/business/story/dmart-share-price-avenue-supermarts-stock-jumps-13-percent-in-early-trade-should-you-buy-stmp-2659058-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T10:17:00",
+        "uuid": "6d735720-f25f-4026-a7c2-e09db160c540",
+        "positive": 12.9,
+        "negative": 2
+    },
+    {
+        "headlines": "Sensex drops 400 points; Nifty slips below 24,100 in early tradeThe S&P BSE Sensex lost 452.52 points to 79,491.29, while the NSE Nifty50 was down by 93.25 points to 24,095.40 as of 9:42 AM. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-drops-over-400-points-nifty-slips-below-24100-in-early-trade-2659048-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T10:32:00",
+        "uuid": "4efce8ba-0944-4020-8728-69ab97953442",
+        "positive": 20.5,
+        "negative": 5.1
     },
     {
         "headlines": "Rohit Sharma slammed for blaming Pant, youngsters after MCG defeatBorder Gavaskar Trophy, IND vs AUS: Rohit Sharma faced criticism for his comments on youngsters after India lost the Boxing Day Test by 184 runs at the Melbourne Cricket Ground. ",
@@ -8847,6 +8847,15 @@
         "negative": 4.7
     },
     {
+        "headlines": "Virat Kohli has lower first innings Test average than Jasprit Bumrah since 2024Australia vs India: Virat Kohli, who fell after scoring 17 runs in the Sydney Test, has a lower first-innings Test average than Jasprit Bumrah since 2024. Kohli's woeful form continued after the batter once again edged the ball to the slip cordon. \r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-2024-lower-1st-innings-test-average-bumrah-2659121-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T12:20:00",
+        "uuid": "5c5d34c9-c154-4191-98de-9e2141a6023c",
+        "positive": 2.3,
+        "negative": 4.1
+    },
+    {
         "headlines": "National Sports Day 2024: Full list of Khel Ratna, Arjuna award winnersThe National Sports Awards 2024 celebrated India's top athletes, recognizing their unparalleled contributions to sports, including Major Dhyan Chand Khel Ratna winners Manu Bhaker, Gukesh D, Harmanpreet Singh, and Praveen Kumar. ",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/khel-ratna-arjuna-award-dronacharya-manu-bhaker-d-gukesh-full-list-winners-national-sports-day-2658628-2025-01-02",
         "category": "sports",
@@ -8865,6 +8874,24 @@
         "negative": 4.4
     },
     {
+        "headlines": "Awful decision: Washington Sundar shocked after controversial DRS call in SydneyAustralia vs India, 5th Test: Washington Sundar was not able to believe his luck when third umpire Joel Wilson ruled him caught behind after he appeared to glove a bouncer from Pat Cummins. Wilson made two debatable calls on Day 1 of the Test in Syndey. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-washington-sundar-catch-drs-joel-wilson-third-umpire-controveresy-2659112-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T12:12:00",
+        "uuid": "b5dc5a5b-bb7e-4b0b-aac3-b0fbeee393df",
+        "positive": 4.4,
+        "negative": 6.8
+    },
+    {
+        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T15:55:00",
+        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
+        "positive": 10.8,
+        "negative": 0
+    },
+    {
         "headlines": "Sydney Spirit of 2021 is what wounded India needs for series finaleIndia enters the SCG Test under intense scrutiny, aiming to replicate the grit and resilience of their iconic 2021 performance. With speculation around Rohit Sharma's absence, the team seeks to silence critics and defend the Border-Gavaskar Trophy.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sydney-test-2021-spirit-needed-rohit-sharma-exclusion-reports-series-finale-2658868-2025-01-02",
         "category": "sports",
@@ -8872,6 +8899,24 @@
         "uuid": "dd04fbd1-751d-4987-a684-81df0ebea398",
         "positive": 9.7,
         "negative": 5.3
+    },
+    {
+        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T10:43:00",
+        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
+        "positive": 7.1,
+        "negative": 2.8
+    },
+    {
+        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
+        "category": "technology",
+        "date_time": "2024-12-19T11:56:00",
+        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
+        "positive": 9.9,
+        "negative": 0.3
     },
     {
         "headlines": "Magnus Carlsen set to marry girlfriend Ella Victoria Malone: ReportsWorld No.1 chess player Magnus Carlsen is set to enter wedlock with 26-year-old Ella Victoria Malone. Carlsen recently shared the World Blitz Championship 2024 title with Russia's Ian Nepomniachtchi. ",
@@ -8953,50 +8998,5 @@
         "uuid": "58b4ef85-4e12-4da2-91fa-4db1fcceb723",
         "positive": 17.7,
         "negative": 3.2
-    },
-    {
-        "headlines": "India will not care about media stories ahead of Sydney Test: GavaskarSunil Gavaskar urged Team India to ignore media speculation about Rohit Sharma's potential exclusion and focus on the high-stakes Sydney Test, aiming to level the Border-Gavaskar Trophy and keep their World Test Championship hopes alive.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-will-not-care-about-media-stories-rohit-sharma-sydney-test-sunil-gavaskar-2658855-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T20:18:00",
-        "uuid": "57ac155c-504d-411e-81c2-301fdad0204f",
-        "positive": 7.9,
-        "negative": 5.2
-    },
-    {
-        "headlines": "SCG pitch has excessive grass, but no former Indian player is complaining: GavaskarFormer India captain Sunil Gavaskar slammed the unusually grassy pitch at the Sydney Cricket Ground, adding that former Indian players have refrained from criticising the challenging surfaces in Australia. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sunil-gavaskar-sydney-grass-pitch-5th-test-2659077-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T11:11:00",
-        "uuid": "f62a00d2-886c-4c31-8728-7a1a7bbbcdd4",
-        "positive": 8.4,
-        "negative": 9.6
-    },
-    {
-        "headlines": "ChatGPT is now available on call and WhatsApp, but here is the catchOpenAI has recently rolled out a new hotline feature for ChatGPT to be available on calls and WhatsApp chat. But, the 1800-ChatGPT feature is free for only 15 minutes. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-is-now-available-on-call-but-here-is-the-catch-2652073-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T15:55:00",
-        "uuid": "3304b8b7-635b-4734-ba40-b9385336259f",
-        "positive": 10.8,
-        "negative": 0
-    },
-    {
-        "headlines": "iPhone 17 Pro design details leaked online, will Apple make changes to it?There's speculation that the iPhone 17 Pro's three-camera setup will remain in the triangular arrangement, even though the back of the phone will look different from earlier models.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-pro-design-details-leaked-online-will-apple-make-changes-to-it-2652145-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T10:43:00",
-        "uuid": "3fafdc4a-c0a6-4855-9344-35f36b517e98",
-        "positive": 7.1,
-        "negative": 2.8
-    },
-    {
-        "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
-        "category": "technology",
-        "date_time": "2024-12-19T11:56:00",
-        "uuid": "7d1a61a0-b1f8-48e4-b08d-f730b5e39bb8",
-        "positive": 9.9,
-        "negative": 0.3
     }
 ]
