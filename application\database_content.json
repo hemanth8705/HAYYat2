@@ -1494,15 +1494,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Budget 2025: Date, time, and what to expectThe countdown to India's Union Budget 2025 has begun, with Nirmala Sitharaman set to present key policies and reforms on February 1.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-date-time-and-what-to-expect-fm-nirmala-sitharaman-to-present-key-policies-and-reforms-income-tax-2659224-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T14:14:00",
-        "uuid": "656e7794-f690-40ac-802d-d77de1fd7052",
-        "positive": 4.3,
-        "negative": 0.4
-    },
-    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -2376,13 +2367,13 @@
         "negative": 5
     },
     {
-        "headlines": "Sensex, Nifty snap losing streak with IT, metal surge; RIL shares up over 1%The S&P BSE Sensex was up 577.72 points to 78,619.31, while the NSE Nifty50 gained 185.80 points to 23,773.30. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-snap-losing-streak-with-it-metal-stocks-surge-ril-shares-up-over-1-percent-2653884-2024-12-23",
+        "headlines": "Own foreign assets or income? Disclose now to avoid Rs 10 lakh penaltyTaxpayers must disclose foreign income and assets by December 31, 2024, to avoid hefty penalties under the Income Tax and Black Money Acts.",
+        "article_url": "https://www.indiatoday.in/business/story/own-foreign-assets-or-income-disclose-in-itr-december-31-2024-to-avoid-rs-10-lakh-penalty-2651692-2024-12-18",
         "category": "business",
-        "date_time": "2024-12-23T09:41:00",
-        "uuid": "c5e8502f-013b-4a07-934b-2570a5f7e722",
-        "positive": 22,
-        "negative": 4.5
+        "date_time": "2024-12-18T18:23:00",
+        "uuid": "beb48ff2-0375-4501-bbc2-b92663c0a9e3",
+        "positive": 9.9,
+        "negative": 4.3
     },
     {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
@@ -3735,6 +3726,15 @@
         "negative": 2.7
     },
     {
+        "headlines": "Sensex, Nifty extend losses amid weak global cuesAt 10:28 am, the S&P BSE Sensex fell 274.86 points to 78,943.19, while the NSE Nifty50 dropped 67.90 points to 23,883.80.",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-today-sensex-nifty-extend-losses-amid-weak-global-cues-2652725-2024-12-20",
+        "category": "business",
+        "date_time": "2024-12-20T11:24:00",
+        "uuid": "e771e667-77eb-49df-b9bc-ac4a1f559bb1",
+        "positive": 10.2,
+        "negative": 7.9
+    },
+    {
         "headlines": "Inventurus Knowledge Solutions IPO share listing: Stocks list at 43% premium Inventurus Knowledge Solutions IPO share price: On the NSE, the shares opened at Rs 1,900 per share, marking a premium of 42.96% over the issue price. ",
         "article_url": "https://www.indiatoday.in/business/story/inventurus-knowledge-solutions-share-price-today-ipo-listing-43-percent-premium-stmp-2652146-2024-12-19",
         "category": "business",
@@ -4473,6 +4473,15 @@
         "negative": 7.1
     },
     {
+        "headlines": "Rupee hits all-time low against US dollar. Why is it under pressure?The rupee surpassed its previous low of 85.0850 reached on Thursday and settled at 85.10 by 10:00 am.",
+        "article_url": "https://www.indiatoday.in/business/story/rupee-hits-all-time-low-against-us-dollar-again-key-reasons-behind-pressure-2652736-2024-12-20",
+        "category": "business",
+        "date_time": "2024-12-20T11:13:00",
+        "uuid": "e12e6385-1476-47a4-9dc7-31abd3f17865",
+        "positive": 9.4,
+        "negative": 8.4
+    },
+    {
         "headlines": "Jadeja explains how missing the first two BGT Tests helped him in GabbaRavindra Jadeja credited his exclusion from the first two Tests of this BGT, for sharpening his preparation, as the all-rounder delivered a crucial batting performance at the Gabba. His 77-run innings stabilised India despite his failure to get a wicket in the match.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-ravindra-jadeja-missing-first-two-tests-helped-gabba-test-r-ashwin-2653268-2024-12-21",
         "category": "sports",
@@ -5047,24 +5056,6 @@
         "uuid": "a5c6a444-f95b-4063-bcdc-52d1c94f0b79",
         "positive": 11.1,
         "negative": 0
-    },
-    {
-        "headlines": "Sikandar poster: Salman Khan's first look from AR Murugadoss film revealedA new poster of Salman Khan-starrer Sikandar has been unveiled ahead of his birthday. It features the actor's first look from the AR Murugadoss film, where he can be seen carrying a spear.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-sikandar-first-poster-out-ahead-of-his-birthday-2655783-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T19:07:00",
-        "uuid": "71150f8e-d1a7-41d4-8b53-4005b34f6d22",
-        "positive": 7.4,
-        "negative": 3.3
-    },
-    {
-        "headlines": "Baby John box office Day 2: Varun Dhawan's film sees drop after strong openingVarun Dhawan's latest film, Baby John, witnessed a sharp decline in its second-day collections, earning around Rs 4.5 crore. The figures highlight an urgent need for increased audience engagement.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-2-varun-dhawan-film-sees-drop-after-strong-opening-2656003-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T08:32:00",
-        "uuid": "4297b76a-2803-47fb-9369-e0cd4f127b4c",
-        "positive": 9,
-        "negative": 1.8
     },
     {
         "headlines": "2 months, 6 ODI debuts: India continue experimenting with eyes on World CupINDW vs WIW: India have gone into an experimentation mode since crashing out of the Women's T20 World Cup back in October. Seven players have made debuts for them in international cricket, six of them are in ODIs. ",
@@ -5661,6 +5652,15 @@
         "negative": 0.6
     },
     {
+        "headlines": "Sensex, Nifty close lower in a choppy session; IT and metal stocks weighThe S&P BSE Sensex was down by 67.30 points to close at 78,472.87, while the NSE Nifty50 lost 23.35 points to end at 23,730.10. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-close-lower-in-a-choppy-session-it-metal-stocks-weigh-2654640-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T15:50:00",
+        "uuid": "b7dbf985-3441-4d45-851c-fda526c81eea",
+        "positive": 17.1,
+        "negative": 3.6
+    },
+    {
         "headlines": "Manchester United manager questions Rashford camp over new challenge commentsManchester United boss Ruben Amorim has questioned the decision-making of individuals close to forward Marcus Rashford, who has been absent from the team's last three games.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/football-manchester-united-manager-ruben-amorim-questions-rashford-camp-2654483-2024-12-24",
         "category": "sports",
@@ -5931,15 +5931,6 @@
         "negative": 0.8
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Vinod Kambli develops fever in hospital, condition stableVinod Kambli, battling a severe urinary infection and brain clots, is stable in ICU. Maharashtra Deputy CM Eknath Shinde and MP Shrikant Shinde have extended financial aid and support, ensuring the former cricketer receives top-notch medical care.",
         "article_url": "https://www.indiatoday.in/sports/story/vinod-kambli-develops-fever-in-hospital-condition-stable-2654988-2024-12-25",
         "category": "sports",
@@ -5947,6 +5938,24 @@
         "uuid": "c31544fc-5e43-4c0c-82ed-9d58eb456986",
         "positive": 11.9,
         "negative": 1.6
+    },
+    {
+        "headlines": "Gautam Adani on work-life balance: Spend at least 4 hours with familyChairperson of Adani Group, Gautam Adani, shared his take on work-life balance and said one must try to spend at least four hours with their families.",
+        "article_url": "https://www.indiatoday.in/business/story/gautam-adani-on-work-life-balance-spend-four-hours-with-family-2655881-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T21:56:00",
+        "uuid": "57c7aa47-d645-4f28-8904-d250e403a58e",
+        "positive": 9.2,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
@@ -5974,6 +5983,123 @@
         "uuid": "f67ec6f3-cac2-4584-9e5c-8b0bfc74d410",
         "positive": 14.5,
         "negative": 6
+    },
+    {
+        "headlines": "Sonu Sood shares why he rejected role of Chhedi Singh's brother in Dabangg 2Actor Sonu Sood, who played the main antagonist in Dabangg, recently revealed the reason behind rejecting its sequel. He was offered the role of Chhedi Singh's brother in Dabangg 2.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sonu-sood-shares-why-he-rejected-role-of-chhedi-singhs-brother-in-dabangg-2-2659152-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T13:11:00",
+        "uuid": "b3215f84-b1e6-4663-86ed-646d8d8c23e0",
+        "positive": 9.4,
+        "negative": 10.9
+    },
+    {
+        "headlines": "Yeh Jawaani Hai Deewani re-release: Ranbir-Deepika film eyes Rs 3 crore openingRanbir Kapoor and Deepika Padukone-starrer Yeh Jawaani Hai Deewani has re-released today, Friday. According to reports, the movie is eyeing a Rs 3 crore opening at the box office. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-re-release-ranbir-kapoor-deepika-padukone-3-crore-opening-2659274-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T15:33:00",
+        "uuid": "c591e3bf-e058-4c8b-9890-45fd22ad8d29",
+        "positive": 13.7,
+        "negative": 0
+    },
+    {
+        "headlines": "Kunaal Roy Kapur on Yeh Jawaani Hai Deewani's Taran becoming a social media heroActor Kunaal Roy Kapur opens up about his character Taran from the superhit, Yeh Jawaani Hai Deewani, which has re-released in cinemas today, Friday. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/kunaal-roy-kapur-on-yeh-jawaani-hai-deewani-taran-social-media-hero-2659282-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T15:52:00",
+        "uuid": "b016c9a5-a665-4fc9-aff5-737325e0bf60",
+        "positive": 11.7,
+        "negative": 3.2
+    },
+    {
+        "headlines": "Junaid Khan-Khushi Kapoor's Loveyapa song out, fans call it 'cringeyapa'Junaid Khan and Khushi Kapoor's new song Loveyapa Ho Gaya has been released, sparking mixed reactions from the audience. While some fans admired their chemistry, others labelled the track as 'cringe'.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/junaid-khan-khushi-kapoor-loveyapa-song-out-fans-call-it-cringeyapa-2659324-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T17:05:00",
+        "uuid": "8209a247-1b8a-42f3-855d-8dabf5e4aeda",
+        "positive": 13.9,
+        "negative": 0
+    },
+    {
+        "headlines": "RGV's Satya to re-release this January in cinemasDirector Ram Gopal Varma's acclaimed Satya will be re-releasing in theatres this January. The film, which challenged the syntax of cinema, will return to the big screen in the new year. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ram-gopal-varma-manoj-bajpayee-satya-to-re-release-this-january-2659389-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T18:42:00",
+        "uuid": "55987199-deb1-432c-b09a-9c3b857f3fec",
+        "positive": 6.1,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Karan Johar reacts as fans dance to Badtameez Dil in theatresRanbir Kapoor and Deepika Padukone's Yeh Jawaani Hai Deewani re-released in theatres on January 3. Karan Johar reacted to a viral video of fans dancing to Badtameez Dil in theatres. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-badtameez-dil-theatre-fans-dance-yeh-jawaani-hai-deewani-re-releases-deepika-padukone-ranbir-kapoor-2659347-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T18:02:00",
+        "uuid": "7f613667-d0b3-4efe-8ae3-602bacb735b3",
+        "positive": 5.2,
+        "negative": 0
+    },
+    {
+        "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
+        "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T17:05:00",
+        "uuid": "913aea87-537c-435c-9e2b-f62608a6667a",
+        "positive": 31.9,
+        "negative": 6.6
+    },
+    {
+        "headlines": "Tata Consumer dismisses reports of Starbucks exiting India as baselessAn earlier report claimed that Starbucks was considering exiting the Indian market due to high costs and mounting losses.",
+        "article_url": "https://www.indiatoday.in/business/story/tata-consumer-dismisses-reports-of-starbucks-exiting-india-2652370-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T16:26:00",
+        "uuid": "fb2ab85f-7b82-4662-9124-df0bf03c74aa",
+        "positive": 5.3,
+        "negative": 5.4
+    },
+    {
+        "headlines": "Sensex ends nearly 1,000 points lower, Nifty below 24,000The Sensex ended 964.15 points lower at 79,218.05, while the Nifty50 settled 247.15 points lower at 23,951.70.",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-closing-sensex-1000-points-lower-nifty-below-24000-us-federal-reserve-2652345-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T15:52:00",
+        "uuid": "009917bf-0232-4f45-9182-27d3fcf56fba",
+        "positive": 13.3,
+        "negative": 9
+    },
+    {
+        "headlines": "Missed ITR deadline? Here's your guide to filing belated return for AY 2024-25The last date to file a belated or revised ITR for FY 2023-24 is December 31, 2024—ensure all dues and penalties are paid to avoid additional charges.",
+        "article_url": "https://www.indiatoday.in/business/story/income-tax-filing-missed-itr-deadline-here-is-your-guide-to-filing-belated-return-for-ay-2024-25-2652309-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T15:42:00",
+        "uuid": "c33d5908-f7ea-4309-91d0-370ce60653fc",
+        "positive": 7.5,
+        "negative": 7.5
+    },
+    {
+        "headlines": "Quick delivery, quicker success: Zepto founders top Hurun listZepto, established in 2021 by the duo of Kaivalya Vohra and Aadit Palicha, has revolutionised the quick-commerce sector with its 10-minute grocery delivery model.",
+        "article_url": "https://www.indiatoday.in/business/story/zepto-co-founders-take-top-spot-in-hurun-self-made-entrepreneurs-list-kaivalya-vohra-aadit-palicha-2652329-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T16:03:00",
+        "uuid": "4c754995-f993-488b-a39c-1179c2d2edd0",
+        "positive": 6.6,
+        "negative": 0
+    },
+    {
+        "headlines": "US Fed rate cut decision: How will it impact Indian stock markets? The Sensex declined over 1,100 points and the Nifty fell below 24,000 after the US Federal Reserve's decision to cut interest rates by 0.25% to 4.5%, coupled with a hawkish outlook on future rate adjustments.",
+        "article_url": "https://www.indiatoday.in/business/story/us-federal-reserve-rate-cut-decision-impact-on-sensex-nifty-indian-stock-markets-2652262-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T13:25:00",
+        "uuid": "7ac46f00-ee57-4572-8cdf-236f2153b892",
+        "positive": 11.3,
+        "negative": 10.6
+    },
+    {
+        "headlines": "Mamata Machinery IPO: Latest GMP sees sharp rise; should you subscribe?Mamata Machinery, a leading manufacturer of packaging machines, seeks to raise Rs 179.39 crore from its offer for sale, with promoters selling up to 73.82 lakh equity shares at a face value of Rs 10 each.",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-latest-gmp-price-band-should-you-subscribe-stmp-2652244-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T16:00:00",
+        "uuid": "563715b2-c6c4-421a-ba60-c40bca975656",
+        "positive": 12.5,
+        "negative": 0.3
     },
     {
         "headlines": "Australia make Travis Head call, announce playing XI for Boxing Day Test Australia vs India, 4th Test: Australia received a massive Travis Head boost on Christmas as they confirmed their playing XI for the Boxing Day Test. 19-year-old Sam Konstas will make his debut on Thursday. ",
@@ -6255,6 +6381,15 @@
         "negative": 1.3
     },
     {
+        "headlines": "Explained: Why SpiceJet share price jumped nearly 8% todaySpicejet share price: The airline's share price was up 7.48% to Rs 60.49 on the Bombay Stock Exchange (BSE) at 12:40 pm.",
+        "article_url": "https://www.indiatoday.in/business/story/spicejet-share-price-jumps-8-percent-settlement-with-aircraft-lessor-genesis-stmp-2652228-2024-12-19",
+        "category": "business",
+        "date_time": "2024-12-19T12:45:00",
+        "uuid": "d29e790b-a750-49a8-bf29-ac28a05e83e9",
+        "positive": 20,
+        "negative": 4.5
+    },
+    {
         "headlines": "Can Rishabh Pant deliver Melbourne miracle for India in Boxing Day Test?Boxing Day Test: Rishabh Pant has always excelled in Australia, a country where he enjoyed immense success during his last two tours. However, this time, he has struggled. Pant has played five innings without crossing the 40-run mark. Can the Indian wicketkeeper deliver a Boxing Day miracle?",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rishabh-pant-melbourne-test-miracle-boxing-day-2655306-2024-12-25",
         "category": "sports",
@@ -6361,15 +6496,6 @@
         "uuid": "d0222fbf-46ca-4488-98cc-10ec73f11653",
         "positive": 5.7,
         "negative": 6.3
-    },
-    {
-        "headlines": "Salman Khan's Sikandar teaser delayed after Manmohan Singh's deathSalman Khan's Sikandar teaser has been rescheduled for December 28. It was earlier slated to release on December 27, on the actor's 59th birthday. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-sikandar-teaser-postponed-manmohan-singh-death-new-date-out-2656025-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T09:38:00",
-        "uuid": "bce31ba7-92ee-43c4-9bfa-a6126ab0dad1",
-        "positive": 6.9,
-        "negative": 10.4
     },
     {
         "headlines": "Will Virat Kohli be banned for Sam Konstas on-field bust-up? ICC rules explainedBorder-Gavaskar Trophy 2024: Virat Kohli might face a strict sanction from the International Cricket Council for his bust-up with teenage opener Sam Konstas on Day 1 of the Boxing Day Test in Melbourne. Kohli appeared to make deliberate contact with the opener on December 26. ",
@@ -6525,6 +6651,15 @@
         "negative": 2
     },
     {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
         "headlines": "Sam Konstas' batting is future of opening in Tests: Gavaskar hails MCG knockSunil Gavaskar lauds 19-year-old Sam Konstas for redefining Test opening batting with fearless, unorthodox shots. Comparing it to limited-overs tactics, Gavaskar highlights how the young batter's bold approach disrupted Bumrah's rhythm. ",
         "article_url": "https://www.indiatoday.in/sports/story/sam-konstas-batting-is-future-of-opening-in-tests-gavaskar-hails-mcg-knock-2655813-2024-12-26",
         "category": "sports",
@@ -6631,15 +6766,6 @@
         "uuid": "8c081cf4-3b7c-45ef-a1b3-a1fd140616e9",
         "positive": 7.3,
         "negative": 1.1
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
     },
     {
         "headlines": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n",
@@ -7029,51 +7155,6 @@
         "negative": 7.7
     },
     {
-        "headlines": "Baby John: What derails Varun Dhawan and Atlee's action thriller?Despite much anticipation for Varun Dhawan's action thriller Baby John, it failed to impress fans.  Here's a complete round-up highlighting points about what did not work for the film. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-varun-dhawan-atlee-action-thriller-kalees-keerthy-suresh-wamiqa-gabbi-jackie-shroff-2655601-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T09:56:00",
-        "uuid": "8ac85c02-1d02-4e62-8ee7-c7850d738ad5",
-        "positive": 16.2,
-        "negative": 11.8
-    },
-    {
-        "headlines": "Karan Johar calls Varun Dhawan's Baby John 'one helluva masala ride' Baby John is currently running in theatres. Karan Johar praised Varun Dhawan's film and urged fans to watch the \"new year spectacle\".",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-calls-varun-dhawans-baby-john-one-helluva-masala-ride-2656101-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T12:03:00",
-        "uuid": "57971feb-6b54-40c5-8fcc-a455cca3d1d7",
-        "positive": 11.5,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Yeh Jawaani Hai Deewani to re-release in theatres in JanuaryThe beloved romantic comedy Yeh Jawaani Hai Deewani, starring Ranbir Kapoor, Deepika Padukone, and Aditya Roy Kapur, is set to return to theatres. On Friday, Dharma Movies announced the re-release date in an exciting social media post.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-to-re-release-in-theatres-in-january-2656164-2024-12-27",
-        "category": "bollywood",
-        "date_time": "2024-12-27T13:59:00",
-        "uuid": "e5b2fde1-b7aa-4579-98ca-cae308dfc840",
-        "positive": 17.2,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Baby John box office Day 3: Varun Dhawan's film sees decline in earningsIt has been three days since Varun Dhawan's Baby John hit theatres. However, the film has been experiencing a lull at the box office, with earnings steadily declining since its opening day.\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-3-varun-dhawans-film-sees-decline-in-earnings-2656548-2024-12-28",
-        "category": "bollywood",
-        "date_time": "2024-12-28T08:36:00",
-        "uuid": "b34d8f45-941d-4c4c-a6aa-a20d8595fcf2",
-        "positive": 3.4,
-        "negative": 2.9
-    },
-    {
-        "headlines": "Sikandar teaser: Salman Khan gears up for high-octane action on Eid 2025Salman Khan's Sikandar teaser is finally out. The movie, directed by AR Murugadoss, will release in theatres on Eid 2025. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-salman-khan-high-octane-action-eid-2025-ar-murugadoss-rashmika-mandanna-sajid-nadiadwala-2656669-2024-12-28",
-        "category": "bollywood",
-        "date_time": "2024-12-28T16:22:00",
-        "uuid": "745bf0f5-a0ee-4d87-8704-04e20c22e2e9",
-        "positive": 6,
-        "negative": 8.3
-    },
-    {
         "headlines": "Cristiano Ronaldo makes bold Manchester United ownership claimCristiano Ronaldo has defended Ruben Amorim amid the Manchester United \"storm\" and made a very bold claim about his possible return to the club.",
         "article_url": "https://www.indiatoday.in/sports/story/cristiano-ronaldo-bold-manchester-united-ownership-claim-2656546-2024-12-28",
         "category": "sports",
@@ -7281,6 +7362,15 @@
         "negative": 2.8
     },
     {
+        "headlines": "Senores Pharmaceuticals IPO: Check latest GMP, price band and should you apply?Senores Pharmaceuticals IPO: The Ahmedabad-based pharmaceutical company is offering shares in a price range of Rs 372-391, with a minimum application size of 38 equity shares and multiples thereafter.",
+        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-ipo-check-latest-gmp-price-band-and-should-you-apply-stmp-2652775-2024-12-20",
+        "category": "business",
+        "date_time": "2024-12-20T12:17:00",
+        "uuid": "9b5ad8e8-3457-4f98-bd4e-a099021be7d8",
+        "positive": 16.1,
+        "negative": 1.3
+    },
+    {
         "headlines": "Nitish Reddy impressed me from 1st Test: Sachin Tendulkar praises MCG starSachin Tendulkar lauded Nitish Kumar Reddy's composure during his maiden Test hundred at the MCG, calling it \"a knock to remember.\" He also praised Washington Sundar's valuable support in a crucial 127-run partnership that kept India in contention.",
         "article_url": "https://www.indiatoday.in/sports/story/nitish-reddy-impressed-me-from-1st-test-sachin-tendulkar-praises-mcg-star-aus-vs-ind-2656718-2024-12-28",
         "category": "sports",
@@ -7351,15 +7441,6 @@
         "uuid": "218081af-664e-48ec-acc2-1814851deed1",
         "positive": 12,
         "negative": 3.9
-    },
-    {
-        "headlines": "Zomato shares to be in focus today. Here's why Zomato's stock has surged nearly 43% over the last six months and approximately 126% over the past year, far outpacing the Sensex's one-year return of 10.7%. ",
-        "article_url": "https://www.indiatoday.in/business/story/zomato-share-price-in-focus-entry-bse-sensex-replaces-jsw-steel-stocks-to-watch-2653878-2024-12-23",
-        "category": "business",
-        "date_time": "2024-12-23T09:07:00",
-        "uuid": "0829faec-bc91-44a1-a323-119e3b95a1bf",
-        "positive": 13.6,
-        "negative": 0
     },
     {
         "headlines": "PM Narendra Modi meets D Gukesh, receives signed chess board from world championPM Narendra Modi hailed D Gukesh's historic World Chess Championship victory during their meeting. The young champion gifted the Prime Minister a signed chessboard, symbolising his triumph and India's growing prominence in the global chess arena.",
@@ -7495,15 +7576,6 @@
         "uuid": "b1c8a39e-96da-49a2-bebb-f74616ba981b",
         "positive": 5.2,
         "negative": 3
-    },
-    {
-        "headlines": "Sensex, Nifty close lower in a choppy session; IT and metal stocks weighThe S&P BSE Sensex was down by 67.30 points to close at 78,472.87, while the NSE Nifty50 lost 23.35 points to end at 23,730.10. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-close-lower-in-a-choppy-session-it-metal-stocks-weigh-2654640-2024-12-24",
-        "category": "business",
-        "date_time": "2024-12-24T15:50:00",
-        "uuid": "b7dbf985-3441-4d45-851c-fda526c81eea",
-        "positive": 17.1,
-        "negative": 3.6
     },
     {
         "headlines": "What is the highest successful run-chase in Melbourne Tests? AUS vs IND: The Boxing Day Test at the Melbourne Cricket Ground is poised to be a thriller with a day left. India have a healthy record at the MCG and would be fancying their chances, but what are the chances?  ",
@@ -8010,6 +8082,15 @@
         "negative": 6.8
     },
     {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
+    },
+    {
         "headlines": "No more Fab 4: Virat Kohli fails to keep up with ever-evolving peers IND vs AUS: Virat Kohli has struggled to find his form in Test cricket over the last five years, while the other members of the Fab-Four, Steve Smith, Kane Williamson and Steve Smith, have kept hammering runs all around the globe. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-virat-kohli-test-comparison-fab-four-williamson-smith-root-2657490-2024-12-31",
         "category": "sports",
@@ -8089,15 +8170,6 @@
         "uuid": "f032957a-df68-442d-ae22-4f269e264f33",
         "positive": 13.1,
         "negative": 3.5
-    },
-    {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8926,77 +8998,5 @@
         "uuid": "7afeffe8-186c-4a0e-a5e3-60570bfc8f6f",
         "positive": 5.9,
         "negative": 3.2
-    },
-    {
-        "headlines": "Rohit Sharma misses SCG Test, Jasprit Bumrah returns as captain Border Gavaskar Trophy, IND vs AUS: Rohit Sharma has been left out of India's playing XI for the New Year's Test against Australia. Shubman Gill has replaced him while Jasprit Bumrah has returned as captain. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/bgt-rohit-sharma-dropped-playing-xi-rested-jasprit-bumrah-sydney-test-captain-ind-vs-aus-2658937-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T04:42:00",
-        "uuid": "02d29080-89eb-462f-835a-828c7c2d4c49",
-        "positive": 6.7,
-        "negative": 3.8
-    },
-    {
-        "headlines": "Bold call from Rohit Sharma to rest himself for Sydney Test: Ravi ShastriIND vs AUS: Former India head coach Ravi Shastri believes that it was a bold call to 'rest' Rohit Sharma for the final Test match in Sydney. Sharma opted to remove himself from the playing XI and bring in Shubman Gill.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rohit-sharma-dropped-retirement-avi-shastri-reacts-2659005-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T06:13:00",
-        "uuid": "52f0de41-5437-476a-a2dd-3f8511980d05",
-        "positive": 7.1,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Our captain Rohit Sharma opted to 'rest', no selfishness in team: Jasprit BumrahIND vs AUS: Unselfish Rohit Sharma has opted to 'rest' himself from the SCG Test, said stand-in captain Jasprit Bumrah. Bumrah said that the Indian team was as united as ever and were trying to keep the positives in mind going into the final match of the series.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-jasprit-bumrah-captain-rohit-sharma-rested-india-playing-xi-scg-2659003-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T06:22:00",
-        "uuid": "e8537b45-880a-40b5-ba12-cc16116059e0",
-        "positive": 13.8,
-        "negative": 4.1
-    },
-    {
-        "headlines": "He's been dropped: Mark Taylor slams Rohit Sharma's 'resting' antics at SCGFormer Australia cricketer Mark Taylor has slammed Team India's line of Rohit Sharma 'resting himself'. Speaking on Triple M Cricket, Taylor said that Rohit has been dropped, and the team should just simply say so.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-dropped-mark-taylor-ind-vs-aus-scg-test-2659007-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T07:15:00",
-        "uuid": "f5cf3806-feaa-4337-8a22-3ff9c42582af",
-        "positive": 3.6,
-        "negative": 3.2
-    },
-    {
-        "headlines": "Virat Kohli out or not? Smith upset over third umpire's call in Sydney TestAustralia vs India, 5th Test: Virat Kohli was handed a lifeline when he was batting on 0 in the first innings of the final Test in Sydney. Steve Smith's effort in the slip cordon was deemed not out by third umpire Joel Wilson, leading to mixed reactions. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-sydney-test-virat-kohli-catch-not-out-joel-wilson-steve-smith-2659006-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T07:11:00",
-        "uuid": "82dd9b4e-46ba-4927-9b64-f31997ebb3e6",
-        "positive": 5.1,
-        "negative": 5.2
-    },
-    {
-        "headlines": "Rohit Sharma has played his last Test for India: Sunil GavaskarIndia captain Rohit Sharma has played his last Test match in Melbourne, said Sunil Gavaskar on Friday - Day 1 of the final Test match of the Border-Gavaskar Trophy. Sharma skipped the SCG Test after opting to rest himself.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-rohit-sharma-retirement-rested-dropped-gavaskar-2659020-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T08:25:00",
-        "uuid": "8f06afca-5794-42fd-8d20-cd8c81035acf",
-        "positive": 7,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Steve Smith '100 percent' certain he got his hand under Virat Kohli's catchSteven Smith is 100 percent certain he got his hand under the ball while attempting to catch Virat Kohli at slip on the first day of the SCG Test. The decision was referred to the TV umpire and was eventually ruled not out.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-steve-smith-reaction-virat-kohli-catch-sydney-test-2659017-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T08:15:00",
-        "uuid": "e1a46b88-84a0-4cab-9262-5caff5a44f49",
-        "positive": 11.5,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Sam Konstas built for this stage: Watson praises Australia opener's showmanshipFormer Australian all-rounder Shane Watson, who has mentored Sam Konstas, was pleasantly surprised by the 19-year-old's blockbuster debut in the fourth Test against India at the Melbourne Cricket Ground.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-shane-watson-on-sam-konstas-debut-2659029-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T09:02:00",
-        "uuid": "6a2aaf0f-ea5f-4d6c-b18c-45fd707bed51",
-        "positive": 13.5,
-        "negative": 3.7
     }
 ]
