@@ -5796,6 +5796,15 @@
         "negative": 1.2
     },
     {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Cannot grudge Shami snub vs Australia: Aakash Chopra on pacer's injuryAakash Chopra supported BCCI's decision to exclude Mohammed Shami from the Border-Gavaskar Trophy squad, citing the pacer's ongoing knee injury recovery and emphasizing the importance of not rushing him back into high-pressure international cricket.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mohammed-shami-snub-cannot-be-gruged-aakash-chopra-injury-2654748-2024-12-24",
         "category": "sports",
@@ -5902,15 +5911,6 @@
         "uuid": "c31544fc-5e43-4c0c-82ed-9d58eb456986",
         "positive": 11.9,
         "negative": 1.6
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
     },
     {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
@@ -6354,6 +6354,24 @@
         "negative": 8.9
     },
     {
+        "headlines": "Tata Motors share price rises 4%. Is it a good time to invest?Tata Motors stock: Over the past five trading sessions, Tata Motors has gained more than 6%. However, the stock has seen a decline of 18.36% in the last six months. ",
+        "article_url": "https://www.indiatoday.in/business/story/tata-motors-share-price-rises-4-percent-should-you-buy-brokerage-review-clsa-nomura-stmp-2659167-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T13:22:00",
+        "uuid": "0d42e310-e088-4be3-af4f-00eff674a2d1",
+        "positive": 9.6,
+        "negative": 2
+    },
+    {
+        "headlines": "Budget 2025: 5 key announcements India is waiting forBudget 2025 holds the potential to bring much-needed relief to the economy, addressing both long-term growth and immediate concerns like inflation.",
+        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-five-key-announcements-india-is-waiting-for-income-tax-relief-reduction-in-excise-duty-on-fuel-focus-on-job-creation-2659149-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T13:19:00",
+        "uuid": "1e18af1b-4984-47df-a82a-32d7d287e0a0",
+        "positive": 23.4,
+        "negative": 6.9
+    },
+    {
         "headlines": "Sam Konstas reminded me of 2003 Virender Sehwag: Justin LangerBorder-Gavaskar Trophy: Former Australian opener Justin Langer likened Sam Konstas to ex-Indian opener Virender Sehwag after the teenage debutant lit up the MCG with a stroke-filled 60 against India.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-justin-langer-sam-konstas-60-mcg-virender-sehwag-2655460-2024-12-26",
         "category": "sports",
@@ -6379,24 +6397,6 @@
         "uuid": "78245464-1251-46ae-bfe9-fc0b6ef28d37",
         "positive": 1.9,
         "negative": 4.5
-    },
-    {
-        "headlines": "Tata Motors share price rises 4%. Is it a good time to invest?Tata Motors stock: Over the past five trading sessions, Tata Motors has gained more than 6%. However, the stock has seen a decline of 18.36% in the last six months. ",
-        "article_url": "https://www.indiatoday.in/business/story/tata-motors-share-price-rises-4-percent-should-you-buy-brokerage-review-clsa-nomura-stmp-2659167-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:22:00",
-        "uuid": "0d42e310-e088-4be3-af4f-00eff674a2d1",
-        "positive": 9.6,
-        "negative": 2
-    },
-    {
-        "headlines": "Budget 2025: 5 key announcements India is waiting forBudget 2025 holds the potential to bring much-needed relief to the economy, addressing both long-term growth and immediate concerns like inflation.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-five-key-announcements-india-is-waiting-for-income-tax-relief-reduction-in-excise-duty-on-fuel-focus-on-job-creation-2659149-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:19:00",
-        "uuid": "1e18af1b-4984-47df-a82a-32d7d287e0a0",
-        "positive": 23.4,
-        "negative": 6.9
     },
     {
         "headlines": "Fiery Virat Kohli instructions at MCG caught on stump micVirat Kohli was caught on the stump mic delivering stern instructions to pacer Mohammed Siraj, saying, \"Has ke baat nahi karna inse\" (Don't smile while talking to them) on Day 1 of the fourth Test.\r\n",
@@ -6489,6 +6489,15 @@
         "negative": 2.7
     },
     {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/how-virat-kohli-and-rohit-sharma-geared-up-for-mcg-test-abhishek-nayar-reveals-2655689-2024-12-26",
         "category": "sports",
@@ -6514,15 +6523,6 @@
         "uuid": "78c5609f-9df3-46cb-bcae-364bd56f3413",
         "positive": 11.3,
         "negative": 4.2
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
     },
     {
         "headlines": "Watch: Kamran Ghulam abuses Kagiso Rabada, later bowler takes catch in 1st TestTensions flared on Day 1 of the 1st Test between Pakistan and South Africa, with Kamran Ghulam allegedly abusing Kagiso Rabada and clashing with Kyle Verreynne. Later, Rabada had the last laugh by dismissing him with a catch.  ",
@@ -7821,6 +7821,15 @@
         "negative": 8.9
     },
     {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
+    },
+    {
         "headlines": "Yashasvi Jaiswal hit it: Cummins gives verdict on controversial dismissalIND vs AUS, Border Gavaskar Trophy: Yashasvi Jaiswal scored 82 runs and was dismissed by Pat Cummins on Day 5 of the Boxing Day Test against Australia at the Melbourne Cricket Ground. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-yashasvi-jaiswal-pat-cummins-controversial-dismissal-mcg-test-2657303-2024-12-30",
         "category": "sports",
@@ -7954,15 +7963,6 @@
         "uuid": "19520a48-eb7f-4cd7-9ae6-c7642903157b",
         "positive": 8.6,
         "negative": 11.5
-    },
-    {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
     },
     {
         "headlines": "Captain fantastic: Cummins steps up to haunt India againBoxing Day Test, IND vs AUS: Pat Cummins has been a thorn in the flesh for India over the last one and a half years. On Monday, he captained Australia to a 2-1 series lead with an 184-run win at the Melbourne Cricket Ground. ",
@@ -8154,6 +8154,24 @@
         "negative": 1
     },
     {
+        "headlines": "ITI share price soars over 12%, hits all-time high. Know whyITI stock price: Earlier, some analysts had advised investors to book profits as it was approaching a critical resistance zone. However, it has now surpassed the resistance zone and is likely to continue its upward momentum. ",
+        "article_url": "https://www.indiatoday.in/business/story/iti-share-price-gains-over-12-percent-hits-all-time-high-know-why-stmp-2659153-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T13:06:00",
+        "uuid": "5f33de41-c3dc-4590-a7d4-b0947c121e1f",
+        "positive": 9.1,
+        "negative": 3.5
+    },
+    {
+        "headlines": "Oil India, ONGC shares jump 5% today. What's fuelling the rally?The rally can be attributed to global policy measures aimed at economic revival, which investors believe could boost fuel demand and enhance earnings for upstream oil companies.",
+        "article_url": "https://www.indiatoday.in/business/story/oil-india-ongc-share-price-jump-5-percent-today-what-is-fuelling-the-rally-stmp-2659131-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T12:37:00",
+        "uuid": "c182a22b-c218-4ce8-80fb-e720c38c1ba0",
+        "positive": 11.8,
+        "negative": 6
+    },
+    {
         "headlines": "TikTok with Iga Swiatek? Aryna Sabalenka responds with cheeky remarkWorld No.1 Aryna Sabalenka spoke about her camaraderie with Poland's Iga Swiatek and gave a cheeky response about featuring in TikTok videos with her. Sabalenka is currently plying her trade in the Brisbane International where she defeated Renata Zarazua in the first round. ",
         "article_url": "https://www.indiatoday.in/sports/tennis/story/brisbane-international-aryna-sabalenka-iga-swiatek-tiktok-cheeky-remark-2657935-2024-12-31",
         "category": "sports",
@@ -8296,24 +8314,6 @@
         "uuid": "1d48e5e6-454b-4f7b-88b2-7484b088df9c",
         "positive": 18.7,
         "negative": 3.5
-    },
-    {
-        "headlines": "ITI share price soars over 12%, hits all-time high. Know whyITI stock price: Earlier, some analysts had advised investors to book profits as it was approaching a critical resistance zone. However, it has now surpassed the resistance zone and is likely to continue its upward momentum. ",
-        "article_url": "https://www.indiatoday.in/business/story/iti-share-price-gains-over-12-percent-hits-all-time-high-know-why-stmp-2659153-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:06:00",
-        "uuid": "5f33de41-c3dc-4590-a7d4-b0947c121e1f",
-        "positive": 9.1,
-        "negative": 3.5
-    },
-    {
-        "headlines": "Oil India, ONGC shares jump 5% today. What's fuelling the rally?The rally can be attributed to global policy measures aimed at economic revival, which investors believe could boost fuel demand and enhance earnings for upstream oil companies.",
-        "article_url": "https://www.indiatoday.in/business/story/oil-india-ongc-share-price-jump-5-percent-today-what-is-fuelling-the-rally-stmp-2659131-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T12:37:00",
-        "uuid": "c182a22b-c218-4ce8-80fb-e720c38c1ba0",
-        "positive": 11.8,
-        "negative": 6
     },
     {
         "headlines": "Without Bumrah, Test series would've been more 1-sided for Australia: McGrathLegendary Australia fast bowler Glenn McGrath feels the ongoing five-match Test series between India and Australia would've been a lot one-sided without Jasprit Bumrah.",
@@ -8721,15 +8721,6 @@
         "negative": 6.2
     },
     {
-        "headlines": "Leo Dry Fruits and Spices IPO: Check price band, GMP today  Leo Dry Fruits and Spices IPO last day: The initial public offering (IPO) of Leo Dry Fruits and Spices will close for bidding on Friday after having opened for subscription on January 1, 2025. ",
-        "article_url": "https://www.indiatoday.in/business/story/leo-dry-fruits-and-spices-ipo-last-day-check-price-band-gmp-today-stmp-2659089-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T11:24:00",
-        "uuid": "c2659c7f-63c5-4995-aa03-299569c9059b",
-        "positive": 9.8,
-        "negative": 0.5
-    },
-    {
         "headlines": "National Sports Day 2024: Full list of Khel Ratna, Arjuna award winnersThe National Sports Awards 2024 celebrated India's top athletes, recognizing their unparalleled contributions to sports, including Major Dhyan Chand Khel Ratna winners Manu Bhaker, Gukesh D, Harmanpreet Singh, and Praveen Kumar. ",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/khel-ratna-arjuna-award-dronacharya-manu-bhaker-d-gukesh-full-list-winners-national-sports-day-2658628-2025-01-02",
         "category": "sports",
@@ -8964,6 +8955,24 @@
         "negative": 9.6
     },
     {
+        "headlines": "Virat Kohli has lower first innings Test average than Jasprit Bumrah since 2024Australia vs India: Virat Kohli, who fell after scoring 17 runs in the Sydney Test, has a lower first-innings Test average than Jasprit Bumrah since 2024. Kohli's woeful form continued after the batter once again edged the ball to the slip cordon. \r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-2024-lower-1st-innings-test-average-bumrah-2659121-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T12:20:00",
+        "uuid": "5c5d34c9-c154-4191-98de-9e2141a6023c",
+        "positive": 2.3,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Awful decision: Washington Sundar shocked after controversial DRS call in SydneyAustralia vs India, 5th Test: Washington Sundar was not able to believe his luck when third umpire Joel Wilson ruled him caught behind after he appeared to glove a bouncer from Pat Cummins. Wilson made two debatable calls on Day 1 of the Test in Syndey. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-washington-sundar-catch-drs-joel-wilson-third-umpire-controveresy-2659112-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T12:12:00",
+        "uuid": "b5dc5a5b-bb7e-4b0b-aac3-b0fbeee393df",
+        "positive": 4.4,
+        "negative": 6.8
+    },
+    {
         "headlines": "Don't fire up Bumrah: Meme-fest after India captain gives it back to Sam KosntasAustralia vs India, 5th Test: Jasprit Bumrah was fired up by Sam Konstas after the two were involved in a heated verbal exchange. The India captain dismissed Usman Khawaja in the final over of the day's play. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sam-konstas-jasprit-bumrah-memes-fire-up-sydney-day-1-2659161-2025-01-03",
         "category": "sports",
@@ -8989,14 +8998,5 @@
         "uuid": "e3b5ced7-182e-4faa-bdc0-0770f384807a",
         "positive": 7,
         "negative": 7.6
-    },
-    {
-        "headlines": "Virat Kohli has lower first innings Test average than Jasprit Bumrah since 2024Australia vs India: Virat Kohli, who fell after scoring 17 runs in the Sydney Test, has a lower first-innings Test average than Jasprit Bumrah since 2024. Kohli's woeful form continued after the batter once again edged the ball to the slip cordon. \r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-2024-lower-1st-innings-test-average-bumrah-2659121-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T12:20:00",
-        "uuid": "5c5d34c9-c154-4191-98de-9e2141a6023c",
-        "positive": 2.3,
-        "negative": 4.1
     }
 ]
