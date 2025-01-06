@@ -288,6 +288,15 @@
         "negative": 1.7
     },
     {
+        "headlines": "Sensex, Nifty surge nearly 2% as auto stocks drive Dalal Street rally The Sensex climbed 1.8% to end at 79,943.71, while the Nifty gained 1.9% to close at 24,188.65.",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-nifty-surge-nearly-2-as-auto-stocks-drive-d-street-rally-2658646-2025-01-02",
+        "category": "business",
+        "date_time": "2025-01-02T15:48:00",
+        "uuid": "6473fa72-a7a3-44da-8a50-14cb67fa2144",
+        "positive": 18.7,
+        "negative": 3.7
+    },
+    {
         "headlines": "Elon Musk says stop using hashtags on X because they look uglyHave you still been using hashtags? You don't need them anymore, at least on X, and the company CEO Elon Musk has confirmed that. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-stop-using-hashtags-on-x-because-you-dont-need-them-and-they-look-ugly-2651563-2024-12-18",
         "category": "technology",
@@ -6516,15 +6525,6 @@
         "negative": 3.6
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "Usman Khawaja offers ringside view of Virat Kohli vs Sam Konstas at MCGUsman Khawaja revealed the fiery exchange between Virat Kohli and debutant Sam Konstas, shedding light on the collision controversy. ",
         "article_url": "https://www.indiatoday.in/sports/story/usman-khawaja-offers-ringside-view-of-virat-kohli-vs-sam-konstas-at-mcg-2655759-2024-12-26",
         "category": "sports",
@@ -6595,6 +6595,33 @@
         "uuid": "8c081cf4-3b7c-45ef-a1b3-a1fd140616e9",
         "positive": 7.3,
         "negative": 1.1
+    },
+    {
+        "headlines": "Donald Trump's tariff threat: Top experts discuss what it means for IndiaIn an exclusive panel discussion with Rahul Kanwal, News Director at Aajtak & India Today, leading experts shared their insights on what Trump's tariff threats could mean for India's economy, especially after the recent GDP data. ",
+        "article_url": "https://www.indiatoday.in/business/story/donald-trump-tariff-threat-impact-on-indian-economy-top-experts-discuss-global-trade-rupee-gdp-export-2658685-2025-01-02",
+        "category": "business",
+        "date_time": "2025-01-02T17:17:00",
+        "uuid": "f709a34e-5f47-49c0-87e4-fc1e71f4ca13",
+        "positive": 8.1,
+        "negative": 6
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Budget 2025: Mohandas Pai calls for revised tax slabs, relief for middle-classFormer Infosys CFO Mohandas Pai calls for Budget 2025 reforms to ease middle-class tax burdens, simplify slabs, resolve disputes, and boost spending.",
+        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-mohandas-pai-calls-for-revised-tax-slabs-relief-for-middle-class-reducing-deductions-addressing-tax-disputes-housing-loan-reforms-2658698-2025-01-02",
+        "category": "business",
+        "date_time": "2025-01-02T17:19:00",
+        "uuid": "1b327ef7-f38d-4bbb-8d61-891e18f93d7e",
+        "positive": 9.4,
+        "negative": 7.8
     },
     {
         "headlines": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n",
@@ -7956,15 +7983,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "Warner praises Konstas, questions senior Australian batters' approach vs BumrahFormer opener David Warner praised Sam Konstas for his brave batting approach against India's ace pacer Jasprit Bumrah. However, Warner also questioned why it took a 19-year-old to show the initiative that senior players failed to display.\r\n",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sam-konstas-david-warner-jasprit-bumrah-brave-batting-2657624-2024-12-31",
         "category": "sports",
@@ -8017,6 +8035,15 @@
         "uuid": "91effe98-d8b9-4420-8aac-6889a5ef9b23",
         "positive": 10.5,
         "negative": 2.1
+    },
+    {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
     },
     {
         "headlines": "Amorim explains decision to sub off Zirkzee after 33 minutes vs NewcastleRuben Amorim justified substituting Joshua Zirkzee after 33 minutes in Manchester United's 2-0 defeat to Newcastle, emphasising it was a tactical decision amidst growing concerns over United's relegation battle after their third consecutive Premier League loss.",
@@ -8964,39 +8991,12 @@
         "negative": 7.6
     },
     {
-        "headlines": "Viral video shows Australian crowd singing racist chants during MCG TestA viral video from the MCG Test showed Australian fans taunting Indian supporters with racist chants, reigniting concerns about crowd behaviour and echoing past controversies. The incident has sparked outrage during the ongoing Border-Gavaskar Trophy series.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-melbourne-crowd-racist-chants-viral-video-sydney-test-2659221-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T14:33:00",
-        "uuid": "d5902ea5-a3c7-4708-a2bf-98b74016563f",
-        "positive": 4.8,
-        "negative": 10.8
-    },
-    {
-        "headlines": "India didn't celebrate Perth win together despite coach offering credit card: ReportAustralia vs India: Rumours of discord in the Indian cricket team during the Australia tour have intensified, with reports of players opting for individual celebrations after the Perth Test. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-celebrations-perth-win-india-credit-card-coach-2659230-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T14:31:00",
-        "uuid": "afb73e17-a222-4158-ae57-63d469108276",
-        "positive": 9.5,
-        "negative": 7.8
-    },
-    {
-        "headlines": "Rohit Sharma dropping himself was emotional, can't explain more: Rishabh PantBorder-Gavaskar Trophy: India wicketkeeper Rishabh Pant said that captain Rohit Sharma dropping himself for the fifth and final Test against Australia was an emotional decision.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-dropped-rishabh-pant-reaction-sydney-test-2659216-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T14:02:00",
-        "uuid": "b7d7485c-6595-411e-9418-d81eef2ec77b",
-        "positive": 7.4,
-        "negative": 6.7
-    },
-    {
-        "headlines": "Beau Webster anticipates big Jasprit Bumrah 'challenge' on grassy SCG pitchJasprit Bumrah's fiery spell on Day 1 of the SCG Test worried Australia, with Beau Webster admitting the pacer's ability to exploit the grassy pitch could challenge their batting order in the crucial Border-Gavaskar Trophy finale.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-jasprit-bumrah-challenge-sydney-pitch-beau-webster-scg-test-2659276-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T15:36:00",
-        "uuid": "53694972-626b-45a0-a63f-e2bcb5d8d04c",
-        "positive": 9.7,
-        "negative": 8.4
+        "headlines": "Budget 2025: Will Nirmala Sitharaman address TDS-TCS challenges? As Budget 2025-26 approaches, FICCI and industry bodies advocate simplifying TDS-TCS rates and tax processes to reduce complexity, boost compliance, and enhance taxpayer confidence.",
+        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-will-fm-nirmala-sitharaman-address-tds-tcs-challenges-to-provide-relief-to-businesses-and-taxpayers-2658737-2025-01-02",
+        "category": "business",
+        "date_time": "2025-01-02T18:17:00",
+        "uuid": "f1daad10-3346-4a72-832e-1c9e63aa103d",
+        "positive": 13.3,
+        "negative": 3.1
     }
 ]
