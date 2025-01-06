@@ -2367,6 +2367,15 @@
         "negative": 5
     },
     {
+        "headlines": "Sagility India share price gains nearly 3%. Will it continue to rally?Sagility India share price: At around 11:30 am, the stock was trading 2.58% higher at Rs 55.25 after opening at Rs 55.01 and reaching an intraday high of Rs 56.44.",
+        "article_url": "https://www.indiatoday.in/business/story/sagility-india-share-price-gains-nearly-3-will-it-continue-to-rally-stmp-2657182-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T12:09:00",
+        "uuid": "c5794b25-3c00-4ae1-8dbe-0506cda64261",
+        "positive": 14.9,
+        "negative": 0.7
+    },
+    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -5436,60 +5445,6 @@
         "negative": 1.9
     },
     {
-        "headlines": "Stocks to watch today: Zee, DMart, IRFC, ITC, Bharti Airtel, Hero MotoCorpAs markets open today, several companies such as Zee, DMart, IRFC, ITC, Bharti Airtel, Hero MotoCorp are expected to grab attention due to key updates.",
-        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-zee-dmart-irfc-itc-bharti-airtel-hero-motocorp-sensex-nifty-stock-market-2659018-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T08:16:00",
-        "uuid": "b35d390f-6593-4944-9603-dada043721ac",
-        "positive": 15.2,
-        "negative": 2.1
-    },
-    {
-        "headlines": " Kabeer Biswas may call it quits as Dunzo battles cash crisis: Report The Bengaluru-based quick commerce platform has faced a challenging period over the last 12–18 months, marked by cash flow issues and difficulties in raising fresh funds.",
-        "article_url": "https://www.indiatoday.in/business/story/kabeer-biswas-founder-dunzo-exit-quick-commerce-startup-reliance-retail-battles-cash-crisis-report-2659043-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T09:39:00",
-        "uuid": "472999fe-bcc7-4f4d-9b60-cd89b7b3efd1",
-        "positive": 6.9,
-        "negative": 3.8
-    },
-    {
-        "headlines": "Indo Farm Equipment IPO: Check allotment status, GMP and listing dateIndo Farm Equipment IPO allotment: Investors who wish to check Indo Farm Equipment IPO allotment can do so by visiting the Bombay Stock Exchange (BSE) website and the registrar's online portal, which is Mas Services Limited. ",
-        "article_url": "https://www.indiatoday.in/business/story/indo-farm-equipment-ipo-allotment-status-online-step-by-step-guide-latest-gmp-listing-date-2659030-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T09:05:00",
-        "uuid": "b2b4b944-2109-47f2-8121-5b1ff9f6eef5",
-        "positive": 4.3,
-        "negative": 1.2
-    },
-    {
-        "headlines": "DMart share price jumps 14% in early trade: Should you buy?DMart share price: The stock, which closed at Rs 3,617.75 in the previous session, rose to a high of Rs 4,165.00 during intraday trading.",
-        "article_url": "https://www.indiatoday.in/business/story/dmart-share-price-avenue-supermarts-stock-jumps-13-percent-in-early-trade-should-you-buy-stmp-2659058-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T10:17:00",
-        "uuid": "6d735720-f25f-4026-a7c2-e09db160c540",
-        "positive": 12.9,
-        "negative": 2
-    },
-    {
-        "headlines": "Sensex drops 400 points; Nifty slips below 24,100 in early tradeThe S&P BSE Sensex lost 452.52 points to 79,491.29, while the NSE Nifty50 was down by 93.25 points to 24,095.40 as of 9:42 AM. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-drops-over-400-points-nifty-slips-below-24100-in-early-trade-2659048-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T10:32:00",
-        "uuid": "4efce8ba-0944-4020-8728-69ab97953442",
-        "positive": 20.5,
-        "negative": 5.1
-    },
-    {
-        "headlines": "Leo Dry Fruits and Spices IPO: Check price band, GMP today  Leo Dry Fruits and Spices IPO last day: The initial public offering (IPO) of Leo Dry Fruits and Spices will close for bidding on Friday after having opened for subscription on January 1, 2025. ",
-        "article_url": "https://www.indiatoday.in/business/story/leo-dry-fruits-and-spices-ipo-last-day-check-price-band-gmp-today-stmp-2659089-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T11:24:00",
-        "uuid": "c2659c7f-63c5-4995-aa03-299569c9059b",
-        "positive": 9.8,
-        "negative": 0.5
-    },
-    {
         "headlines": "Housing board to probe allegations of commercial activity at Dhoni's Ranchi houseThe Jharkhand State Housing Board has taken action against former Indian cricket captain Mahendra Singh Dhoni for reportedly using a residential plot at his Harmu Road residence for commercial activities.",
         "article_url": "https://www.indiatoday.in/sports/story/ms-dhoni-housing-board-allegations-commercial-activity-ranchi-house-2654248-2024-12-23",
         "category": "sports",
@@ -5533,6 +5488,15 @@
         "uuid": "102e7a7c-4690-420d-ba41-588f8f3db959",
         "positive": 10.4,
         "negative": 3.2
+    },
+    {
+        "headlines": "ITR filing simplified: 5 updates you should knowUpdated tax rules, including pre-filled forms and flexible return filing, aim to reduce errors and ensure seamless compliance for taxpayers.",
+        "article_url": "https://www.indiatoday.in/business/story/itr-filing-simplified-5-updates-you-should-know-income-tax-filing-form-26as-2657176-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T11:55:00",
+        "uuid": "cf920c86-f16d-470a-9dae-d36fb98e6300",
+        "positive": 13.8,
+        "negative": 3.7
     },
     {
         "headlines": "Raphael Varane attends Lens vs PSG in disguise, spotted among fansRaphaël Varane, former Real Madrid and Manchester United defender, returned to his roots, watching RC Lens' French Cup clash against PSG disguised amongst fans. His heartfelt gesture highlighted his enduring connection to the club where his illustrious journey began.",
@@ -5598,6 +5562,96 @@
         "negative": 5.6
     },
     {
+        "headlines": "Anya Polytech & Fertilizers IPO Day 3: Check latest subscription and GMPAnya Polytech's unlisted shares are trading at a premium of Rs 5 in the grey market, reflecting a 35% gain over the upper price band of Rs 14.",
+        "article_url": "https://www.indiatoday.in/business/story/anya-polytech-and-fertilizers-ipo-day-3-check-latest-subscription-and-gmp-stmp-2657215-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T13:14:00",
+        "uuid": "e5aa909a-bb0c-4feb-a4fa-afd4909c9a12",
+        "positive": 12.4,
+        "negative": 0.9
+    },
+    {
+        "headlines": "Explained: Why Mamata Machinery share price tanked 5% todayMamata Machinery share price: The decline comes after the company's spectacular stock market debut last week, with analysts attributing the fall to profit booking by retail investors capitalising on the massive listing gains.",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-share-price-tanked-5-percent-today-profit-booking-after-bumper-ipo-listing-stmp-2657201-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T12:52:00",
+        "uuid": "f1da1722-2afd-445e-b480-0096639ec93a",
+        "positive": 16.8,
+        "negative": 0.8
+    },
+    {
+        "headlines": "Budget 2025: When was the last major income tax relief given? The last Union Budget did not make changes to the old tax regime but introduced modifications to the new tax regime to make it more appealing.",
+        "article_url": "https://www.indiatoday.in/business/story/budget-2025-last-major-income-tax-relief-economists-experts-standard-deduction-tax-rate-cut-2657244-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T14:12:00",
+        "uuid": "6ec0bdcc-cdcb-4d89-960f-4e924b3bdef8",
+        "positive": 12.9,
+        "negative": 3.4
+    },
+    {
+        "headlines": "Stock markets in 2025: What's next for Sensex and Nifty in the new year?Can Indian equities continue their upward climb, or will a mix of global and domestic hurdles create a rocky road ahead? Here is all you need to know. ",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-nifty-in-2025-whats-next-for-stock-markets-in-the-new-year-2657239-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T14:03:00",
+        "uuid": "04195036-f74f-40b8-a9ff-748ddee66d49",
+        "positive": 11.3,
+        "negative": 1.5
+    },
+    {
+        "headlines": "Are fixed deposits still the best bet for Indian investors?Fixed deposits are safe but face risks like limited protection, reinvestment challenges, and low post-tax real returns.",
+        "article_url": "https://www.indiatoday.in/business/story/are-fixed-deposits-still-the-best-bet-for-indian-investors-is-fd-safe-2657273-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T15:30:00",
+        "uuid": "5697fe8d-57d4-4bb8-a122-d8c7d8192ebd",
+        "positive": 23.5,
+        "negative": 10.8
+    },
+    {
+        "headlines": "Stock market in January 2025: Will investors face a tough start to the year? Historically, January has often been a challenging month for equity markets, with the NSE Nifty 50 index recording losses in 13 out of the past 20 years. ",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-in-january-2025-what-to-expect-investors-face-a-tough-start-sectors-to-watch-dalal-street-2657261-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T15:06:00",
+        "uuid": "e52bc334-4d9b-46b3-812f-27d8f41d2ab9",
+        "positive": 12.9,
+        "negative": 4.6
+    },
+    {
+        "headlines": "Adani Enterprises to sell entire Adani Wilmar stake in $2 billion dealAdani Enterprises and its wholly-owned subsidiary, Adani Commodities LLP (ACL), have entered into an agreement with Lence Pte Ltd, a fully-owned subsidiary of Wilmar International.",
+        "article_url": "https://www.indiatoday.in/business/story/adani-enterprises-to-sell-entire-adani-wilmar-stake-in-usd-2-billion-deal-lence-pte-ltd-divestment-2657295-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T15:57:00",
+        "uuid": "77b5f357-2df7-41ed-9dea-23c64c12984b",
+        "positive": 8.7,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Sensex falls over 450 points, Nifty declines; Adani Enterprises jumps 7%The S&P BSE Sensex ended 450.94 points lower at 78,248.13, while the NSE Nifty50 settled 168.50 points lower at 23,644.90.",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-falls-over-450-points-nifty-declines-adani-enterprises-jumps-7-percent-2657286-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T15:45:00",
+        "uuid": "078d0ff1-4581-4f6c-b45e-547d95e4811d",
+        "positive": 10.9,
+        "negative": 9.4
+    },
+    {
+        "headlines": "Greaves Cotton share price surges 13% to hit 52-week high today. Here's why Greaves Cotton share price hit 52-week high. The share which had closed at Rs 281.83 on Friday, opened at Rs 288.70 on Monday. ",
+        "article_url": "https://www.indiatoday.in/business/story/greaves-cotton-share-price-jumps-13-percent-52-week-high-today-why-vijay-kedia-greaves-electric-mobility-ipo-stmp-2657274-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T15:33:00",
+        "uuid": "6f334dc6-c8b0-487b-a914-e3514748b6be",
+        "positive": 15.4,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Budget 2025: Will the old tax regime face the axe?With Budget 2025 approaching, debates intensify over the potential scrapping of the Old Tax Regime amidst tax reforms.",
+        "article_url": "https://www.indiatoday.in/business/story/budget-2025-income-tax-itr-filing-will-the-old-tax-regime-face-the-axe-2657339-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T16:55:00",
+        "uuid": "dfaa3375-e0e1-4be6-b365-6494fb2e5b88",
+        "positive": 10.6,
+        "negative": 4.3
+    },
+    {
         "headlines": "Gill needs to back his defensive technique to shine in Australia: PontingBorder-Gavaskar Trophy: Former Australian captain Ricky Ponting offered insights into how Shubman Gill could improve his performances in challenging conditions like Australia.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-ricky-ponting-on-shubman-gill-overseas-test-record-2654425-2024-12-24",
         "category": "sports",
@@ -5632,15 +5686,6 @@
         "uuid": "9b3d008b-cb69-46aa-b8fc-2f8813420c3f",
         "positive": 5.6,
         "negative": 2.7
-    },
-    {
-        "headlines": "Budget 2025: 5 top expectations of senior citizens Budget 2025 can ease senior citizens' burdens with higher tax exemptions, simpler processes, and targeted benefits for financial security.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-5-top-expectations-of-senior-citizens-enhanced-savings-better-deductions-for-medical-costs-2659086-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T11:25:00",
-        "uuid": "4929b0f5-a329-4008-b68f-76fe03fb9bf7",
-        "positive": 20.1,
-        "negative": 3.6
     },
     {
         "headlines": "Rohit backs 'modern-day great' Virat, tight-lipped about his batting spotAustralia vs India, 4th Test: India captain Rohit Sharma expressed confidence in Virat Kohli overcoming his struggles outside the off-stump. However, the skipper refrained from revealing his batting position for the Boxing Day Test, adding to the speculation.",
@@ -5877,6 +5922,24 @@
         "negative": 0.3
     },
     {
+        "headlines": "Stocks to watch today: Adani Enterprises, Adani Wilmar, EaseMyTrip, ITC, ZomatoShares of Adani Enterprises, Adani Wilmar, Zoamto, EaseMyTrip, etc will be in the spotlight today due to various developments when markets open for trading. ",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-adani-enterprises-adani-wilmar-easemytrip-itc-zomato-unimech-aerospace-2657590-2024-12-31",
+        "category": "business",
+        "date_time": "2024-12-31T08:29:00",
+        "uuid": "5f2a322b-eb88-435c-9bc0-ac4d807a8e4a",
+        "positive": 7.6,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Paralympics gold-medalist Harvinder adds to burning Khel Ratna controversyHarvinder Singh, Paris Paralympics gold medallist, criticised the exclusion of Paralympians from the Khel Ratna Award nominations, sparking concerns about recognition disparities in India's highest sporting honours compared to achievements celebrated after Tokyo 2020.",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/harvinder-singh-paralympics-khel-ratna-discrimination-tokyo-paris-games-controversy-2654826-2024-12-24",
         "category": "sports",
@@ -5920,15 +5983,6 @@
         "uuid": "23e072ab-93c7-4ec4-b84d-b1d08b6c160f",
         "positive": 9.6,
         "negative": 3.7
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
     },
     {
         "headlines": "Herculean Harleen fires India to ODI series win vs hapless West IndiesIndia sealed a commanding 115-run victory over West Indies in the second ODI, driven by Harleen Deol's maiden century and disciplined bowling. ",
@@ -6444,6 +6498,15 @@
         "negative": 4.5
     },
     {
+        "headlines": "ITR filing: Why you should declare foreign assets by January 15Indian residents must disclose foreign assets and income in their ITRs by January 15, 2025, to maintain compliance and avoid penalties.",
+        "article_url": "https://www.indiatoday.in/business/story/itr-filing-why-you-should-declare-foreign-assets-by-january-15-check-details-2660469-2025-01-06",
+        "category": "business",
+        "date_time": "2025-01-06T17:27:00",
+        "uuid": "0cc6eb32-95c6-4205-8ff7-20ab05835d29",
+        "positive": 9.9,
+        "negative": 1.6
+    },
+    {
         "headlines": "Fiery Virat Kohli instructions at MCG caught on stump micVirat Kohli was caught on the stump mic delivering stern instructions to pacer Mohammed Siraj, saying, \"Has ke baat nahi karna inse\" (Don't smile while talking to them) on Day 1 of the fourth Test.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-fiery-virat-kohli-instructions-mcg-test-siraj-stump-mic-2655471-2024-12-26",
         "category": "sports",
@@ -6487,15 +6550,6 @@
         "uuid": "12087e50-9e33-4446-ad52-05a0d3023c42",
         "positive": 13.1,
         "negative": 0.3
-    },
-    {
-        "headlines": "ITR filing: Why you should declare foreign assets by January 15Indian residents must disclose foreign assets and income in their ITRs by January 15, 2025, to maintain compliance and avoid penalties.",
-        "article_url": "https://www.indiatoday.in/business/story/itr-filing-why-you-should-declare-foreign-assets-by-january-15-check-details-2660469-2025-01-06",
-        "category": "business",
-        "date_time": "2025-01-06T17:27:00",
-        "uuid": "0cc6eb32-95c6-4205-8ff7-20ab05835d29",
-        "positive": 9.9,
-        "negative": 1.6
     },
     {
         "headlines": "Jasprit Bumrah, India recover from Sam Konstas punch on Boxing DayBoxing Day Test: Australia's top-order stepped with the bat to guide the hosts to 311 for six at the close of play on Day 1. Jasprit Bumrah-inspired India took 4 wickets in the final session to script a small comeback after Sam Konstas's special hammering in the fourth Test against Australia.",
@@ -6570,6 +6624,15 @@
         "negative": 4.2
     },
     {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
         "headlines": "Watch: Kamran Ghulam abuses Kagiso Rabada, later bowler takes catch in 1st TestTensions flared on Day 1 of the 1st Test between Pakistan and South Africa, with Kamran Ghulam allegedly abusing Kagiso Rabada and clashing with Kyle Verreynne. Later, Rabada had the last laugh by dismissing him with a catch.  ",
         "article_url": "https://www.indiatoday.in/sports/story/kamran-ghulam-abuses-kagiso-rabada-later-bowler-takes-catch-in-1st-test-2655794-2024-12-26",
         "category": "sports",
@@ -6612,15 +6675,6 @@
         "date_time": "2024-12-26T21:01:00",
         "uuid": "49278726-f3ed-424c-9672-c4e05dd93717",
         "positive": 11.5,
-        "negative": 6.2
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
         "negative": 6.2
     },
     {
@@ -7794,105 +7848,6 @@
         "negative": 4.2
     },
     {
-        "headlines": "Explained: Why Jai Corp share price hit 52-week low todayThe steep decline in Jai Corp's share price over two sessions stems from a significant capital reduction proposal involving Urban Infrastructure Holdings Private Limited (UIHPL), where Jai Corp holds a 32% equity stake.",
-        "article_url": "https://www.indiatoday.in/business/story/jai-corp-stock-price-52-week-low-today-check-key-details-capital-reduction-proposal-stmp-2659116-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T12:12:00",
-        "uuid": "0a2758d5-153d-4b5e-ad3a-53bdbaf170a4",
-        "positive": 8.4,
-        "negative": 5.9
-    },
-    {
-        "headlines": "5 tax-saving tips for young professionals in 2025Proactive financial planning helps young professionals save taxes, build wealth, and reach goals with strategies like early planning, goal-based investing, and health insurance, etc. ",
-        "article_url": "https://www.indiatoday.in/business/story/5-tax-saving-tips-for-young-professionals-in-2025-investment-planning-health-insurance-2659101-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T11:59:00",
-        "uuid": "6f506b94-c17b-41b8-84ab-24447b7c4fd5",
-        "positive": 20.9,
-        "negative": 3.5
-    },
-    {
-        "headlines": "Sensex tumbles 600 points: 3 reasons behind stock market volatilityThe downturn highlights the persistent volatility on Dalal Street, with investors uncertain about the short-term market trajectory. While auto and IT stocks had propelled a rally just a day ago, profit booking amid prevailing uncertainty appears to have weighed heavily on sentiment. ",
-        "article_url": "https://www.indiatoday.in/business/story/sensex-falls-over-600-points-3-reasons-behind-stock-market-volatility-2659096-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T11:38:00",
-        "uuid": "4c013574-e2ce-49b4-b4f0-f747e0ec1835",
-        "positive": 9.4,
-        "negative": 4.4
-    },
-    {
-        "headlines": "Tata Motors share price rises 4%. Is it a good time to invest?Tata Motors stock: Over the past five trading sessions, Tata Motors has gained more than 6%. However, the stock has seen a decline of 18.36% in the last six months. ",
-        "article_url": "https://www.indiatoday.in/business/story/tata-motors-share-price-rises-4-percent-should-you-buy-brokerage-review-clsa-nomura-stmp-2659167-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:22:00",
-        "uuid": "0d42e310-e088-4be3-af4f-00eff674a2d1",
-        "positive": 9.6,
-        "negative": 2
-    },
-    {
-        "headlines": "Budget 2025: 5 key announcements India is waiting forBudget 2025 holds the potential to bring much-needed relief to the economy, addressing both long-term growth and immediate concerns like inflation.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-five-key-announcements-india-is-waiting-for-income-tax-relief-reduction-in-excise-duty-on-fuel-focus-on-job-creation-2659149-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:19:00",
-        "uuid": "1e18af1b-4984-47df-a82a-32d7d287e0a0",
-        "positive": 23.4,
-        "negative": 6.9
-    },
-    {
-        "headlines": "ITI share price soars over 12%, hits all-time high. Know whyITI stock price: Earlier, some analysts had advised investors to book profits as it was approaching a critical resistance zone. However, it has now surpassed the resistance zone and is likely to continue its upward momentum. ",
-        "article_url": "https://www.indiatoday.in/business/story/iti-share-price-gains-over-12-percent-hits-all-time-high-know-why-stmp-2659153-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:06:00",
-        "uuid": "5f33de41-c3dc-4590-a7d4-b0947c121e1f",
-        "positive": 9.1,
-        "negative": 3.5
-    },
-    {
-        "headlines": "Oil India, ONGC shares jump 5% today. What's fuelling the rally?The rally can be attributed to global policy measures aimed at economic revival, which investors believe could boost fuel demand and enhance earnings for upstream oil companies.",
-        "article_url": "https://www.indiatoday.in/business/story/oil-india-ongc-share-price-jump-5-percent-today-what-is-fuelling-the-rally-stmp-2659131-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T12:37:00",
-        "uuid": "c182a22b-c218-4ce8-80fb-e720c38c1ba0",
-        "positive": 11.8,
-        "negative": 6
-    },
-    {
-        "headlines": "Budget 2025: Date, time, and what to expectThe countdown to India's Union Budget 2025 has begun, with Nirmala Sitharaman set to present key policies and reforms on February 1.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-date-time-and-what-to-expect-fm-nirmala-sitharaman-to-present-key-policies-and-reforms-income-tax-2659224-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T14:14:00",
-        "uuid": "656e7794-f690-40ac-802d-d77de1fd7052",
-        "positive": 4.3,
-        "negative": 0.4
-    },
-    {
-        "headlines": "Explained: Why KPI Green Energy shares are down 36% on some trading appsKPI Green Energy stock price: The stock declined 4.44% to trade at Rs 547 on the Bombay Stock Exchange (BSE) at Rs 1:40 pm after hitting an intraday low of Rs 548.",
-        "article_url": "https://www.indiatoday.in/business/story/why-kpi-green-energy-share-price-is-showing-36-decline-on-some-trading-apps-bonus-issue-stmp-2659186-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T13:44:00",
-        "uuid": "c959511a-aa99-45cc-9032-8a91671406f0",
-        "positive": 19.9,
-        "negative": 1.6
-    },
-    {
-        "headlines": "Budget 2025: 5 reforms that could make new tax regime a better deal for youThe government is expected to focus on boosting consumption, given the low GDP for the second quarter, which could lead to tax relief measures aimed at increasing disposable income for salaried taxpayers.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-expectations-taxpayers-5-reforms-that-could-make-new-tax-regime-a-better-deal-for-you-2659264-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T15:07:00",
-        "uuid": "1144802e-c330-4867-99ea-e44ff2aaf6ba",
-        "positive": 11.9,
-        "negative": 1.8
-    },
-    {
-        "headlines": "Sensex, Nifty fall nearly 1% as IT, banking stocks tumble in volatile day The S&P BSE Sensex plunged 720.60 points to end at 79,223.11, while the NSE Nifty50 lost 199.60 points to end at 23,989.05. ",
-        "article_url": "https://www.indiatoday.in/business/story/closing-bell-stock-market-sensex-nifty-fall-nearly-1-percent-as-it-financial-banking-pharma-stocks-tumble-in-volatile-day-2659277-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T15:40:00",
-        "uuid": "0a1df975-c1f9-4fd0-bf8c-47bebb7e8ce1",
-        "positive": 20.9,
-        "negative": 6.4
-    },
-    {
         "headlines": "Rohit Sharma concedes dip in form and captaincy but mum about Test futureAustralia vs India, 4th Test: Rohit Sharma acknowledged concerns about his batting form and captaincy but remained tight-lipped about his future in the team. Rohit has managed just 31 runs in six innings in the Border-Gavaskar Trophy 2024-25. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mcg-test-loss-captaincy-rohit-sharma-retirement-romours-2657224-2024-12-30",
         "category": "sports",
@@ -7900,6 +7855,51 @@
         "uuid": "1b504d88-6328-48b4-9b58-d6b79e031b4f",
         "positive": 10.8,
         "negative": 8.3
+    },
+    {
+        "headlines": "Sensex, Nifty drop as IT stocks weigh on markets in last session of 2024The S&P BSE Sensex lost 392.61 points to 77,855.52, while the NSE Nifty50 was down by 107.80 points to 23,537.10 as of 9:28 AM. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-in-red-it-stocks-decline-last-session-of-2024-adani-enterprises-down-over-1-percent-2657617-2024-12-31",
+        "category": "business",
+        "date_time": "2024-12-31T09:45:00",
+        "uuid": "185073f3-6c0a-4eb3-b8a5-f2cc46212eb9",
+        "positive": 18.4,
+        "negative": 4.5
+    },
+    {
+        "headlines": "Indo Farm Equipment IPO opens for bidding: Check GMP, price band, issue sizeThe IPO is a book-built issue valued at Rs 260.15 crore. It includes a fresh issue of 86 lakh shares, amounting to Rs 184.90 crore, and an offer for sale (OFS) of 35 lakh shares, valued at Rs 75.25 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/indo-farm-equipment-ipo-open-for-bidding-check-latest-gmp-price-band-issue-size-all-details-2657609-2024-12-31",
+        "category": "business",
+        "date_time": "2024-12-31T09:14:00",
+        "uuid": "4fc10935-5f4d-4904-916e-16155ac83050",
+        "positive": 11.5,
+        "negative": 2.3
+    },
+    {
+        "headlines": " Unimech Aerospace IPO GMP declines: Will it make strong market debut today? The initial public offering (IPO) of Unimech Aerospace and Manufacturing Limited garnered an overwhelming response, with a subscription rate of 174.93 times by the final day of bidding.",
+        "article_url": "https://www.indiatoday.in/business/story/unimech-aerospace-ipo-listing-gmp-declines-will-it-make-strong-market-debut-today-2657598-2024-12-31",
+        "category": "business",
+        "date_time": "2024-12-31T08:46:00",
+        "uuid": "3a51adc0-af9c-417c-90a4-ce4f74c738f1",
+        "positive": 13.9,
+        "negative": 1.4
+    },
+    {
+        "headlines": "Unimech Aerospace IPO listing: Shares make bumper debut. Lists at 90% premiumUnimech Aerospace IPO stock: Unimech Aerospace shares listed at Rs 1,491 per share, reflecting an 89.94% premium over their issue price on the Bombay Stock Exchange (BSE).",
+        "article_url": "https://www.indiatoday.in/business/story/unimech-aerospace-ipo-listing-share-price-90-percent-premium-rs-1491-bse-bumper-debut-multibagger-2657628-2024-12-31",
+        "category": "business",
+        "date_time": "2024-12-31T10:12:00",
+        "uuid": "58583d24-cda6-48c8-9560-ea08d82eb4cf",
+        "positive": 15,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Dam Capital share price rebounds after Monday's slump. Here's whyDam Capital stock price:  By 11 am, the shares were trading 3.60% higher at Rs 385.70, recovering some ground lost during Monday's profit booking.",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-share-price-rebounds-after-falling-in-previous-session-explained-stmp-2657653-2024-12-31",
+        "category": "business",
+        "date_time": "2024-12-31T11:09:00",
+        "uuid": "96c0015c-7096-437e-a4a7-3e3bc20b4106",
+        "positive": 17.1,
+        "negative": 1.4
     },
     {
         "headlines": "Rohit Sharma's bizarre tactical claim after MCG loss: Wanted to go for the winIndia captain Rohit Sharma revealed that India were backing themselves to chase down 340 runs on the final day of the Boxing Day Test match. Rohit's thought process seemed bizarre given the fact that no team in the past 96 years has successfully chased a target exceeding 300 at the MCG.",
@@ -8055,15 +8055,6 @@
         "negative": 8.9
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "Manchester United face clear threat of relegation, admits Ruben AmorimRuben Amorim admitted that it is \"really clear\" Manchester United are being drawn into a relegation battle following their 2-0 defeat to Newcastle at Old Trafford. ",
         "article_url": "https://www.indiatoday.in/sports/football/story/manchester-united-threat-relegation-ruben-amorim-newcastle-loss-2657569-2024-12-31",
         "category": "sports",
@@ -8071,6 +8062,15 @@
         "uuid": "97f3eb34-9e51-49f3-b4bc-4e12f244b7c7",
         "positive": 14.5,
         "negative": 11.4
+    },
+    {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
     },
     {
         "headlines": "Barcelona lose another appeal to register Dani Olmo before deadlineBarcelona have lost another appeal to register Spain forward Dani Olmo for the rest of the season - one day before the deadline.\r\n\r\n",
@@ -8577,15 +8577,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "GST on vouchers and gift cards: All you need to knowGift vouchers are exempt from GST, but commissions and services linked to them remain taxable under GST rules.",
-        "article_url": "https://www.indiatoday.in/business/story/gst-goods-and-services-tax-on-vouchers-and-gift-cards-all-you-need-to-know-2659315-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T16:47:00",
-        "uuid": "2c854a5a-0b68-48bd-8c8c-789bc29acf95",
-        "positive": 11,
-        "negative": 2.8
-    },
-    {
         "headlines": "See pics: Kohli, Bumrah pose with Sam Konstas's brothers on New Year's DayVirat Kohli and Jasprit Bumrah shared a light moment with Sam Konstas's brothers during a New Year celebration hosted by Australian PM Anthony Albanese, setting aside their on-field rivalries ahead of the Sydney Test.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-jasprit-bumrah-sam-konstas-brother-pictures-prime-minister-2658276-2025-01-01",
         "category": "sports",
@@ -8991,12 +8982,21 @@
         "negative": 1.4
     },
     {
-        "headlines": "Budget 2025: Key proposals for FDs, and long-term savingsTax incentives for fixed deposits and boost middle-class savings could redefine savings strategies in Budget 2025.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-key-proposals-for-fds-long-term-savings-capital-markets-mutual-funds-taxation-and-compliance-2659369-2025-01-03",
+        "headlines": "South Africa vs Pakistan New Year's Test: All you need to knowSA vs PAK, 2nd Test: South Africa would be looking to carry on from where they left off in the Centurion Test, which they won by two wickets. The Proteas have already sealed their berth in the final of the World Test Championship. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-pakistan-new-years-test-cape-town-live-streaming-2658909-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T21:58:00",
+        "uuid": "7afeffe8-186c-4a0e-a5e3-60570bfc8f6f",
+        "positive": 5.9,
+        "negative": 3.2
+    },
+    {
+        "headlines": "ITI share price hits record high as positive rally continuesITI share price: The recent rally has propelled ITI Ltd. above its 5-day, 20-day, 50-day, 100-day, and 200-day moving averages, underlining its robust performance across short- and long-term benchmarks.",
+        "article_url": "https://www.indiatoday.in/business/story/iti-share-price-continues-positive-rally-reaches-all-time-high-stmp-2657642-2024-12-31",
         "category": "business",
-        "date_time": "2025-01-03T18:11:00",
-        "uuid": "ab01ac88-5651-45e2-915e-068b32594beb",
-        "positive": 15,
-        "negative": 0.4
+        "date_time": "2024-12-31T10:55:00",
+        "uuid": "b4419801-e51d-40f9-9262-e19c554dd7a0",
+        "positive": 18.2,
+        "negative": 0
     }
 ]
