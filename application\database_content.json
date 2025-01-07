@@ -1494,6 +1494,15 @@
         "negative": 0.3
     },
     {
+        "headlines": "Budget 2025: Key proposals for FDs, and long-term savingsTax incentives for fixed deposits and boost middle-class savings could redefine savings strategies in Budget 2025.",
+        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-key-proposals-for-fds-long-term-savings-capital-markets-mutual-funds-taxation-and-compliance-2659369-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T18:11:00",
+        "uuid": "ab01ac88-5651-45e2-915e-068b32594beb",
+        "positive": 15,
+        "negative": 0.4
+    },
+    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -2365,6 +2374,15 @@
         "uuid": "2cd9bbf8-f7c2-4a16-a82d-68db2b92fdab",
         "positive": 10.2,
         "negative": 5
+    },
+    {
+        "headlines": "Stocks to watch today: ITC, HDFC Bank, Vedanta, NTPC Green Energy, ICICI Bank As markets open today, several stocks will be in focus, such as ITC, NTPC Green Energy, ICICI Bank, HDFC Bank, Vedanta to keep an eye on. ",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-itc-hdfc-bank-vedanta-ntpc-green-energy-icici-bank-dabur-nykaa-2660169-2025-01-06",
+        "category": "business",
+        "date_time": "2025-01-06T08:16:00",
+        "uuid": "9a27c606-4442-4a8b-b2fd-932f85b82185",
+        "positive": 10.8,
+        "negative": 4.2
     },
     {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
@@ -5013,6 +5031,42 @@
         "negative": 8.9
     },
     {
+        "headlines": "Donald Trump's tariff threat: Top experts discuss what it means for IndiaIn an exclusive panel discussion with Rahul Kanwal, News Director at Aajtak & India Today, leading experts shared their insights on what Trump's tariff threats could mean for India's economy, especially after the recent GDP data. ",
+        "article_url": "https://www.indiatoday.in/business/story/donald-trump-tariff-threat-impact-on-indian-economy-top-experts-discuss-global-trade-rupee-gdp-export-2658685-2025-01-02",
+        "category": "business",
+        "date_time": "2025-01-02T17:17:00",
+        "uuid": "f709a34e-5f47-49c0-87e4-fc1e71f4ca13",
+        "positive": 8.1,
+        "negative": 6
+    },
+    {
+        "headlines": "Budget 2025: Mohandas Pai calls for revised tax slabs, relief for middle-classFormer Infosys CFO Mohandas Pai calls for Budget 2025 reforms to ease middle-class tax burdens, simplify slabs, resolve disputes, and boost spending.",
+        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-mohandas-pai-calls-for-revised-tax-slabs-relief-for-middle-class-reducing-deductions-addressing-tax-disputes-housing-loan-reforms-2658698-2025-01-02",
+        "category": "business",
+        "date_time": "2025-01-02T17:19:00",
+        "uuid": "1b327ef7-f38d-4bbb-8d61-891e18f93d7e",
+        "positive": 9.4,
+        "negative": 7.8
+    },
+    {
+        "headlines": "Budget 2025: Will Nirmala Sitharaman address TDS-TCS challenges? As Budget 2025-26 approaches, FICCI and industry bodies advocate simplifying TDS-TCS rates and tax processes to reduce complexity, boost compliance, and enhance taxpayer confidence.",
+        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-will-fm-nirmala-sitharaman-address-tds-tcs-challenges-to-provide-relief-to-businesses-and-taxpayers-2658737-2025-01-02",
+        "category": "business",
+        "date_time": "2025-01-02T18:17:00",
+        "uuid": "f1daad10-3346-4a72-832e-1c9e63aa103d",
+        "positive": 13.3,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Can unregistered small businesses receive GST notices?The annual turnover threshold for GST registration is Rs 40 lakh for businesses supplying goods and Rs 20 lakh for service providers. Businesses below these limits are exempt, but exceeding them triggers registration and compliance requirements.",
+        "article_url": "https://www.indiatoday.in/business/story/tax-evasion-can-unregistered-small-businesses-b2c-receive-gst-notices-2658821-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T08:30:00",
+        "uuid": "65e71fcf-fb54-4be4-b61b-a11b4ef78548",
+        "positive": 9,
+        "negative": 2.2
+    },
+    {
         "headlines": "England name squads for India ODI, T20Is, Buttler to lead   IND vs ENG: Joe Root has returned as England named their ODI and T20I squad for the upcoming tour of India. Ben Stokes missed the bus after sustaining an injury in the Test series against New Zealand. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-england-squad-india-tour-odis-t20is-jos-buttler-2653728-2024-12-22",
         "category": "sports",
@@ -5373,33 +5427,6 @@
         "negative": 8.3
     },
     {
-        "headlines": "Mohammed Shami not deemed fit for Melbourne, Sydney Tests vs Australia: BCCIThe Indian cricket board on Monday, December 23 confirmed that Mohammed Shami will not travel to Australia for the last two Tests of the Border-Gavaskar Trophy. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-mohammed-shami-fitness-update-border-gavaskar-trophy-melbourne-sydney-2654161-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:56:00",
-        "uuid": "b483a75c-13bd-4e14-9fb5-35835b4470c4",
-        "positive": 8.5,
-        "negative": 3.4
-    },
-    {
-        "headlines": "All-rounder Tanush Kotian set to join India's squad for Melbourne, Sydney TestsBorder-Gavaskar Trophy: 26-year-old all-rounder Tanush Kotian received his maiden Test call-up on Monday, December 23. The Mumbai cricketer will leave for Australia on Tuesday, December 24. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-tanush-kotian-spinner-border-gavaskar-trophy-squad-2654151-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:39:00",
-        "uuid": "ce1b8919-630f-48f8-b29e-376a348a2ca8",
-        "positive": 5.5,
-        "negative": 0.8
-    },
-    {
-        "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
-        "article_url": "https://www.indiatoday.in/sports/story/sanjay-manjrekar-wants-rohit-to-rediscover-his-england-2021-series-like-batting-2654140-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:14:00",
-        "uuid": "2adf2f37-0d88-4cc2-b0e2-ba455b726490",
-        "positive": 7.6,
-        "negative": 7.7
-    },
-    {
         "headlines": "ITR filing: Submit these investment proofs to claim deductions and save on TDSSubmit proofs promptly to reduce TDS, maximise tax savings, and ensure smooth compliance before filing your ITR.",
         "article_url": "https://www.indiatoday.in/business/story/itr-filing-submit-these-investment-proofs-to-claim-deductions-and-save-on-tds-2660962-2025-01-07",
         "category": "business",
@@ -5425,6 +5452,33 @@
         "uuid": "1f9367de-47e0-4606-8829-c946c295b3e1",
         "positive": 23.7,
         "negative": 2.8
+    },
+    {
+        "headlines": "Mohammed Shami not deemed fit for Melbourne, Sydney Tests vs Australia: BCCIThe Indian cricket board on Monday, December 23 confirmed that Mohammed Shami will not travel to Australia for the last two Tests of the Border-Gavaskar Trophy. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-mohammed-shami-fitness-update-border-gavaskar-trophy-melbourne-sydney-2654161-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:56:00",
+        "uuid": "b483a75c-13bd-4e14-9fb5-35835b4470c4",
+        "positive": 8.5,
+        "negative": 3.4
+    },
+    {
+        "headlines": "All-rounder Tanush Kotian set to join India's squad for Melbourne, Sydney TestsBorder-Gavaskar Trophy: 26-year-old all-rounder Tanush Kotian received his maiden Test call-up on Monday, December 23. The Mumbai cricketer will leave for Australia on Tuesday, December 24. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-tanush-kotian-spinner-border-gavaskar-trophy-squad-2654151-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:39:00",
+        "uuid": "ce1b8919-630f-48f8-b29e-376a348a2ca8",
+        "positive": 5.5,
+        "negative": 0.8
+    },
+    {
+        "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
+        "article_url": "https://www.indiatoday.in/sports/story/sanjay-manjrekar-wants-rohit-to-rediscover-his-england-2021-series-like-batting-2654140-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:14:00",
+        "uuid": "2adf2f37-0d88-4cc2-b0e2-ba455b726490",
+        "positive": 7.6,
+        "negative": 7.7
     },
     {
         "headlines": "Dhruv Jurel wins cash prize during Team India's fielding drill before MCG Test Dhruv Jurel's impressive performance in the fielding drill earned him a 300 dollar cash prize, as Team India ramped up preparations for the Boxing Day Test at the MCG. The drill, filled with energy and competition, boosted the team's spirit.",
@@ -5886,6 +5940,15 @@
         "negative": 3.7
     },
     {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Herculean Harleen fires India to ODI series win vs hapless West IndiesIndia sealed a commanding 115-run victory over West Indies in the second ODI, driven by Harleen Deol's maiden century and disciplined bowling. ",
         "article_url": "https://www.indiatoday.in/sports/story/herculean-harleen-fires-india-to-odi-series-win-vs-hapless-west-indies-2654901-2024-12-24",
         "category": "sports",
@@ -5920,15 +5983,6 @@
         "uuid": "921e6809-bce8-46ec-8d8f-819e143b0037",
         "positive": 15.4,
         "negative": 0.8
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
     },
     {
         "headlines": "Vinod Kambli develops fever in hospital, condition stableVinod Kambli, battling a severe urinary infection and brain clots, is stable in ICU. Maharashtra Deputy CM Eknath Shinde and MP Shrikant Shinde have extended financial aid and support, ensuring the former cricketer receives top-notch medical care.",
@@ -6102,24 +6156,6 @@
         "negative": 8.2
     },
     {
-        "headlines": "Australia vs India, Boxing Day Test in Melbourne: Complete guideAustralia vs India, 4th Test: India will look to complete a hat-trick of wins in Boxing Day Tests Down Under when they take on Australia in Melbourne. A packed crowd is set to welcome the two teams on Thursday, December 26. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-4th-test-boxing-day-melbourne-guide-tv-live-streaming-timings-2655165-2024-12-25",
-        "category": "sports",
-        "date_time": "2024-12-25T14:22:00",
-        "uuid": "6fbe77b7-1dc9-450f-92ab-2b66f427c9f0",
-        "positive": 8.3,
-        "negative": 4
-    },
-    {
-        "headlines": "Could not pick up a bottle: 'Mentally strong' Harleen battles injury to riseINDW vs WIW: Harleen Deol recalled the times when she was going through tough times while recovering from her knee injury. On Tuesday, Harleen notched her maiden ODI hundred and helped India beat West Indies by 115 runs. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-harleen-deol-century-india-women-west-indies-women-injury-2655153-2024-12-25",
-        "category": "sports",
-        "date_time": "2024-12-25T14:10:00",
-        "uuid": "fb84992c-a95c-4243-8449-4471053e566c",
-        "positive": 14.3,
-        "negative": 5.5
-    },
-    {
         "headlines": "Stocks to watch today: Vodafone Idea, RIL, Adani Power, Indo Farm EquipmentStocks of Indo Farm Equipment, RIL, Adani Power, Mobikwik, BPCL, RIL, Bharti Airtel, Coal India, among others, are expected to remain in focus as trading resumes today, January 7, 2025.",
         "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-vodafone-idea-ril-adani-power-indo-farm-equipment-coal-india-mobikwik-2660728-2025-01-07",
         "category": "business",
@@ -6136,6 +6172,24 @@
         "uuid": "31de18f7-6e4d-4b21-b09e-b9faf67fe9a4",
         "positive": 8.4,
         "negative": 7.4
+    },
+    {
+        "headlines": "Australia vs India, Boxing Day Test in Melbourne: Complete guideAustralia vs India, 4th Test: India will look to complete a hat-trick of wins in Boxing Day Tests Down Under when they take on Australia in Melbourne. A packed crowd is set to welcome the two teams on Thursday, December 26. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-4th-test-boxing-day-melbourne-guide-tv-live-streaming-timings-2655165-2024-12-25",
+        "category": "sports",
+        "date_time": "2024-12-25T14:22:00",
+        "uuid": "6fbe77b7-1dc9-450f-92ab-2b66f427c9f0",
+        "positive": 8.3,
+        "negative": 4
+    },
+    {
+        "headlines": "Could not pick up a bottle: 'Mentally strong' Harleen battles injury to riseINDW vs WIW: Harleen Deol recalled the times when she was going through tough times while recovering from her knee injury. On Tuesday, Harleen notched her maiden ODI hundred and helped India beat West Indies by 115 runs. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-harleen-deol-century-india-women-west-indies-women-injury-2655153-2024-12-25",
+        "category": "sports",
+        "date_time": "2024-12-25T14:10:00",
+        "uuid": "fb84992c-a95c-4243-8449-4471053e566c",
+        "positive": 14.3,
+        "negative": 5.5
     },
     {
         "headlines": "Before MCG Test, Virat Kohli, Rohit Sharma suffer drop in rankings AUS vs IND: Virat Kohli, Rohit Sharma and most of the Indian batters gained in rankings before the Melbourne Test against Australia, but KL Rahul and Ravindra Jadeja moved up. ",
@@ -6408,15 +6462,6 @@
         "negative": 6.7
     },
     {
-        "headlines": "ITR filing: Why you should declare foreign assets by January 15Indian residents must disclose foreign assets and income in their ITRs by January 15, 2025, to maintain compliance and avoid penalties.",
-        "article_url": "https://www.indiatoday.in/business/story/itr-filing-why-you-should-declare-foreign-assets-by-january-15-check-details-2660469-2025-01-06",
-        "category": "business",
-        "date_time": "2025-01-06T17:27:00",
-        "uuid": "0cc6eb32-95c6-4205-8ff7-20ab05835d29",
-        "positive": 9.9,
-        "negative": 1.6
-    },
-    {
         "headlines": "Watch: Melbourne crowd pays floppy hat tribute to Shane Warne on Boxing Day Border-Gavaskar Trophy: Shane Warne's children joined the crowd at Melbourne to pay tribute to the leg-spinner, who died in March 2022. Fans doffed their floppy hats in memory of the legendary cricketer. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-melbourne-shane-warne-floppy-hat-tribute-2655483-2024-12-26",
         "category": "sports",
@@ -6469,6 +6514,15 @@
         "uuid": "18a25a5b-0336-43dd-b65c-1f555c1b4038",
         "positive": 4.8,
         "negative": 7.7
+    },
+    {
+        "headlines": "ITR filing: Why you should declare foreign assets by January 15Indian residents must disclose foreign assets and income in their ITRs by January 15, 2025, to maintain compliance and avoid penalties.",
+        "article_url": "https://www.indiatoday.in/business/story/itr-filing-why-you-should-declare-foreign-assets-by-january-15-check-details-2660469-2025-01-06",
+        "category": "business",
+        "date_time": "2025-01-06T17:27:00",
+        "uuid": "0cc6eb32-95c6-4205-8ff7-20ab05835d29",
+        "positive": 9.9,
+        "negative": 1.6
     },
     {
         "headlines": "Shikha Pandey signs for Canterbury Magicians for New Zealand Super Smash Indian speedster Shikha Pandey has signed for the Canterbury Magicians in the Women's Super Smash. The 35-year-old recently played for Brisbane Heat in the Women's Big Bash League (WBBL). ",
@@ -6534,15 +6588,6 @@
         "negative": 2
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "Sam Konstas' batting is future of opening in Tests: Gavaskar hails MCG knockSunil Gavaskar lauds 19-year-old Sam Konstas for redefining Test opening batting with fearless, unorthodox shots. Comparing it to limited-overs tactics, Gavaskar highlights how the young batter's bold approach disrupted Bumrah's rhythm. ",
         "article_url": "https://www.indiatoday.in/sports/story/sam-konstas-batting-is-future-of-opening-in-tests-gavaskar-hails-mcg-knock-2655813-2024-12-26",
         "category": "sports",
@@ -6595,6 +6640,15 @@
         "uuid": "3751b21d-723e-4a5d-a234-5b3e3a6ba890",
         "positive": 16.6,
         "negative": 6.6
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "Marnus look at that: Siraj's bail switch does the trick for Bumrah at  MCGSiraj's playful bail-switching act against Labuschagne added humor to a tense Boxing Day Test, coinciding with Bumrah's crucial breakthroughs. The cheeky tactic sparked laughter and boosted India's momentum. ",
@@ -7173,6 +7227,15 @@
         "negative": 2.4
     },
     {
+        "headlines": "Sensex, Nifty open higher driven by IT stocks; Titan gains 2% The S&P BSE Sensex was up 254.19 points to 79,477.30, while NSE Nifty50 gained 61.50 points to 24,066.25 as of 9:23 AM. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-open-higher-driven-by-it-stocks-titan-gains-2-percent-2660201-2025-01-06",
+        "category": "business",
+        "date_time": "2025-01-06T09:26:00",
+        "uuid": "f67e43d7-d0ee-463b-bd81-d0f36f689868",
+        "positive": 13.5,
+        "negative": 0
+    },
+    {
         "headlines": "Washington Sundar justifies Boxing Day selection with gritty 50 in MCG rearguardAustralia vs India: India's Washington Sundar justified his Boxing Day selection with a gritty Test fifty in the rare rearguard to help India cut their first-innings deficit on Day 3. Sunday shared a 127-run stand with the centurion Nitish Kumar Reddy in Melbourne.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-washington-sundar-boxing-day-selection-mcg-test-50-2656635-2024-12-28",
         "category": "sports",
@@ -7441,6 +7504,15 @@
         "uuid": "dc018956-2f61-4f4b-a932-86980e8f8e7a",
         "positive": 12.4,
         "negative": 3.5
+    },
+    {
+        "headlines": "Stocks to watch today: Zee, DMart, IRFC, ITC, Bharti Airtel, Hero MotoCorpAs markets open today, several companies such as Zee, DMart, IRFC, ITC, Bharti Airtel, Hero MotoCorp are expected to grab attention due to key updates.",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-zee-dmart-irfc-itc-bharti-airtel-hero-motocorp-sensex-nifty-stock-market-2659018-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T08:16:00",
+        "uuid": "b35d390f-6593-4944-9603-dada043721ac",
+        "positive": 15.2,
+        "negative": 2.1
     },
     {
         "headlines": "Jasprit Bumrah becomes fastest Indian pacer to 200 Test wicketsAUS vs IND: Jasprit Bumrah broke Kapil Dev's record to become the fastest Indian pacer to the landmark of 200 wickets in Test cricket. He reached the landmark on Day 4 of the Boxing Day Test at the Melbourne Cricket Ground. ",
@@ -7956,15 +8028,6 @@
         "negative": 6.8
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "No more Fab 4: Virat Kohli fails to keep up with ever-evolving peers IND vs AUS: Virat Kohli has struggled to find his form in Test cricket over the last five years, while the other members of the Fab-Four, Steve Smith, Kane Williamson and Steve Smith, have kept hammering runs all around the globe. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-virat-kohli-test-comparison-fab-four-williamson-smith-root-2657490-2024-12-31",
         "category": "sports",
@@ -8026,6 +8089,15 @@
         "uuid": "3474e89d-8641-4afc-8c9b-a43f59ee76e4",
         "positive": 14.9,
         "negative": 8.3
+    },
+    {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
     },
     {
         "headlines": "Jasprit Bumrah dominates nominations for ICC Awards 2024: Full list ICC Awards 2024: Jasprit Bumrah, Harry Brook and Joe Root earned multiple nominations for the annual awards. Ashdeep Singh, Smriti Manahdna and Shreyanka Patil were the other Indians on the shortlist.",
@@ -8260,6 +8332,15 @@
         "uuid": "01079277-9acb-4880-93a5-6876a1af5a7a",
         "positive": 11.8,
         "negative": 1.4
+    },
+    {
+        "headlines": " Kabeer Biswas may call it quits as Dunzo battles cash crisis: Report The Bengaluru-based quick commerce platform has faced a challenging period over the last 12–18 months, marked by cash flow issues and difficulties in raising fresh funds.",
+        "article_url": "https://www.indiatoday.in/business/story/kabeer-biswas-founder-dunzo-exit-quick-commerce-startup-reliance-retail-battles-cash-crisis-report-2659043-2025-01-03",
+        "category": "business",
+        "date_time": "2025-01-03T09:39:00",
+        "uuid": "472999fe-bcc7-4f4d-9b60-cd89b7b3efd1",
+        "positive": 6.9,
+        "negative": 3.8
     },
     {
         "headlines": "What a joke: FIDE slammed after Carlsen, Nepomniachtchi share World Blitz crownGrandmasters Magnus Carlsen and Ian Nepomniachtchi made history by sharing the 2024 World Blitz Chess Championship title in New York. Carlsen proposed the tie, which Nepomniachtchi accepted, eliciting mixed reactions from the chess community.",
@@ -8917,86 +8998,5 @@
         "uuid": "82dd9b4e-46ba-4927-9b64-f31997ebb3e6",
         "positive": 5.1,
         "negative": 5.2
-    },
-    {
-        "headlines": "Explained: Why Paras Defence share price surged 10% todayParas Defence and Space Technologies Ltd designs, develops, manufactures, and tests a range of products for the defence and space sectors.",
-        "article_url": "https://www.indiatoday.in/business/story/paras-defence-share-price-rise-10-percent-reason-why-hit-upper-circuit-licence-light-machine-guns-2660954-2025-01-07",
-        "category": "business",
-        "date_time": "2025-01-07T15:28:00",
-        "uuid": "9a13a8ca-d7d4-4ac3-bfc6-3c8f225b6977",
-        "positive": 10.9,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Rohit Sharma has played his last Test for India: Sunil GavaskarIndia captain Rohit Sharma has played his last Test match in Melbourne, said Sunil Gavaskar on Friday - Day 1 of the final Test match of the Border-Gavaskar Trophy. Sharma skipped the SCG Test after opting to rest himself.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-rohit-sharma-retirement-rested-dropped-gavaskar-2659020-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T08:25:00",
-        "uuid": "8f06afca-5794-42fd-8d20-cd8c81035acf",
-        "positive": 7,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Steve Smith '100 percent' certain he got his hand under Virat Kohli's catchSteven Smith is 100 percent certain he got his hand under the ball while attempting to catch Virat Kohli at slip on the first day of the SCG Test. The decision was referred to the TV umpire and was eventually ruled not out.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-steve-smith-reaction-virat-kohli-catch-sydney-test-2659017-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T08:15:00",
-        "uuid": "e1a46b88-84a0-4cab-9262-5caff5a44f49",
-        "positive": 11.5,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Sam Konstas built for this stage: Watson praises Australia opener's showmanshipFormer Australian all-rounder Shane Watson, who has mentored Sam Konstas, was pleasantly surprised by the 19-year-old's blockbuster debut in the fourth Test against India at the Melbourne Cricket Ground.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-shane-watson-on-sam-konstas-debut-2659029-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T09:02:00",
-        "uuid": "6a2aaf0f-ea5f-4d6c-b18c-45fd707bed51",
-        "positive": 13.5,
-        "negative": 3.7
-    },
-    {
-        "headlines": "Watch: Rishabh Pant takes body-blows, replies with massive six at SCGIndia batter Rishabh Pant battled it out like a gladiator at the SCG on Friday. In testing conditions, Pant took blows to the hand and head and then replied with a stunning six on Day 1 of the final Test.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rishabh-pant-takes-body-blows-replies-with-six-2659054-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T10:07:00",
-        "uuid": "e2d3d1c3-56f8-4819-a651-240aae54ffa2",
-        "positive": 3.4,
-        "negative": 9.6
-    },
-    {
-        "headlines": "Edged and gone, again: Virat Kohli booed at SCG, dismissed for 17Senior India batter Virat Kohli once again edged the ball to the slips in the Border-Gavaskar Trophy. This was the 6th time out of 7 innings that Kohli got out edging the ball outside off stump.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-sydney-test-match-virat-kohli-outside-off-edge-2659040-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T10:19:00",
-        "uuid": "927c6d3a-75c9-4281-ba87-9d84816d8a90",
-        "positive": 1.2,
-        "negative": 2.6
-    },
-    {
-        "headlines": "SCG pitch has excessive grass, but no former Indian player is complaining: GavaskarFormer India captain Sunil Gavaskar slammed the unusually grassy pitch at the Sydney Cricket Ground, adding that former Indian players have refrained from criticising the challenging surfaces in Australia. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sunil-gavaskar-sydney-grass-pitch-5th-test-2659077-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T11:11:00",
-        "uuid": "f62a00d2-886c-4c31-8728-7a1a7bbbcdd4",
-        "positive": 8.4,
-        "negative": 9.6
-    },
-    {
-        "headlines": "Virat Kohli has lower first innings Test average than Jasprit Bumrah since 2024Australia vs India: Virat Kohli, who fell after scoring 17 runs in the Sydney Test, has a lower first-innings Test average than Jasprit Bumrah since 2024. Kohli's woeful form continued after the batter once again edged the ball to the slip cordon. \r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-2024-lower-1st-innings-test-average-bumrah-2659121-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T12:20:00",
-        "uuid": "5c5d34c9-c154-4191-98de-9e2141a6023c",
-        "positive": 2.3,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Awful decision: Washington Sundar shocked after controversial DRS call in SydneyAustralia vs India, 5th Test: Washington Sundar was not able to believe his luck when third umpire Joel Wilson ruled him caught behind after he appeared to glove a bouncer from Pat Cummins. Wilson made two debatable calls on Day 1 of the Test in Syndey. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-washington-sundar-catch-drs-joel-wilson-third-umpire-controveresy-2659112-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T12:12:00",
-        "uuid": "b5dc5a5b-bb7e-4b0b-aac3-b0fbeee393df",
-        "positive": 4.4,
-        "negative": 6.8
     }
 ]
