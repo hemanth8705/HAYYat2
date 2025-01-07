@@ -1494,15 +1494,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Sensex drops 400 points; Nifty slips below 24,100 in early tradeThe S&P BSE Sensex lost 452.52 points to 79,491.29, while the NSE Nifty50 was down by 93.25 points to 24,095.40 as of 9:42 AM. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-drops-over-400-points-nifty-slips-below-24100-in-early-trade-2659048-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T10:32:00",
-        "uuid": "4efce8ba-0944-4020-8728-69ab97953442",
-        "positive": 20.5,
-        "negative": 5.1
-    },
-    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -5310,51 +5301,6 @@
         "negative": 3.2
     },
     {
-        "headlines": "ITR filing: Maximise tax savings for FY 2024-25. Check investment optionsTaxpayers can maximise their tax savings for FY 2024-25 by investing in key exemptions before March 31, 2025.",
-        "article_url": "https://www.indiatoday.in/business/story/itr-filing-maximise-tax-savings-for-fy-2024-25-check-investment-options-section-80c-nsc-ppf-ulip-section-80ccc-nps-section-80ccd-section-80d-agniveer-corpus-fund-2658550-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T14:15:00",
-        "uuid": "0325d3fe-efe4-422f-aa7e-c87d0f1459fa",
-        "positive": 5.4,
-        "negative": 1
-    },
-    {
-        "headlines": "New pension rules from 2025: Now collect EPS anywhere in IndiaFrom January 1, 2025, EPS pensioners can receive pensions from any bank branch nationwide under the new Centralized Pension Payment System.",
-        "article_url": "https://www.indiatoday.in/business/story/new-pension-rules-from-2025-now-collect-eps-anywhere-in-india-to-benefit-over-78-lakh-eps-pensioners-2658591-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T15:00:00",
-        "uuid": "a3c8419f-35e6-44af-97fc-df2438293a2a",
-        "positive": 9.7,
-        "negative": 0.6
-    },
-    {
-        "headlines": "Post office schemes' interest rates unchanged for January-March 2025. Check hereSmall savings schemes will continue to offer unchanged interest rates for the January-March 2025 period, ensuring investors can enjoy stable returns through the quarter.",
-        "article_url": "https://www.indiatoday.in/business/story/post-office-savings-schemes-interest-rates-unchanged-for-january-march-2025-check-here-ppf-sukanya-samriddhi-yojana-2658661-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T16:17:00",
-        "uuid": "566f9db8-41f5-4362-a74c-e0627566a11a",
-        "positive": 13.3,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Sensex, Nifty surge nearly 2% as auto stocks drive Dalal Street rally The Sensex climbed 1.8% to end at 79,943.71, while the Nifty gained 1.9% to close at 24,188.65.",
-        "article_url": "https://www.indiatoday.in/business/story/sensex-nifty-surge-nearly-2-as-auto-stocks-drive-d-street-rally-2658646-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T15:48:00",
-        "uuid": "6473fa72-a7a3-44da-8a50-14cb67fa2144",
-        "positive": 18.7,
-        "negative": 3.7
-    },
-    {
-        "headlines": "Donald Trump's tariff threat: Top experts discuss what it means for IndiaIn an exclusive panel discussion with Rahul Kanwal, News Director at Aajtak & India Today, leading experts shared their insights on what Trump's tariff threats could mean for India's economy, especially after the recent GDP data. ",
-        "article_url": "https://www.indiatoday.in/business/story/donald-trump-tariff-threat-impact-on-indian-economy-top-experts-discuss-global-trade-rupee-gdp-export-2658685-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T17:17:00",
-        "uuid": "f709a34e-5f47-49c0-87e4-fc1e71f4ca13",
-        "positive": 8.1,
-        "negative": 6
-    },
-    {
         "headlines": "AUS vs IND: What to expect from the MCG pitch for the Boxing Day TestAustralia vs India, 4th Test: A good tinge of green was spotted on the centre pitch on Monday, three days ahead of Boxing Day. Melbourne Cricket Ground curator Matt Page said he expects a seam-friendly pitch with very little assistance for spinners. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-4th-test-melbourne-pitch-curator-matt-page-2654051-2024-12-23",
         "category": "sports",
@@ -5416,6 +5362,33 @@
         "uuid": "b020b11a-d52f-4beb-b066-a988be98581f",
         "positive": 11.4,
         "negative": 2.6
+    },
+    {
+        "headlines": "ITR filing: Submit these investment proofs to claim deductions and save on TDSSubmit proofs promptly to reduce TDS, maximise tax savings, and ensure smooth compliance before filing your ITR.",
+        "article_url": "https://www.indiatoday.in/business/story/itr-filing-submit-these-investment-proofs-to-claim-deductions-and-save-on-tds-2660962-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T16:23:00",
+        "uuid": "52404f77-936b-4d16-8fe2-bd41b2fad79b",
+        "positive": 8.1,
+        "negative": 1.2
+    },
+    {
+        "headlines": "India's GDP growth estimated to slow sharply to 6.4% in FY25 from 8.2% in FY24The slowdown in the government's first advance estimates highlights a more tempered pace of economic activity and indicates that the economy could grow at the slowest pace in four years. ",
+        "article_url": "https://www.indiatoday.in/business/story/india-gdp-likely-to-grow-64-per-cent-in-fy25-show-first-advance-estimates-2660971-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T16:39:00",
+        "uuid": "f500a27f-41d6-401a-ad52-52389735d261",
+        "positive": 10,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Sensex, Nifty recover after Monday's slump; RIL gains 2% The S&P BSE Sensex added 234.12 points to close at 78,199.11, while the NSE Nifty50 gained 91.85 points to end at 23,707.90.",
+        "article_url": "https://www.indiatoday.in/business/story/closing-bell-sensex-nifty-recover-after-monday-slump-ril-gains-2-percent-2660967-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T16:38:00",
+        "uuid": "1f9367de-47e0-4606-8829-c946c295b3e1",
+        "positive": 23.7,
+        "negative": 2.8
     },
     {
         "headlines": "Rashford's Decline: 'Generational talent' nears Manchester United exitMarcus Rashford's journey at Manchester United appears to be near its end, as his form and off-field issues under Ruben Amorim's management has seen him fall out of favour, leaving fans and pundits questioning the trajectory of his career.",
@@ -5634,15 +5607,6 @@
         "negative": 2.7
     },
     {
-        "headlines": "Leo Dry Fruits and Spices IPO: Check price band, GMP today  Leo Dry Fruits and Spices IPO last day: The initial public offering (IPO) of Leo Dry Fruits and Spices will close for bidding on Friday after having opened for subscription on January 1, 2025. ",
-        "article_url": "https://www.indiatoday.in/business/story/leo-dry-fruits-and-spices-ipo-last-day-check-price-band-gmp-today-stmp-2659089-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T11:24:00",
-        "uuid": "c2659c7f-63c5-4995-aa03-299569c9059b",
-        "positive": 9.8,
-        "negative": 0.5
-    },
-    {
         "headlines": "Rohit backs 'modern-day great' Virat, tight-lipped about his batting spotAustralia vs India, 4th Test: India captain Rohit Sharma expressed confidence in Virat Kohli overcoming his struggles outside the off-stump. However, the skipper refrained from revealing his batting position for the Boxing Day Test, adding to the speculation.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-boxing-day-test-rohit-sharma-virat-kohli-off-side-great-2654449-2024-12-24",
         "category": "sports",
@@ -5841,6 +5805,15 @@
         "negative": 3
     },
     {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Smriti Mandhana jumps to 2nd spot in ODI and T20I batting rankingsSmriti Mandhana's stellar performances catapulted her to the 2nd spot in the ODI and T20I batting rankings, highlighting her consistency with five consecutive 50-plus scores. Her dominance cements her as a crucial asset in India's batting lineup.",
         "article_url": "https://www.indiatoday.in/sports/story/smriti-mandhana-jumps-to-2nd-spot-in-odi-and-t20i-batting-rankings-2654681-2024-12-24",
         "category": "sports",
@@ -5920,15 +5893,6 @@
         "uuid": "23e072ab-93c7-4ec4-b84d-b1d08b6c160f",
         "positive": 9.6,
         "negative": 3.7
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
     },
     {
         "headlines": "Herculean Harleen fires India to ODI series win vs hapless West IndiesIndia sealed a commanding 115-run victory over West Indies in the second ODI, driven by Harleen Deol's maiden century and disciplined bowling. ",
@@ -6057,6 +6021,24 @@
         "negative": 6.8
     },
     {
+        "headlines": "Stocks to watch today: Vodafone Idea, RIL, Adani Power, Indo Farm EquipmentStocks of Indo Farm Equipment, RIL, Adani Power, Mobikwik, BPCL, RIL, Bharti Airtel, Coal India, among others, are expected to remain in focus as trading resumes today, January 7, 2025.",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-vodafone-idea-ril-adani-power-indo-farm-equipment-coal-india-mobikwik-2660728-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T08:38:00",
+        "uuid": "39cc5010-6060-4c98-a801-d8a1ec219959",
+        "positive": 8.3,
+        "negative": 2
+    },
+    {
+        "headlines": "Stock market today: Will volatility continue to haunt Dalal Street?Concerns over the HMPV virus and foreign institutional investors (FIIs) pulling out funds triggered a massive sell-off, leaving the Sensex and Nifty both over 1.5% lower. ",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-today-what-to-expect-will-volatility-continue-to-haunt-dalal-street-sensex-nifty-crash-2660735-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T08:36:00",
+        "uuid": "31de18f7-6e4d-4b21-b09e-b9faf67fe9a4",
+        "positive": 8.4,
+        "negative": 7.4
+    },
+    {
         "headlines": "Great occasion for Pakistan: Rizwan praises Champions Trophy schedulingPakistan's white-ball captain Mohammad Rizwan and PCB Chairman Mohsin Naqvi praised the ICC's decision to host the Champions Trophy 2025 in a hybrid model.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-pakistan-mohammad-rizwan-praises-champions-trophy-scheduling-2655075-2024-12-25",
         "category": "sports",
@@ -6136,24 +6118,6 @@
         "uuid": "31b82355-0dac-4b4d-854a-ef31fb63d51b",
         "positive": 14.2,
         "negative": 8.2
-    },
-    {
-        "headlines": "Stocks to watch today: Vodafone Idea, RIL, Adani Power, Indo Farm EquipmentStocks of Indo Farm Equipment, RIL, Adani Power, Mobikwik, BPCL, RIL, Bharti Airtel, Coal India, among others, are expected to remain in focus as trading resumes today, January 7, 2025.",
-        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-vodafone-idea-ril-adani-power-indo-farm-equipment-coal-india-mobikwik-2660728-2025-01-07",
-        "category": "business",
-        "date_time": "2025-01-07T08:38:00",
-        "uuid": "39cc5010-6060-4c98-a801-d8a1ec219959",
-        "positive": 8.3,
-        "negative": 2
-    },
-    {
-        "headlines": "Stock market today: Will volatility continue to haunt Dalal Street?Concerns over the HMPV virus and foreign institutional investors (FIIs) pulling out funds triggered a massive sell-off, leaving the Sensex and Nifty both over 1.5% lower. ",
-        "article_url": "https://www.indiatoday.in/business/story/stock-market-today-what-to-expect-will-volatility-continue-to-haunt-dalal-street-sensex-nifty-crash-2660735-2025-01-07",
-        "category": "business",
-        "date_time": "2025-01-07T08:36:00",
-        "uuid": "31de18f7-6e4d-4b21-b09e-b9faf67fe9a4",
-        "positive": 8.4,
-        "negative": 7.4
     },
     {
         "headlines": "Australia vs India, Boxing Day Test in Melbourne: Complete guideAustralia vs India, 4th Test: India will look to complete a hat-trick of wins in Boxing Day Tests Down Under when they take on Australia in Melbourne. A packed crowd is set to welcome the two teams on Thursday, December 26. ",
@@ -6417,15 +6381,6 @@
         "negative": 5.6
     },
     {
-        "headlines": "Sam Konstas reacts to on-field bust-up with Virat Kohli at MCGIND vs AUS, 4th Test: Young Australia opener Sam Konstas has reacted to his heated altercation with Virat Kohli on Day 1 of the Boxing Day Test match. Konstas spoke about the incident on the live broadcast during the Test match.",
-        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-sam-konstas-virat-kohli-controversy-fight-mcg-2655421-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T08:09:00",
-        "uuid": "7b5fb79a-a430-423c-86a4-78363afd7cce",
-        "positive": 7.3,
-        "negative": 5.1
-    },
-    {
         "headlines": "ITR filing: Why you should declare foreign assets by January 15Indian residents must disclose foreign assets and income in their ITRs by January 15, 2025, to maintain compliance and avoid penalties.",
         "article_url": "https://www.indiatoday.in/business/story/itr-filing-why-you-should-declare-foreign-assets-by-january-15-check-details-2660469-2025-01-06",
         "category": "business",
@@ -6433,6 +6388,15 @@
         "uuid": "0cc6eb32-95c6-4205-8ff7-20ab05835d29",
         "positive": 9.9,
         "negative": 1.6
+    },
+    {
+        "headlines": "Sam Konstas reacts to on-field bust-up with Virat Kohli at MCGIND vs AUS, 4th Test: Young Australia opener Sam Konstas has reacted to his heated altercation with Virat Kohli on Day 1 of the Boxing Day Test match. Konstas spoke about the incident on the live broadcast during the Test match.",
+        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-sam-konstas-virat-kohli-controversy-fight-mcg-2655421-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T08:09:00",
+        "uuid": "7b5fb79a-a430-423c-86a4-78363afd7cce",
+        "positive": 7.3,
+        "negative": 5.1
     },
     {
         "headlines": "King rattled? Pundits react to Virat Kohli's confrontation with Sam Konstas Border-Gavaskar Trophy: Sunil Gavaskar and Michael Vaughan were among the many who criticised Virat Kohli after the former India captain was involved in a physical altercation with 19-year-old debutant, Sam Konstas in Melbourne. ",
@@ -6552,15 +6516,6 @@
         "negative": 4.2
     },
     {
-        "headlines": "How MCG star Sam Konstas' father helped him prepare against fast bowlersA childhood training error turned into a masterstroke for Sam Konstas, who fearlessly faced Jasprit Bumrah on his Test debut. His father's bowling machine mishap at 90 mph helped shape the star's confidence against fast bowlers.",
-        "article_url": "https://www.indiatoday.in/sports/story/how-mcg-star-sam-konstas-father-helped-him-prepare-vs-fast-bowlers-2655733-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:29:00",
-        "uuid": "84160572-e95c-41b9-93aa-2d4ba5ca2667",
-        "positive": 15.7,
-        "negative": 2.7
-    },
-    {
         "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
         "category": "sports",
@@ -6568,6 +6523,15 @@
         "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
         "positive": 6.7,
         "negative": 6.2
+    },
+    {
+        "headlines": "How MCG star Sam Konstas' father helped him prepare against fast bowlersA childhood training error turned into a masterstroke for Sam Konstas, who fearlessly faced Jasprit Bumrah on his Test debut. His father's bowling machine mishap at 90 mph helped shape the star's confidence against fast bowlers.",
+        "article_url": "https://www.indiatoday.in/sports/story/how-mcg-star-sam-konstas-father-helped-him-prepare-vs-fast-bowlers-2655733-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:29:00",
+        "uuid": "84160572-e95c-41b9-93aa-2d4ba5ca2667",
+        "positive": 15.7,
+        "negative": 2.7
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -6847,15 +6811,6 @@
         "uuid": "da1560d5-7fb5-4c6b-bf9c-33169cddc48b",
         "positive": 9.1,
         "negative": 7.3
-    },
-    {
-        "headlines": "Budget 2025: 5 top expectations of senior citizens Budget 2025 can ease senior citizens' burdens with higher tax exemptions, simpler processes, and targeted benefits for financial security.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-5-top-expectations-of-senior-citizens-enhanced-savings-better-deductions-for-medical-costs-2659086-2025-01-03",
-        "category": "business",
-        "date_time": "2025-01-03T11:25:00",
-        "uuid": "4929b0f5-a329-4008-b68f-76fe03fb9bf7",
-        "positive": 20.1,
-        "negative": 3.6
     },
     {
         "headlines": "Irfan Pathan slams Aussie media for Kohli witch hunt: Using his market valueIrfan Pathan criticised the Australian media for targeting Virat Kohli, accusing them of exploiting his fame to boost cricket's visibility. Kohli faced scrutiny after an altercation with Sam Konstas and a privacy breach at Melbourne airport involving his family.",
@@ -7549,15 +7504,6 @@
         "uuid": "eccc8293-6b1e-439c-a93e-0acdf313f9b2",
         "positive": 10.6,
         "negative": 3.5
-    },
-    {
-        "headlines": "Budget 2025: Mohandas Pai calls for revised tax slabs, relief for middle-classFormer Infosys CFO Mohandas Pai calls for Budget 2025 reforms to ease middle-class tax burdens, simplify slabs, resolve disputes, and boost spending.",
-        "article_url": "https://www.indiatoday.in/budget/story/budget-2025-mohandas-pai-calls-for-revised-tax-slabs-relief-for-middle-class-reducing-deductions-addressing-tax-disputes-housing-loan-reforms-2658698-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T17:19:00",
-        "uuid": "1b327ef7-f38d-4bbb-8d61-891e18f93d7e",
-        "positive": 9.4,
-        "negative": 7.8
     },
     {
         "headlines": "ICC Awards: Babar, Arshdeep nominated for T20I Player of the Year 2024, no BumrahThe International Cricket Council (ICC) released the list of nominated players for the T20I Cricketer of the Year award for 2024.                                                                                                                                                                                                                                                            ",
@@ -8998,5 +8944,59 @@
         "uuid": "6a2aaf0f-ea5f-4d6c-b18c-45fd707bed51",
         "positive": 13.5,
         "negative": 3.7
+    },
+    {
+        "headlines": "Watch: Rishabh Pant takes body-blows, replies with massive six at SCGIndia batter Rishabh Pant battled it out like a gladiator at the SCG on Friday. In testing conditions, Pant took blows to the hand and head and then replied with a stunning six on Day 1 of the final Test.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rishabh-pant-takes-body-blows-replies-with-six-2659054-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T10:07:00",
+        "uuid": "e2d3d1c3-56f8-4819-a651-240aae54ffa2",
+        "positive": 3.4,
+        "negative": 9.6
+    },
+    {
+        "headlines": "Edged and gone, again: Virat Kohli booed at SCG, dismissed for 17Senior India batter Virat Kohli once again edged the ball to the slips in the Border-Gavaskar Trophy. This was the 6th time out of 7 innings that Kohli got out edging the ball outside off stump.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-sydney-test-match-virat-kohli-outside-off-edge-2659040-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T10:19:00",
+        "uuid": "927c6d3a-75c9-4281-ba87-9d84816d8a90",
+        "positive": 1.2,
+        "negative": 2.6
+    },
+    {
+        "headlines": "SCG pitch has excessive grass, but no former Indian player is complaining: GavaskarFormer India captain Sunil Gavaskar slammed the unusually grassy pitch at the Sydney Cricket Ground, adding that former Indian players have refrained from criticising the challenging surfaces in Australia. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sunil-gavaskar-sydney-grass-pitch-5th-test-2659077-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T11:11:00",
+        "uuid": "f62a00d2-886c-4c31-8728-7a1a7bbbcdd4",
+        "positive": 8.4,
+        "negative": 9.6
+    },
+    {
+        "headlines": "Virat Kohli has lower first innings Test average than Jasprit Bumrah since 2024Australia vs India: Virat Kohli, who fell after scoring 17 runs in the Sydney Test, has a lower first-innings Test average than Jasprit Bumrah since 2024. Kohli's woeful form continued after the batter once again edged the ball to the slip cordon. \r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-2024-lower-1st-innings-test-average-bumrah-2659121-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T12:20:00",
+        "uuid": "5c5d34c9-c154-4191-98de-9e2141a6023c",
+        "positive": 2.3,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Awful decision: Washington Sundar shocked after controversial DRS call in SydneyAustralia vs India, 5th Test: Washington Sundar was not able to believe his luck when third umpire Joel Wilson ruled him caught behind after he appeared to glove a bouncer from Pat Cummins. Wilson made two debatable calls on Day 1 of the Test in Syndey. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-washington-sundar-catch-drs-joel-wilson-third-umpire-controveresy-2659112-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T12:12:00",
+        "uuid": "b5dc5a5b-bb7e-4b0b-aac3-b0fbeee393df",
+        "positive": 4.4,
+        "negative": 6.8
+    },
+    {
+        "headlines": "Don't fire up Bumrah: Meme-fest after India captain gives it back to Sam KosntasAustralia vs India, 5th Test: Jasprit Bumrah was fired up by Sam Konstas after the two were involved in a heated verbal exchange. The India captain dismissed Usman Khawaja in the final over of the day's play. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sam-konstas-jasprit-bumrah-memes-fire-up-sydney-day-1-2659161-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T13:16:00",
+        "uuid": "693668b1-931f-4ccd-bc28-ff3a270a6a4f",
+        "positive": 7.4,
+        "negative": 3.9
     }
 ]
