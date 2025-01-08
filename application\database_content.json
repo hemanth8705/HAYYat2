@@ -5337,33 +5337,6 @@
         "negative": 0.4
     },
     {
-        "headlines": "ITR filing: Submit these investment proofs to claim deductions and save on TDSSubmit proofs promptly to reduce TDS, maximise tax savings, and ensure smooth compliance before filing your ITR.",
-        "article_url": "https://www.indiatoday.in/business/story/itr-filing-submit-these-investment-proofs-to-claim-deductions-and-save-on-tds-2660962-2025-01-07",
-        "category": "business",
-        "date_time": "2025-01-07T16:23:00",
-        "uuid": "52404f77-936b-4d16-8fe2-bd41b2fad79b",
-        "positive": 8.1,
-        "negative": 1.2
-    },
-    {
-        "headlines": "India's GDP growth estimated to slow sharply to 6.4% in FY25 from 8.2% in FY24The slowdown in the government's first advance estimates highlights a more tempered pace of economic activity and indicates that the economy could grow at the slowest pace in four years. ",
-        "article_url": "https://www.indiatoday.in/business/story/india-gdp-likely-to-grow-64-per-cent-in-fy25-show-first-advance-estimates-2660971-2025-01-07",
-        "category": "business",
-        "date_time": "2025-01-07T16:39:00",
-        "uuid": "f500a27f-41d6-401a-ad52-52389735d261",
-        "positive": 10,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Sensex, Nifty recover after Monday's slump; RIL gains 2% The S&P BSE Sensex added 234.12 points to close at 78,199.11, while the NSE Nifty50 gained 91.85 points to end at 23,707.90.",
-        "article_url": "https://www.indiatoday.in/business/story/closing-bell-sensex-nifty-recover-after-monday-slump-ril-gains-2-percent-2660967-2025-01-07",
-        "category": "business",
-        "date_time": "2025-01-07T16:38:00",
-        "uuid": "1f9367de-47e0-4606-8829-c946c295b3e1",
-        "positive": 23.7,
-        "negative": 2.8
-    },
-    {
         "headlines": "Ruturaj hits blazing 148 off 74 for Maharashtra in Vijay Hazare TrophyRuturaj Gaikwad's unbeaten 148 off 74 balls guided Maharashtra to a resounding victory over Services in the Vijay Hazare Trophy, which announced his promising ODI batting talent ahead of the ICC Champions Trophy.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ruturaj-gaikwad-century-vijay-hazare-trophy-maharashtra-vs-services-2654102-2024-12-23",
         "category": "sports",
@@ -5425,6 +5398,33 @@
         "uuid": "2adf2f37-0d88-4cc2-b0e2-ba455b726490",
         "positive": 7.6,
         "negative": 7.7
+    },
+    {
+        "headlines": "ITR filing: Submit these investment proofs to claim deductions and save on TDSSubmit proofs promptly to reduce TDS, maximise tax savings, and ensure smooth compliance before filing your ITR.",
+        "article_url": "https://www.indiatoday.in/business/story/itr-filing-submit-these-investment-proofs-to-claim-deductions-and-save-on-tds-2660962-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T16:23:00",
+        "uuid": "52404f77-936b-4d16-8fe2-bd41b2fad79b",
+        "positive": 8.1,
+        "negative": 1.2
+    },
+    {
+        "headlines": "India's GDP growth estimated to slow sharply to 6.4% in FY25 from 8.2% in FY24The slowdown in the government's first advance estimates highlights a more tempered pace of economic activity and indicates that the economy could grow at the slowest pace in four years. ",
+        "article_url": "https://www.indiatoday.in/business/story/india-gdp-likely-to-grow-64-per-cent-in-fy25-show-first-advance-estimates-2660971-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T16:39:00",
+        "uuid": "f500a27f-41d6-401a-ad52-52389735d261",
+        "positive": 10,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Sensex, Nifty recover after Monday's slump; RIL gains 2% The S&P BSE Sensex added 234.12 points to close at 78,199.11, while the NSE Nifty50 gained 91.85 points to end at 23,707.90.",
+        "article_url": "https://www.indiatoday.in/business/story/closing-bell-sensex-nifty-recover-after-monday-slump-ril-gains-2-percent-2660967-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T16:38:00",
+        "uuid": "1f9367de-47e0-4606-8829-c946c295b3e1",
+        "positive": 23.7,
+        "negative": 2.8
     },
     {
         "headlines": "Dhruv Jurel wins cash prize during Team India's fielding drill before MCG Test Dhruv Jurel's impressive performance in the fielding drill earned him a 300 dollar cash prize, as Team India ramped up preparations for the Boxing Day Test at the MCG. The drill, filled with energy and competition, boosted the team's spirit.",
@@ -5841,15 +5841,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Paralympics gold-medalist Harvinder adds to burning Khel Ratna controversyHarvinder Singh, Paris Paralympics gold medallist, criticised the exclusion of Paralympians from the Khel Ratna Award nominations, sparking concerns about recognition disparities in India's highest sporting honours compared to achievements celebrated after Tokyo 2020.",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/harvinder-singh-paralympics-khel-ratna-discrimination-tokyo-paris-games-controversy-2654826-2024-12-24",
         "category": "sports",
@@ -5920,6 +5911,15 @@
         "uuid": "b2f056da-09a1-42e6-bd99-57f76cb09d03",
         "positive": 18,
         "negative": 4
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "HIL gave me a platform to make a comeback in the India team: Amit RohidasAmit Rohidas highlighted how the Hockey India League reignited his career, offering young players a vital platform to gain exposure and return stronger. With its revival, the league is poised to foster talent and bolster Indian hockey's future.",
@@ -6534,15 +6534,6 @@
         "negative": 9.2
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "What are India's chances of winning Boxing Day Test after Day 1? AUS vs IND, Boxing Day Test: With Australia at 311 for six at Stumps on Day 1, are India still in with a good enough chance to come up trumps at the Melbourne Cricket Ground (MCG)? ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-border-gavaskar-trophy-australia-vs-india-boxing-day-test-2655750-2024-12-26",
         "category": "sports",
@@ -6622,6 +6613,15 @@
         "uuid": "8c081cf4-3b7c-45ef-a1b3-a1fd140616e9",
         "positive": 7.3,
         "negative": 1.1
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n",
@@ -7308,15 +7308,6 @@
         "negative": 2.6
     },
     {
-        "headlines": "'Real money is with Gujjus': Nithin Kamath on equity trade dominanceNithin Kamath revealed Mumbai and Ahmedabad drive 80% of equity trades, despite Gujarat having only 8% of registered investors.",
-        "article_url": "https://www.indiatoday.in/business/story/real-money-is-with-gujjus-nithin-kamath-on-equity-trade-dominance-2661449-2025-01-08",
-        "category": "business",
-        "date_time": "2025-01-08T13:14:00",
-        "uuid": "d2cb18f3-54a5-4922-9de0-83aef5490b40",
-        "positive": 8.9,
-        "negative": 2.3
-    },
-    {
         "headlines": "Nitish borrows Cummins' mentality, Klaasen's gameplan for MCG Test hundredNitish Kumar Reddy became the first Indian No.8 to score a Test century in Australia. Nitish's incredible innings not only helped India save follow-on, but nearly helped India massively cut down the deficit against Australia's massive first innings total of 474.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-pat-cummins-mentality-heinrich-klaasen-gameplan-melbourne-2656754-2024-12-28",
         "category": "sports",
@@ -7477,6 +7468,15 @@
         "uuid": "6939120e-125b-46ca-902e-8d2962e360c4",
         "positive": 12.4,
         "negative": 4.1
+    },
+    {
+        "headlines": "'Real money is with Gujjus': Nithin Kamath on equity trade dominanceNithin Kamath revealed Mumbai and Ahmedabad drive 80% of equity trades, despite Gujarat having only 8% of registered investors.",
+        "article_url": "https://www.indiatoday.in/business/story/real-money-is-with-gujjus-nithin-kamath-on-equity-trade-dominance-2661449-2025-01-08",
+        "category": "business",
+        "date_time": "2025-01-08T13:14:00",
+        "uuid": "d2cb18f3-54a5-4922-9de0-83aef5490b40",
+        "positive": 8.9,
+        "negative": 2.3
     },
     {
         "headlines": "Joke of the year: Fans on Babar Azam's T20I Cricketer of the Year nomination Former Pakistan captain Babar Azam has been nominated for the ICC Men's T20I Cricketer of the Year along with Australia's Travis Head, India's Arshdeep Singh and Zimbabwe's Sikandar Raza. ",
@@ -7893,15 +7893,6 @@
         "negative": 4
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "MP win Senior Women's One-Day Trophy title after Anushka Sharma starsSenior Women's One-Day Trophy 2024-25: Anushka Sharma's 69 not out and Kranti Gaud's four-wicket haul helped Madhya Pradesh win the title after beating Bengal by seven wickets in the final. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/madhya-pradesh-bengal-senior-womens-one-day-trophy-anushka-sharma-2657441-2024-12-30",
         "category": "sports",
@@ -7972,6 +7963,15 @@
         "uuid": "ecabf153-a5c2-41af-b23a-0db65a8cd750",
         "positive": 14.3,
         "negative": 8.4
+    },
+    {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
     },
     {
         "headlines": "Head's celebration insulted not just Pant but 1.5 billion Indians: Navjot SidhuAustralia vs India: Former Indian batter Navjot Singh Sidhu has slammed Travis Head's 'obnoxious' celebration after Rishabh Pant's dismissal in the recent Boxing Day Test. Sidhu labeled the act as \"obnoxious behavior\", saying the celebration insulted not just Pant but the entire Indian population of 1.5 billion.\r\n",
@@ -8883,15 +8883,6 @@
         "negative": 4.1
     },
     {
-        "headlines": "Explained: Why Paras Defence share price surged 10% todayParas Defence and Space Technologies Ltd designs, develops, manufactures, and tests a range of products for the defence and space sectors.",
-        "article_url": "https://www.indiatoday.in/business/story/paras-defence-share-price-rise-10-percent-reason-why-hit-upper-circuit-licence-light-machine-guns-2660954-2025-01-07",
-        "category": "business",
-        "date_time": "2025-01-07T15:28:00",
-        "uuid": "9a13a8ca-d7d4-4ac3-bfc6-3c8f225b6977",
-        "positive": 10.9,
-        "negative": 0.7
-    },
-    {
         "headlines": "He's been dropped: Mark Taylor slams Rohit Sharma's 'resting' antics at SCGFormer Australia cricketer Mark Taylor has slammed Team India's line of Rohit Sharma 'resting himself'. Speaking on Triple M Cricket, Taylor said that Rohit has been dropped, and the team should just simply say so.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-dropped-mark-taylor-ind-vs-aus-scg-test-2659007-2025-01-03",
         "category": "sports",
@@ -8998,5 +8989,14 @@
         "uuid": "5cdc0dee-4351-4767-809a-6cf1686c563b",
         "positive": 7.3,
         "negative": 6.3
+    },
+    {
+        "headlines": "Watch: Jasprit Bumrah stares down Sam Konstas in dramatic end to Day 1 in SydneyAustralia vs India, Sydney Test: Jasprit Bumrah and Sam Konstas were engaged in a fiery exchange at the end of Day 1 in Sydney after the Indian pacer dismissed Usman Khawaja on the last ball.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sydney-test-bumrah-konstas-heated-khawaja-out-day-1-2659135-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T13:13:00",
+        "uuid": "e3b5ced7-182e-4faa-bdc0-0770f384807a",
+        "positive": 7,
+        "negative": 7.6
     }
 ]
