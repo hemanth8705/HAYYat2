@@ -3024,13 +3024,13 @@
         "negative": 1.9
     },
     {
-        "headlines": "Maruti Suzuki share price jumps over 4%. What's behind today's gain? Maruti Suzuki stock price: At 12:04 pm, the stock was trading 4.01% higher at Rs 11,671.55 on BSE, with a market capitalisation of Rs 3.67 lakh crore. This marks a significant rally, as the stock has climbed over 6% in the past two days",
-        "article_url": "https://www.indiatoday.in/business/story/maruti-suzuki-share-price-jumps-over-4-decoding-key-factors-todays-gain-stmp-2658496-2025-01-02",
+        "headlines": "Explained: Why MobiKwik share price jumped nearly 12% despite reporting Q2 lossMobikwik stock price today: The sharp rally came despite the company reporting a consolidated net loss of Rs 3.59 crore in Q2 FY25, compared to a profit of Rs 5.23 crore in Q2 FY24.",
+        "article_url": "https://www.indiatoday.in/business/story/one-mobikwik-systems-share-price-rose-8-percent-despite-loss-in-q2-explained-2660878-2025-01-07",
         "category": "business",
-        "date_time": "2025-01-02T12:09:00",
-        "uuid": "d34e962b-f2e1-4c4d-aead-52c83be82951",
-        "positive": 12.6,
-        "negative": 0.4
+        "date_time": "2025-01-07T13:45:00",
+        "uuid": "64819e93-15dc-44fb-8f7e-7471332e433c",
+        "positive": 14.6,
+        "negative": 3.8
     },
     {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
@@ -5130,6 +5130,96 @@
         "negative": 9.9
     },
     {
+        "headlines": "SBI Har Ghar Lakhpati Scheme: Eligibility, features and interest rates explained SBI's Har Ghar Lakhpati RD helps individuals achieve Rs 1 lakh with small monthly investments and attractive returns.",
+        "article_url": "https://www.indiatoday.in/business/story/sbi-har-ghar-lakhpati-scheme-eligibility-features-interest-rates-penalty-and-all-details-explained-stmp-2660871-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T13:13:00",
+        "uuid": "1f48ffc2-0025-47ac-b509-85beeb88a95f",
+        "positive": 15.5,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Budget 2025: Will new income tax regime steal the spotlight again?Budget 2025 tax expectations: The upcoming budget may focus on the new income tax regime yet again to increase its appeal compared to the old tax regime.",
+        "article_url": "https://www.indiatoday.in/business/budget/story/budget-2025-new-tax-regime-more-benefits-standard-deduction-slabs-2660860-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T12:56:00",
+        "uuid": "09dc4484-92ff-4ebb-a7e8-590e7723ea51",
+        "positive": 13.6,
+        "negative": 3
+    },
+    {
+        "headlines": "ITR filing: Technical glitch keeps Section 87A rebate unavailable for taxpayersTaxpayers remain unable to claim the Section 87A rebate on STCG income due to outdated ITR processing logic, even after recent updates to filing forms by the Income Tax Department.",
+        "article_url": "https://www.indiatoday.in/business/story/itr-filing-technical-glitch-keeps-section-87a-rebate-unavailable-for-taxpayers-2660846-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T12:37:00",
+        "uuid": "a5e6ebcc-ea3d-49d3-9611-545abd14f233",
+        "positive": 7,
+        "negative": 5.5
+    },
+    {
+        "headlines": "Is Zomato's dream stock market run over? Zomato's share price has declined over 9% in the past 5 trading sessions and over 14% in a month. At around 12:05 pm, shares of the company were trading 4.38% lower at Rs 253.05. ",
+        "article_url": "https://www.indiatoday.in/business/story/zomato-share-price-today-falls-is-stock-market-rally-over-explained-2660845-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T13:07:00",
+        "uuid": "8b8311fc-71cd-4e0c-8015-73ea52667a1a",
+        "positive": 8.7,
+        "negative": 2.2
+    },
+    {
+        "headlines": "Explained: Why Paras Defence share price surged 10% todayParas Defence and Space Technologies Ltd designs, develops, manufactures, and tests a range of products for the defence and space sectors.",
+        "article_url": "https://www.indiatoday.in/business/story/paras-defence-share-price-rise-10-percent-reason-why-hit-upper-circuit-licence-light-machine-guns-2660954-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T15:28:00",
+        "uuid": "9a13a8ca-d7d4-4ac3-bfc6-3c8f225b6977",
+        "positive": 10.9,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Budget 2025: How new tax regime evolved over the years and what's next?As Budget 2025 nears, more changes to the new tax regime are expected to simplify taxes and benefit salaried employees and pensioners.",
+        "article_url": "https://www.indiatoday.in/business/budget/story/budget-2025-how-new-tax-regime-evolved-over-the-years-and-what-next-2660896-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T15:40:00",
+        "uuid": "bc8ddbfb-ada8-48e8-8ab4-06fece8db0d6",
+        "positive": 7.4,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Junior employees at HCLTech to get up to 4% salary increase: ReportRecently, Infosys, a major competitor, announced 90% performance bonuses for the second quarter ending September.",
+        "article_url": "https://www.indiatoday.in/business/story/hcltech-junior-employees-salary-increase-hike-up-to-4-percent-report-2660931-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T14:57:00",
+        "uuid": "2bc6b68c-770c-43da-a60d-7fd9fe0d27fc",
+        "positive": 8.3,
+        "negative": 1.2
+    },
+    {
+        "headlines": "ITR filing: Submit these investment proofs to claim deductions and save on TDSSubmit proofs promptly to reduce TDS, maximise tax savings, and ensure smooth compliance before filing your ITR.",
+        "article_url": "https://www.indiatoday.in/business/story/itr-filing-submit-these-investment-proofs-to-claim-deductions-and-save-on-tds-2660962-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T16:23:00",
+        "uuid": "52404f77-936b-4d16-8fe2-bd41b2fad79b",
+        "positive": 8.1,
+        "negative": 1.2
+    },
+    {
+        "headlines": "India's GDP growth estimated to slow sharply to 6.4% in FY25 from 8.2% in FY24The slowdown in the government's first advance estimates highlights a more tempered pace of economic activity and indicates that the economy could grow at the slowest pace in four years. ",
+        "article_url": "https://www.indiatoday.in/business/story/india-gdp-likely-to-grow-64-per-cent-in-fy25-show-first-advance-estimates-2660971-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T16:39:00",
+        "uuid": "f500a27f-41d6-401a-ad52-52389735d261",
+        "positive": 10,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Sensex, Nifty recover after Monday's slump; RIL gains 2% The S&P BSE Sensex added 234.12 points to close at 78,199.11, while the NSE Nifty50 gained 91.85 points to end at 23,707.90.",
+        "article_url": "https://www.indiatoday.in/business/story/closing-bell-sensex-nifty-recover-after-monday-slump-ril-gains-2-percent-2660967-2025-01-07",
+        "category": "business",
+        "date_time": "2025-01-07T16:38:00",
+        "uuid": "1f9367de-47e0-4606-8829-c946c295b3e1",
+        "positive": 23.7,
+        "negative": 2.8
+    },
+    {
         "headlines": "Chandrababu Naidu's grandson Devaansh Nara bags world record in chess Nine-year-old Devaansh Nara, grandson of Chandrababu Naidu, set a world record for solving 175 chess puzzles the fastest. Recognized by the World Book of Records, London, his feat highlights India's rising talent in global chess.",
         "article_url": "https://www.indiatoday.in/sports/story/chandrababu-naidus-grandson-devaansh-nara-bags-world-record-in-chess-2653829-2024-12-22",
         "category": "sports",
@@ -5400,13 +5490,13 @@
         "negative": 0.8
     },
     {
-        "headlines": "Missed income tax section 87A rebate? Here's your chance to claim it for FY 2023-24With updates to ITR forms underway, eligible taxpayers can claim Section 87A rebates through revised filings by the extended deadline of January 15, 2025.",
-        "article_url": "https://www.indiatoday.in/business/story/missed-section-87a-rebate-income-tax-department-allows-eligible-taxpayers-to-claim-it-for-fy-2023-24-2658490-2025-01-02",
+        "headlines": "HDFC Bank introduces revised lending and FD rates. Check detailsHDFC Bank lowers MCLR by up to 5 bps, revises FD rates, offering financial relief and flexibility for borrowers and depositors.",
+        "article_url": "https://www.indiatoday.in/business/story/hdfc-bank-introduces-revised-lending-and-fd-rates-check-details-2661041-2025-01-07",
         "category": "business",
-        "date_time": "2025-01-02T12:03:00",
-        "uuid": "3f7c78af-0b16-429d-a8fa-18fdb958855c",
-        "positive": 4.6,
-        "negative": 2.1
+        "date_time": "2025-01-07T18:20:00",
+        "uuid": "0506d1cd-853c-451f-91fb-9cfd7493e9e0",
+        "positive": 7.4,
+        "negative": 1.6
     },
     {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
@@ -5832,6 +5922,15 @@
         "negative": 0.3
     },
     {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Paralympics gold-medalist Harvinder adds to burning Khel Ratna controversyHarvinder Singh, Paris Paralympics gold medallist, criticised the exclusion of Paralympians from the Khel Ratna Award nominations, sparking concerns about recognition disparities in India's highest sporting honours compared to achievements celebrated after Tokyo 2020.",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/harvinder-singh-paralympics-khel-ratna-discrimination-tokyo-paris-games-controversy-2654826-2024-12-24",
         "category": "sports",
@@ -5920,15 +6019,6 @@
         "uuid": "c31544fc-5e43-4c0c-82ed-9d58eb456986",
         "positive": 11.9,
         "negative": 1.6
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
     },
     {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
@@ -6489,15 +6579,6 @@
         "negative": 2.7
     },
     {
-        "headlines": "Jai Corp share price plummets nearly 20% today. Here's why Jai Corp stock price:  The sharp drop comes after the company disclosed a significant capital reduction proposal involving Urban Infrastructure Holdings Private Limited (UIHPL), in which it holds a 32% equity stake.",
-        "article_url": "https://www.indiatoday.in/business/story/jai-corp-share-price-plummet-20-percent-today-key-details-2658479-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T11:40:00",
-        "uuid": "5cbb7384-7760-4246-9d57-2878183b8721",
-        "positive": 8,
-        "negative": 4.6
-    },
-    {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/how-virat-kohli-and-rohit-sharma-geared-up-for-mcg-test-abhishek-nayar-reveals-2655689-2024-12-26",
         "category": "sports",
@@ -6532,6 +6613,15 @@
         "uuid": "1ec62e63-e1b9-46b5-bfa6-f36f2d6aee35",
         "positive": 11.9,
         "negative": 9.2
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "What are India's chances of winning Boxing Day Test after Day 1? AUS vs IND, Boxing Day Test: With Australia at 311 for six at Stumps on Day 1, are India still in with a good enough chance to come up trumps at the Melbourne Cricket Ground (MCG)? ",
@@ -6622,15 +6712,6 @@
         "uuid": "aafed959-c633-4310-b242-fe0c97a68ff6",
         "positive": 9.5,
         "negative": 5.1
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
     },
     {
         "headlines": "Sam was gracious to brush it off: Cricket Australia CEO on Virat Kohli spatCricket Australia CEO Nick Hockley said teenage debutant Sam Konstas showed maturity beyond his age and was gracious to brush aside his physical altercation with India superstar Virat Kohli in the Boxing Day Test.",
@@ -6775,15 +6856,6 @@
         "uuid": "d7c43c15-8b21-4372-a0ad-fb7be77f0a6f",
         "positive": 5,
         "negative": 10.8
-    },
-    {
-        "headlines": "Sensex rallies over 1,000 points: What's behind today's bull run?Stock market rally: The S&P BSE Sensex surged 988.99 points to 79,496.40, while the NSE Nifty50 was up 308.30 points to 308.30 as of 12:50 PM. ",
-        "article_url": "https://www.indiatoday.in/business/story/stock-market-rise-sensex-rallies-over-1000-points-nifty-surges-reasons-behind-today-bull-run-2658531-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T13:26:00",
-        "uuid": "c259a51c-d177-4a37-bd68-33879330a2f8",
-        "positive": 21.5,
-        "negative": 1.7
     },
     {
         "headlines": "Sam Konstas reverse-ramping Jasprit Bumrah gave me a heart attack: Steve SmithAustralia's debutant Sam Konstas stole the spotlight in Melbourne with a fearless 60 against India, earning praise from Steve Smith while handling a heated altercation with Virat Kohli maturely, as the hosts posted a commanding 474-run total.",
@@ -7398,6 +7470,15 @@
         "negative": 2.8
     },
     {
+        "headlines": "'Real money is with Gujjus': Nithin Kamath on equity trade dominanceNithin Kamath revealed Mumbai and Ahmedabad drive 80% of equity trades, despite Gujarat having only 8% of registered investors.",
+        "article_url": "https://www.indiatoday.in/business/story/real-money-is-with-gujjus-nithin-kamath-on-equity-trade-dominance-2661449-2025-01-08",
+        "category": "business",
+        "date_time": "2025-01-08T13:14:00",
+        "uuid": "d2cb18f3-54a5-4922-9de0-83aef5490b40",
+        "positive": 8.9,
+        "negative": 2.3
+    },
+    {
         "headlines": "Sharing 'Tom and Jerry' bond, Nitish fulfils promise to make sister proud AUS vs IND: Nitish Reddy's sister Tejaswi talked about the relationship she shares with her brother. She was delighted after the 21-year-old Nitish racked up his maiden Test hundred on Day 3 of the Boxing Day Test against Australia at the Melbourne Cricket Ground. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-nitish-reddy-century-sister-proud-mcg-test-australia-2656825-2024-12-29",
         "category": "sports",
@@ -7477,15 +7558,6 @@
         "uuid": "6939120e-125b-46ca-902e-8d2962e360c4",
         "positive": 12.4,
         "negative": 4.1
-    },
-    {
-        "headlines": "'Real money is with Gujjus': Nithin Kamath on equity trade dominanceNithin Kamath revealed Mumbai and Ahmedabad drive 80% of equity trades, despite Gujarat having only 8% of registered investors.",
-        "article_url": "https://www.indiatoday.in/business/story/real-money-is-with-gujjus-nithin-kamath-on-equity-trade-dominance-2661449-2025-01-08",
-        "category": "business",
-        "date_time": "2025-01-08T13:14:00",
-        "uuid": "d2cb18f3-54a5-4922-9de0-83aef5490b40",
-        "positive": 8.9,
-        "negative": 2.3
     },
     {
         "headlines": "Joke of the year: Fans on Babar Azam's T20I Cricketer of the Year nomination Former Pakistan captain Babar Azam has been nominated for the ICC Men's T20I Cricketer of the Year along with Australia's Travis Head, India's Arshdeep Singh and Zimbabwe's Sikandar Raza. ",
@@ -7947,6 +8019,15 @@
         "negative": 6.8
     },
     {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
+    },
+    {
         "headlines": "No more Fab 4: Virat Kohli fails to keep up with ever-evolving peers IND vs AUS: Virat Kohli has struggled to find his form in Test cricket over the last five years, while the other members of the Fab-Four, Steve Smith, Kane Williamson and Steve Smith, have kept hammering runs all around the globe. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-virat-kohli-test-comparison-fab-four-williamson-smith-root-2657490-2024-12-31",
         "category": "sports",
@@ -8028,15 +8109,6 @@
         "negative": 3.5
     },
     {
-        "headlines": "Explained: Why Eicher Motors share price rallied 7% todayEicher Motors share price: At 12:31 pm, the stock was trading 6.74% higher at Rs 5,214.85 apiece on the Bombay Stock Exchange, marking a significant jump in its market capitalisation to Rs 1.43 lakh crore.",
-        "article_url": "https://www.indiatoday.in/business/story/eicher-motors-share-price-rallied-7-today-key-factors-behind-rally-stmp-2658513-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T12:35:00",
-        "uuid": "01ae326a-6782-45b0-b4c7-93608e8656aa",
-        "positive": 15.7,
-        "negative": 0.7
-    },
-    {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-mcg-test-personal-decision-aakash-chopra-2657713-2024-12-31",
         "category": "sports",
@@ -8071,15 +8143,6 @@
         "uuid": "757bcf02-791a-4b0c-91ef-5e515c9a940f",
         "positive": 11.9,
         "negative": 10.7
-    },
-    {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
     },
     {
         "headlines": "Rishabh Pant should be criticized for his failures, not how he fails: ManjrekarFormer India cricketer turned commentator Sanjay Manjkrekar feels India wicketkeeper batter Rishabh Pant shouldn't be criticised for his mode of dismissals but only his failures.",
@@ -8458,15 +8521,6 @@
         "uuid": "480b5eba-7e09-4795-94db-8d48bd51b531",
         "positive": 9,
         "negative": 1.7
-    },
-    {
-        "headlines": "Indo Farm IPO Day 3: What latest GMP and subscription shows on final dayIndo Farm Equipment IPO: By 2:13 pm on Thursday, the issue was subscribed over 150 times, showing the massive interest in the public issue.",
-        "article_url": "https://www.indiatoday.in/business/story/indo-farm-equipment-ipo-day-3-what-latest-gmp-and-subscription-shows-on-final-day-2658582-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T14:24:00",
-        "uuid": "30f10af8-fde6-4ec4-8f08-35bd3cad1df1",
-        "positive": 10.5,
-        "negative": 0.9
     },
     {
         "headlines": "See pics: Kohli, Bumrah pose with Sam Konstas's brothers on New Year's DayVirat Kohli and Jasprit Bumrah shared a light moment with Sam Konstas's brothers during a New Year celebration hosted by Australian PM Anthony Albanese, setting aside their on-field rivalries ahead of the Sydney Test.",
@@ -8865,24 +8919,6 @@
         "negative": 5.3
     },
     {
-        "headlines": "Vodafone Idea likely to launch 5G broadband services in March: ReportVodafone Idea plans to introduce 5G with competitively priced plans that could be up to 15% cheaper at entry levels. ",
-        "article_url": "https://www.indiatoday.in/business/story/vodafone-idea-5g-launch-in-march-report-pricing-war-ahead-reliance-jio-airtel-vi-share-price-stmp-2658560-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T14:03:00",
-        "uuid": "ef504571-029d-4a39-a711-9bb7d5d12c1d",
-        "positive": 9.9,
-        "negative": 1.9
-    },
-    {
-        "headlines": "ITR filing: Maximise tax savings for FY 2024-25. Check investment optionsTaxpayers can maximise their tax savings for FY 2024-25 by investing in key exemptions before March 31, 2025.",
-        "article_url": "https://www.indiatoday.in/business/story/itr-filing-maximise-tax-savings-for-fy-2024-25-check-investment-options-section-80c-nsc-ppf-ulip-section-80ccc-nps-section-80ccd-section-80d-agniveer-corpus-fund-2658550-2025-01-02",
-        "category": "business",
-        "date_time": "2025-01-02T14:15:00",
-        "uuid": "0325d3fe-efe4-422f-aa7e-c87d0f1459fa",
-        "positive": 5.4,
-        "negative": 1
-    },
-    {
         "headlines": "Split Wide Open: Gambhir Rohit ignore each other on Sydney Test eveAs India geared up for the Sydney Test, tensions flared between coach Gautam Gambhir and captain Rohit Sharma. Speculation about Rohit's exclusion reached a crescendo, overshadowing team preparations and signaling a shift in leadership dynamics.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-rohit-sharma-ignore-each-other-sydney-test-eve-2658917-2025-01-02",
         "category": "sports",
@@ -8962,41 +8998,5 @@
         "uuid": "e1a46b88-84a0-4cab-9262-5caff5a44f49",
         "positive": 11.5,
         "negative": 2.3
-    },
-    {
-        "headlines": "Sam Konstas built for this stage: Watson praises Australia opener's showmanshipFormer Australian all-rounder Shane Watson, who has mentored Sam Konstas, was pleasantly surprised by the 19-year-old's blockbuster debut in the fourth Test against India at the Melbourne Cricket Ground.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-shane-watson-on-sam-konstas-debut-2659029-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T09:02:00",
-        "uuid": "6a2aaf0f-ea5f-4d6c-b18c-45fd707bed51",
-        "positive": 13.5,
-        "negative": 3.7
-    },
-    {
-        "headlines": "Watch: Rishabh Pant takes body-blows, replies with massive six at SCGIndia batter Rishabh Pant battled it out like a gladiator at the SCG on Friday. In testing conditions, Pant took blows to the hand and head and then replied with a stunning six on Day 1 of the final Test.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rishabh-pant-takes-body-blows-replies-with-six-2659054-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T10:07:00",
-        "uuid": "e2d3d1c3-56f8-4819-a651-240aae54ffa2",
-        "positive": 3.4,
-        "negative": 9.6
-    },
-    {
-        "headlines": "Edged and gone, again: Virat Kohli booed at SCG, dismissed for 17Senior India batter Virat Kohli once again edged the ball to the slips in the Border-Gavaskar Trophy. This was the 6th time out of 7 innings that Kohli got out edging the ball outside off stump.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-sydney-test-match-virat-kohli-outside-off-edge-2659040-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T10:19:00",
-        "uuid": "927c6d3a-75c9-4281-ba87-9d84816d8a90",
-        "positive": 1.2,
-        "negative": 2.6
-    },
-    {
-        "headlines": "SCG pitch has excessive grass, but no former Indian player is complaining: GavaskarFormer India captain Sunil Gavaskar slammed the unusually grassy pitch at the Sydney Cricket Ground, adding that former Indian players have refrained from criticising the challenging surfaces in Australia. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sunil-gavaskar-sydney-grass-pitch-5th-test-2659077-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T11:11:00",
-        "uuid": "f62a00d2-886c-4c31-8728-7a1a7bbbcdd4",
-        "positive": 8.4,
-        "negative": 9.6
     }
 ]
