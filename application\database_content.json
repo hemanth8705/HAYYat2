@@ -1494,15 +1494,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Explained: Why Mazagon Dock share price is down 50% on some trading apps todayMazagon Dock stock price was trading over 2% lower on the Bombay Stock Exchange (BSE) at 11:09 am. ",
-        "article_url": "https://www.indiatoday.in/business/story/mazagon-dock-strong-price-is-down-50-percent-on-some-trading-apps-today-explained-stmp-2656077-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T11:25:00",
-        "uuid": "bbc45dad-b2e8-46ea-af0e-8ba27c11885d",
-        "positive": 12.8,
-        "negative": 2.8
-    },
-    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -2376,6 +2367,15 @@
         "negative": 5
     },
     {
+        "headlines": "EPFO extends deadline for UAN and Aadhaar linking: All you need to knowThe EPFO's deadline extension to January 15, 2025, allows employees extra time to activate UAN and link Aadhaar.",
+        "article_url": "https://www.indiatoday.in/business/story/epfo-extends-deadline-for-uan-and-aadhaar-linking-under-the-employment-linked-incentive-eli-scheme-all-you-need-to-know-2655614-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T14:47:00",
+        "uuid": "2b9178f1-2970-4f0a-aaa1-1aa4cfeaa52f",
+        "positive": 12.1,
+        "negative": 0.5
+    },
+    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -3033,13 +3033,13 @@
         "negative": 1.9
     },
     {
-        "headlines": "Transrail Lighting shares list at 36% premium on Dalal Street debut Transrail Lighting share price: The shares opened at Rs 585.15 per share on the Bombay Stock Exchange (BSE). The market debut aligns with market expectations, which was oversubscribed by 81 times.",
-        "article_url": "https://www.indiatoday.in/business/story/transrail-lighting-ipo-share-price-listing-stock-open-at-36-percent-premium-dalal-street-debut-stmp-2656057-2024-12-27",
+        "headlines": "Government may consider tax relief for incomes up to Rs 10.50 lakh: ReportThe move, likely to be announced in the upcoming Budget 2025 on February 1, aims to boost consumption and address concerns over rising living costs amid a slowing economy.",
+        "article_url": "https://www.indiatoday.in/business/story/budget-2025-income-tax-relief-consideration-government-sources-2655736-2024-12-26",
         "category": "business",
-        "date_time": "2024-12-27T10:47:00",
-        "uuid": "f4229648-944e-4962-8c6b-5a1d6c8c6d24",
-        "positive": 20,
-        "negative": 0
+        "date_time": "2024-12-26T17:34:00",
+        "uuid": "4e590a8f-ee99-4bc9-90b2-0dea49a71065",
+        "positive": 10.6,
+        "negative": 5.5
     },
     {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
@@ -4383,105 +4383,6 @@
         "negative": 9.4
     },
     {
-        "headlines": "DAM Capital Advisors makes strong debut, shares list at 39% premium DAM Capital Advisors listing: On the BSE, the shares began trading at Rs 392.90, marking a 38.83% premium compared to the issue price.",
-        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-share-price-listing-strong-debut-39-percent-premium-nse-bse-rs-393-stmp-2656049-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T10:29:00",
-        "uuid": "c39d63a2-c64e-4984-a597-691efe970f33",
-        "positive": 13.5,
-        "negative": 1
-    },
-    {
-        "headlines": "Osamu Suzuki, former Suzuki Motor Corporation chairman, dies at 94Osamu Suzuki steered Suzuki Motor's rise, from pioneering Maruti 800 in India to building a global automotive legacy.",
-        "article_url": "https://www.indiatoday.in/business/story/osamu-suzuki-former-suzuki-motor-corporation-chairman-dies-at-94-2656153-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T13:31:00",
-        "uuid": "2cf7089d-0bc1-41d2-b808-843b0ad75e48",
-        "positive": 6.4,
-        "negative": 2.7
-    },
-    {
-        "headlines": "How Indian stock market benefitted under Manmohan SinghManmohan Singh's policies, introduced during a time of economic crisis in the early 1990s, reshaped India's economy and transformed the Indian stock markets.",
-        "article_url": "https://www.indiatoday.in/business/story/how-stock-market-benefitted-under-manmohan-singh-death-news-sensex-nifty-1991-2656149-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T13:43:00",
-        "uuid": "e71fa519-3d7d-485e-a1d5-3095654e469d",
-        "positive": 11,
-        "negative": 2.8
-    },
-    {
-        "headlines": "10 income tax changes in 2024: What you need to know for filing ITR in 2025The 2024 income tax reforms introduce revised tax slabs, higher deductions, and simplified TDS and capital gains rules, making tax filing easier and offering potential savings. ",
-        "article_url": "https://www.indiatoday.in/business/story/15-income-tax-changes-in-2024-what-you-need-to-know-for-filing-itr-in-2025-income-tax-rules-stmp-2656139-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T13:31:00",
-        "uuid": "a1a56f29-0e8a-463f-9600-d5525f785512",
-        "positive": 11.1,
-        "negative": 1.8
-    },
-    {
-        "headlines": "Bumper stock market debut for Mamata Machinery: Should you book profit or wait? Mamata Machinery stock market listing: A 147% premium debut for Mamata Machinery leaves investors wondering: Is this the peak, or should they hold on?",
-        "article_url": "https://www.indiatoday.in/business/story/bumper-market-debut-for-mamata-machinery-should-you-book-profit-or-wait-2656140-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T13:04:00",
-        "uuid": "c6c13b5a-035f-4efd-8029-2e51c45e6114",
-        "positive": 17.2,
-        "negative": 1.6
-    },
-    {
-        "headlines": "DAM Capital Advisors makes strong market debut: Is it a long-term bet?DAM Capital Advisors market listing: The listing matched market predictions, as analysts and the grey market premium (GMP) had anticipated a 40%-50% premium, driven by robust demand and positive sentiment.",
-        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-stock-market-listing-long-term-bet-or-not-expert-views-2656116-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T12:28:00",
-        "uuid": "a5da2bf4-ffd6-4385-9067-40e92000d731",
-        "positive": 16.7,
-        "negative": 1.9
-    },
-    {
-        "headlines": "How Manmohan Singh revitalised India's economy and global standingAs the chief architect of India's 1991 economic liberalisation, Manmohan Singh's policies helped steer India away from a severe financial crisis, positioning the country as one of the world's fastest-growing economies.",
-        "article_url": "https://www.indiatoday.in/business/story/manmohan-singh-indian-economy-global-standing-key-reforms-1991-economic-liberalisation-2656166-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T14:11:00",
-        "uuid": "799afe46-3a09-4c8f-969a-2a9d05c44314",
-        "positive": 10.4,
-        "negative": 6.8
-    },
-    {
-        "headlines": "Will DA rise again in 2025? All you need to knowCentral government employees await a potential DA hike in January 2025, which could offer modest relief amid rising costs",
-        "article_url": "https://www.indiatoday.in/business/story/will-dearness-allowance-da-rise-again-in-2025-check-details-how-it-is-calculated-all-you-need-to-know-2656247-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T15:49:00",
-        "uuid": "8ecde742-0f13-4ff3-b134-c9413ec0bb9f",
-        "positive": 12,
-        "negative": 4.5
-    },
-    {
-        "headlines": "Sensex, Nifty rise for 2nd straight day as auto stocks rally The S&P BSE Sensex settled 226.59 points higher at 78,690.07, while the NSE Nifty50 gained 63.20 points to end at 23,813.40.",
-        "article_url": "https://www.indiatoday.in/business/story/sensex-nifty-rise-for-2nd-straight-day-as-auto-stocks-rally-2656246-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T15:47:00",
-        "uuid": "6d224803-8835-48fb-8eb2-a39c059e0527",
-        "positive": 15.6,
-        "negative": 6.8
-    },
-    {
-        "headlines": "Zoho CEO Sridhar Vembu revives debate on 70-hour work weekZoho CEO Sridhar Vembu weighs in on the 70-hour work week debate initiated by Infosys founder Narayana Murthy. Here's his perspective.",
-        "article_url": "https://www.indiatoday.in/business/story/zoho-ceo-sridhar-vembu-revives-debate-on-70-hour-work-week-advocated-by-infosys-founder-narayana-murthy-2656318-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T17:47:00",
-        "uuid": "5a12d874-5463-4802-b778-c25de487bb77",
-        "positive": 11,
-        "negative": 5.9
-    },
-    {
-        "headlines": "Aviation regulator suspends 2 Akasa Air officials for lapses in pilots trainingThe two senior executives of the airline have reportedly failed to ensure compliances with the civil aviation requirements, Directorate General of Civil Aviation said.",
-        "article_url": "https://www.indiatoday.in/business/story/directorate-general-of-civil-aviation-suspends-akasa-air-officials-lapses-in-pilots-training-2656500-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T23:53:00",
-        "uuid": "df40796a-9d3c-4f07-95b9-32c8ceac906f",
-        "positive": 6.1,
-        "negative": 5
-    },
-    {
         "headlines": "Arjun Erigaisi makes visa plea to US Embassy ahead of World Rapid ChampionshipIndian Grandmaster Arjun Erigaisi seeks urgent visa assistance from the US Embassy ahead of the World Rapid and Blitz Championship in New York, highlighting the significance of the event for his qualification to the prestigious Candidates Tournament.",
         "article_url": "https://www.indiatoday.in/sports/story/arjun-erigaisi-makes-visa-plea-to-us-embassy-ahead-of-world-rapid-championship-2653139-2024-12-20",
         "category": "sports",
@@ -5499,6 +5400,123 @@
         "negative": 3.4
     },
     {
+        "headlines": "Banks can charge over 30% interest on credit card dues. What it means for youThe Supreme Court has ruled that banks charging high credit card interest rates is lawful, placing responsibility on consumers to manage dues efficiently.",
+        "article_url": "https://www.indiatoday.in/business/story/banks-can-charge-over-30-percent-interest-on-credit-card-dues-says-supreme-court-what-it-means-for-you-2655722-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T17:29:00",
+        "uuid": "25a66c69-e0da-43d4-be6a-233a6785d557",
+        "positive": 24.9,
+        "negative": 7.1
+    },
+    {
+        "headlines": "GST on used cars: 5 FAQs you should knowGST on used cars rises to 18%, impacting dealer margins and platform sales, but personal sales remain unaffected.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-on-used-cars-5-faqs-you-should-know-2655687-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T16:41:00",
+        "uuid": "4201992d-bacd-439c-9074-f92658ebd790",
+        "positive": 5.2,
+        "negative": 3.8
+    },
+    {
+        "headlines": "Gautam Adani on work-life balance: Spend at least 4 hours with familyChairperson of Adani Group, Gautam Adani, shared his take on work-life balance and said one must try to spend at least four hours with their families.",
+        "article_url": "https://www.indiatoday.in/business/story/gautam-adani-on-work-life-balance-spend-four-hours-with-family-2655881-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T21:56:00",
+        "uuid": "57c7aa47-d645-4f28-8904-d250e403a58e",
+        "positive": 9.2,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Dam Capital to Mamata Machinery: GMPs of 5 IPOs ahead of D-Street debut todayThese initial public offerings (IPOs), which opened for subscription on December 19 and closed on December 23, collectively raised over Rs 2,900 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-mamata-machinery-concord-transrail-sanathan-textiles-gmp-5-ipos-market-debut-today-2656022-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T09:25:00",
+        "uuid": "e2bafb38-566f-4519-b5e7-ea26c0f5c194",
+        "positive": 16.4,
+        "negative": 0.2
+    },
+    {
+        "headlines": "Manmohan Singh's key reforms that shaped Indian economyDr Manmohan Singh's tenure as Finance Minister in the early 1990s and later as Prime Minister from 2004 to 2014 introduced policies that continue to influence India's growth. ",
+        "article_url": "https://www.indiatoday.in/business/story/manmohan-singh-death-3-key-economic-reforms-liberalisation-licence-raj-mnrega-shaped-modern-india-2656013-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T09:36:00",
+        "uuid": "62fa7845-5554-4437-8ac8-26cf5097e5c7",
+        "positive": 9.5,
+        "negative": 6.1
+    },
+    {
+        "headlines": "Mamata Machinery shares make bumper debut with 147% premium over IPO priceMamata Machinery listing: Shares of Mamata Machinery made a bumper debut and listed at Rs 600 per share on the NSE, a lot higher than the IPO issue price of Rs 243 per share. ",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-listing-share-price-bumper-debut-147-percent-premium-rs-600-nse-bse-stmp-2656037-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T10:10:00",
+        "uuid": "8c5e4026-cb43-4643-b9cb-dbc51633574d",
+        "positive": 14,
+        "negative": 0
+    },
+    {
+        "headlines": "Sensex, Nifty open higher as auto stocks fuel early rally; Tata Motors up 2%The S&P BSE Sensex was up 323.12 points to 78,795.60, while the NSE Nifty50 gained 101.95 points to 23,852.15 as of 9:44 AM. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-higher-auto-stocks-shine-tata-motors-bajaj-2656032-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T09:47:00",
+        "uuid": "26269c43-14c6-4d2b-8722-28b6883ae4a2",
+        "positive": 16.2,
+        "negative": 0
+    },
+    {
+        "headlines": "Sanathan Textiles shares list at 31% premium over IPO price. Hold or sell? Sanathan Textiles stock market debut: The listing comes after the company's initial public offering (IPO) witnessed robust demand, with subscriptions exceeding 36 times the total shares on offer.",
+        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-market-listing-31-percent-premium-over-ipo-price-hold-or-sell-2656091-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T11:36:00",
+        "uuid": "01ba82f8-5374-4080-9ea7-e0b99f5c9518",
+        "positive": 12.1,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Explained: Why Mazagon Dock share price is down 50% on some trading apps todayMazagon Dock stock price was trading over 2% lower on the Bombay Stock Exchange (BSE) at 11:09 am. ",
+        "article_url": "https://www.indiatoday.in/business/story/mazagon-dock-strong-price-is-down-50-percent-on-some-trading-apps-today-explained-stmp-2656077-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T11:25:00",
+        "uuid": "bbc45dad-b2e8-46ea-af0e-8ba27c11885d",
+        "positive": 12.8,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Transrail Lighting shares list at 36% premium on Dalal Street debut Transrail Lighting share price: The shares opened at Rs 585.15 per share on the Bombay Stock Exchange (BSE). The market debut aligns with market expectations, which was oversubscribed by 81 times.",
+        "article_url": "https://www.indiatoday.in/business/story/transrail-lighting-ipo-share-price-listing-stock-open-at-36-percent-premium-dalal-street-debut-stmp-2656057-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T10:47:00",
+        "uuid": "f4229648-944e-4962-8c6b-5a1d6c8c6d24",
+        "positive": 20,
+        "negative": 0
+    },
+    {
+        "headlines": "DAM Capital Advisors makes strong debut, shares list at 39% premium DAM Capital Advisors listing: On the BSE, the shares began trading at Rs 392.90, marking a 38.83% premium compared to the issue price.",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-share-price-listing-strong-debut-39-percent-premium-nse-bse-rs-393-stmp-2656049-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T10:29:00",
+        "uuid": "c39d63a2-c64e-4984-a597-691efe970f33",
+        "positive": 13.5,
+        "negative": 1
+    },
+    {
+        "headlines": "Osamu Suzuki, former Suzuki Motor Corporation chairman, dies at 94Osamu Suzuki steered Suzuki Motor's rise, from pioneering Maruti 800 in India to building a global automotive legacy.",
+        "article_url": "https://www.indiatoday.in/business/story/osamu-suzuki-former-suzuki-motor-corporation-chairman-dies-at-94-2656153-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T13:31:00",
+        "uuid": "2cf7089d-0bc1-41d2-b808-843b0ad75e48",
+        "positive": 6.4,
+        "negative": 2.7
+    },
+    {
+        "headlines": "How Indian stock market benefitted under Manmohan SinghManmohan Singh's policies, introduced during a time of economic crisis in the early 1990s, reshaped India's economy and transformed the Indian stock markets.",
+        "article_url": "https://www.indiatoday.in/business/story/how-stock-market-benefitted-under-manmohan-singh-death-news-sensex-nifty-1991-2656149-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T13:43:00",
+        "uuid": "e71fa519-3d7d-485e-a1d5-3095654e469d",
+        "positive": 11,
+        "negative": 2.8
+    },
+    {
         "headlines": "All-rounder Tanush Kotian set to join India's squad for Melbourne, Sydney TestsBorder-Gavaskar Trophy: 26-year-old all-rounder Tanush Kotian received his maiden Test call-up on Monday, December 23. The Mumbai cricketer will leave for Australia on Tuesday, December 24. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-tanush-kotian-spinner-border-gavaskar-trophy-squad-2654151-2024-12-23",
         "category": "sports",
@@ -5506,15 +5524,6 @@
         "uuid": "ce1b8919-630f-48f8-b29e-376a348a2ca8",
         "positive": 5.5,
         "negative": 0.8
-    },
-    {
-        "headlines": "Exclusive: Firm run by Russian national dupes Rs 800 crore from Indian investorsThe ED filed a second chargesheet against Octafx India, its operating company overseas, OctaMarkets, its founder Pavel Prozorov, OctaFX CEO, who handled India operations, Anna Rudaia, and nine other individuals accused apart from a total of 41 companies and entities. Read this IndiaToday Exclusive. ",
-        "article_url": "https://www.indiatoday.in/business/story/octafx-ferox-firm-run-by-russian-national-dupes-crores-from-indian-investors-pavel-prozorov-exclusive-2656797-2024-12-29",
-        "category": "business",
-        "date_time": "2024-12-29T00:22:00",
-        "uuid": "709cc72c-7dd1-4de3-912d-690b562548b6",
-        "positive": 5.9,
-        "negative": 6.7
     },
     {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
@@ -5922,6 +5931,15 @@
         "negative": 1.2
     },
     {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Cannot grudge Shami snub vs Australia: Aakash Chopra on pacer's injuryAakash Chopra supported BCCI's decision to exclude Mohammed Shami from the Border-Gavaskar Trophy squad, citing the pacer's ongoing knee injury recovery and emphasizing the importance of not rushing him back into high-pressure international cricket.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mohammed-shami-snub-cannot-be-gruged-aakash-chopra-injury-2654748-2024-12-24",
         "category": "sports",
@@ -5938,24 +5956,6 @@
         "uuid": "ceb625b2-c157-49d5-9e99-45e8e25ced72",
         "positive": 12.7,
         "negative": 0.3
-    },
-    {
-        "headlines": "Stocks to watch today: Ola Electric, Hero MotoCorp, JSW Energy, Reliance PowerSeveral stocks are in the spotlight due to key developments, such as Reliance Power, Ola Electric, Hero MotoCorp, JSW Energy, etc. ",
-        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-ola-electric-hero-motocorp-jsw-energy-reliance-power-2657071-2024-12-30",
-        "category": "business",
-        "date_time": "2024-12-30T08:00:00",
-        "uuid": "03202177-4472-4c86-8c31-6957eff86c73",
-        "positive": 15.4,
-        "negative": 1.7
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
     },
     {
         "headlines": "Paralympics gold-medalist Harvinder adds to burning Khel Ratna controversyHarvinder Singh, Paris Paralympics gold medallist, criticised the exclusion of Paralympians from the Khel Ratna Award nominations, sparking concerns about recognition disparities in India's highest sporting honours compared to achievements celebrated after Tokyo 2020.",
@@ -6606,13 +6606,13 @@
         "negative": 2.7
     },
     {
-        "headlines": "Sensex, Nifty start week lower; Adani Enterprises gain 3% in early tradeThe S&P BSE Sensex was down by 76.67 points to 78,623.40, while the NSE Nifty50 lost 35.25 points to 23,778.15 as of 9:23 AM. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-start-week-lower-adani-enterprises-gain-3-percent-in-early-trade-2657115-2024-12-30",
+        "headlines": "10 income tax changes in 2024: What you need to know for filing ITR in 2025The 2024 income tax reforms introduce revised tax slabs, higher deductions, and simplified TDS and capital gains rules, making tax filing easier and offering potential savings. ",
+        "article_url": "https://www.indiatoday.in/business/story/15-income-tax-changes-in-2024-what-you-need-to-know-for-filing-itr-in-2025-income-tax-rules-stmp-2656139-2024-12-27",
         "category": "business",
-        "date_time": "2024-12-30T09:38:00",
-        "uuid": "79de1ed1-f7ef-4a98-9c6f-183c8e2cdc73",
-        "positive": 18.6,
-        "negative": 6.1
+        "date_time": "2024-12-27T13:31:00",
+        "uuid": "a1a56f29-0e8a-463f-9600-d5525f785512",
+        "positive": 11.1,
+        "negative": 1.8
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -6633,6 +6633,15 @@
         "negative": 2.9
     },
     {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
         "headlines": "Be competitive, not physical: Gavaskar advises Kohli after Konstas sagaAUS vs IND, Boxing Day Test: In an exclusive interview with India Today, Sunil Gavaskar said that Virat Kohli needs to build a strong legacy for himself as one of the greats rather than getting involved in unwanted controversies. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-sunil-gavaskar-sam-konstas-boxing-day-test-exclusive-2655809-2024-12-26",
         "category": "sports",
@@ -6649,15 +6658,6 @@
         "uuid": "1ec62e63-e1b9-46b5-bfa6-f36f2d6aee35",
         "positive": 11.9,
         "negative": 9.2
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
     },
     {
         "headlines": "What are India's chances of winning Boxing Day Test after Day 1? AUS vs IND, Boxing Day Test: With Australia at 311 for six at Stumps on Day 1, are India still in with a good enough chance to come up trumps at the Melbourne Cricket Ground (MCG)? ",
@@ -6766,60 +6766,6 @@
         "uuid": "8d5bb935-f873-475e-a7b5-9f95b2f72594",
         "positive": 3.9,
         "negative": 8.6
-    },
-    {
-        "headlines": " Vodafone Idea shares in focus today: 2 things to know about the telecom stockVodafone Idea shares closed at Rs 7.49 on Friday, down 0.93%. The stock has fallen 56% so far in 2024.",
-        "article_url": "https://www.indiatoday.in/business/story/vodafone-idea-share-price-in-focus-today-2-things-to-know-about-the-telecom-stock-2657086-2024-12-30",
-        "category": "business",
-        "date_time": "2024-12-30T09:16:00",
-        "uuid": "fd894a18-803b-4dc2-a4a9-66eb6ddaa094",
-        "positive": 10.8,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Ventive Hospitality, Carraro: GMPs of 2 IPOs ahead of D-Street debut todayAllotment of shares for the IPOs of Ventive Hospitality and Carraro was completed on December 26, 2024. ",
-        "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-carraro-india-listing-share-price-gmp-ahead-of-dalal-street-debut-today-2657103-2024-12-30",
-        "category": "business",
-        "date_time": "2024-12-30T09:14:00",
-        "uuid": "e7852876-7c0c-43f7-9a79-fc37151e8ad6",
-        "positive": 9.9,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Senores Pharmaceuticals IPO listing: Does GMP suggest strong market debut? Senores Pharmaceuticals share price: The IPO got a very strong response during its three-day bidding period from December 20 to December 24.",
-        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-ipo-listing-date-latest-gmp-suggest-strong-market-debut-today-2657095-2024-12-30",
-        "category": "business",
-        "date_time": "2024-12-30T08:51:00",
-        "uuid": "8cef5c3f-2a06-4b3f-b2f9-c871c3b86089",
-        "positive": 16,
-        "negative": 0
-    },
-    {
-        "headlines": "Ventive Hospitality share price lists at Rs 718.15 on BSE at 12% premium Ventive Hospitality listing: On the National Stock Exchange (NSE), the stock opened at Rs 716, reflecting an 11.35% premium.",
-        "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-share-price-listing-rs-71815-bse-at-12-percent-premium-from-ipo-price-2657133-2024-12-30",
-        "category": "business",
-        "date_time": "2024-12-30T10:31:00",
-        "uuid": "5bf8a84c-2b52-4265-83b4-9be45bb27e9e",
-        "positive": 9,
-        "negative": 1.5
-    },
-    {
-        "headlines": "Senores Pharmaceuticals shares list at 54% premium, bumper debut on D-StreetSenores Pharmaceuticals listing: Senores Pharmaceuticals shares opened at Rs 600 on the National Stock Exchange at a premium of 53.45% over its IPO price of 391. ",
-        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-share-price-listing-54-percent-premium-rs-600-nse-bumper-debut-d-street-2657125-2024-12-30",
-        "category": "business",
-        "date_time": "2024-12-30T10:11:00",
-        "uuid": "dc9187f2-9fe6-457c-832d-409e1d7008b6",
-        "positive": 13.4,
-        "negative": 0
-    },
-    {
-        "headlines": "JSW Energy share price gains 6%. Why are brokerages bullish on the stock? JSW Energy stock: Brokerages are bullish on the shares of JSW Energy after the company's wholly-owned subsidiary, JSW Neo Energy signed a major deal. ",
-        "article_url": "https://www.indiatoday.in/business/story/jsw-energy-share-price-gains-6-percent-why-are-brokerages-bullish-on-the-stock-reason-rise-2657120-2024-12-30",
-        "category": "business",
-        "date_time": "2024-12-30T09:54:00",
-        "uuid": "435a3ca3-e291-44e2-afb0-7387c69d0154",
-        "positive": 19.4,
-        "negative": 0.7
     },
     {
         "headlines": "Respect beyond rivalry: Virat Kohli wins hearts with special Steve Smith gestureBorder-Gavaskar Trophy: Star Indian batter Virat Kohli won hearts with his special gesture towards Steve Smith after the Australian great hit his 34th Test hundred on Day 2 of the Boxing Day Test.",
@@ -7398,6 +7344,15 @@
         "negative": 2.7
     },
     {
+        "headlines": "Bumper stock market debut for Mamata Machinery: Should you book profit or wait? Mamata Machinery stock market listing: A 147% premium debut for Mamata Machinery leaves investors wondering: Is this the peak, or should they hold on?",
+        "article_url": "https://www.indiatoday.in/business/story/bumper-market-debut-for-mamata-machinery-should-you-book-profit-or-wait-2656140-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T13:04:00",
+        "uuid": "c6c13b5a-035f-4efd-8029-2e51c45e6114",
+        "positive": 17.2,
+        "negative": 1.6
+    },
+    {
         "headlines": "Nitish Reddy should go up the order to correct the balance of the side: ShastriFormer India cricketer and head coach has suggested promoting all-rounder Nitish Kumar Reddy up the order after his magnificent maiden century on Day 3 of the fourth Test against Australia in Melbourne.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ravi-shastri-nitish-kumar-reddy-aus-vs-ind-border-gavaskar-troph-2024-25-melbourne-test-2656710-2024-12-28",
         "category": "sports",
@@ -7650,13 +7605,31 @@
         "negative": 3.5
     },
     {
-        "headlines": "Explained: Why DAM Capital share price fell over 7% todayDAM Capital stock price: The sell-off is attributed to profit booking, a common trend after sharp initial gains. Analysts had previously offered mixed views on the company's shares.",
-        "article_url": "https://www.indiatoday.in/business/story/dam-capital-share-price-fell-over-7-percent-profit-booking-today-market-listing-stmp-2657160-2024-12-30",
+        "headlines": "DAM Capital Advisors makes strong market debut: Is it a long-term bet?DAM Capital Advisors market listing: The listing matched market predictions, as analysts and the grey market premium (GMP) had anticipated a 40%-50% premium, driven by robust demand and positive sentiment.",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-stock-market-listing-long-term-bet-or-not-expert-views-2656116-2024-12-27",
         "category": "business",
-        "date_time": "2024-12-30T11:26:00",
-        "uuid": "c50fd261-6cf9-4f89-a81d-7036f4ff3206",
-        "positive": 20.9,
-        "negative": 0.4
+        "date_time": "2024-12-27T12:28:00",
+        "uuid": "a5da2bf4-ffd6-4385-9067-40e92000d731",
+        "positive": 16.7,
+        "negative": 1.9
+    },
+    {
+        "headlines": "How Manmohan Singh revitalised India's economy and global standingAs the chief architect of India's 1991 economic liberalisation, Manmohan Singh's policies helped steer India away from a severe financial crisis, positioning the country as one of the world's fastest-growing economies.",
+        "article_url": "https://www.indiatoday.in/business/story/manmohan-singh-indian-economy-global-standing-key-reforms-1991-economic-liberalisation-2656166-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T14:11:00",
+        "uuid": "799afe46-3a09-4c8f-969a-2a9d05c44314",
+        "positive": 10.4,
+        "negative": 6.8
+    },
+    {
+        "headlines": "Will DA rise again in 2025? All you need to knowCentral government employees await a potential DA hike in January 2025, which could offer modest relief amid rising costs",
+        "article_url": "https://www.indiatoday.in/business/story/will-dearness-allowance-da-rise-again-in-2025-check-details-how-it-is-calculated-all-you-need-to-know-2656247-2024-12-27",
+        "category": "business",
+        "date_time": "2024-12-27T15:49:00",
+        "uuid": "8ecde742-0f13-4ff3-b134-c9413ec0bb9f",
+        "positive": 12,
+        "negative": 4.5
     },
     {
         "headlines": "ICC Awards: Babar, Arshdeep nominated for T20I Player of the Year 2024, no BumrahThe International Cricket Council (ICC) released the list of nominated players for the T20I Cricketer of the Year award for 2024.                                                                                                                                                                                                                                                            ",
@@ -7794,13 +7767,13 @@
         "negative": 9.5
     },
     {
-        "headlines": "Indo Farm Equipment IPO opens tomorrow: Check GMP, price band, key datesIndo Farm Equipment IPO: The price band is fixed at Rs 204-215 per share, with a lot size of 69 shares. The issue will close on Thursday, January 2.",
-        "article_url": "https://www.indiatoday.in/business/story/indo-farm-equipment-ipo-opens-tomorrow-check-gmp-price-band-key-dates-stmp-2657143-2024-12-30",
+        "headlines": "Sensex, Nifty rise for 2nd straight day as auto stocks rally The S&P BSE Sensex settled 226.59 points higher at 78,690.07, while the NSE Nifty50 gained 63.20 points to end at 23,813.40.",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-nifty-rise-for-2nd-straight-day-as-auto-stocks-rally-2656246-2024-12-27",
         "category": "business",
-        "date_time": "2024-12-30T10:57:00",
-        "uuid": "eebc1a73-dc15-43b0-b5fa-9a67cdae74c5",
-        "positive": 11.5,
-        "negative": 0.6
+        "date_time": "2024-12-27T15:47:00",
+        "uuid": "6d224803-8835-48fb-8eb2-a39c059e0527",
+        "positive": 15.6,
+        "negative": 6.8
     },
     {
         "headlines": "ZIM vs AFG: Hashmatullah shines with 179* as draw looms after rain-marred Day 4Rain played spoilsport on Day 4 in Bulawayo, allowing only 31 overs of play as Afghanistan trailed Zimbabwe by 71 runs. With heavy downpours and interruptions expected on the final day, the Test is heading towards a draw.",
@@ -8208,13 +8181,13 @@
         "negative": 3.5
     },
     {
-        "headlines": "Carraro India share listing: Stock list at Rs 660 vs IPO price of Rs 704Carraro India share price: On the NSE, the shares began trading at Rs 651, a discount of Rs 53 or 7.53%.",
-        "article_url": "https://www.indiatoday.in/business/story/carraro-india-share-price-lists-at-7-percent-discount-rs-660-vs-ipo-price-of-rs-704-nse-stmp-2657142-2024-12-30",
+        "headlines": "Zoho CEO Sridhar Vembu revives debate on 70-hour work weekZoho CEO Sridhar Vembu weighs in on the 70-hour work week debate initiated by Infosys founder Narayana Murthy. Here's his perspective.",
+        "article_url": "https://www.indiatoday.in/business/story/zoho-ceo-sridhar-vembu-revives-debate-on-70-hour-work-week-advocated-by-infosys-founder-narayana-murthy-2656318-2024-12-27",
         "category": "business",
-        "date_time": "2024-12-30T10:55:00",
-        "uuid": "94af5e52-a2ad-4017-914e-a6664cd7af77",
-        "positive": 7.3,
-        "negative": 1.8
+        "date_time": "2024-12-27T17:47:00",
+        "uuid": "5a12d874-5463-4802-b778-c25de487bb77",
+        "positive": 11,
+        "negative": 5.9
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8631,13 +8604,13 @@
         "negative": 1.7
     },
     {
-        "headlines": "Unimech Aerospace IPO listing: Check latest GMP and share price predictionUnimech Aerospace IPO listing: In the grey market, Unimech Aerospace shares are commanding a robust premium of Rs 715, reflecting strong demand. ",
-        "article_url": "https://www.indiatoday.in/business/story/unimech-aerospace-ipo-listing-check-latest-gmp-and-share-price-prediction-stmp-2657189-2024-12-30",
+        "headlines": "Aviation regulator suspends 2 Akasa Air officials for lapses in pilots trainingThe two senior executives of the airline have reportedly failed to ensure compliances with the civil aviation requirements, Directorate General of Civil Aviation said.",
+        "article_url": "https://www.indiatoday.in/business/story/directorate-general-of-civil-aviation-suspends-akasa-air-officials-lapses-in-pilots-training-2656500-2024-12-27",
         "category": "business",
-        "date_time": "2024-12-30T12:23:00",
-        "uuid": "f93de053-5223-4b64-8dca-96858b26a631",
-        "positive": 13.3,
-        "negative": 1.9
+        "date_time": "2024-12-27T23:53:00",
+        "uuid": "df40796a-9d3c-4f07-95b9-32c8ceac906f",
+        "positive": 6.1,
+        "negative": 5
     },
     {
         "headlines": "See pics: Kohli, Bumrah pose with Sam Konstas's brothers on New Year's DayVirat Kohli and Jasprit Bumrah shared a light moment with Sam Konstas's brothers during a New Year celebration hosted by Australian PM Anthony Albanese, setting aside their on-field rivalries ahead of the Sydney Test.",
@@ -8998,5 +8971,32 @@
         "uuid": "139e9de1-c574-465d-bf8a-1add6115f5f1",
         "positive": 10.7,
         "negative": 5.9
+    },
+    {
+        "headlines": "Dressing room leaks, Indian cricket's persistent plague, strikes againWhat happened in the dressing room hasn't stayed in the dressing room. Ahead of the much-awaited finale of the Border-Gavaskar Trophy, the Indian cricket team has been rocked by off-field controversy. While the dressing room chaos has been ugly, it is not unprecedented.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-dressing-room-leaks-persistent-issue-rohit-sharma-sydney-test-gambhir-2658790-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T18:53:00",
+        "uuid": "be3d9936-90d1-40fb-858b-95fce8c08069",
+        "positive": 7.9,
+        "negative": 9.4
+    },
+    {
+        "headlines": "Will motivate me to work harder: Gukesh ecstatic after Khel Ratna honourD Gukesh was among the four athletes along with Manu Bhaker, Harmanpreet Singh and Praveen Kumar to be honoured with the Major Dhyan Chand Khel Ratna Award. ",
+        "article_url": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-khel-ratna-award-motivate-work-hard-2658856-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T20:25:00",
+        "uuid": "58b4ef85-4e12-4da2-91fa-4db1fcceb723",
+        "positive": 17.7,
+        "negative": 3.2
+    },
+    {
+        "headlines": "India will not care about media stories ahead of Sydney Test: GavaskarSunil Gavaskar urged Team India to ignore media speculation about Rohit Sharma's potential exclusion and focus on the high-stakes Sydney Test, aiming to level the Border-Gavaskar Trophy and keep their World Test Championship hopes alive.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-will-not-care-about-media-stories-rohit-sharma-sydney-test-sunil-gavaskar-2658855-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T20:18:00",
+        "uuid": "57ac155c-504d-411e-81c2-301fdad0204f",
+        "positive": 7.9,
+        "negative": 5.2
     }
 ]
