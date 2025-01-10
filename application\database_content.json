@@ -1494,15 +1494,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Gautam Adani on work-life balance: Spend at least 4 hours with familyChairperson of Adani Group, Gautam Adani, shared his take on work-life balance and said one must try to spend at least four hours with their families.",
-        "article_url": "https://www.indiatoday.in/business/story/gautam-adani-on-work-life-balance-spend-four-hours-with-family-2655881-2024-12-26",
-        "category": "business",
-        "date_time": "2024-12-26T21:56:00",
-        "uuid": "57c7aa47-d645-4f28-8904-d250e403a58e",
-        "positive": 9.2,
-        "negative": 3.9
-    },
-    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -2376,6 +2367,15 @@
         "negative": 5
     },
     {
+        "headlines": "Budget 2025: When was the last major income tax relief given? The last Union Budget did not make changes to the old tax regime but introduced modifications to the new tax regime to make it more appealing.",
+        "article_url": "https://www.indiatoday.in/business/story/budget-2025-last-major-income-tax-relief-economists-experts-standard-deduction-tax-rate-cut-2657244-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T14:12:00",
+        "uuid": "6ec0bdcc-cdcb-4d89-960f-4e924b3bdef8",
+        "positive": 12.9,
+        "negative": 3.4
+    },
+    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -3033,13 +3033,13 @@
         "negative": 1.9
     },
     {
-        "headlines": "Dam Capital to Mamata Machinery: GMPs of 5 IPOs ahead of D-Street debut todayThese initial public offerings (IPOs), which opened for subscription on December 19 and closed on December 23, collectively raised over Rs 2,900 crore.",
-        "article_url": "https://www.indiatoday.in/business/story/dam-capital-mamata-machinery-concord-transrail-sanathan-textiles-gmp-5-ipos-market-debut-today-2656022-2024-12-27",
+        "headlines": "Stock markets in 2025: What's next for Sensex and Nifty in the new year?Can Indian equities continue their upward climb, or will a mix of global and domestic hurdles create a rocky road ahead? Here is all you need to know. ",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-nifty-in-2025-whats-next-for-stock-markets-in-the-new-year-2657239-2024-12-30",
         "category": "business",
-        "date_time": "2024-12-27T09:25:00",
-        "uuid": "e2bafb38-566f-4519-b5e7-ea26c0f5c194",
-        "positive": 16.4,
-        "negative": 0.2
+        "date_time": "2024-12-30T14:03:00",
+        "uuid": "04195036-f74f-40b8-a9ff-748ddee66d49",
+        "positive": 11.3,
+        "negative": 1.5
     },
     {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
@@ -3121,6 +3121,15 @@
         "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
         "positive": 12.3,
         "negative": 3.6
+    },
+    {
+        "headlines": "Are fixed deposits still the best bet for Indian investors?Fixed deposits are safe but face risks like limited protection, reinvestment challenges, and low post-tax real returns.",
+        "article_url": "https://www.indiatoday.in/business/story/are-fixed-deposits-still-the-best-bet-for-indian-investors-is-fd-safe-2657273-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T15:30:00",
+        "uuid": "5697fe8d-57d4-4bb8-a122-d8c7d8192ebd",
+        "positive": 23.5,
+        "negative": 10.8
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -5022,51 +5031,6 @@
         "negative": 4.9
     },
     {
-        "headlines": "Manmohan Singh's key reforms that shaped Indian economyDr Manmohan Singh's tenure as Finance Minister in the early 1990s and later as Prime Minister from 2004 to 2014 introduced policies that continue to influence India's growth. ",
-        "article_url": "https://www.indiatoday.in/business/story/manmohan-singh-death-3-key-economic-reforms-liberalisation-licence-raj-mnrega-shaped-modern-india-2656013-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T09:36:00",
-        "uuid": "62fa7845-5554-4437-8ac8-26cf5097e5c7",
-        "positive": 9.5,
-        "negative": 6.1
-    },
-    {
-        "headlines": "Mamata Machinery shares make bumper debut with 147% premium over IPO priceMamata Machinery listing: Shares of Mamata Machinery made a bumper debut and listed at Rs 600 per share on the NSE, a lot higher than the IPO issue price of Rs 243 per share. ",
-        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-listing-share-price-bumper-debut-147-percent-premium-rs-600-nse-bse-stmp-2656037-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T10:10:00",
-        "uuid": "8c5e4026-cb43-4643-b9cb-dbc51633574d",
-        "positive": 14,
-        "negative": 0
-    },
-    {
-        "headlines": "Sensex, Nifty open higher as auto stocks fuel early rally; Tata Motors up 2%The S&P BSE Sensex was up 323.12 points to 78,795.60, while the NSE Nifty50 gained 101.95 points to 23,852.15 as of 9:44 AM. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-higher-auto-stocks-shine-tata-motors-bajaj-2656032-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T09:47:00",
-        "uuid": "26269c43-14c6-4d2b-8722-28b6883ae4a2",
-        "positive": 16.2,
-        "negative": 0
-    },
-    {
-        "headlines": "Sanathan Textiles shares list at 31% premium over IPO price. Hold or sell? Sanathan Textiles stock market debut: The listing comes after the company's initial public offering (IPO) witnessed robust demand, with subscriptions exceeding 36 times the total shares on offer.",
-        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-market-listing-31-percent-premium-over-ipo-price-hold-or-sell-2656091-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T11:36:00",
-        "uuid": "01ba82f8-5374-4080-9ea7-e0b99f5c9518",
-        "positive": 12.1,
-        "negative": 2.1
-    },
-    {
-        "headlines": "Explained: Why Mazagon Dock share price is down 50% on some trading apps todayMazagon Dock stock price was trading over 2% lower on the Bombay Stock Exchange (BSE) at 11:09 am. ",
-        "article_url": "https://www.indiatoday.in/business/story/mazagon-dock-strong-price-is-down-50-percent-on-some-trading-apps-today-explained-stmp-2656077-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T11:25:00",
-        "uuid": "bbc45dad-b2e8-46ea-af0e-8ba27c11885d",
-        "positive": 12.8,
-        "negative": 2.8
-    },
-    {
         "headlines": "After Test snub, McSweeney smacks 4 fours in an over to hit a brisk fifty in BBLNathan McSweeney played a match-winning knock for Brisbane Heat against the Adelaide Strikers in the Big Bash League. The 25-year-old was excluded from Australia's squad for the Boxing Day Test.",
         "article_url": "https://www.indiatoday.in/sports/story/after-test-snub-mcsweeney-smacks-4-fours-in-an-over-to-hit-brisk-fifty-in-bbl-2653740-2024-12-22",
         "category": "sports",
@@ -5454,13 +5418,13 @@
         "negative": 0.8
     },
     {
-        "headlines": "Transrail Lighting shares list at 36% premium on Dalal Street debut Transrail Lighting share price: The shares opened at Rs 585.15 per share on the Bombay Stock Exchange (BSE). The market debut aligns with market expectations, which was oversubscribed by 81 times.",
-        "article_url": "https://www.indiatoday.in/business/story/transrail-lighting-ipo-share-price-listing-stock-open-at-36-percent-premium-dalal-street-debut-stmp-2656057-2024-12-27",
+        "headlines": "Stock market in January 2025: Will investors face a tough start to the year? Historically, January has often been a challenging month for equity markets, with the NSE Nifty 50 index recording losses in 13 out of the past 20 years. ",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-in-january-2025-what-to-expect-investors-face-a-tough-start-sectors-to-watch-dalal-street-2657261-2024-12-30",
         "category": "business",
-        "date_time": "2024-12-27T10:47:00",
-        "uuid": "f4229648-944e-4962-8c6b-5a1d6c8c6d24",
-        "positive": 20,
-        "negative": 0
+        "date_time": "2024-12-30T15:06:00",
+        "uuid": "e52bc334-4d9b-46b3-812f-27d8f41d2ab9",
+        "positive": 12.9,
+        "negative": 4.6
     },
     {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
@@ -5650,15 +5614,6 @@
         "uuid": "9b3d008b-cb69-46aa-b8fc-2f8813420c3f",
         "positive": 5.6,
         "negative": 2.7
-    },
-    {
-        "headlines": "DAM Capital Advisors makes strong debut, shares list at 39% premium DAM Capital Advisors listing: On the BSE, the shares began trading at Rs 392.90, marking a 38.83% premium compared to the issue price.",
-        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-share-price-listing-strong-debut-39-percent-premium-nse-bse-rs-393-stmp-2656049-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T10:29:00",
-        "uuid": "c39d63a2-c64e-4984-a597-691efe970f33",
-        "positive": 13.5,
-        "negative": 1
     },
     {
         "headlines": "Rohit backs 'modern-day great' Virat, tight-lipped about his batting spotAustralia vs India, 4th Test: India captain Rohit Sharma expressed confidence in Virat Kohli overcoming his struggles outside the off-stump. However, the skipper refrained from revealing his batting position for the Boxing Day Test, adding to the speculation.",
@@ -5940,15 +5895,6 @@
         "negative": 3.7
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Herculean Harleen fires India to ODI series win vs hapless West IndiesIndia sealed a commanding 115-run victory over West Indies in the second ODI, driven by Harleen Deol's maiden century and disciplined bowling. ",
         "article_url": "https://www.indiatoday.in/sports/story/herculean-harleen-fires-india-to-odi-series-win-vs-hapless-west-indies-2654901-2024-12-24",
         "category": "sports",
@@ -5992,6 +5938,15 @@
         "uuid": "c31544fc-5e43-4c0c-82ed-9d58eb456986",
         "positive": 11.9,
         "negative": 1.6
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
@@ -6226,15 +6181,6 @@
         "uuid": "e2feb806-7306-411a-985b-ca2e1556cfbc",
         "positive": 14.2,
         "negative": 1.6
-    },
-    {
-        "headlines": "Osamu Suzuki, former Suzuki Motor Corporation chairman, dies at 94Osamu Suzuki steered Suzuki Motor's rise, from pioneering Maruti 800 in India to building a global automotive legacy.",
-        "article_url": "https://www.indiatoday.in/business/story/osamu-suzuki-former-suzuki-motor-corporation-chairman-dies-at-94-2656153-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T13:31:00",
-        "uuid": "2cf7089d-0bc1-41d2-b808-843b0ad75e48",
-        "positive": 6.4,
-        "negative": 2.7
     },
     {
         "headlines": "Buoyed by Asia Cup heist, WPL gig, Niki Prasad sets sights on World Cup Exclusive: 19-year-old Niki Prasad spoke exclusively to IndiaToday.in after India won the U19 Women's T20 Asia Cup in Malaysia. On Tuesday, Niki was also picked as the national skipper for the U19 Women's T20 World Cup to be held next year. ",
@@ -6561,13 +6507,13 @@
         "negative": 2.7
     },
     {
-        "headlines": "How Indian stock market benefitted under Manmohan SinghManmohan Singh's policies, introduced during a time of economic crisis in the early 1990s, reshaped India's economy and transformed the Indian stock markets.",
-        "article_url": "https://www.indiatoday.in/business/story/how-stock-market-benefitted-under-manmohan-singh-death-news-sensex-nifty-1991-2656149-2024-12-27",
+        "headlines": "Adani Enterprises to sell entire Adani Wilmar stake in $2 billion dealAdani Enterprises and its wholly-owned subsidiary, Adani Commodities LLP (ACL), have entered into an agreement with Lence Pte Ltd, a fully-owned subsidiary of Wilmar International.",
+        "article_url": "https://www.indiatoday.in/business/story/adani-enterprises-to-sell-entire-adani-wilmar-stake-in-usd-2-billion-deal-lence-pte-ltd-divestment-2657295-2024-12-30",
         "category": "business",
-        "date_time": "2024-12-27T13:43:00",
-        "uuid": "e71fa519-3d7d-485e-a1d5-3095654e469d",
-        "positive": 11,
-        "negative": 2.8
+        "date_time": "2024-12-30T15:57:00",
+        "uuid": "77b5f357-2df7-41ed-9dea-23c64c12984b",
+        "positive": 8.7,
+        "negative": 2.1
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -6651,15 +6597,6 @@
         "negative": 5.7
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "Manmohan Singh dies at 92: Yuvraj, Vinesh Phogat lead tributes to former PMIndia mourns the loss of former Prime Minister Dr. Manmohan Singh, a visionary economist and leader. Sporting legends like Yuvraj Singh and Virender Sehwag lead heartfelt tributes, honouring his contributions that inspired progress across the nation, including sports.",
         "article_url": "https://www.indiatoday.in/sports/story/manmohan-singh-dies-at-92-yuvraj-vinesh-phogat-lead-tribute-to-former-pm-2655923-2024-12-26",
         "category": "sports",
@@ -6703,6 +6640,15 @@
         "uuid": "aafed959-c633-4310-b242-fe0c97a68ff6",
         "positive": 9.5,
         "negative": 5.1
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "Sam was gracious to brush it off: Cricket Australia CEO on Virat Kohli spatCricket Australia CEO Nick Hockley said teenage debutant Sam Konstas showed maturity beyond his age and was gracious to brush aside his physical altercation with India superstar Virat Kohli in the Boxing Day Test.",
@@ -6847,6 +6793,15 @@
         "uuid": "d7c43c15-8b21-4372-a0ad-fb7be77f0a6f",
         "positive": 5,
         "negative": 10.8
+    },
+    {
+        "headlines": "Sensex falls over 450 points, Nifty declines; Adani Enterprises jumps 7%The S&P BSE Sensex ended 450.94 points lower at 78,248.13, while the NSE Nifty50 settled 168.50 points lower at 23,644.90.",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-falls-over-450-points-nifty-declines-adani-enterprises-jumps-7-percent-2657286-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T15:45:00",
+        "uuid": "078d0ff1-4581-4f6c-b45e-547d95e4811d",
+        "positive": 10.9,
+        "negative": 9.4
     },
     {
         "headlines": "Sam Konstas reverse-ramping Jasprit Bumrah gave me a heart attack: Steve SmithAustralia's debutant Sam Konstas stole the spotlight in Melbourne with a fearless 60 against India, earning praise from Steve Smith while handling a heated altercation with Virat Kohli maturely, as the hosts posted a commanding 474-run total.",
@@ -7110,6 +7065,24 @@
         "negative": 11.6
     },
     {
+        "headlines": "Explained: Why Mamata Machinery share price tanked 5% todayMamata Machinery share price: The decline comes after the company's spectacular stock market debut last week, with analysts attributing the fall to profit booking by retail investors capitalising on the massive listing gains.",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-share-price-tanked-5-percent-today-profit-booking-after-bumper-ipo-listing-stmp-2657201-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T12:52:00",
+        "uuid": "f1da1722-2afd-445e-b480-0096639ec93a",
+        "positive": 16.8,
+        "negative": 0.8
+    },
+    {
+        "headlines": "Greaves Cotton share price surges 13% to hit 52-week high today. Here's why Greaves Cotton share price hit 52-week high. The share which had closed at Rs 281.83 on Friday, opened at Rs 288.70 on Monday. ",
+        "article_url": "https://www.indiatoday.in/business/story/greaves-cotton-share-price-jumps-13-percent-52-week-high-today-why-vijay-kedia-greaves-electric-mobility-ipo-stmp-2657274-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T15:33:00",
+        "uuid": "6f334dc6-c8b0-487b-a914-e3514748b6be",
+        "positive": 15.4,
+        "negative": 0.7
+    },
+    {
         "headlines": "Watch: Nitish Reddy celebrates maiden Test fifty with Pushpa signature move AUS vs IND: Nitish Kumar Reddy celebrated with Allu Arjun's Pushpa move after scoring his maiden Test fifty off 81 balls in the Boxing Day Test against Australia at the iconic Melbourne Cricket Ground. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-nitish-kumar-reddy-maiden-fifty-pushpa-move-2656550-2024-12-28",
         "category": "sports",
@@ -7326,60 +7299,6 @@
         "negative": 4.4
     },
     {
-        "headlines": "10 income tax changes in 2024: What you need to know for filing ITR in 2025The 2024 income tax reforms introduce revised tax slabs, higher deductions, and simplified TDS and capital gains rules, making tax filing easier and offering potential savings. ",
-        "article_url": "https://www.indiatoday.in/business/story/15-income-tax-changes-in-2024-what-you-need-to-know-for-filing-itr-in-2025-income-tax-rules-stmp-2656139-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T13:31:00",
-        "uuid": "a1a56f29-0e8a-463f-9600-d5525f785512",
-        "positive": 11.1,
-        "negative": 1.8
-    },
-    {
-        "headlines": "Bumper stock market debut for Mamata Machinery: Should you book profit or wait? Mamata Machinery stock market listing: A 147% premium debut for Mamata Machinery leaves investors wondering: Is this the peak, or should they hold on?",
-        "article_url": "https://www.indiatoday.in/business/story/bumper-market-debut-for-mamata-machinery-should-you-book-profit-or-wait-2656140-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T13:04:00",
-        "uuid": "c6c13b5a-035f-4efd-8029-2e51c45e6114",
-        "positive": 17.2,
-        "negative": 1.6
-    },
-    {
-        "headlines": "DAM Capital Advisors makes strong market debut: Is it a long-term bet?DAM Capital Advisors market listing: The listing matched market predictions, as analysts and the grey market premium (GMP) had anticipated a 40%-50% premium, driven by robust demand and positive sentiment.",
-        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-stock-market-listing-long-term-bet-or-not-expert-views-2656116-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T12:28:00",
-        "uuid": "a5da2bf4-ffd6-4385-9067-40e92000d731",
-        "positive": 16.7,
-        "negative": 1.9
-    },
-    {
-        "headlines": "How Manmohan Singh revitalised India's economy and global standingAs the chief architect of India's 1991 economic liberalisation, Manmohan Singh's policies helped steer India away from a severe financial crisis, positioning the country as one of the world's fastest-growing economies.",
-        "article_url": "https://www.indiatoday.in/business/story/manmohan-singh-indian-economy-global-standing-key-reforms-1991-economic-liberalisation-2656166-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T14:11:00",
-        "uuid": "799afe46-3a09-4c8f-969a-2a9d05c44314",
-        "positive": 10.4,
-        "negative": 6.8
-    },
-    {
-        "headlines": "Will DA rise again in 2025? All you need to knowCentral government employees await a potential DA hike in January 2025, which could offer modest relief amid rising costs",
-        "article_url": "https://www.indiatoday.in/business/story/will-dearness-allowance-da-rise-again-in-2025-check-details-how-it-is-calculated-all-you-need-to-know-2656247-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T15:49:00",
-        "uuid": "8ecde742-0f13-4ff3-b134-c9413ec0bb9f",
-        "positive": 12,
-        "negative": 4.5
-    },
-    {
-        "headlines": "Sensex, Nifty rise for 2nd straight day as auto stocks rally The S&P BSE Sensex settled 226.59 points higher at 78,690.07, while the NSE Nifty50 gained 63.20 points to end at 23,813.40.",
-        "article_url": "https://www.indiatoday.in/business/story/sensex-nifty-rise-for-2nd-straight-day-as-auto-stocks-rally-2656246-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T15:47:00",
-        "uuid": "6d224803-8835-48fb-8eb2-a39c059e0527",
-        "positive": 15.6,
-        "negative": 6.8
-    },
-    {
         "headlines": "Jadeja needs to practise against spin: Manjrekar points out drawbacksSanjay Manjrekar opined Ravindra Jadeja needs to improve his batting against spin after struggling against Nathan Lyon, whose brilliance led to Jadeja's dismissal and further exposed India's vulnerabilities on Day 3 of the Melbourne Test.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-ravindra-jadeja-practice-against-spin-sanjay-manjrekar-nathan-lyon-melbourne-2656734-2024-12-28",
         "category": "sports",
@@ -7441,6 +7360,15 @@
         "uuid": "6fc65412-c66c-4afe-830a-f0cd7c245118",
         "positive": 12.5,
         "negative": 5.5
+    },
+    {
+        "headlines": "Budget 2025: Will the old tax regime face the axe?With Budget 2025 approaching, debates intensify over the potential scrapping of the Old Tax Regime amidst tax reforms.",
+        "article_url": "https://www.indiatoday.in/business/story/budget-2025-income-tax-itr-filing-will-the-old-tax-regime-face-the-axe-2657339-2024-12-30",
+        "category": "business",
+        "date_time": "2024-12-30T16:55:00",
+        "uuid": "dfaa3375-e0e1-4be6-b365-6494fb2e5b88",
+        "positive": 10.6,
+        "negative": 4.3
     },
     {
         "headlines": "Nitish Reddy's Under 16 coach recalls days of struggle after Melbourne hundredIndia all rounder Nitish Kumar Reddy's under 16 coach Kumar Swamy recalled his early days in cricket as he notched up his maiden Test hundred on Day 3 of the fourth Test against Australia in Melbourne. ",
@@ -7515,15 +7443,6 @@
         "negative": 2.8
     },
     {
-        "headlines": "Zoho CEO Sridhar Vembu revives debate on 70-hour work weekZoho CEO Sridhar Vembu weighs in on the 70-hour work week debate initiated by Infosys founder Narayana Murthy. Here's his perspective.",
-        "article_url": "https://www.indiatoday.in/business/story/zoho-ceo-sridhar-vembu-revives-debate-on-70-hour-work-week-advocated-by-infosys-founder-narayana-murthy-2656318-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T17:47:00",
-        "uuid": "5a12d874-5463-4802-b778-c25de487bb77",
-        "positive": 11,
-        "negative": 5.9
-    },
-    {
         "headlines": "Sharing 'Tom and Jerry' bond, Nitish fulfils promise to make sister proud AUS vs IND: Nitish Reddy's sister Tejaswi talked about the relationship she shares with her brother. She was delighted after the 21-year-old Nitish racked up his maiden Test hundred on Day 3 of the Boxing Day Test against Australia at the Melbourne Cricket Ground. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-nitish-reddy-century-sister-proud-mcg-test-australia-2656825-2024-12-29",
         "category": "sports",
@@ -7585,6 +7504,15 @@
         "uuid": "3f48feee-0265-41f7-b499-a5afdb00dfa6",
         "positive": 6.6,
         "negative": 10.5
+    },
+    {
+        "headlines": "Stocks to watch today: Adani Enterprises, Adani Wilmar, EaseMyTrip, ITC, ZomatoShares of Adani Enterprises, Adani Wilmar, Zoamto, EaseMyTrip, etc will be in the spotlight today due to various developments when markets open for trading. ",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-adani-enterprises-adani-wilmar-easemytrip-itc-zomato-unimech-aerospace-2657590-2024-12-31",
+        "category": "business",
+        "date_time": "2024-12-31T08:29:00",
+        "uuid": "5f2a322b-eb88-435c-9bc0-ac4d807a8e4a",
+        "positive": 7.6,
+        "negative": 2.3
     },
     {
         "headlines": "Jasprit Bumrah's cheeky quip to Marnus Labuschagne goes viralIND vs AUS, 4th Test: Star India pacer Jasprit Bumrah's cheeky quip to Marnus Labuschagne went viral on the penultimate day of the MCG Test match. Bumrah took a dig at Marnus Labuschagne after the batter survived multiple close chances in his 139-ball stay.\r\n",
@@ -8109,15 +8037,6 @@
         "negative": 4.5
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "Mitchell Starc to miss Sydney Test? Australia head coach gives injury updateAustralia vs India: Australia head coach Andrew McDoland remained optimistic about Mitchell Starc's chances of playing the fifth Test, starting January 3 in Sydney. The left-arm pacer picked up an upper-body concern in Australia's 184-run win in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mitchell-starc-injury-update-new-year-test-sydney-andrew-mcdonald-2657633-2024-12-31",
         "category": "sports",
@@ -8154,6 +8073,15 @@
         "negative": 3.5
     },
     {
+        "headlines": "Sensex, Nifty drop as IT stocks weigh on markets in last session of 2024The S&P BSE Sensex lost 392.61 points to 77,855.52, while the NSE Nifty50 was down by 107.80 points to 23,537.10 as of 9:28 AM. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-in-red-it-stocks-decline-last-session-of-2024-adani-enterprises-down-over-1-percent-2657617-2024-12-31",
+        "category": "business",
+        "date_time": "2024-12-31T09:45:00",
+        "uuid": "185073f3-6c0a-4eb3-b8a5-f2cc46212eb9",
+        "positive": 18.4,
+        "negative": 4.5
+    },
+    {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-mcg-test-personal-decision-aakash-chopra-2657713-2024-12-31",
         "category": "sports",
@@ -8170,6 +8098,15 @@
         "uuid": "434bce28-0008-482f-8e2a-d042ac4d2fbf",
         "positive": 12.1,
         "negative": 3.1
+    },
+    {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
     },
     {
         "headlines": "Darren Lehmann confident of Indian cricket to find Rohit and Virat's replacementsFormer Australia cricketer and head coach Darren Lehmann feels Indian cricket has enough depth to replace star batters Virat Kohli and Rohit Sharma, should they decide to retire after the end of the ongoing series against Australia.",
@@ -8350,15 +8287,6 @@
         "uuid": "6b45c41b-d7c6-4c5e-93b5-44e9314dbc40",
         "positive": 6.1,
         "negative": 3.8
-    },
-    {
-        "headlines": "Aviation regulator suspends 2 Akasa Air officials for lapses in pilots trainingThe two senior executives of the airline have reportedly failed to ensure compliances with the civil aviation requirements, Directorate General of Civil Aviation said.",
-        "article_url": "https://www.indiatoday.in/business/story/directorate-general-of-civil-aviation-suspends-akasa-air-officials-lapses-in-pilots-training-2656500-2024-12-27",
-        "category": "business",
-        "date_time": "2024-12-27T23:53:00",
-        "uuid": "df40796a-9d3c-4f07-95b9-32c8ceac906f",
-        "positive": 6.1,
-        "negative": 5
     },
     {
         "headlines": "Will Rohit Sharma do what's best for Team India in the New Year's Test?Australia vs India, 5th Test: Captain Rohit Sharma faces mounting scrutiny after a string of failures in the Border-Gavaskar Trophy, with questions arising about his form and leadership. As India fight to salvage the series in Sydney, Rohit's choices could define both the team's fate and his legacy.",
@@ -8998,5 +8926,77 @@
         "uuid": "02d29080-89eb-462f-835a-828c7c2d4c49",
         "positive": 6.7,
         "negative": 3.8
+    },
+    {
+        "headlines": "Bold call from Rohit Sharma to rest himself for Sydney Test: Ravi ShastriIND vs AUS: Former India head coach Ravi Shastri believes that it was a bold call to 'rest' Rohit Sharma for the final Test match in Sydney. Sharma opted to remove himself from the playing XI and bring in Shubman Gill.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rohit-sharma-dropped-retirement-avi-shastri-reacts-2659005-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T06:13:00",
+        "uuid": "52f0de41-5437-476a-a2dd-3f8511980d05",
+        "positive": 7.1,
+        "negative": 1.4
+    },
+    {
+        "headlines": "Our captain Rohit Sharma opted to 'rest', no selfishness in team: Jasprit BumrahIND vs AUS: Unselfish Rohit Sharma has opted to 'rest' himself from the SCG Test, said stand-in captain Jasprit Bumrah. Bumrah said that the Indian team was as united as ever and were trying to keep the positives in mind going into the final match of the series.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-jasprit-bumrah-captain-rohit-sharma-rested-india-playing-xi-scg-2659003-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T06:22:00",
+        "uuid": "e8537b45-880a-40b5-ba12-cc16116059e0",
+        "positive": 13.8,
+        "negative": 4.1
+    },
+    {
+        "headlines": "He's been dropped: Mark Taylor slams Rohit Sharma's 'resting' antics at SCGFormer Australia cricketer Mark Taylor has slammed Team India's line of Rohit Sharma 'resting himself'. Speaking on Triple M Cricket, Taylor said that Rohit has been dropped, and the team should just simply say so.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-dropped-mark-taylor-ind-vs-aus-scg-test-2659007-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T07:15:00",
+        "uuid": "f5cf3806-feaa-4337-8a22-3ff9c42582af",
+        "positive": 3.6,
+        "negative": 3.2
+    },
+    {
+        "headlines": "Virat Kohli out or not? Smith upset over third umpire's call in Sydney TestAustralia vs India, 5th Test: Virat Kohli was handed a lifeline when he was batting on 0 in the first innings of the final Test in Sydney. Steve Smith's effort in the slip cordon was deemed not out by third umpire Joel Wilson, leading to mixed reactions. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-sydney-test-virat-kohli-catch-not-out-joel-wilson-steve-smith-2659006-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T07:11:00",
+        "uuid": "82dd9b4e-46ba-4927-9b64-f31997ebb3e6",
+        "positive": 5.1,
+        "negative": 5.2
+    },
+    {
+        "headlines": "Rohit Sharma has played his last Test for India: Sunil GavaskarIndia captain Rohit Sharma has played his last Test match in Melbourne, said Sunil Gavaskar on Friday - Day 1 of the final Test match of the Border-Gavaskar Trophy. Sharma skipped the SCG Test after opting to rest himself.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-rohit-sharma-retirement-rested-dropped-gavaskar-2659020-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T08:25:00",
+        "uuid": "8f06afca-5794-42fd-8d20-cd8c81035acf",
+        "positive": 7,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Steve Smith '100 percent' certain he got his hand under Virat Kohli's catchSteven Smith is 100 percent certain he got his hand under the ball while attempting to catch Virat Kohli at slip on the first day of the SCG Test. The decision was referred to the TV umpire and was eventually ruled not out.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-steve-smith-reaction-virat-kohli-catch-sydney-test-2659017-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T08:15:00",
+        "uuid": "e1a46b88-84a0-4cab-9262-5caff5a44f49",
+        "positive": 11.5,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Sam Konstas built for this stage: Watson praises Australia opener's showmanshipFormer Australian all-rounder Shane Watson, who has mentored Sam Konstas, was pleasantly surprised by the 19-year-old's blockbuster debut in the fourth Test against India at the Melbourne Cricket Ground.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-shane-watson-on-sam-konstas-debut-2659029-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T09:02:00",
+        "uuid": "6a2aaf0f-ea5f-4d6c-b18c-45fd707bed51",
+        "positive": 13.5,
+        "negative": 3.7
+    },
+    {
+        "headlines": "Watch: Rishabh Pant takes body-blows, replies with massive six at SCGIndia batter Rishabh Pant battled it out like a gladiator at the SCG on Friday. In testing conditions, Pant took blows to the hand and head and then replied with a stunning six on Day 1 of the final Test.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rishabh-pant-takes-body-blows-replies-with-six-2659054-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T10:07:00",
+        "uuid": "e2d3d1c3-56f8-4819-a651-240aae54ffa2",
+        "positive": 3.4,
+        "negative": 9.6
     }
 ]
