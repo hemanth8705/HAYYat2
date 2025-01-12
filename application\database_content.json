@@ -288,15 +288,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "Can popping supplements help you manage your PCOS?The internet is obsessing over supplements as a way to manage and even treat PCOS.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-popping-supplements-help-you-manage-your-pcos-2662475-2025-01-10",
-        "category": "lifestyle",
-        "date_time": "2025-01-10T08:00:00",
-        "uuid": "d9311521-e903-444c-aae5-ab99079a553a",
-        "positive": 21.4,
-        "negative": 6.6
-    },
-    {
         "headlines": "Elon Musk says stop using hashtags on X because they look uglyHave you still been using hashtags? You don't need them anymore, at least on X, and the company CEO Elon Musk has confirmed that. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-stop-using-hashtags-on-x-because-you-dont-need-them-and-they-look-ugly-2651563-2024-12-18",
         "category": "technology",
@@ -1359,15 +1350,6 @@
         "negative": 4.9
     },
     {
-        "headlines": "The male attitude towards sex toys is changing in IndiaHesitation, social taboo, judgment, and the shame associated with using sex toys often prevents men from exploring sex toys.",
-        "article_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/male-sex-toys-attitude-india-2662924-2025-01-10",
-        "category": "lifestyle",
-        "date_time": "2025-01-10T18:32:00",
-        "uuid": "2e020f36-dcf5-4d4b-8dc5-97e24f4115d5",
-        "positive": 11.9,
-        "negative": 1.7
-    },
-    {
         "headlines": "South Africa spinner Keshav Maharaj ruled out of last two Pakistan ODIsSouth Africa spinner Keshav Maharaj will miss the last two ODIs against Pakistan at home. Maharaj suffered an injury while warming up for the first ODI.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-south-africa-spinner-keshav-maharaj-to-miss-last-two-pakistan-odis-2652263-2024-12-19",
         "category": "sports",
@@ -2385,13 +2367,13 @@
         "negative": 5
     },
     {
-        "headlines": "Budget 2025: Will new income tax regime steal the spotlight again?Budget 2025 tax expectations: The upcoming budget may focus on the new income tax regime yet again to increase its appeal compared to the old tax regime.",
-        "article_url": "https://www.indiatoday.in/business/budget/story/budget-2025-new-tax-regime-more-benefits-standard-deduction-slabs-2660860-2025-01-07",
+        "headlines": "From the world's richest to fifth: The ups and downs of Bernard Arnault Once the world's richest, Bernard Arnault lost $32 billion in 2024 but remains a luxury titan with LVMH's 75 iconic brands.",
+        "article_url": "https://www.indiatoday.in/business/story/bernard-arnault-ceo-of-lvmh-from-the-worlds-richest-to-fifth-the-ups-and-downs-of-the-luxury-mogul-2654041-2024-12-23",
         "category": "business",
-        "date_time": "2025-01-07T12:56:00",
-        "uuid": "09dc4484-92ff-4ebb-a7e8-590e7723ea51",
-        "positive": 13.6,
-        "negative": 3
+        "date_time": "2024-12-23T14:30:00",
+        "uuid": "393b4ead-572e-4898-8c68-2695413ea66a",
+        "positive": 11.7,
+        "negative": 4.6
     },
     {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
@@ -3051,13 +3033,13 @@
         "negative": 1.9
     },
     {
-        "headlines": "What the Indian passport can learn from Singapore, the world's most powerfulOver the past eight years, Singapore has consistently ranked in the top two and has remained amongst the top ten for over two decades, according to data from Henley Global. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/what-the-indian-passport-can-learn-from-singapore-the-worlds-most-powerful-2663026-2025-01-11",
-        "category": "lifestyle",
-        "date_time": "2025-01-11T08:00:00",
-        "uuid": "d9bcada0-b0ae-4d3b-b810-f8c201a74894",
-        "positive": 21.8,
-        "negative": 1.7
+        "headlines": "Salted, pre-packed or caramelised? Popcorn gets stuck in GST mazeThe GST Council's decision to impose different tax rates on salted, pre-packaged, and caramelised popcorn has faced criticism, with economists, industry experts, and former government officials arguing that the new tax structure adds complexity for consumers.",
+        "article_url": "https://www.indiatoday.in/business/story/popcorn-gst-salted-prepackaged-caramalised-faces-crticism-experts-heres-why-2654025-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T14:05:00",
+        "uuid": "9a8a6593-ccf1-4ec9-81c6-5c0a9a36000d",
+        "positive": 5.7,
+        "negative": 13.2
     },
     {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
@@ -3085,6 +3067,15 @@
         "uuid": "e0a4e93a-8e34-455d-b7e5-06ada7ec47fc",
         "positive": 6.4,
         "negative": 3.3
+    },
+    {
+        "headlines": "How Smriti Mandhana inspired Team India to end 5-year drought at home IND-W vs WI-W: Smriti Mandhana, who led India in Harmanpreet Kaur's career, talked about the importance of winning a T20I series on home soil. On Thursday, India beat the West Indies in the deciding game to claim the series 2-1. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-womens-t20i-series-smriti-mandhana-drought-2652634-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T23:34:00",
+        "uuid": "d96529cf-3333-4669-8405-7813ce6969a8",
+        "positive": 13.5,
+        "negative": 4.3
     },
     {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
@@ -3123,22 +3114,13 @@
         "negative": 0.6
     },
     {
-        "headlines": "How Smriti Mandhana inspired Team India to end 5-year drought at home IND-W vs WI-W: Smriti Mandhana, who led India in Harmanpreet Kaur's career, talked about the importance of winning a T20I series on home soil. On Thursday, India beat the West Indies in the deciding game to claim the series 2-1. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-womens-t20i-series-smriti-mandhana-drought-2652634-2024-12-19",
+        "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
         "category": "sports",
-        "date_time": "2024-12-19T23:34:00",
-        "uuid": "d96529cf-3333-4669-8405-7813ce6969a8",
-        "positive": 13.5,
-        "negative": 4.3
-    },
-    {
-        "headlines": "Sensex, Nifty drop as IT stocks weigh on markets in last session of 2024The S&P BSE Sensex lost 392.61 points to 77,855.52, while the NSE Nifty50 was down by 107.80 points to 23,537.10 as of 9:28 AM. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-in-red-it-stocks-decline-last-session-of-2024-adani-enterprises-down-over-1-percent-2657617-2024-12-31",
-        "category": "business",
-        "date_time": "2024-12-31T09:45:00",
-        "uuid": "185073f3-6c0a-4eb3-b8a5-f2cc46212eb9",
-        "positive": 18.4,
-        "negative": 4.5
+        "date_time": "2024-12-19T23:16:00",
+        "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
+        "positive": 12.3,
+        "negative": 3.6
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -3753,15 +3735,6 @@
         "negative": 2.7
     },
     {
-        "headlines": "Instant loans for housewives: A step-by-step guideInstant personal loans offer housewives quick financial relief with easy application, affordable rates, and fast approval.",
-        "article_url": "https://www.indiatoday.in/business/story/instant-loans-for-housewives-a-step-by-step-guide-how-to-apply-2661679-2025-01-08",
-        "category": "business",
-        "date_time": "2025-01-08T18:19:00",
-        "uuid": "e8f1d498-bd1d-4194-835e-14dbf3653ccf",
-        "positive": 14,
-        "negative": 5.5
-    },
-    {
         "headlines": "Inventurus Knowledge Solutions IPO share listing: Stocks list at 43% premium Inventurus Knowledge Solutions IPO share price: On the NSE, the shares opened at Rs 1,900 per share, marking a premium of 42.96% over the issue price. ",
         "article_url": "https://www.indiatoday.in/business/story/inventurus-knowledge-solutions-share-price-today-ipo-listing-43-percent-premium-stmp-2652146-2024-12-19",
         "category": "business",
@@ -3843,15 +3816,6 @@
         "negative": 4.3
     },
     {
-        "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T23:16:00",
-        "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
-        "positive": 12.3,
-        "negative": 3.6
-    },
-    {
         "headlines": "Jasprit Bumrah is the right-handed Wasim Akram: Justin LangerFormer Australia head coach Justin Langer has compared Jasprit Bumrah to Wasim Akram. Langer said that he would have hated to face Bumrah in his playing days.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-jasprit-bumrah-wasim-akram-justin-langer-2652622-2024-12-19",
         "category": "sports",
@@ -3906,12 +3870,12 @@
         "negative": 1.7
     },
     {
-        "headlines": "Microsoft plans job cuts in 2025, targets low-performing employeesMicrosoft layoffs: In 2023, the company cut an estimated 10,000 jobs, amounting to roughly 5% of its global workforce.",
-        "article_url": "https://www.indiatoday.in/business/story/microsoft-layoffs-plans-job-cuts-in-2025-targets-low-performing-employees-satya-nadella-2661956-2025-01-09",
-        "category": "business",
-        "date_time": "2025-01-09T08:34:00",
-        "uuid": "ded48f04-0f59-4102-948b-a27a2da3e580",
-        "positive": 7.9,
+        "headlines": "Australia drop Nathan McSweeney for Boxing Day Test, add teenage opener to squadBorder-Gavaskar Trophy: Australia named a 15-man squad for the last two tests against India on Friday. In a bold call, the Australian selectors dropped Nathan McSweeney and roped in 19-year-old Sam Konstas. Pacers Jhye Richardson and Sean Abbott also returned to the squad. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-squad-nathan-mcsweeney-dropped-sam-konstas-jhye-richardson-2652715-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T10:17:00",
+        "uuid": "28674c32-55d9-4384-9b56-28f9b97df423",
+        "positive": 8.4,
         "negative": 4.1
     },
     {
@@ -3949,15 +3913,6 @@
         "uuid": "64e3fd8d-cb46-4578-a9a9-462d774a0f34",
         "positive": 11.9,
         "negative": 0.6
-    },
-    {
-        "headlines": "Australia drop Nathan McSweeney for Boxing Day Test, add teenage opener to squadBorder-Gavaskar Trophy: Australia named a 15-man squad for the last two tests against India on Friday. In a bold call, the Australian selectors dropped Nathan McSweeney and roped in 19-year-old Sam Konstas. Pacers Jhye Richardson and Sean Abbott also returned to the squad. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-squad-nathan-mcsweeney-dropped-sam-konstas-jhye-richardson-2652715-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T10:17:00",
-        "uuid": "28674c32-55d9-4384-9b56-28f9b97df423",
-        "positive": 8.4,
-        "negative": 4.1
     },
     {
         "headlines": "From sapno ka sheher to WPL deal: MI's Akshita set to take flightExclusive: Mumbai Indians' cricketer Akshita Maheshwari talked to IndiaToday.in and spoke about her WPL deal, her admiration for Jasprit Bumrah, Bhuvneshwar Kumar. In the auction that took place in Bengaluru, MI picked Maheshwari for Rs 20 lakhs. ",
@@ -4075,6 +4030,15 @@
         "uuid": "64406747-4863-4f7e-b2b5-e9270fa6452f",
         "positive": 6.1,
         "negative": 5.7
+    },
+    {
+        "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-u19-women-t20-asia-cup-aayushi-shukla-india-beat-sri-lanka-reach-final-2652897-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T15:16:00",
+        "uuid": "47b53052-1d98-4f0e-8604-4155f6eae0a2",
+        "positive": 13.2,
+        "negative": 2.4
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -4255,15 +4219,6 @@
         "uuid": "4173d4f1-79da-4cab-a44a-fd533622a249",
         "positive": 9.9,
         "negative": 4.3
-    },
-    {
-        "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-u19-women-t20-asia-cup-aayushi-shukla-india-beat-sri-lanka-reach-final-2652897-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T15:16:00",
-        "uuid": "47b53052-1d98-4f0e-8604-4155f6eae0a2",
-        "positive": 13.2,
-        "negative": 2.4
     },
     {
         "headlines": "Pakistan Cricket Board to hold PSL 10 draft in GwadarThe PCB announced that the coastal city of Gwadar in the restive province of Balochistan will host the player's draft for the Pakistan Super League (PSL) on January 11.",
@@ -4950,15 +4905,6 @@
         "negative": 2.8
     },
     {
-        "headlines": "Stocks to watch today: TCS, Tata Motors, IREDA, BHEL, NTPC Green EnergyStocks such as TCS, Tata Motors, IREDA, BHEL, Tata Elxsi, etc are expected to remain in focus due to various developments and announcements.",
-        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-tcs-tata-motors-ireda-bhel-ntpc-green-energy-ril-2661942-2025-01-09",
-        "category": "business",
-        "date_time": "2025-01-09T07:51:00",
-        "uuid": "412de67f-3458-41d1-97d0-b19c566617a3",
-        "positive": 10,
-        "negative": 2.4
-    },
-    {
         "headlines": "Delhi SG Pipers' Rajkumar Pal aiming for Hockey India League spotlightIn an exclusive interaction with Indiatoday.in, Delhi SG Pipers' Rajkumar Pal opens up about taking the spotlight with his performances and being realistic about the chances of his side in the 2024-25 season of the Hockey India League. \r\n",
         "article_url": "https://www.indiatoday.in/sports/story/delhi-sg-pipers-rajkumar-pal-aiming-for-hockey-india-league-spotlight-2653638-2024-12-22",
         "category": "sports",
@@ -5211,60 +5157,6 @@
         "negative": 3.2
     },
     {
-        "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T17:55:00",
-        "uuid": "b9103930-2ddc-4baa-a892-9a2cb7251458",
-        "positive": 4.3,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Nana Patekar invites Aamir Khan for a special screening of his film VanvaasNana Patekar is set to host a special Vanvaas screening for Aamir Khan. The film, starring Utkarsh Sharma and Simratt Kaur along with Nana Patekar, is set to release on December 20. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/nana-patekar-invites-aamir-khan-for-a-special-screening-of-his-film-vanvaas-2652293-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T14:33:00",
-        "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
-        "positive": 15.8,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-tabus-de-de-pyaar-de-2-to-hit-theatres-in-november-2025-2652214-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T12:51:00",
-        "uuid": "32a2c971-7e64-4baf-98cc-d84a009807a0",
-        "positive": 3.5,
-        "negative": 1
-    },
-    {
-        "headlines": "Thaman S: The creative force behind hits like Ramuloo Ramulaa and Nain MattakaThaman S, famed for his South Indian hits, is set to debut his first full Bollywood album with Baby John this Christmas. The film stars Varun Dhawan in the lead and the will be released on December 25.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/meet-thaman-s-man-behind-tracks-like-ramuloo-ramulaa-nain-mattaka-baby-john-varun-dhawan-2651892-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T20:55:00",
-        "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
-        "positive": 11.9,
-        "negative": 0.6
-    },
-    {
-        "headlines": "Taapsee Pannu begins shoot for Gandhari: Let the war beginAfter Phir Aayi Haseen Dilruba, Taapsee Pannu began filming her next film. Titled Gandhari, the action-thriller is produced by Kanika Dhillon and directed by Devashish Makhija.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/taapsee-pannu-begins-shoot-for-gandhari-let-the-war-begin-2651609-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T13:16:00",
-        "uuid": "d7717455-e11c-4a05-b13e-fce8a08b22ce",
-        "positive": 11.8,
-        "negative": 8.7
-    },
-    {
-        "headlines": "20 years of Swades: Exploring the timeless relevance of Shah Rukh Khan filmReleased in 2004, Ashutosh Gowariker's Swades remains a poignant narrative in Indian cinema. Starring Shah Rukh Khan, it explores themes of identity, responsibility, and self-reliance.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/swades-20-years-shah-rukh-khan-film-themes-timeless-ashutosh-gowariker-2651239-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T08:37:00",
-        "uuid": "1f6634c5-3c58-4bd8-9191-1cc256c71564",
-        "positive": 14.8,
-        "negative": 2.8
-    },
-    {
         "headlines": "Saim Ayub joins Virat Kohli in elite list with 2nd hundred in ODI seriesSaim Ayub scored his second hundred of the 3-match ODI series between South Africa and Pakistan. His 101-knock powered Pakistan to 308/9 in 47 overs vs the Proteas in 3rd ODI. ",
         "article_url": "https://www.indiatoday.in/sports/story/sa-vs-pak-saim-ayub-joins-virat-kohli-in-elite-list-with-2nd-hundred-in-odi-series-2653822-2024-12-22",
         "category": "sports",
@@ -5272,6 +5164,60 @@
         "uuid": "0ff68459-b9b9-42dd-b8b2-895013c021cb",
         "positive": 6.7,
         "negative": 2.5
+    },
+    {
+        "headlines": "Mamata Machinery IPO: Check latest GMP, share price, allotment date Mamata Machinery IPO: The price band for the IPO is set between Rs 230 and Rs 243 per share. Investors can apply for a minimum lot size of 61 shares, which requires a retail investment of Rs 14,823.",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-last-day-bid-alert-latest-gmp-expected-share-price-allotment-date-stmp-2654019-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T14:31:00",
+        "uuid": "2252cd6c-06d3-48b4-9edb-dbbc78715a63",
+        "positive": 11.4,
+        "negative": 0
+    },
+    {
+        "headlines": "PM-JAY for senior citizens: How to register for free health insuranceAyushman Bharat Pradhan Mantri Jan Arogya Yojana ensures senior citizens over 70 get free health insurance of Rs 5 lakh annually, with a simple enrolment process to make healthcare more accessible. ",
+        "article_url": "https://www.indiatoday.in/business/story/ayushman-bharat-pradhan-mantri-jan-arogya-yojana-ab-pm-jay-for-senior-citizens-how-to-register-for-free-health-insurance-up-to-rs-5-lakh-every-year-2654017-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T13:55:00",
+        "uuid": "6dca4609-acd3-4f85-9cd4-9e66933930b9",
+        "positive": 8.2,
+        "negative": 0.9
+    },
+    {
+        "headlines": "NSE, BSE to keep markets open on February 1 for Union Budget 2025The practice of keeping markets open during Budget Day is not new. In the past, trading was also allowed on non-working days to facilitate real-time market reactions to Budget announcements.",
+        "article_url": "https://www.indiatoday.in/business/story/nse-bse-to-keep-markets-open-on-february-1-for-union-budget-2025-2654065-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T15:34:00",
+        "uuid": "57ae2e2a-7b7b-4494-b43a-94c23b0a22fc",
+        "positive": 3.7,
+        "negative": 0
+    },
+    {
+        "headlines": "Senores Pharmaceuticals IPO: Should you subscribe? Check GMP, subscription Senores Pharmaceuticals IPO comprises a fresh issue of shares worth Rs 500 crore and an offer-for-sale (OFS) of up to 21,00,000 equity shares by promoters and existing shareholders.",
+        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-ipo-should-you-subscribe-check-latest-gmp-subscription-status-allotment-date-2654056-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T15:03:00",
+        "uuid": "57a6d1cf-dfde-4570-9cd0-1c14587db5d3",
+        "positive": 14.4,
+        "negative": 0
+    },
+    {
+        "headlines": "Sensex ends 400 points higher, Nifty jumps as heavyweight stocks rallyThe S&P BSE Sensex added 498.58 points to end at 78,540.17, while the NSE Nifty50 gained 165.95 points to close at 23,753.45.",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-closing-bell-sensex-nifty-end-higher-bullish-trends-emerge-as-key-sectors-shine-2654084-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T16:02:00",
+        "uuid": "b18b8e09-681e-4ce4-ab8d-2114e72cfcc2",
+        "positive": 11.1,
+        "negative": 2.6
+    },
+    {
+        "headlines": "IPOs in 2024: Big ticket listings that failed to impressRecord-breaking IPOs in India coexist with the struggles of billion-dollar listings, reflecting both market resilience and investor caution.",
+        "article_url": "https://www.indiatoday.in/business/story/indian-ipos-initial-public-offerings-in-2024-big-ticket-listings-that-failed-to-impress-2654147-2024-12-23",
+        "category": "business",
+        "date_time": "2024-12-23T17:28:00",
+        "uuid": "2bdd8079-235f-4d0e-a920-86c646dcd817",
+        "positive": 12.3,
+        "negative": 4.8
     },
     {
         "headlines": "Nathan McSweeney shares Labuschagne's motivational words after Melbourne Test snubYoung Australia batter Nathan McSweeney shared his teammate Marnus Labuschagne's comforting words after being dropped from the Test side for the last two games against India.",
@@ -5508,15 +5454,6 @@
         "negative": 3.4
     },
     {
-        "headlines": "Relive Mohan Bhargava's journey of homecoming as Swades completes 20 yearsAshutosh Gowariker's film Swades turned 20 today. The filmmaker shared a heartfelt letter celebrating the milestone on Instagram.\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ashutosh-gowariker-celebrates-20-years-of-swades-with-heartfelt-letter-to-fans-2651137-2024-12-17",
-        "category": "bollywood",
-        "date_time": "2024-12-17T18:59:00",
-        "uuid": "b05f6d60-112b-4453-b127-dbf7a6e68d56",
-        "positive": 17.7,
-        "negative": 0
-    },
-    {
         "headlines": "All-rounder Tanush Kotian set to join India's squad for Melbourne, Sydney TestsBorder-Gavaskar Trophy: 26-year-old all-rounder Tanush Kotian received his maiden Test call-up on Monday, December 23. The Mumbai cricketer will leave for Australia on Tuesday, December 24. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-tanush-kotian-spinner-border-gavaskar-trophy-squad-2654151-2024-12-23",
         "category": "sports",
@@ -5526,13 +5463,22 @@
         "negative": 0.8
     },
     {
-        "headlines": "Sikandar teaser to release on Salman Khan's 59th birthday: ReportThe much-awaited teaser for Sikandar will be reportedly release on Salman Khan's 59th birthday. Fans are eager for this special birthday treat from the Bollywood superstar.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-to-release-on-salman-khans-59th-birthday-report-2650634-2024-12-16",
-        "category": "bollywood",
-        "date_time": "2024-12-16T20:06:00",
-        "uuid": "58bbde1a-747b-4da1-aad5-96c2ae4f7f13",
-        "positive": 11.8,
-        "negative": 6.1
+        "headlines": " Mamata Machinery IPO: Check allotment status, latest GMP and listing date Mamata Machinery IPO allotment: Investors who have bid can check their allotment status online by logging in to either the Bombay Stock Exchange (BSE) website or the website of Link Intime India Private Ltd. ",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-allotment-status-step-by-step-guide-latest-gmp-listing-date-market-debut-2654435-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T08:41:00",
+        "uuid": "f0433c0c-6da5-4839-a1c6-ddfa330dd370",
+        "positive": 4.9,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Stocks to watch today: Wipro, Vedanta, Adani Enterprises, TVS Motor Several companies are expected to remain in focus due to recent developments. Among them are Vedanta, Prestige Estates, Wipro, Adani Enterprises, and TVS Motor.",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-market-opening-wipro-vedanta-adani-enterprises-tvs-motor-2654428-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T08:19:00",
+        "uuid": "2c41329b-2985-468c-af68-bc112a1743ec",
+        "positive": 11.3,
+        "negative": 0
     },
     {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
@@ -5985,15 +5931,6 @@
         "negative": 2.3
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "PV Sindhu shares dreamy wedding pictures with husband Venkatta Datta SaiPV Sindhu celebrated her grand wedding with Venkata Datta Sai in a traditional Telugu ceremony in Udaipur, surrounded by family and friends. The badminton icon shared the first proper images of her wedding via her social media handle.",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/pv-sindhu-wedding-pictures-husband-venkatta-datta-sai-udaipur-grand-ceremony-2654801-2024-12-24",
         "category": "sports",
@@ -6001,6 +5938,15 @@
         "uuid": "8f77bdc8-687d-47ba-a571-d0aa5f119dd3",
         "positive": 16.3,
         "negative": 2.8
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Travis Head treated Jasprit Bumrah like any regular bowler: Greg ChapellGreg Chappell opened about how Travis Head has managed to nullify the Jasprit Bumrah threat and treat him like any regular bowler",
@@ -6201,96 +6147,6 @@
         "negative": 3.2
     },
     {
-        "headlines": "Varun Dhawan on Salman Khan's cameo in Baby John: Its impact will last for many daysSalman Khan is set to make a cameo appearance in the upcoming film Baby John. Varun Dhawan, who plays the lead in the movie, shared insights about the superstar's role.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-on-salman-khan-cameo-in-baby-john-its-impact-will-last-for-many-days-2650209-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T19:32:00",
-        "uuid": "f303ae39-504d-4557-af9d-e209bca13146",
-        "positive": 6.4,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T10:21:00",
-        "uuid": "39ba8cd6-e33e-4b30-b193-0126bb35d5bd",
-        "positive": 10.7,
-        "negative": 2
-    },
-    {
-        "headlines": "KJo on 23 years of Kabhi Khushi Kabhie Gham: One of those pinch me moments…Karan Johar celebrated 23 years of the iconic movie Kabhi Khushi Kabhie Gham. On Saturday, the filmmaker shared stills from the film with a heartfelt note on Instagram. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-on-23-years-of-shah-rukh-khan-amitabh-bachchan-kabhi-khushi-kabhie-gham-2649801-2024-12-14",
-        "category": "bollywood",
-        "date_time": "2024-12-14T14:29:00",
-        "uuid": "068b8af4-fc5e-4eb0-b5fd-4dd17b609dfa",
-        "positive": 17.2,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Rani Mukerji's Mardaani 3 to release in theatres in 2026The makers of the upcoming film Mardaani 3 announced that the film will release in theatres in 2026. Actor Rani Mukerji will reprise her role as Shivani Shivaji Rao. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rani-mukerji-mardaani-3-to-release-in-2026-2649254-2024-12-13",
-        "category": "bollywood",
-        "date_time": "2024-12-13T12:21:00",
-        "uuid": "6355b289-2ab9-4219-8f70-0fc3391ebcd4",
-        "positive": 14.6,
-        "negative": 0.8
-    },
-    {
-        "headlines": "SRK shares sweet birthday wish for 'coolest and bossest' RajinikanthSuperstar Shah Rukh Khan on Thursday shared the sweetest birthday wish for megastar Rajinikanth. Sharing a photo of himself with the icon, SRK called Rajinikanth 'remarkably simple' and 'inspiring.'",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-shares-sweet-birthday-wish-for-coolest-and-bossest-rajinikanth-2649125-2024-12-13",
-        "category": "bollywood",
-        "date_time": "2024-12-13T00:07:00",
-        "uuid": "235d66ee-56ed-474b-a9c9-82a4706103cc",
-        "positive": 22.3,
-        "negative": 0.8
-    },
-    {
-        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T22:14:00",
-        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
-        "positive": 4.1,
-        "negative": 7.3
-    },
-    {
-        "headlines": "Preity Zinta's sweet BTS moment from Dil Chahta Hai: A chocolate croissant to rescuePreity Zinta shared a heartwarming behind-the-scenes story from the shoot of Dil Chahta Hai, highlighting a moment of hunger and humour that ended with a chocolate croissant. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/preity-zinta-sweet-bts-moment-from-dil-chahta-hai-a-chocolate-croissant-to-rescue-2649030-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T21:12:00",
-        "uuid": "6b67f197-8203-48fb-bc5f-621473e06508",
-        "positive": 18.9,
-        "negative": 4.3
-    },
-    {
-        "headlines": "Anees Bazmee recalls being Raj Kapoor's assistant director: He breathed cinemaDirector Anees Bazmee opens up about being iconic filmmaker Raj Kapoor's former assistant director. Bazmee had assisted Kapoor on Prem Rog. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anees-bazmee-recalls-being-raj-kapoor-assistant-director-2648884-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T17:16:00",
-        "uuid": "aef00406-6fd1-449f-b0aa-0059fd09ade9",
-        "positive": 17.8,
-        "negative": 0.6
-    },
-    {
-        "headlines": "Go this weekend: All We Imagine as Light back in cinemas, Payal Kapadia thrilledDirector Payal Kapadia's film, All We Imagine As Light, has returned to cinemas with improved showtimes in select cities.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/all-we-imagine-as-light-back-in-cinemas-director-payal-kapadia-thrilled-2648880-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T17:30:00",
-        "uuid": "c2af656f-3e8c-408a-b24b-4a4a457136b8",
-        "positive": 17.8,
-        "negative": 0.5
-    },
-    {
-        "headlines": "Priyanka Chopra on working in SRK's Don: I tasted blood a little bitGlobal icon Priyanka Chopra recently opened up about working in the Farhan Akhtar directorial, Don, which also starred superstar Shah Rukh Khan in the lead. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-chopra-on-working-in-shah-rukh-khan-don-2648797-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T14:51:00",
-        "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
-        "positive": 9.6,
-        "negative": 2.1
-    },
-    {
         "headlines": "ICC Test Rankings: Jasprit Bumrah equals Indian record with career-high rating Border-Gavaskar Trophy: Jasprit Bumrah retained his spot at the top of the rankings for Test bowlers. He also equalled R Ashwin's best-ever tally of 904 points, the highest tally for an Indian bowler in the bowling charts. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-icc-test-rankings-jasprit-bumrah-highest-rating-point-ashwin-aus-vs-ind-2655170-2024-12-25",
         "category": "sports",
@@ -6298,6 +6154,87 @@
         "uuid": "8b794853-28dd-48fa-97a9-f1121b322e94",
         "positive": 3.5,
         "negative": 2.1
+    },
+    {
+        "headlines": "Sensex, Nifty open flat as market rally loses steam; TCS gains 1% The S&P BSE Sensex was up 47.25 points to 78,587.42, while the NSE Nifty50 was up by 10.80 points to 23,764.25 as of 9:30 AM. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-flat-as-market-rally-loses-steam-tcs-gains-1-percent-2654445-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T09:30:00",
+        "uuid": "59460cd8-a5ee-43d5-b29e-790c6ad1ce61",
+        "positive": 20.9,
+        "negative": 4
+    },
+    {
+        "headlines": "DAM Capital Advisors IPO allotment: Step-by-step guide to check statusDAM Capital Advisors IPO allotment: The allotment status can be checked by investors through the websites of either the Bombay Stock Exchange (BSE) or Link Intime India Private Ltd, the registrar for the issue. ",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-allotment-status-online-guide-gmp-today-listing-date-bse-nse-2654441-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T09:08:00",
+        "uuid": "8455cd73-6749-4656-a318-825538df46a1",
+        "positive": 7.2,
+        "negative": 1.5
+    },
+    {
+        "headlines": "Ventive Hospitality IPO: Check GMP as listing enters last day for biddingRetail investors must apply for a minimum of 23 shares per lot, which requires a minimum investment of Rs 14,789 for retail applicants.",
+        "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-ipo-check-subscription-latest-gmp-last-day-for-bidding-allotment-date-listing-stmp-2654463-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T10:17:00",
+        "uuid": "658c8a2a-3085-4a2e-a3ae-34516badc4a0",
+        "positive": 11.2,
+        "negative": 0
+    },
+    {
+        "headlines": "Are stock markets closed on December 25? Check the full 2025 holiday scheduleOn regular weekdays, the stock market operates from 9:15 AM to 3:30 PM. A pre-opening session takes place from 9:00 AM to 9:15 AM to set the tone for the trading day. ",
+        "article_url": "https://www.indiatoday.in/business/story/stock-markets-nse-bse-closed-on-december-25-christmas-2024-check-full-2025-holiday-schedule-2654493-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:18:00",
+        "uuid": "d2b30698-38b8-455d-b2da-53ded4658664",
+        "positive": 10,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Which Indian insurance companies reject claims the least? Report reveals truthPeople don't just put in money but trust when they buy insurance policies to cover for medical emergencies or motor accidents. A report by the Insurance Brokers Association of India reveals how many such claims have been accepted or rejected by insurance companies in 2022-23.",
+        "article_url": "https://www.indiatoday.in/business/story/irdai-report-indian-best-insurance-company-india-policies-medical-vehicle-claim-rejection-rate-data-2654475-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:29:00",
+        "uuid": "ee069b90-04ef-4fc4-8b4e-625b068aa37a",
+        "positive": 10,
+        "negative": 7.3
+    },
+    {
+        "headlines": "Carraro India IPO: Check GMP, price band and subscription statusCarraro India IPO is a Rs 1,250 crore offer for sale (OFS) consisting of 1.77 crore shares. As this is a pure OFS, the entire proceeds will go to the selling shareholders, and the company will not raise fresh capital.",
+        "article_url": "https://www.indiatoday.in/business/story/carraro-india-ipo-check-gmp-price-band-and-subscription-status-stmp-2654487-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T11:41:00",
+        "uuid": "1265416c-cc7a-4e87-8b93-1156af033ed2",
+        "positive": 13.4,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Senores Pharmaceuticals IPO: Latest subscription status, GMP; listing dateThe IPO comprises a fresh issue of shares worth Rs 500 crore and an offer-for-sale (OFS) of up to 21,00,000 equity shares by promoters and existing shareholders.",
+        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-ipo-latest-subscription-status-gmp-allotment-listing-date-stmp-2654473-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T10:45:00",
+        "uuid": "2069e419-4c35-4115-98f2-51fb1993df5b",
+        "positive": 12.5,
+        "negative": 0.5
+    },
+    {
+        "headlines": "Sagility India share price rises 5% to hit upper circuit today. Here's why Sagility India debuted on the stock market with an issue price of Rs 30 per share. At its current level, the stock has surged over 63% from the IPO price, underscoring strong investor interest. ",
+        "article_url": "https://www.indiatoday.in/business/story/sagility-india-share-price-rises-5-percent-to-hit-upper-circuit-today-explained-stmp-2654468-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T10:36:00",
+        "uuid": "116c09dd-a54a-4281-987b-3bd09344d62a",
+        "positive": 17.2,
+        "negative": 1.6
+    },
+    {
+        "headlines": "Apple nears $4 trillion valuation amid AI push and iPhone upgrade hopesApple's strategic push into AI and its resilience in navigating market challenges have positioned the tech giant as a leader in the sector. ",
+        "article_url": "https://www.indiatoday.in/business/story/apple-nears-4-trillion-dollar-market-valuation-amid-ai-push-and-iphone-upgrade-hopes-2654536-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:35:00",
+        "uuid": "d9b56e30-c633-46de-b9f8-40f2edb80725",
+        "positive": 12.2,
+        "negative": 1.1
     },
     {
         "headlines": "Ricky Ponting backs 'talented teenager' Sam Konstas to shine on debutBorder-Gavaskar Trophy: Australian legend Ricky Ponting believes Sam Konstas possesses the talent and composure to shine on his debut in the Boxing Day Test against India.\r\n",
@@ -6570,15 +6507,6 @@
         "negative": 5.6
     },
     {
-        "headlines": "PPF 2025: Benefits, interest rates, and other details PPF is a secure, tax-free savings option ideal for risk-averse investors seeking long-term financial growth.",
-        "article_url": "https://www.indiatoday.in/business/story/public-provident-fund-ppf-2025-benefits-interest-rates-and-other-details-2662329-2025-01-09",
-        "category": "business",
-        "date_time": "2025-01-09T17:37:00",
-        "uuid": "a93fb5f8-27da-42c7-af84-9fc238e49fd5",
-        "positive": 22,
-        "negative": 0.8
-    },
-    {
         "headlines": "Sam Konstas reacts to on-field bust-up with Virat Kohli at MCGIND vs AUS, 4th Test: Young Australia opener Sam Konstas has reacted to his heated altercation with Virat Kohli on Day 1 of the Boxing Day Test match. Konstas spoke about the incident on the live broadcast during the Test match.",
         "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-sam-konstas-virat-kohli-controversy-fight-mcg-2655421-2024-12-26",
         "category": "sports",
@@ -6586,6 +6514,15 @@
         "uuid": "7b5fb79a-a430-423c-86a4-78363afd7cce",
         "positive": 7.3,
         "negative": 5.1
+    },
+    {
+        "headlines": "Greaves Cotton share price gains over 10% today. What's behind the rally? Greaves Cotton stock price: The company's shares were trading 10.25% higher at Rs 252.70 on the BSE at 12:18 pm. ",
+        "article_url": "https://www.indiatoday.in/business/story/greaves-cotton-stock-price-gains-over-10-percent-today-whats-behind-the-rally-2654529-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:21:00",
+        "uuid": "eeb66c0b-bfa4-4d3f-8a12-ffe7adebc782",
+        "positive": 15.8,
+        "negative": 1.5
     },
     {
         "headlines": "King rattled? Pundits react to Virat Kohli's confrontation with Sam Konstas Border-Gavaskar Trophy: Sunil Gavaskar and Michael Vaughan were among the many who criticised Virat Kohli after the former India captain was involved in a physical altercation with 19-year-old debutant, Sam Konstas in Melbourne. ",
@@ -6615,15 +6552,6 @@
         "negative": 4.7
     },
     {
-        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T14:25:00",
-        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
-        "positive": 11.3,
-        "negative": 3.9
-    },
-    {
         "headlines": "ICC likely to punish Virat Kohli for shouldering Sam Konstas: SourcesA top source within the ICC has indicated that Virat Kohli could face punishment for shouldering Sam Konstas on Day 1 of the Boxing Day Test. The source stated that the match referee and umpires will review the matter and may call the players for an explanation.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-icc-review-virat-kohli-shouldering-sam-konstas-sources-2655485-2024-12-26",
         "category": "sports",
@@ -6631,6 +6559,15 @@
         "uuid": "78245464-1251-46ae-bfe9-fc0b6ef28d37",
         "positive": 1.9,
         "negative": 4.5
+    },
+    {
+        "headlines": "Explained: Why Tata Investment share price jumped 12% todayTata Investment stock price: At 11:53 am, shares of the company were up 11.51% to Rs 7,284 on the Bombay Stock Exchange (BSE). The surge followed reports that Tata Capital is gearing up for an initial public offering (IPO) worth Rs 15,000 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/tata-investment-share-price-jumps-12-percent-today-ipo-buzz-tata-capital-stmp-2654512-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T12:11:00",
+        "uuid": "5005cf8f-fd20-45ea-86d9-08d06b09b8be",
+        "positive": 12.2,
+        "negative": 0.9
     },
     {
         "headlines": "Fiery Virat Kohli instructions at MCG caught on stump micVirat Kohli was caught on the stump mic delivering stern instructions to pacer Mohammed Siraj, saying, \"Has ke baat nahi karna inse\" (Don't smile while talking to them) on Day 1 of the fourth Test.\r\n",
@@ -6642,6 +6579,105 @@
         "negative": 4.2
     },
     {
+        "headlines": "Who is Aakash Chaudhry? Zerodha, Zomato founders bet on Sparkl EdventureInvestors include Zomato founder Deepinder Goyal and Zerodha founder Nithin Kamath, who have backed the platform that aims to transform personalised learning for students.",
+        "article_url": "https://www.indiatoday.in/business/story/aakash-chaudhry-sparkl-edventure-funding-usd-4-million-zomato-zerodha-founders-nithin-kamath-deepinder-goyal-stmp-2654552-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T13:01:00",
+        "uuid": "77ade4e7-163c-4d4a-87d9-b216a62553a7",
+        "positive": 14.8,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Sanathan Textiles IPO allotment: Check step-by-step guide to check statusSanathan Textiles IPO: Investors can verify their allotment status through two platforms: the Bombay Stock Exchange (BSE) website and the KFin Technologies portal. Here's a step-by-step guide:",
+        "article_url": "https://www.indiatoday.in/business/story/sanathan-textiles-ipo-allotment-check-step-by-step-guide-to-check-status-2654543-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T13:00:00",
+        "uuid": "7aa10629-b568-481a-9b41-ba4d305eb582",
+        "positive": 6.5,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Tata Capital IPO buzz? All you need to knowIf the IPO goes through, it will be the Tata Group's second public offering in two decades. The last one was Tata Technologies' IPO in November last year. ",
+        "article_url": "https://www.indiatoday.in/business/story/tata-capital-ipo-usd-2-billion-kotak-investment-banking-all-you-need-to-know-2654599-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T14:04:00",
+        "uuid": "d02c6e53-a6ca-4a1e-a1e9-a0c33cdcd550",
+        "positive": 9.9,
+        "negative": 0.3
+    },
+    {
+        "headlines": "18% GST on used cars: Will it leave you paying more?The decision has sparked debates as it comes at a time when India's used car market is poised for growth. Many believe the move aims to tap into the rapidly expanding sector to boost government revenue.",
+        "article_url": "https://www.indiatoday.in/business/story/18-percent-gst-on-used-cars-finance-minister-nirmala-sitharaman-leave-you-paying-more-amit-malviya-2654625-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T15:35:00",
+        "uuid": "ca204e3a-1040-4eeb-80a8-8089529da42a",
+        "positive": 6.7,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Sensex, Nifty close lower in a choppy session; IT and metal stocks weighThe S&P BSE Sensex was down by 67.30 points to close at 78,472.87, while the NSE Nifty50 lost 23.35 points to end at 23,730.10. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-close-lower-in-a-choppy-session-it-metal-stocks-weigh-2654640-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T15:50:00",
+        "uuid": "b7dbf985-3441-4d45-851c-fda526c81eea",
+        "positive": 17.1,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Economy rebounds in Q3 with boost from festivals and rural demand: RBIAn article on the 'State of the Economy' in the December bulletin noted that the global economy continues to exhibit resilience with steady growth and moderating inflation.",
+        "article_url": "https://www.indiatoday.in/business/story/rbi-bulletin-india-gdp-growth-economy-inflation-reserve-bank-of-india-2654906-2024-12-24",
+        "category": "business",
+        "date_time": "2024-12-24T21:37:00",
+        "uuid": "e4fdafd7-4eae-41d0-9d29-e9a8f5bcc7fd",
+        "positive": 11,
+        "negative": 6
+    },
+    {
+        "headlines": "Understanding GST on used cars: Rules, examples, and exemptionsThe GST Council clarified rules for old vehicle sales, setting an 18 per cent tax on seller margins, exempting private sales and negative margins, and simplifying taxation for used and electric vehicles, ensuring fair application of GST across transactions.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-council-issues-key-guidelines-sale-used-vehicles-2654994-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T01:13:00",
+        "uuid": "108db533-27ec-4285-91cf-115d8891fd1d",
+        "positive": 7.7,
+        "negative": 7.6
+    },
+    {
+        "headlines": "GST on popcorn: Know how much tax your movie-time snack will attractDuring its 55th meeting, the GST Council clarified the tax treatment for popcorn after a request from Uttar Pradesh to specify the GST rate for popcorn seasoned with salt and spices.",
+        "article_url": "https://www.indiatoday.in/business/story/gst-caramelised-popcorn-tax-finance-minister-nirmala-sitharaman-gst-council-meeting-2655064-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T09:41:00",
+        "uuid": "be2b9ab5-3fa3-4ae3-afde-e2510756202f",
+        "positive": 5.3,
+        "negative": 2.9
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
+        "headlines": "DAM Capital Advisors IPO listing: Is strong market debut on cards? Check GMPDAM Capital Advisors IPO received an overwhelming response, being subscribed 81.88 times overall by the close of Day 3 on December 23, 2024.",
+        "article_url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-listing-date-strong-market-debut-on-cards-check-gmp-allotment-status-2655106-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T11:48:00",
+        "uuid": "601fe9e2-eb16-42a4-aae5-7fc52fde8d35",
+        "positive": 11.7,
+        "negative": 0.4
+    },
+    {
+        "headlines": "Mamata Machinery IPO share price: Strong listing ahead? Check latest GMPMamata Machinery IPO saw massive interest from investors over its 3-day bidding process and was subscribed close to 200 times. ",
+        "article_url": "https://www.indiatoday.in/business/story/mamata-machinery-ipo-listing-date-share-price-strong-market-debut-check-latest-gmp-2655137-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T13:12:00",
+        "uuid": "d8999e11-2fa8-4829-8721-8211d3642d2e",
+        "positive": 12.3,
+        "negative": 0
+    },
+    {
         "headlines": "Smith joins Bradman in elite club with 10th 50 plus score in MCG Tests AUS vs IND: Steve Smith scored a fifty off 71 balls in the Boxing Day Test and joined Don Bradman, Greg Chappell and Ricky Ponting in an elite list of batters with 10 or more plus scores in Tests at the MCG. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-steve-smith-don-bradman-mcg-tests-australia-vs-india-record-2655514-2024-12-26",
         "category": "sports",
@@ -6649,6 +6685,15 @@
         "uuid": "75d0daa8-b8ee-46a1-aea6-4f4cc30b642c",
         "positive": 5.2,
         "negative": 2.6
+    },
+    {
+        "headlines": "Income tax relief in Budget 2025? Economists push for cuts to help save moreEconomists argued that reducing the tax burden would increase disposable income, enabling citizens to save more and spend on essentials. This, in turn, could help revive demand in sectors impacted by weak consumption.",
+        "article_url": "https://www.indiatoday.in/business/story/budget-2025-income-tax-relief-economists-meet-pm-modi-high-inflation-money-save-low-gdp-2655173-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T14:38:00",
+        "uuid": "41056730-7752-45c2-9f66-52120ff86663",
+        "positive": 15.7,
+        "negative": 8.1
     },
     {
         "headlines": "Watch: Jasprit Bumrah bowls Travis Head for 0, breaks Anil Kumble's MCG recordAustralia vs India, 4th Test: Jasprit Bumrah became India's leading wicket-taker in Tests at the Melbourne Cricket Ground. The top-ranked fast bowler took 3 wickets on Day 1 of the Boxing Day Test. ",
@@ -6705,15 +6750,6 @@
         "negative": 6.3
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "How much fine does Virat Kohli need to pay after Konstas altercation? AUS vs IND, Boxing Day Test: Virat Kohli was fined 20 percent of his match fee after his altercation with Sam Konstas where he shouldered the young Australian batter in the first session of the opening day's play. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-border-gavaskar-trophy-virat-kohli-sam-konstas-mcg-test-2655661-2024-12-26",
         "category": "sports",
@@ -6732,13 +6768,13 @@
         "negative": 2.7
     },
     {
-        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
-        "category": "bollywood",
-        "date_time": "2024-12-11T11:31:00",
-        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
-        "positive": 17,
-        "negative": 3.1
+        "headlines": "Insurance penetration in India dipped, but premium collection grewInsurance penetration in India, which is already low, saw a dip for the second successive year, shows the latest report by the insurance industry regulator. This is against the global trend. The Insurance Regulatory and Development Authority (IRDAI) report shows growth in premium collection in 2023-24. Insurance companies rejected 11% of all claims in FY24.",
+        "article_url": "https://www.indiatoday.in/business/story/insurance-policy-penetration-india-dipped-premium-collection-grew-irdai-report-claim-settlement-ratio-gst-rate-cut-2655158-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T14:43:00",
+        "uuid": "1b134453-ca53-42d7-924a-2826a9285904",
+        "positive": 8.2,
+        "negative": 5.5
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -7281,6 +7317,60 @@
         "negative": 0.8
     },
     {
+        "headlines": "Indo Farm Equipment: All you need to know about last IPO of the yearThe IPO is a book-built issue worth Rs 260.15 crore. It consists of a fresh issue of 0.86 crore shares, aggregating to Rs 184.90 crore, and an offer for sale (OFS) of 0.35 crore shares, amounting to Rs 75.25 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/indo-farm-equipment-ipo-details-issue-size-price-band-gmp-all-you-need-to-know-last-ipo-of-year-2655195-2024-12-25",
+        "category": "business",
+        "date_time": "2024-12-25T15:40:00",
+        "uuid": "8bed6458-7757-482e-8d60-55bde2f084cc",
+        "positive": 11.9,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Sensex, Nifty rally post-Christmas on banking stocks boost; SBI gains 1% The S&P BSE Sensex added 369.59 points to 78,842.46, while the NSE Nifty50 gained 100.05 points to 23,827.70 as of 9:20 AM.",
+        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-rally-post-christmas-on-banking-stocks-boost-sbi-gains-1-percent-2655443-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T09:26:00",
+        "uuid": "0632cf7f-1536-4e69-a088-cb3b6f5bb46b",
+        "positive": 9.5,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Ventive Hospitality IPO: Check allotment status and latest GMPVentive Hospitality IPO allotment status: Investors can check their allotment through the websites of Kfin Technologies Limited and the Bombay Stock Exchange (BSE). ",
+        "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-ipo-allotment-status-online-guide-latest-gmp-listing-share-price-2655435-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T09:14:00",
+        "uuid": "b59c8952-e935-41a1-adef-1e23d4ef7709",
+        "positive": 7.7,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Stocks to watch today: Yes Bank, RIL, Ola Electric, BPCL, NalcoFrom new contracts and rating updates to strategic developments, companies such as Yes Bank, RIL, Ola Electric, BPCL, Nalcoare, etc will be in focus for various reasons, making headlines.",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-market-open-yes-bank-ril-ola-electric-bpcl-nalco-2655431-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T08:56:00",
+        "uuid": "4480bd36-0d23-42d1-b54b-113acb887ce8",
+        "positive": 8.9,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Unimech Aerospace IPO: Check GMP as listing enters last day for biddingThe IPO comprises a fresh issue of 32 lakh shares valued at Rs 250 crore and an offer for sale (OFS) of an equal number of shares, also worth Rs 250 crore.",
+        "article_url": "https://www.indiatoday.in/business/story/unimech-aerospace-ipo-day-3-check-latest-gmp-allotment-date-subscription-last-day-for-bidding-stmp-2655463-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T10:18:00",
+        "uuid": "c0fc8723-73f4-48eb-854b-0b2854a084b9",
+        "positive": 12.8,
+        "negative": 0.8
+    },
+    {
+        "headlines": "Sagility India share price jumps 5%, up 71% post-listing. More gains ahead?Sagility India stock price: Since its listing, Sagility India's shares have delivered a 71% return, significantly outperforming the broader indices.",
+        "article_url": "https://www.indiatoday.in/business/story/sagility-india-share-price-jumps-5-percent-to-hit-upper-circuit-today-will-rally-continue-stmp-2655493-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T11:35:00",
+        "uuid": "d2c939b1-2adb-4a4e-b129-e88fc0f1b889",
+        "positive": 19,
+        "negative": 1
+    },
+    {
         "headlines": "Justin Langer picks 'gladiatorial' Virat Kohli over Tendulkar, LaraIND vs AUS: Former Australia batter Justin Langer picked Virat Kohli as the best player he had ever seen. Langer picked Kohli ahead of Sachin Tendulkar and Brian Lara.",
         "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-justin-langer-virat-kohli-sachin-tendulkar-brian-lara-2656576-2024-12-28",
         "category": "sports",
@@ -7288,6 +7378,15 @@
         "uuid": "f1dac051-8990-4bf2-b037-c36ad3e2cafc",
         "positive": 5.6,
         "negative": 2.2
+    },
+    {
+        "headlines": "11% of all health insurance claims rejected, premiums to remain high: ReportInsurance companies in India rejected 11% of all health insurance claims in 2023-24, according to the latest report from India's insurance regulator. The Insurance Regulatory Authority of India (IRDAI) report also predicts that health insurance premiums are \"likely to remain elevated\" this year.",
+        "article_url": "https://www.indiatoday.in/business/story/health-insurance-claims-rejected-pending-irdai-report-premiums-to-remain-high-india-insurers-2655186-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T11:00:00",
+        "uuid": "e17445f6-85a1-42fd-971b-c5de32e55de6",
+        "positive": 2.7,
+        "negative": 3.6
     },
     {
         "headlines": "Australia name 14-member squad for Women's Ashes, Molineux misses outWomen's Ashes 2025: All-rounder Sophie Molineux missed out due to a knee injury as Australia named a strong 14-member squad for the upcoming multi-format series against England. ",
@@ -7369,60 +7468,6 @@
         "uuid": "3dd9a553-eef1-41ff-b7e6-f646ed03d75e",
         "positive": 13.6,
         "negative": 5.6
-    },
-    {
-        "headlines": "Singham Again OTT release: When and where to watch Ajay Devgn's actionerSingham Again, starring Ajay Devgn, is now available on Prime Video. The film, which was released on Diwali, earned around Rs 300 crore in India. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/singham-again-on-ott-when-and-where-to-watch-rohit-shetty-ajay-devgns-actioner-2652743-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T12:11:00",
-        "uuid": "0e006bea-61bf-45f3-9ffc-2b75d976e3cb",
-        "positive": 9.4,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/thalapathy-vijay-impressed-baby-john-varun-dhawan-work-director-kalees-2652819-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T13:30:00",
-        "uuid": "6968f830-dcd4-46c5-a90b-8c2c065ceee6",
-        "positive": 16.3,
-        "negative": 0.9
-    },
-    {
-        "headlines": "Vanvaas review: Nana Patekar, Utkarsh Sharma's film is a dull version of BaghbanReleased-Fri Dec 20, 2024Vanvaas, starring Nana Patekar and Utkarsh Sharma, explores the deteriorating bond between parents and children, reminiscent of Baghban but with a deeper twist. Despite its noble intentions, the film struggles with execution and fails to evoke the emotional depth it aims for.",
-        "article_url": "https://www.indiatoday.in/movies/reviews/story/vanvaas-movie-review-nana-patekar-utkarsh-sharma-film-dull-version-baghban-2652809-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T13:37:00",
-        "uuid": "47cbd85a-5124-418f-94a8-9c5c096ba740",
-        "positive": 12.5,
-        "negative": 11.1
-    },
-    {
-        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T09:05:00",
-        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
-        "positive": 16,
-        "negative": 3.6
-    },
-    {
-        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T17:21:00",
-        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
-        "positive": 15.4,
-        "negative": 6
-    },
-    {
-        "headlines": "Yeh Jawaani Hai Deewani to re-release? Dharma's cryptic post sparks speculationDharma Movies shared a cryptic post on Monday suggesting the re-release of the hit film Yeh Jawaani Hai Deewani. The film stars Ranbir Kapoor, Deepika Padukone, Kalki Koechlin, Aditya Roy Kapur and others. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-to-re-release-in-theatres-dharma-production-shares-cryptic-post-2654007-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T13:36:00",
-        "uuid": "5670f2c4-9aae-44dc-a66e-7d6455c87243",
-        "positive": 16.1,
-        "negative": 2
     },
     {
         "headlines": "Nitish Kumar Reddy's MCG century will be remembered forever: Sundar AUS vs IND: Washington Sundar lauded Nitish Kumar Reddy for scoring his maiden Test hundred in front of a packed crowd at the Melbourne Cricket Ground in the Boxing Day Test. ",
@@ -7704,15 +7749,6 @@
         "negative": 3.5
     },
     {
-        "headlines": "Wall Street prepares for 200,000 job cuts as AI takes over: ReportAI's rise may cost 200,000 Wall Street jobs, boosting efficiency, profits, and reshaping roles in finance.",
-        "article_url": "https://www.indiatoday.in/business/story/wall-street-prepares-for-200000-job-cuts-as-artificial-intelligence-takes-over-report-2662298-2025-01-09",
-        "category": "business",
-        "date_time": "2025-01-09T17:01:00",
-        "uuid": "776a13bd-c862-4ea6-aca8-ee6ced1c11a6",
-        "positive": 14.2,
-        "negative": 2.7
-    },
-    {
         "headlines": "Jasprit Bumrah becomes fastest Indian pacer to 200 Test wicketsAUS vs IND: Jasprit Bumrah broke Kapil Dev's record to become the fastest Indian pacer to the landmark of 200 wickets in Test cricket. He reached the landmark on Day 4 of the Boxing Day Test at the Melbourne Cricket Ground. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-jasprit-bumrah-200-wickets-kapil-dev-record-mcg-test-2656830-2024-12-29",
         "category": "sports",
@@ -7765,6 +7801,15 @@
         "uuid": "6939120e-125b-46ca-902e-8d2962e360c4",
         "positive": 12.4,
         "negative": 4.1
+    },
+    {
+        "headlines": "Explained: Why Ola Electric share price surged 6% in early tradeOla Electric stock price: The company's share price hit an intraday high of Rs 99.90 on Thursday, reflecting a 6.22% increase.",
+        "article_url": "https://www.indiatoday.in/business/story/ola-electric-stock-price-jumps-6-percent-early-trade-key-reason-stmp-2655477-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T10:56:00",
+        "uuid": "9d05b92f-35b3-4ec5-a2d2-6577aa501ad8",
+        "positive": 8.9,
+        "negative": 2.5
     },
     {
         "headlines": "Joke of the year: Fans on Babar Azam's T20I Cricketer of the Year nomination Former Pakistan captain Babar Azam has been nominated for the ICC Men's T20I Cricketer of the Year along with Australia's Travis Head, India's Arshdeep Singh and Zimbabwe's Sikandar Raza. ",
@@ -7846,15 +7891,6 @@
         "uuid": "ff66e5db-833d-41bd-8bf1-b4636e4b5058",
         "positive": 16.1,
         "negative": 1.7
-    },
-    {
-        "headlines": "Blinkit launches Bistro app for 10-minute food deliveryBlinkit's Bistro delivers canteen-style food in 10 minutes, rivalling Swiggy's Snacc and Zepto Cafe.",
-        "article_url": "https://www.indiatoday.in/business/story/blinkit-launches-bistro-app-for-10-minute-food-delivery-2662816-2025-01-10",
-        "category": "business",
-        "date_time": "2025-01-10T14:21:00",
-        "uuid": "584e8b47-59f0-4a55-a77d-1f7f9fd8577b",
-        "positive": 7,
-        "negative": 0.5
     },
     {
         "headlines": "South Africa qualify for WTC final with thrilling 2-wicket win vs PakistanSouth Africa have qualified for their maiden World Test Championship final. Kagiso Rabada and Marco Jansen's ninth wicket stand ensured South Africa chased down the tricky target of 148 runs. ",
@@ -8082,6 +8118,15 @@
         "negative": 3.7
     },
     {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
+    },
+    {
         "headlines": "Today or 1st innings? Rohit's cheeky reaction to Pant's frustrating dismissalsBorder-Gavaskar Trophy: India captain Rohit Sharma expressed his disappointment with Rishabh Pant's shot selection in both innings of the Boxing Day Test. Pant faced the heat after throwing his wicket away at a crucial juncture on Day 5 of the Test, which India lost by 184 runs. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-4th-test-rishabh-pant-dismissal-rohit-sharma-press-conference-comments-2657240-2024-12-30",
         "category": "sports",
@@ -8154,15 +8199,6 @@
         "negative": 3.2
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "Rohit Sharma slammed for blaming Pant, youngsters after MCG defeatBorder Gavaskar Trophy, IND vs AUS: Rohit Sharma faced criticism for his comments on youngsters after India lost the Boxing Day Test by 184 runs at the Melbourne Cricket Ground. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-border-gavaskar-trophy-india-vs-australia-rohit-sharma-rishabh-pant-mcg-2657354-2024-12-30",
         "category": "sports",
@@ -8170,6 +8206,24 @@
         "uuid": "2c8fe824-f302-4fcc-8336-b1e392aa165e",
         "positive": 4.3,
         "negative": 11.6
+    },
+    {
+        "headlines": "Senores Pharmaceuticals IPO allotment: Check status, GMP, and listing dateSenores Pharmaceuticals IPO allotment status: Investors can check their allotment by visiting the websites of the Bombay Stock Exchange (BSE) or Link Intime India. ",
+        "article_url": "https://www.indiatoday.in/business/story/senores-pharmaceuticals-ipo-allotment-status-check-latest-gmp-expected-gain-listing-date-2655473-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T10:42:00",
+        "uuid": "07fbbcf0-397f-4d96-a591-d8f798d16286",
+        "positive": 8.5,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Explained: Why International Gemmological Institute share price jumped 10% todayInternational Gemmological Institute stock price: In a stock exchange filing, IGI confirmed that it had acquired a 100% stake in IGI Netherlands B.V. and International Gemmological Institute BV for $88.44 million and $69.76 million, respectively.",
+        "article_url": "https://www.indiatoday.in/business/story/international-gemmological-institute-share-price-jumped-10-percent-today-2655527-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T12:37:00",
+        "uuid": "91ab5a5f-21de-4f7a-b06c-7b4f105e1e64",
+        "positive": 12.5,
+        "negative": 0.4
     },
     {
         "headlines": "Mitch Hay stars as New Zealand crush Sri Lanka to claim series NZ vs SL: Mitch Hay's unbeaten 41 off 19 balls helped New Zealand win the T20I series after beating Sri Lanka by 45 runs in the second game at the Bay Oval in Mount Maunganui. ",
@@ -8244,6 +8298,15 @@
         "negative": 6.8
     },
     {
+        "headlines": "NTPC Green Energy share price falls sharply today. Here's whyNTPC Green Energy stock price: The company debuted on the Indian stock exchanges on November 29, listing at Rs 111.50 on the NSE, just 3.2% above its issue price of Rs 108 per share.",
+        "article_url": "https://www.indiatoday.in/business/story/ntpc-green-energy-share-price-falls-sharply-today-explained-2655519-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T12:26:00",
+        "uuid": "1ee3b308-6777-4c32-a62e-5193ee181ec4",
+        "positive": 13.7,
+        "negative": 3.5
+    },
+    {
         "headlines": "No more Fab 4: Virat Kohli fails to keep up with ever-evolving peers IND vs AUS: Virat Kohli has struggled to find his form in Test cricket over the last five years, while the other members of the Fab-Four, Steve Smith, Kane Williamson and Steve Smith, have kept hammering runs all around the globe. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-virat-kohli-test-comparison-fab-four-williamson-smith-root-2657490-2024-12-31",
         "category": "sports",
@@ -8251,24 +8314,6 @@
         "uuid": "be79befb-19ba-466d-961e-d1d2510d8858",
         "positive": 9.9,
         "negative": 5.1
-    },
-    {
-        "headlines": "When Diljit Dosanjh was cast as Priyanka Chopra's on-screen husbandFilmmaker Boney Kapoor recently revealed that he wanted to cast Diljit Dosanjh alongside Priyanka Chopra in a movie. In an interview, he said that he wanted the singer to play Chopra's husband in the film. \r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/boney-kapoor-shared-that-diljit-dosanjh-was-cast-to-play-priyanka-chopra-on-screen-husband-2654024-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T14:13:00",
-        "uuid": "cbd44945-5e72-46f5-a82d-5cb1cc8db5f8",
-        "positive": 7.3,
-        "negative": 2
-    },
-    {
-        "headlines": "Orry joins Bhansali's Love and War cast, Deepika Padukone to make cameo Sanjay Leela Bhansali's Love and War will star Orry, alongside Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal. Deepika Padukone will make a cameo. The film releases in March 2026.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/orry-sanjay-leela-bhansali-love-and-war-deepika-padukone-cameo-2654018-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T13:58:00",
-        "uuid": "8e84250e-3914-4f43-8e3b-376f61f4491d",
-        "positive": 15.7,
-        "negative": 7.6
     },
     {
         "headlines": "Australia coach defends Mitchell Marsh amid widespread calls to drop all-rounderBorder-Gavaskar Trophy: Australian coach Andrew McDonald has defended the role of out-of-form all-rounder Mitchell Marsh in the team ahead of the fifth and final Test against India.",
@@ -8316,6 +8361,15 @@
         "negative": 1.7
     },
     {
+        "headlines": "Sumitomo Mitsui strengthens Indian subsidiary with Rs 3,000 crore fundingWith this, SMFG India Credit has seen its highest-ever annual fund infusion of Rs 4,300 crore in the 2024 financial year, following an earlier investment of Rs 1,300 crore in April 2024.",
+        "article_url": "https://www.indiatoday.in/business/story/sumitomo-mitsui-financial-group-smfg-infuses-rs-3000-crore-into-smfg-india-credit-via-rights-2655515-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T12:26:00",
+        "uuid": "c25e0298-4fed-4e4b-90d9-0ab2f700112f",
+        "positive": 14.9,
+        "negative": 0
+    },
+    {
         "headlines": "Warner praises Konstas, questions senior Australian batters' approach vs BumrahFormer opener David Warner praised Sam Konstas for his brave batting approach against India's ace pacer Jasprit Bumrah. However, Warner also questioned why it took a 19-year-old to show the initiative that senior players failed to display.\r\n",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sam-konstas-david-warner-jasprit-bumrah-brave-batting-2657624-2024-12-31",
         "category": "sports",
@@ -8343,13 +8397,13 @@
         "negative": 3.5
     },
     {
-        "headlines": "Fateh trailer: Sonu Sood is on a killing spree in his fight against cybercrimeSonu Sood's Fateh trailer is out. The film, starring Jacqueliene Fernandez alongside the actor, will release in theatres on January 10. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/fateh-trailer-sonu-sood-killing-spree-fight-against-cybercrime-jacqueliene-fernandez-2654264-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T19:40:00",
-        "uuid": "1da8afd0-c9dc-464e-91a0-20dd687bec8f",
-        "positive": 4.9,
-        "negative": 10
+        "headlines": "SVAMITVA scheme: What is it and 3 things to know The SVAMITVA initiative enables Rs 1.37 lakh crore in rural assets to be monetised, resolving land disputes and boosting rural prosperity.",
+        "article_url": "https://www.indiatoday.in/business/story/svamitva-scheme-what-is-it-and-3-things-to-know-pm-modi-to-five-million-additional-property-cards-across-india-2655508-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T12:05:00",
+        "uuid": "d50558ee-176d-4cec-b242-35a05f824e0b",
+        "positive": 11.4,
+        "negative": 4
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8404,15 +8458,6 @@
         "uuid": "96e11370-755d-46b6-8aac-63006ffccf13",
         "positive": 16.5,
         "negative": 3.6
-    },
-    {
-        "headlines": "Border 2: Sunny Deol, Varun Dhawan, Diljit Dosanjh begin shooting, see picSunny Deol, Varun Dhawan, and Diljit Dosanjh's Border 2 commenced filming today, December 24, with the makers exciting fans by sharing a glimpse from the sets.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/border-2-sunny-deol-varun-dhawan-diljit-dosanjh-ahan-shetty-film-shooting-begins-2654550-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:16:00",
-        "uuid": "4a2f074f-267a-4ad5-a4ae-5930ad17b847",
-        "positive": 17,
-        "negative": 3.9
     },
     {
         "headlines": "Jasprit Bumrah to be rested for England ODIs ahead of Champions Trophy: SourcesIndia vs England, 2025: Star pacer Jasprit Bumrah is likely to be rested for the white-ball series against England. India will play five ODIs and three T20Is against a visiting England side from January 22 to February 9. ",
@@ -8604,6 +8649,15 @@
         "negative": 1.3
     },
     {
+        "headlines": "Anya Polytech & Fertilizers IPO: Check latest GMP, price band, lot sizeAnya Polytech and Fertilizers IPO: Investors opting for a single lot will require Rs 1,40,000 at the upper price band. Non-retail investors must apply for at least two lots, amounting to Rs 2,80,000.",
+        "article_url": "https://www.indiatoday.in/business/story/anya-polytech-and-fertilizers-ipo-check-latest-gmp-price-band-lot-size-stmp-2655561-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T13:19:00",
+        "uuid": "597b5d14-20ed-42af-818d-1c3420324cf6",
+        "positive": 9.1,
+        "negative": 0
+    },
+    {
         "headlines": "Smriti Mandhana drops in ICC ODI rankings despite record feat in 2024Star India batter Smriti Mandhana dropped one spot in the latest ICC ODI rankings despite her stellar show with the bat against New Zealand, Australia and West Indies. Mandhana recently broke Mithali Raj's record for India batter with the most hundreds in the WODIs.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-drops-in-icc-odi-rankings-despite-record-feat-in-2024-2658094-2025-01-01",
         "category": "sports",
@@ -8730,6 +8784,15 @@
         "negative": 7
     },
     {
+        "headlines": "Mazagon Dock share price rises nearly 5% in early trade. Should you buy?Mazagon Dock stock price: The company's shares gained nearly 5% in early trade, but pared some gains as the session progressed. ",
+        "article_url": "https://www.indiatoday.in/business/story/mazagon-dock-stock-price-rises-nearly-5-in-early-trade-should-you-buy-2655539-2024-12-26",
+        "category": "business",
+        "date_time": "2024-12-26T12:59:00",
+        "uuid": "3bf06c59-04fb-49f4-9780-b277b7b20f26",
+        "positive": 18.1,
+        "negative": 3.1
+    },
+    {
         "headlines": "Litmus test for Harmanpreet, U19 title defence and WPL festival in 2025Women's cricket will be aplenty in 2025 with the national team also set to play in the ODI World Cup at home. Niki Prasad's troops will be defending India's U19 T20 World Cup title. The focus will also be on Royal Challengers Bengaluru (RCB), the defending champions of the Women's Premier League (WPL). ",
         "article_url": "https://www.indiatoday.in/sports/story/india-women-2025-harmanpreet-kaur-rcb-u19-world-cup-2657999-2025-01-01",
         "category": "sports",
@@ -8829,15 +8892,6 @@
         "negative": 4.6
     },
     {
-        "headlines": "Subedaar teaser: Anil Kapoor plays a retired soldier in the gritty actionerThe teaser of Anil Kapoor's upcoming film, Subedaar, was released on his birthday today. The crime-thriller will also star Radhikka Madan and will release on Prime Video. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/subedaar-teaser-anil-kapoor-plays-a-retired-soldier-in-the-gritty-actioner-2654551-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:04:00",
-        "uuid": "744ffd05-8b82-4273-a517-dd2a36b61183",
-        "positive": 7.2,
-        "negative": 6.9
-    },
-    {
         "headlines": "KL Rahul's stylish New Year celebration with wife Athiya Shetty in SydneyKL Rahul celebrated New Year with wife Athiya Shetty under Sydney's iconic fireworks, ahead of India's crucial fifth Test against Australia. The match carries high stakes for India's World Test Championship qualification hopes and Border-Gavaskar Trophy defence.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-kl-rahul-new-year-celebration-wife-athiya-shetty-sydney-fifth-test-2658314-2025-01-01",
         "category": "sports",
@@ -8863,6 +8917,15 @@
         "uuid": "dd2f3113-6d46-4779-8c1e-2bbacfab6c5e",
         "positive": 10,
         "negative": 5.9
+    },
+    {
+        "headlines": "Bhooth Bangla: Tabu reunites with Akshay Kumar and Priyadarshan after Hera PheriTabu is set to reunite with Akshay Kumar and director Priyadarshan for the upcoming film Bhooth Bangla. The trio, celebrated for their iconic collaboration in Hera Pheri, will come together once again for this highly anticipated horror-comedy.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/bhooth-bangla-tabu-reunites-with-akshay-kumar-and-priyadarshan-after-hera-pheri-2663562-2025-01-12",
+        "category": "bollywood",
+        "date_time": "2025-01-12T13:31:00",
+        "uuid": "059fc076-e7fc-4b5b-9da5-5fecf25a4e57",
+        "positive": 8.4,
+        "negative": 2.2
     },
     {
         "headlines": "Zimbabwe vs Afghanistan 2nd Test: When and Where to watch liveZIM vs AFG, 2nd Test: Zimbabwe and Afghanistan will face each other in the second Test, starting Thursday, January 2 at the Queen's Sports Club in Bulawayo. The first Test in Bulawayo ended in a draw. ",
@@ -8935,68 +8998,5 @@
         "uuid": "7017bf21-c5e5-4f26-bea1-b5b5076331c2",
         "positive": 3.7,
         "negative": 7.1
-    },
-    {
-        "headlines": "Who is Beau Webster? Australia all-rounder set to debut in SCG Test vs India Beau Jacob Webster, a 31-year-old all-rounder from the quaint town of Snug, Tasmania, has made headlines as the latest addition to Australia's Test playing XI for the final match of the series against India in Sydney. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/beau-webster-australia-all-rounder-set-to-debut-in-scg-test-vs-india-2658401-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T08:11:00",
-        "uuid": "d75e4bd8-f74b-4be9-8bff-322f7c8174b4",
-        "positive": 9.2,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Cummins set to miss Sri Lanka tour, explains desire to be at home with familyAustralian captain Pat Cummins has hinted that he may skip the upcoming Sri Lanka Test series as he prepares to welcome his second child. Steve Smith or Travis Head may lead Australia if Cummins misses the Sri Lanka tour.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-set-to-miss-sri-lanka-tour-explains-desire-to-be-at-home-with-family-2658423-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T09:27:00",
-        "uuid": "6dfec058-a2ba-4cf0-93e5-b8b16a714a4a",
-        "positive": 12.7,
-        "negative": 4.3
-    },
-    {
-        "headlines": "Akash Deep out of Sydney Test with back issue, confirms coach GambhirThe Indian team has suffered a setback ahead of the Border-Gavaskar Trophy decider at the Sydney Cricket Ground (SCG). Pacer Akash Deep has been ruled out of the New Year's Test due to a back injury.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-akash-deep-out-of-sydney-test-with-back-issue-2658417-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T09:08:00",
-        "uuid": "94542a94-df04-42d5-922a-2fe9996b0195",
-        "positive": 2.8,
-        "negative": 5.2
-    },
-    {
-        "headlines": "Bhooth Bangla: Tabu reunites with Akshay Kumar and Priyadarshan after Hera PheriTabu is set to reunite with Akshay Kumar and director Priyadarshan for the upcoming film Bhooth Bangla. The trio, celebrated for their iconic collaboration in Hera Pheri, will come together once again for this highly anticipated horror-comedy.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/bhooth-bangla-tabu-reunites-with-akshay-kumar-and-priyadarshan-after-hera-pheri-2663562-2025-01-12",
-        "category": "bollywood",
-        "date_time": "2025-01-12T13:31:00",
-        "uuid": "059fc076-e7fc-4b5b-9da5-5fecf25a4e57",
-        "positive": 8.4,
-        "negative": 2.2
-    },
-    {
-        "headlines": "Just reports, not truth: Coach Gautam Gambhir on leaks from Indian dressing room Coach Gautam Gambhir has dismissed reports of a rift within the Indian dressing room, emphasising the importance of maintaining privacy in dressing room discussions.  The controversy has added to the mounting pressure on the Indian team, which trails 1-2 in the series.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-coach-gautam-gambhir-on-leaks-from-indian-dressing-room-sydney-test-2658412-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T09:31:00",
-        "uuid": "e86fa0b6-bb85-46a2-afd5-f37c7d85d6a6",
-        "positive": 14.5,
-        "negative": 4.6
-    },
-    {
-        "headlines": "Perera's hundred gives SL their first T20I win in New Zealand since 2006Kusal Perera's maiden T20I century helped Sri Lanka register their first T20I win in New Zealand since 2006, a consolation in the three-match T20I series, which the hosts won 2-1.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-sri-lanka-3rd-t20i-report-kusal-perera-hundred-2658443-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T10:25:00",
-        "uuid": "edafc65b-bb2d-4b38-9187-9a1774d549a4",
-        "positive": 11.7,
-        "negative": 2.9
-    },
-    {
-        "headlines": "India's predicted XI for 5th Test: Rohit Sharma out, Shubman Gill in?Australia vs India: India coach Gautam Gambhir has sparked speculation over Rohit Sharma's participation in the final Border-Gavaskar Trophy Test at Sydney Cricket Ground by declining to confirm his place.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-predicted-xi-sydney-test-vs-australia-rohit-sharma-shubman-gill-pant-gill-2658470-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T11:23:00",
-        "uuid": "0e51d780-0a14-4d0b-a6ec-ee6502b3bb41",
-        "positive": 4.1,
-        "negative": 5.3
     }
 ]
