@@ -2376,15 +2376,6 @@
         "negative": 5
     },
     {
-        "headlines": "Baby John box office Day 4: Varun Dhawan film crosses Rs 20-crore mark in IndiaBaby John, featuring Varun Dhawan, is currently being screened in theatres. After four days of release, the film has crossed Rs 20 crore in India.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-4-varun-dhawan-film-crosses-rs-20-crore-mark-in-india-2656843-2024-12-29",
-        "category": "bollywood",
-        "date_time": "2024-12-29T09:59:00",
-        "uuid": "8f8c765e-6074-44ee-bf83-0a9e49739564",
-        "positive": 1.8,
-        "negative": 1.4
-    },
-    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -3042,22 +3033,13 @@
         "negative": 1.9
     },
     {
-        "headlines": "Baby John box office Day 5: Varun Dhawan's film stumbles, earns Rs 28 croreVarun Dhawan's Baby John earned Rs 28.65 crore in 5 days, with a global total of Rs 36.7 crore. Despite a promising start, negative word of mouth and competition have hit the film's performance.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-5-varun-dhawan-film-stumbles-earns-rs-28-crore-2657159-2024-12-30",
+        "headlines": "SRK shares sweet birthday wish for 'coolest and bossest' RajinikanthSuperstar Shah Rukh Khan on Thursday shared the sweetest birthday wish for megastar Rajinikanth. Sharing a photo of himself with the icon, SRK called Rajinikanth 'remarkably simple' and 'inspiring.'",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-shares-sweet-birthday-wish-for-coolest-and-bossest-rajinikanth-2649125-2024-12-13",
         "category": "bollywood",
-        "date_time": "2024-12-30T11:26:00",
-        "uuid": "eedca722-adaa-4673-a03f-a8b77e99c57d",
-        "positive": 4.8,
-        "negative": 6.3
-    },
-    {
-        "headlines": "Director Sujoy Ghosh to team up with Shahid Kapoor after exit from SRK's King?Sujoy Ghosh has apparently stepped away from Shah Rukh Khan's King. Rumours suggest that he will develop a thriller with Shahid Kapoor, although the actor's team denied it.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sujoy-ghosh-collaborate-shahid-kapoor-after-exit-from-srk-king-truth-revealed-2657227-2024-12-30",
-        "category": "bollywood",
-        "date_time": "2024-12-30T13:45:00",
-        "uuid": "41eb7679-d142-4fd7-970e-3c1f0d7051a4",
-        "positive": 6,
-        "negative": 5.6
+        "date_time": "2024-12-13T00:07:00",
+        "uuid": "235d66ee-56ed-474b-a9c9-82a4706103cc",
+        "positive": 22.3,
+        "negative": 0.8
     },
     {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
@@ -3085,6 +3067,15 @@
         "uuid": "e0a4e93a-8e34-455d-b7e5-06ada7ec47fc",
         "positive": 6.4,
         "negative": 3.3
+    },
+    {
+        "headlines": "How Smriti Mandhana inspired Team India to end 5-year drought at home IND-W vs WI-W: Smriti Mandhana, who led India in Harmanpreet Kaur's career, talked about the importance of winning a T20I series on home soil. On Thursday, India beat the West Indies in the deciding game to claim the series 2-1. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-womens-t20i-series-smriti-mandhana-drought-2652634-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T23:34:00",
+        "uuid": "d96529cf-3333-4669-8405-7813ce6969a8",
+        "positive": 13.5,
+        "negative": 4.3
     },
     {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
@@ -3123,13 +3114,13 @@
         "negative": 0.6
     },
     {
-        "headlines": "How Smriti Mandhana inspired Team India to end 5-year drought at home IND-W vs WI-W: Smriti Mandhana, who led India in Harmanpreet Kaur's career, talked about the importance of winning a T20I series on home soil. On Thursday, India beat the West Indies in the deciding game to claim the series 2-1. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-womens-t20i-series-smriti-mandhana-drought-2652634-2024-12-19",
+        "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
         "category": "sports",
-        "date_time": "2024-12-19T23:34:00",
-        "uuid": "d96529cf-3333-4669-8405-7813ce6969a8",
-        "positive": 13.5,
-        "negative": 4.3
+        "date_time": "2024-12-19T23:16:00",
+        "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
+        "positive": 12.3,
+        "negative": 3.6
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -3825,15 +3816,6 @@
         "negative": 4.3
     },
     {
-        "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T23:16:00",
-        "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
-        "positive": 12.3,
-        "negative": 3.6
-    },
-    {
         "headlines": "Jasprit Bumrah is the right-handed Wasim Akram: Justin LangerFormer Australia head coach Justin Langer has compared Jasprit Bumrah to Wasim Akram. Langer said that he would have hated to face Bumrah in his playing days.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-jasprit-bumrah-wasim-akram-justin-langer-2652622-2024-12-19",
         "category": "sports",
@@ -3888,13 +3870,13 @@
         "negative": 1.7
     },
     {
-        "headlines": "Baby John box office Day 6: Pushpa 2 overshadows Varun Dhawan's filmVarun Dhawan's Baby John is struggling at the box office. It is facing stiff competition from Allu Arjun's Pushpa 2. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-6-pushpa-2-overshadows-varun-dhawans-film-2657708-2024-12-31",
-        "category": "bollywood",
-        "date_time": "2024-12-31T13:04:00",
-        "uuid": "04678a59-783f-4982-a909-afeba51e792a",
-        "positive": 2,
-        "negative": 5
+        "headlines": "Australia drop Nathan McSweeney for Boxing Day Test, add teenage opener to squadBorder-Gavaskar Trophy: Australia named a 15-man squad for the last two tests against India on Friday. In a bold call, the Australian selectors dropped Nathan McSweeney and roped in 19-year-old Sam Konstas. Pacers Jhye Richardson and Sean Abbott also returned to the squad. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-squad-nathan-mcsweeney-dropped-sam-konstas-jhye-richardson-2652715-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T10:17:00",
+        "uuid": "28674c32-55d9-4384-9b56-28f9b97df423",
+        "positive": 8.4,
+        "negative": 4.1
     },
     {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
@@ -3931,15 +3913,6 @@
         "uuid": "64e3fd8d-cb46-4578-a9a9-462d774a0f34",
         "positive": 11.9,
         "negative": 0.6
-    },
-    {
-        "headlines": "Australia drop Nathan McSweeney for Boxing Day Test, add teenage opener to squadBorder-Gavaskar Trophy: Australia named a 15-man squad for the last two tests against India on Friday. In a bold call, the Australian selectors dropped Nathan McSweeney and roped in 19-year-old Sam Konstas. Pacers Jhye Richardson and Sean Abbott also returned to the squad. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-squad-nathan-mcsweeney-dropped-sam-konstas-jhye-richardson-2652715-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T10:17:00",
-        "uuid": "28674c32-55d9-4384-9b56-28f9b97df423",
-        "positive": 8.4,
-        "negative": 4.1
     },
     {
         "headlines": "From sapno ka sheher to WPL deal: MI's Akshita set to take flightExclusive: Mumbai Indians' cricketer Akshita Maheshwari talked to IndiaToday.in and spoke about her WPL deal, her admiration for Jasprit Bumrah, Bhuvneshwar Kumar. In the auction that took place in Bengaluru, MI picked Maheshwari for Rs 20 lakhs. ",
@@ -4057,6 +4030,15 @@
         "uuid": "64406747-4863-4f7e-b2b5-e9270fa6452f",
         "positive": 6.1,
         "negative": 5.7
+    },
+    {
+        "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-u19-women-t20-asia-cup-aayushi-shukla-india-beat-sri-lanka-reach-final-2652897-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T15:16:00",
+        "uuid": "47b53052-1d98-4f0e-8604-4155f6eae0a2",
+        "positive": 13.2,
+        "negative": 2.4
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -4237,15 +4219,6 @@
         "uuid": "4173d4f1-79da-4cab-a44a-fd533622a249",
         "positive": 9.9,
         "negative": 4.3
-    },
-    {
-        "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-u19-women-t20-asia-cup-aayushi-shukla-india-beat-sri-lanka-reach-final-2652897-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T15:16:00",
-        "uuid": "47b53052-1d98-4f0e-8604-4155f6eae0a2",
-        "positive": 13.2,
-        "negative": 2.4
     },
     {
         "headlines": "Pakistan Cricket Board to hold PSL 10 draft in GwadarThe PCB announced that the coastal city of Gwadar in the restive province of Balochistan will host the player's draft for the Pakistan Super League (PSL) on January 11.",
@@ -4896,42 +4869,6 @@
         "negative": 2.8
     },
     {
-        "headlines": "Baby John box office Day 7: Varun Dhawan's film crawls towards Rs 50-crore markVarun Dhawan and Atlee's Baby John is struggling to perform at the box office. Released on Christmas, the action-thriller has so far only earned Rs 30 crore at the Indian box office.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-atlee-baby-john-box-office-day-7-film-struggles-to-earn-rs-50-in-india-2658107-2025-01-01",
-        "category": "bollywood",
-        "date_time": "2025-01-01T12:03:00",
-        "uuid": "1309708e-4e74-4be2-b08c-5430fe1c5a49",
-        "positive": 3.6,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Doordarshan pays tribute to Shyam Benegal with screening of Manthan on New Year'sIn a tribute to Shyam Benegal, Doordarshan will air a 4K restored version of Manthan on January 1. The film, restored by the Film Heritage Foundation, highlights the story of a milk cooperative in rural India.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/doordarshan-pays-tribute-shyam-benegal-with-screening-of-manthan-on-new-years-day-january-1-2658174-2025-01-01",
-        "category": "bollywood",
-        "date_time": "2025-01-01T14:33:00",
-        "uuid": "ccb5485e-09d3-42a7-9080-052f9a8d03ab",
-        "positive": 9.1,
-        "negative": 3.3
-    },
-    {
-        "headlines": "Deva poster: Shahid Kapoor's look from Rosshan Andrrews' film wows fansZee Studios and Roy Kapur Films have released the first poster of Deva, starring Shahid Kapoor and directed by Rosshan Andrrews. The film is slated for a January 31, 2025 release, with the poster stirring excitement among fans.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/deva-poster-out-shahid-kapoor-look-rosshan-andrrews-film-wows-fans-pooja-hegde-pavail-gulati-2658285-2025-01-01",
-        "category": "bollywood",
-        "date_time": "2025-01-01T19:15:00",
-        "uuid": "55b35e42-159b-485e-a226-bfbb5969b797",
-        "positive": 9.4,
-        "negative": 0
-    },
-    {
-        "headlines": "Baby John box office Day 8: Pushpa 2, Mufasa outshine Varun Dhawan filmVarun Dhawan's Baby John continues to struggle at the box office, earning just Rs 35.40 crore in 8 days. Meanwhile, Pushpa 2 and Mufasa draw larger audiences and higher collections.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-8-pushpa-2-mufasa-outshine-varun-dhawan-film-2658449-2025-01-02",
-        "category": "bollywood",
-        "date_time": "2025-01-02T10:32:00",
-        "uuid": "90007983-2a05-4c5b-91f4-3fc6216ba4ce",
-        "positive": 3,
-        "negative": 2.1
-    },
-    {
         "headlines": "India high on confidence after Gabba: Akash Deep feels series 50-50 ahead of MCGIndia seamer Akash Deep believes that the Border-Gavaskar Trophy is 50-50 going into the final two Test matches of the series. The pacer spoke to the press on Sunday and updated about the mood of the Indian camp ahead of the MCG Test.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-akash-deep-bgt-series-level-melbourne-test-2653613-2024-12-22",
         "category": "sports",
@@ -5247,132 +5184,6 @@
         "negative": 2.4
     },
     {
-        "headlines": "Abhishek Banerjee on his role in Mirzapur film: Expect swag and dhamakaActor Abhishek Banerjee, in an exclusive interview with India Today Digital, spoke about Mirzapur: The Film. The actor shared what fans can expect from his character in the upcoming film. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/abhishek-banerjee-return-compounder-mirzapur-the-film-bloodshed-ali-fazal-2658561-2025-01-02",
-        "category": "bollywood",
-        "date_time": "2025-01-02T15:23:00",
-        "uuid": "3d13d9cd-734a-4f0e-be13-c7ecd18f8cd0",
-        "positive": 15.9,
-        "negative": 2.2
-    },
-    {
-        "headlines": "Mere Husband Ki Biwi: Arjun Kapoor, Bhumi and Rakul's film to release in FebruaryThe release date of Arjun Kapoor, Bhumi Pedenkar and Rakul Preet Singh's next film Arjun Mere Husband Ki Biwi will release on February 21. The makers announced the news with a motion poster. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/arjun-kapoor-bhumi-pedenkar-rakul-preet-singh-mere-husband-ki-biwi-release-february-2658657-2025-01-02",
-        "category": "bollywood",
-        "date_time": "2025-01-02T16:01:00",
-        "uuid": "29f5071f-f2d4-4f46-b0a8-969821a32281",
-        "positive": 12,
-        "negative": 0.8
-    },
-    {
-        "headlines": "Mika Singh recalls 'horrible' work experience Bipasha Basu, Karan Singh GroverMika Singh shared his disappointment over an unpleasant work experience with actors Bipasha Basu and Karan Singh Grover. The singer highlighted unprofessional behaviour as the main issue during a film project.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/mika-singh-horrible-work-experience-bipasha-basu-karan-singh-grover-dangerous-2658722-2025-01-02",
-        "category": "bollywood",
-        "date_time": "2025-01-02T17:40:00",
-        "uuid": "5a5377f0-03b5-4313-9b36-2728c04bc76d",
-        "positive": 9.8,
-        "negative": 11.4
-    },
-    {
-        "headlines": "Stree 3, Bhediya 2 to Maha Munjya: Maddock Films announce release datesMaddock Films has unveiled its ambitious slate of upcoming sequels and new releases, including Stree 3, Bhediya 2, and a monumental two-part saga, Mahayudh, set to redefine the horror-comedy genre in Indian cinema. The release dates for these projects span until 2028.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/stree-3-bhediya-2-maha-munjya-maddock-films-announce-release-dates-2658820-2025-01-02",
-        "category": "bollywood",
-        "date_time": "2025-01-02T19:41:00",
-        "uuid": "f254a9b1-5537-4f49-9418-d693f34e0441",
-        "positive": 10.2,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Baby John box office Day 9: Varun film earnings drop to Rs 1 crore in IndiaVarun Dhawan's Baby John is struggling at the box office, both domestically and internationally. The film's collections have dwindled, plummeting to just Rs 1 crore on Day 9.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-9-varun-dhawan-film-earnings-drop-to-rs-1-crore-in-india-2659025-2025-01-03",
-        "category": "bollywood",
-        "date_time": "2025-01-03T08:53:00",
-        "uuid": "148ab2d2-0df7-4918-a49f-004cf369c57f",
-        "positive": 4.6,
-        "negative": 7
-    },
-    {
-        "headlines": "Sonu Sood shares why he rejected role of Chhedi Singh's brother in Dabangg 2Actor Sonu Sood, who played the main antagonist in Dabangg, recently revealed the reason behind rejecting its sequel. He was offered the role of Chhedi Singh's brother in Dabangg 2.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sonu-sood-shares-why-he-rejected-role-of-chhedi-singhs-brother-in-dabangg-2-2659152-2025-01-03",
-        "category": "bollywood",
-        "date_time": "2025-01-03T13:11:00",
-        "uuid": "b3215f84-b1e6-4663-86ed-646d8d8c23e0",
-        "positive": 9.4,
-        "negative": 10.9
-    },
-    {
-        "headlines": "Yeh Jawaani Hai Deewani re-release: Ranbir-Deepika film eyes Rs 3 crore openingRanbir Kapoor and Deepika Padukone-starrer Yeh Jawaani Hai Deewani has re-released today, Friday. According to reports, the movie is eyeing a Rs 3 crore opening at the box office. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-re-release-ranbir-kapoor-deepika-padukone-3-crore-opening-2659274-2025-01-03",
-        "category": "bollywood",
-        "date_time": "2025-01-03T15:33:00",
-        "uuid": "c591e3bf-e058-4c8b-9890-45fd22ad8d29",
-        "positive": 13.7,
-        "negative": 0
-    },
-    {
-        "headlines": "Kunaal Roy Kapur on Yeh Jawaani Hai Deewani's Taran becoming a social media heroActor Kunaal Roy Kapur opens up about his character Taran from the superhit, Yeh Jawaani Hai Deewani, which has re-released in cinemas today, Friday. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/kunaal-roy-kapur-on-yeh-jawaani-hai-deewani-taran-social-media-hero-2659282-2025-01-03",
-        "category": "bollywood",
-        "date_time": "2025-01-03T15:52:00",
-        "uuid": "b016c9a5-a665-4fc9-aff5-737325e0bf60",
-        "positive": 11.7,
-        "negative": 3.2
-    },
-    {
-        "headlines": "Junaid Khan-Khushi Kapoor's Loveyapa song out, fans call it 'cringeyapa'Junaid Khan and Khushi Kapoor's new song Loveyapa Ho Gaya has been released, sparking mixed reactions from the audience. While some fans admired their chemistry, others labelled the track as 'cringe'.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/junaid-khan-khushi-kapoor-loveyapa-song-out-fans-call-it-cringeyapa-2659324-2025-01-03",
-        "category": "bollywood",
-        "date_time": "2025-01-03T17:05:00",
-        "uuid": "8209a247-1b8a-42f3-855d-8dabf5e4aeda",
-        "positive": 13.9,
-        "negative": 0
-    },
-    {
-        "headlines": "RGV's Satya to re-release this January in cinemasDirector Ram Gopal Varma's acclaimed Satya will be re-releasing in theatres this January. The film, which challenged the syntax of cinema, will return to the big screen in the new year. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ram-gopal-varma-manoj-bajpayee-satya-to-re-release-this-january-2659389-2025-01-03",
-        "category": "bollywood",
-        "date_time": "2025-01-03T18:42:00",
-        "uuid": "55987199-deb1-432c-b09a-9c3b857f3fec",
-        "positive": 6.1,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Karan Johar reacts as fans dance to Badtameez Dil in theatresRanbir Kapoor and Deepika Padukone's Yeh Jawaani Hai Deewani re-released in theatres on January 3. Karan Johar reacted to a viral video of fans dancing to Badtameez Dil in theatres. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-badtameez-dil-theatre-fans-dance-yeh-jawaani-hai-deewani-re-releases-deepika-padukone-ranbir-kapoor-2659347-2025-01-03",
-        "category": "bollywood",
-        "date_time": "2025-01-03T18:02:00",
-        "uuid": "7f613667-d0b3-4efe-8ae3-602bacb735b3",
-        "positive": 5.2,
-        "negative": 0
-    },
-    {
-        "headlines": "Pic: Rediscovered Sholay scene unveils censor-cut footage after 49 YearsA never-before-seen scene from the legendary Bollywood film Sholay has emerged, reigniting interest and nostalgia. Originally cut by the censor board, this scene reveals more about Gabbar Singh's character.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/pic-rediscovered-sholay-scene-unveils-censor-cut-footage-after-49-years-2659657-2025-01-04",
-        "category": "bollywood",
-        "date_time": "2025-01-04T13:04:00",
-        "uuid": "b9c2af52-be53-4f74-8728-a5b5cf2a054a",
-        "positive": 9.2,
-        "negative": 5.2
-    },
-    {
-        "headlines": "Sky Force trailer: Akshay Kumar leads India's deadliest air strikeThe trailer for Sky Force, featuring Akshay Kumar and debutant Veer Pahariya, promises aerial action and patriotic fervour. Set for release on January 24, the film explores India's first air strike on Pakistan.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sky-force-trailer-akshay-kumar-veer-pahariya-indias-first-deadliest-air-strike-2659948-2025-01-05",
-        "category": "bollywood",
-        "date_time": "2025-01-05T12:30:00",
-        "uuid": "afbb9a8e-572c-4124-ae9e-468f11379d84",
-        "positive": 8.2,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Deva teaser: Shahid Kapoor is a trigger-happy cop in Rosshan Andrrews filmZee Studios and Roy Kapur Films have unveiled the teaser for Deva, featuring Shahid Kapoor in an intense role. The film, directed by Rosshan Andrrews, promises high-octane action and captivating performances.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/deva-teaser-out-shahid-kapoor-rosshan-andrrews-pooja-hegde-january-31-2659979-2025-01-05",
-        "category": "bollywood",
-        "date_time": "2025-01-05T13:39:00",
-        "uuid": "5d146366-e1ee-4d1c-bbfd-4b22e9907a48",
-        "positive": 13.8,
-        "negative": 4.3
-    },
-    {
         "headlines": "Historic Pakistan become 1st team to whitewash South Africa at homeSensational Saim Ayub helped Pakistan become the first team to whitewash South Africa at their own backyard in ODI bilaterals. Having won the first two matches of the series, Pakistan condemned South Africa to their third straight defeat at home on Sunday, December 22.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-pak-vs-sa-pakistan-series-witewash-vs-south-africa-2653864-2024-12-23",
         "category": "sports",
@@ -5562,15 +5373,6 @@
         "negative": 3
     },
     {
-        "headlines": "Akshay Kumar to return in Stree 3 as supervillainAkshay Kumar is set to make a comeback in the Stree universe with the third instalment. The film is expected to release in August 2027, further expanding Maddock's horror-comedy slate.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-to-return-in-stree-3-as-supervillain-dinesh-vijan-calls-him-thanos-2660015-2025-01-05",
-        "category": "bollywood",
-        "date_time": "2025-01-05T16:12:00",
-        "uuid": "ef7b119c-5d22-4fcf-87c2-d1381784c88b",
-        "positive": 7.5,
-        "negative": 2.1
-    },
-    {
         "headlines": "Ishan Kishan smashes 64-ball hundred in Vijay Hazare Trophy vs ManipurIshan Kishan's blistering 134 off 78 balls in the Vijay Hazare Trophy showcased his determination to make an India comeback. Leading Jharkhand to an emphatic win, he reminded every one of his explosive batting and leadership potential.",
         "article_url": "https://www.indiatoday.in/sports/story/ishan-kishan-smashes-64-ball-hundred-in-vijay-hazare-trophy-vs-manipur-2654092-2024-12-23",
         "category": "sports",
@@ -5607,13 +5409,13 @@
         "negative": 0.8
     },
     {
-        "headlines": "Himesh Reshammiya's Badass Ravikumar trailer: So bad that it's goodThe first full trailer of composer and actor Himesh Reshammiya's Badass Ravi Kumar is out. The promo sees him mouthing massy dialogues, channelling a 'lite' version of Ranbir Kapoor from the movie Animal, and matching steps with Prabhudeva.   ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/badass-ravi-kumar-trailer-himesh-reshammiya-promises-entertaining-cringefest-2660040-2025-01-05",
+        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
         "category": "bollywood",
-        "date_time": "2025-01-05T16:56:00",
-        "uuid": "42b5224d-c18a-40f1-ac91-f85c6e58cb1d",
-        "positive": 18.8,
-        "negative": 4.9
+        "date_time": "2024-12-12T22:14:00",
+        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
+        "positive": 4.1,
+        "negative": 7.3
     },
     {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
@@ -5940,24 +5742,6 @@
         "negative": 2.6
     },
     {
-        "headlines": "Rajkummar, Ayushmann and Kriti Sanon's Bareilly Ki Barfi to re-release in theatresBareilly Ki Barfi, starring Rajkummar Rao, Ayushmann Khurrana and Kriti Sanon, is re-releasing in theatres. The Bollywood rom-com will be hitting the theatres in February. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rajkummar-rao-ayushmann-khurrana-and-kriti-sanons-bareilly-ki-barfi-to-re-release-in-theatres-2664044-2025-01-13",
-        "category": "bollywood",
-        "date_time": "2025-01-13T15:46:00",
-        "uuid": "2677807a-0dcb-47b3-92e7-4414ae72ba8b",
-        "positive": 16,
-        "negative": 0
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Should have made Manu Bhaker a cricketer, not shooter: Father on Khel Ratna snubDouble Olympic medallist Manu Bhaker was reportedly snubbed from the Khel Ratna nominees list. Manu's father reacted to the reports and said that he should have made his daughter a cricketer and not a shooter.",
         "article_url": "https://www.indiatoday.in/sports/story/manu-bhaker-khel-ratna-award-snub-controversy-paris-olympics-india-medals-2654610-2024-12-24",
         "category": "sports",
@@ -6138,6 +5922,24 @@
         "negative": 0.8
     },
     {
+        "headlines": "Rajkummar, Ayushmann and Kriti Sanon's Bareilly Ki Barfi to re-release in theatresBareilly Ki Barfi, starring Rajkummar Rao, Ayushmann Khurrana and Kriti Sanon, is re-releasing in theatres. The Bollywood rom-com will be hitting the theatres in February. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rajkummar-rao-ayushmann-khurrana-and-kriti-sanons-bareilly-ki-barfi-to-re-release-in-theatres-2664044-2025-01-13",
+        "category": "bollywood",
+        "date_time": "2025-01-13T15:46:00",
+        "uuid": "2677807a-0dcb-47b3-92e7-4414ae72ba8b",
+        "positive": 16,
+        "negative": 0
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Vinod Kambli develops fever in hospital, condition stableVinod Kambli, battling a severe urinary infection and brain clots, is stable in ICU. Maharashtra Deputy CM Eknath Shinde and MP Shrikant Shinde have extended financial aid and support, ensuring the former cricketer receives top-notch medical care.",
         "article_url": "https://www.indiatoday.in/sports/story/vinod-kambli-develops-fever-in-hospital-condition-stable-2654988-2024-12-25",
         "category": "sports",
@@ -6298,6 +6100,132 @@
         "uuid": "8b794853-28dd-48fa-97a9-f1121b322e94",
         "positive": 3.5,
         "negative": 2.1
+    },
+    {
+        "headlines": "Preity Zinta's sweet BTS moment from Dil Chahta Hai: A chocolate croissant to rescuePreity Zinta shared a heartwarming behind-the-scenes story from the shoot of Dil Chahta Hai, highlighting a moment of hunger and humour that ended with a chocolate croissant. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/preity-zinta-sweet-bts-moment-from-dil-chahta-hai-a-chocolate-croissant-to-rescue-2649030-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T21:12:00",
+        "uuid": "6b67f197-8203-48fb-bc5f-621473e06508",
+        "positive": 18.9,
+        "negative": 4.3
+    },
+    {
+        "headlines": "Anees Bazmee recalls being Raj Kapoor's assistant director: He breathed cinemaDirector Anees Bazmee opens up about being iconic filmmaker Raj Kapoor's former assistant director. Bazmee had assisted Kapoor on Prem Rog. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anees-bazmee-recalls-being-raj-kapoor-assistant-director-2648884-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T17:16:00",
+        "uuid": "aef00406-6fd1-449f-b0aa-0059fd09ade9",
+        "positive": 17.8,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Go this weekend: All We Imagine as Light back in cinemas, Payal Kapadia thrilledDirector Payal Kapadia's film, All We Imagine As Light, has returned to cinemas with improved showtimes in select cities.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/all-we-imagine-as-light-back-in-cinemas-director-payal-kapadia-thrilled-2648880-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T17:30:00",
+        "uuid": "c2af656f-3e8c-408a-b24b-4a4a457136b8",
+        "positive": 17.8,
+        "negative": 0.5
+    },
+    {
+        "headlines": "Priyanka Chopra on working in SRK's Don: I tasted blood a little bitGlobal icon Priyanka Chopra recently opened up about working in the Farhan Akhtar directorial, Don, which also starred superstar Shah Rukh Khan in the lead. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-chopra-on-working-in-shah-rukh-khan-don-2648797-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T14:51:00",
+        "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
+        "positive": 9.6,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T14:25:00",
+        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
+        "positive": 11.3,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
+        "category": "bollywood",
+        "date_time": "2024-12-11T11:31:00",
+        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
+        "positive": 17,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Singham Again OTT release: When and where to watch Ajay Devgn's actionerSingham Again, starring Ajay Devgn, is now available on Prime Video. The film, which was released on Diwali, earned around Rs 300 crore in India. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/singham-again-on-ott-when-and-where-to-watch-rohit-shetty-ajay-devgns-actioner-2652743-2024-12-20",
+        "category": "bollywood",
+        "date_time": "2024-12-20T12:11:00",
+        "uuid": "0e006bea-61bf-45f3-9ffc-2b75d976e3cb",
+        "positive": 9.4,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/thalapathy-vijay-impressed-baby-john-varun-dhawan-work-director-kalees-2652819-2024-12-20",
+        "category": "bollywood",
+        "date_time": "2024-12-20T13:30:00",
+        "uuid": "6968f830-dcd4-46c5-a90b-8c2c065ceee6",
+        "positive": 16.3,
+        "negative": 0.9
+    },
+    {
+        "headlines": "Vanvaas review: Nana Patekar, Utkarsh Sharma's film is a dull version of BaghbanReleased-Fri Dec 20, 2024Vanvaas, starring Nana Patekar and Utkarsh Sharma, explores the deteriorating bond between parents and children, reminiscent of Baghban but with a deeper twist. Despite its noble intentions, the film struggles with execution and fails to evoke the emotional depth it aims for.",
+        "article_url": "https://www.indiatoday.in/movies/reviews/story/vanvaas-movie-review-nana-patekar-utkarsh-sharma-film-dull-version-baghban-2652809-2024-12-20",
+        "category": "bollywood",
+        "date_time": "2024-12-20T13:37:00",
+        "uuid": "47cbd85a-5124-418f-94a8-9c5c096ba740",
+        "positive": 12.5,
+        "negative": 11.1
+    },
+    {
+        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T09:05:00",
+        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
+        "positive": 16,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T17:21:00",
+        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
+        "positive": 15.4,
+        "negative": 6
+    },
+    {
+        "headlines": "Yeh Jawaani Hai Deewani to re-release? Dharma's cryptic post sparks speculationDharma Movies shared a cryptic post on Monday suggesting the re-release of the hit film Yeh Jawaani Hai Deewani. The film stars Ranbir Kapoor, Deepika Padukone, Kalki Koechlin, Aditya Roy Kapur and others. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-to-re-release-in-theatres-dharma-production-shares-cryptic-post-2654007-2024-12-23",
+        "category": "bollywood",
+        "date_time": "2024-12-23T13:36:00",
+        "uuid": "5670f2c4-9aae-44dc-a66e-7d6455c87243",
+        "positive": 16.1,
+        "negative": 2
+    },
+    {
+        "headlines": "When Diljit Dosanjh was cast as Priyanka Chopra's on-screen husbandFilmmaker Boney Kapoor recently revealed that he wanted to cast Diljit Dosanjh alongside Priyanka Chopra in a movie. In an interview, he said that he wanted the singer to play Chopra's husband in the film. \r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/boney-kapoor-shared-that-diljit-dosanjh-was-cast-to-play-priyanka-chopra-on-screen-husband-2654024-2024-12-23",
+        "category": "bollywood",
+        "date_time": "2024-12-23T14:13:00",
+        "uuid": "cbd44945-5e72-46f5-a82d-5cb1cc8db5f8",
+        "positive": 7.3,
+        "negative": 2
+    },
+    {
+        "headlines": "Orry joins Bhansali's Love and War cast, Deepika Padukone to make cameo Sanjay Leela Bhansali's Love and War will star Orry, alongside Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal. Deepika Padukone will make a cameo. The film releases in March 2026.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/orry-sanjay-leela-bhansali-love-and-war-deepika-padukone-cameo-2654018-2024-12-23",
+        "category": "bollywood",
+        "date_time": "2024-12-23T13:58:00",
+        "uuid": "8e84250e-3914-4f43-8e3b-376f61f4491d",
+        "positive": 15.7,
+        "negative": 7.6
     },
     {
         "headlines": "Ricky Ponting backs 'talented teenager' Sam Konstas to shine on debutBorder-Gavaskar Trophy: Australian legend Ricky Ponting believes Sam Konstas possesses the talent and composure to shine on his debut in the Boxing Day Test against India.\r\n",
@@ -6579,6 +6507,15 @@
         "negative": 5.1
     },
     {
+        "headlines": "Fateh trailer: Sonu Sood is on a killing spree in his fight against cybercrimeSonu Sood's Fateh trailer is out. The film, starring Jacqueliene Fernandez alongside the actor, will release in theatres on January 10. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/fateh-trailer-sonu-sood-killing-spree-fight-against-cybercrime-jacqueliene-fernandez-2654264-2024-12-23",
+        "category": "bollywood",
+        "date_time": "2024-12-23T19:40:00",
+        "uuid": "1da8afd0-c9dc-464e-91a0-20dd687bec8f",
+        "positive": 4.9,
+        "negative": 10
+    },
+    {
         "headlines": "King rattled? Pundits react to Virat Kohli's confrontation with Sam Konstas Border-Gavaskar Trophy: Sunil Gavaskar and Michael Vaughan were among the many who criticised Virat Kohli after the former India captain was involved in a physical altercation with 19-year-old debutant, Sam Konstas in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-4th-test-virat-kohli-sam-konstas-sunil-gavaskar-alyssa-healy-2655436-2024-12-26",
         "category": "sports",
@@ -6651,24 +6588,6 @@
         "negative": 7.7
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
-        "headlines": "Kangana Ranaut to Indira Gandhi: Actor gives glimpse of her epic transformationActor-politician Kangana Ranaut gave a glimpse of her epic transformation as Indira Gandhi in the upcoming film Emergency. The movie will release in theatres on January 17. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/kangana-ranaut-shout-out-makeup-artist-indira-gandhi-emergency-release-dennis-malinowski-2660225-2025-01-06",
-        "category": "bollywood",
-        "date_time": "2025-01-06T11:06:00",
-        "uuid": "285de41f-ade2-4e04-8512-38c09d1932b1",
-        "positive": 16.2,
-        "negative": 3.6
-    },
-    {
         "headlines": "Shikha Pandey signs for Canterbury Magicians for New Zealand Super Smash Indian speedster Shikha Pandey has signed for the Canterbury Magicians in the Women's Super Smash. The 35-year-old recently played for Brisbane Heat in the Women's Big Bash League (WBBL). ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-shikha-pandey-canterbury-magicians-super-smash-2655537-2024-12-26",
         "category": "sports",
@@ -6723,13 +6642,22 @@
         "negative": 2.7
     },
     {
-        "headlines": "Emergency trailer: Kangana Ranaut channels Indira Gandhi with precisionA new trailer of Kangana Ranaut's political drama, Emergency, was released on Monday. The film, based on the life of India's first female Prime Minister, Indira Gandhi, will hit the theatres on January 17. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/emergency-trailer-kangana-ranaut-release-date-anupam-kher-2660226-2025-01-06",
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Border 2: Sunny Deol, Varun Dhawan, Diljit Dosanjh begin shooting, see picSunny Deol, Varun Dhawan, and Diljit Dosanjh's Border 2 commenced filming today, December 24, with the makers exciting fans by sharing a glimpse from the sets.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/border-2-sunny-deol-varun-dhawan-diljit-dosanjh-ahan-shetty-film-shooting-begins-2654550-2024-12-24",
         "category": "bollywood",
-        "date_time": "2025-01-06T11:14:00",
-        "uuid": "0655aab0-ee33-408c-bc41-b96ed93f400f",
-        "positive": 6.2,
-        "negative": 8.9
+        "date_time": "2024-12-24T13:16:00",
+        "uuid": "4a2f074f-267a-4ad5-a4ae-5930ad17b847",
+        "positive": 17,
+        "negative": 3.9
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -7353,33 +7281,6 @@
         "negative": 2.6
     },
     {
-        "headlines": "Pic: Akshay Kumar with Paresh Rawal on Bhooth Bangla setsAkshay Kumar and Paresh Rawal have reunited for Priyadarshan's Bhooth Bangla, enjoying Jaipur's winter sun during the film's shoot. The movie promises a blend of chills and comedy set against the vibrant backdrop of Jaipur's iconic locations.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-jaipur-winter-sun-paresh-rawal-bhoot-bangla-sets-2660306-2025-01-06",
-        "category": "bollywood",
-        "date_time": "2025-01-06T13:34:00",
-        "uuid": "78fdebc8-e80b-4d9e-8b9f-cc2739529025",
-        "positive": 16.2,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Did you know Junaid Khan auditioned for Laapataa Ladies but couldn't crack the role?Junaid Khan, son of Aamir Khan, auditioned for Laapataa Ladies but the role went to Sparsh Shrivastava. Despite not securing the role, Junaid maintained a positive relationship with director Kiran Rao.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/did-you-know-junaid-khan-auditioned-for-laapataa-ladies-but-couldnt-crack-the-role-2660371-2025-01-06",
-        "category": "bollywood",
-        "date_time": "2025-01-06T15:14:00",
-        "uuid": "a0cb525d-3d1c-4b93-882f-54241a441560",
-        "positive": 10.1,
-        "negative": 1
-    },
-    {
-        "headlines": "Hrithik Roshan's Kaho Naa... Pyaar Hai returns to theatres for 25th anniversaryHrithik Roshan's debut film Kaho Naa... Pyaar Hai is set to re-release in theatres on January 10, marking its 25th anniversary and offering fans a nostalgic experience. The film, directed by Rakesh Roshan, originally released in 2000, propelled Hrithik to stardom and featured memorable music.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/hrithik-roshan-kaho-naa-pyaar-hai-re-release-theatres-25th-anniversary-january-10-2660365-2025-01-06",
-        "category": "bollywood",
-        "date_time": "2025-01-06T15:10:00",
-        "uuid": "f4dc7b90-7301-48a8-b95c-eb10d35d3f09",
-        "positive": 11,
-        "negative": 1.2
-    },
-    {
         "headlines": "Pray to god Nitish's cricketing brain remains same: Gavaskar on MCG hundredNitish Kumar Reddy etched his name in history with a resilient maiden Test century, rescuing India on Day 3 of the Melbourne Test. His 105-run knock from No. 8 earned widespread praise, including admiration from cricket legend Sunil Gavaskar.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-kumar-reddy-cricketing-brain-remains-same-sunil-gavaskar-melbourne-century-2656640-2024-12-28",
         "category": "sports",
@@ -7650,15 +7551,6 @@
         "negative": 2.9
     },
     {
-        "headlines": "Shahid Kapoor lounges in cowboy hat on the sets of Vishal Bharadwaj's nextShahid Kapoor reunited with filmmaker Vishal Bhardwaj after seven years for a high-octane action thriller, set to release on December 5, 2025. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shahid-kapoor-lounges-in-cowboy-hat-sets-vishal-bharadwaj-next-film-2660519-2025-01-06",
-        "category": "bollywood",
-        "date_time": "2025-01-06T19:00:00",
-        "uuid": "383cd5ab-ce51-46b9-9a81-59c1cab6a15d",
-        "positive": 12.7,
-        "negative": 2.7
-    },
-    {
         "headlines": "'Humble' Nitish Reddy's father touches Gavaskar's feet in emotional meetingIND vs AUS: Nitish Reddy's father Mutyala Reddy showed his respect to the legendary Sunil Gavaskar. Mutyala touched Gavaskar's feet in an emotional meeting after his son's historic century.",
         "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-mcg-nitish-reddy-father-touches-sunil-gavaskar-feet-2656823-2024-12-29",
         "category": "sports",
@@ -7666,114 +7558,6 @@
         "uuid": "8c55a20f-1b2d-4aa1-915e-6a2f6d1dfe5d",
         "positive": 9.2,
         "negative": 3.7
-    },
-    {
-        "headlines": "Azaad trailer: Aaman Devgan-Rasha Thadani promise to gallop into audience's heartsThe trailer for Ajay Devgn's Azaad was unveiled on Monday. Directed by Abhishek Kapoor, the period drama introduces debutants Aaman Devgan and Rasha Thadani and centres around a majestic horse and its unwavering loyalty to its master.\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/azaad-trailer-aaman-devgan-rasha-thadani-ajay-devgn-promise-to-gallop-into-audiences-hearts-2660567-2025-01-06",
-        "category": "bollywood",
-        "date_time": "2025-01-06T20:13:00",
-        "uuid": "6990fbdb-98a8-4d22-90a2-faae3620a7e5",
-        "positive": 15.7,
-        "negative": 2.1
-    },
-    {
-        "headlines": "Mufasa The Lion King OTT release: Here's what we knowDisney's Mufasa: The Lion King released in theatres on December 20, 2024. The film is expected to release digitally around March-April 2025. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/mufasa-the-lion-king-ott-release-when-where-watch-disney-film-stmp-2660776-2025-01-07",
-        "category": "bollywood",
-        "date_time": "2025-01-07T10:33:00",
-        "uuid": "fabf9b81-0451-4dd4-b4e4-d5cf3768e33c",
-        "positive": 7.4,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Hrithik Roshan thrilled for Kaho Naa… re-release, to watch with fans in theatresHrithik Roshan is excited as his popular film Kaho Naa... Pyaar Hai is set to re-release in theatres after 25 years. The film's re-release coincides with Hrithik's 51st birthday. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/hrithik-roshan-kaho-naa-pyaar-hai-rerelease-birthday-watch-with-fans-in-theatres-ameesha-patel-2660956-2025-01-07",
-        "category": "bollywood",
-        "date_time": "2025-01-07T15:39:00",
-        "uuid": "bfb8befb-26cf-41e7-8fc8-65fd6ed78e69",
-        "positive": 14.6,
-        "negative": 0
-    },
-    {
-        "headlines": "Mela turns 25: When flop film led to Akshay Kumar-Twinkle Khanna's hit love storyThe film Mela was released 25 years ago with Aamir Khan, Twinkle Khanna, and Faisal Khan in the lead. Despite the anticipation, it was a box office failure but led to the marriage of Khanna and Akshay Kumar.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/25-years-of-mela-how-film-box-office-performance-led-to-twinkle-khanna-akshay-kumar-wedding-2660960-2025-01-07",
-        "category": "bollywood",
-        "date_time": "2025-01-07T15:43:00",
-        "uuid": "a80f9247-782b-4b18-a88d-becb88fc9389",
-        "positive": 10.7,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Kangana Ranaut: Got courage for Emergency because there is freedom of speech today Actor Kangana Ranaut is gearing up for the release of her most-awaited film, Emergency. Ahead of that, she revealed the challenges she and her team faced during the making of the film. \r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/kangana-ranaut-says-got-courage-for-emergency-because-there-is-freedom-of-speech-today-2661203-2025-01-07",
-        "category": "bollywood",
-        "date_time": "2025-01-07T22:45:00",
-        "uuid": "39aae47b-559c-4465-95d5-d5465cacd585",
-        "positive": 9.3,
-        "negative": 12.4
-    },
-    {
-        "headlines": "Manoj Muntashir warns Sky Force makers of legal action over song credit disputeLyricist Manoj Muntashir shared his anger on X after Sky Force makers didn't give him credit for writing the upcoming song Maaye. Muntashir threatened the makers with legal action.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/manoj-muntashir-warns-sky-force-makers-legal-action-song-credit-dispute-maaye-akshay-kumar-2661323-2025-01-08",
-        "category": "bollywood",
-        "date_time": "2025-01-08T09:36:00",
-        "uuid": "c1d0d82a-3ebf-4bc1-9e28-555957acbd28",
-        "positive": 6.5,
-        "negative": 8.7
-    },
-    {
-        "headlines": "Anupam Kher on Emergency: We should treat this film above all the controversiesVeteran actor Anupam Kher shared his experience of playing late politician Jayaprakash Narayan in the upcoming film Emergency. The actor said that the film should be treated 'above all the controversies.'",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anupam-kher-emergency-kangana-ranaut-treat-this-film-all-controversies-2661308-2025-01-08",
-        "category": "bollywood",
-        "date_time": "2025-01-08T09:09:00",
-        "uuid": "c8e6e0cc-1abe-4d23-ae58-f2c7c2b2c04c",
-        "positive": 9.1,
-        "negative": 5.4
-    },
-    {
-        "headlines": "Aamir Khan vows to quit smoking if son Junaid's film Loveyapa becomes a hitSuperstar Aamir Khan has promised to stop smoking if his son and actor Junaid Khan's Loveyapa becomes a box office success. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/aamir-khan-vows-to-quit-smoking-if-son-junaid-film-loveyapa-becomes-a-hit-2661373-2025-01-08",
-        "category": "bollywood",
-        "date_time": "2025-01-08T11:48:00",
-        "uuid": "032b0d17-54bb-402c-9acd-c7869a53c572",
-        "positive": 17.8,
-        "negative": 0.8
-    },
-    {
-        "headlines": "Kartik Aaryan's Aashiqui 3 postponed after Triptii Dimri's exit: ReportsTriptii Dimri and Kartik Aaryan's Aashiqui 3 has been put on hold. Reportedly, Triptii has exited the project.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/kartik-aryan-aashiqui-3-postponed-triptii-dimri-exit-anurag-basu-reports-stmp-2661457-2025-01-08",
-        "category": "bollywood",
-        "date_time": "2025-01-08T13:34:00",
-        "uuid": "e37d8df8-b5e1-46fd-9654-4ad39f65e4d7",
-        "positive": 9.4,
-        "negative": 4.8
-    },
-    {
-        "headlines": "Vikrant Massey's The Sabarmati Report to premiere on Zee5 in JanuaryThe Sabarmati Report, featuring Vikrant Massey, soon hits Zee5. The film centres around the 2002 Godhra tragedy. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/vikrant-massey-the-sabarmati-report-to-premiere-on-zee5-in-january-2661454-2025-01-08",
-        "category": "bollywood",
-        "date_time": "2025-01-08T13:20:00",
-        "uuid": "84a7ca83-31a7-462f-9b0a-e88cfdf11ba8",
-        "positive": 9.2,
-        "negative": 4.6
-    },
-    {
-        "headlines": "Aamir Khan called me mad over controversial scene in Dil, says filmmaker Indra KumarDirector Indra Kumar recently recalled that Aamir Khan had expressed his discomfort regarding a controversial scene in the film Dil. The film starred Aamir and Madhuri Dixit. \r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/aamir-khan-raised-concerns-over-controversial-scene-in-dil-called-director-indra-kumar-paagal-2661539-2025-01-08",
-        "category": "bollywood",
-        "date_time": "2025-01-08T16:22:00",
-        "uuid": "011971aa-dd3a-4fa4-baeb-daebe5dd0b41",
-        "positive": 6.7,
-        "negative": 6.6
-    },
-    {
-        "headlines": "Abhishek Sharma recalls Kaho Naa... shoot: Was blown by Hrithik's dedicationActor Abhishek Sharma spoke about playing Hrithik Roshan's younger brother in Kaho Naa Pyaar Hai. The film will be re-releasing in cinemas on January 10, coinciding with the star's birthday. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/abhishek-sharma-recalls-kaho-naa-pyaar-hai-shoot-hrithik-roshan-2661597-2025-01-08",
-        "category": "bollywood",
-        "date_time": "2025-01-08T17:22:00",
-        "uuid": "5444421a-02f8-44d4-916b-ef0011662478",
-        "positive": 11.1,
-        "negative": 2.2
     },
     {
         "headlines": "Virat Kohli back as captain? Star batter at his animated best, sets fields at MCGAustralia vs India, 4th Test: Virat Kohli was marshalling the troops on Day 4 morning, constantly chatting with captain Rohit Sharma. The former skipper was at his animated best, much to the delight of the crowd in Melbourne. ",
@@ -7846,6 +7630,15 @@
         "uuid": "eccc8293-6b1e-439c-a93e-0acdf313f9b2",
         "positive": 10.6,
         "negative": 3.5
+    },
+    {
+        "headlines": "Subedaar teaser: Anil Kapoor plays a retired soldier in the gritty actionerThe teaser of Anil Kapoor's upcoming film, Subedaar, was released on his birthday today. The crime-thriller will also star Radhikka Madan and will release on Prime Video. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/subedaar-teaser-anil-kapoor-plays-a-retired-soldier-in-the-gritty-actioner-2654551-2024-12-24",
+        "category": "bollywood",
+        "date_time": "2024-12-24T13:04:00",
+        "uuid": "744ffd05-8b82-4273-a517-dd2a36b61183",
+        "positive": 7.2,
+        "negative": 6.9
     },
     {
         "headlines": "ICC Awards: Babar, Arshdeep nominated for T20I Player of the Year 2024, no BumrahThe International Cricket Council (ICC) released the list of nominated players for the T20I Cricketer of the Year award for 2024.                                                                                                                                                                                                                                                            ",
@@ -8100,15 +7893,6 @@
         "negative": 6.6
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "Steely Australia break India's resistance to win MCG thriller, end 13-year streakAustralia vs India, 4th Test: Australia rode on an all-round bowling show on Day 5 to beat India by 184 runs and take a 2-1 lead in the five-match series on Monday. India paid the price for their big stars, including Rohit Sharma and Virat Kohli, not showing enough fight with the bat in the final innings. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-4th-test-day-5-score-melbourne-thriller-wtc-standings-2657179-2024-12-30",
         "category": "sports",
@@ -8289,6 +8073,15 @@
         "negative": 8.9
     },
     {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
+    },
+    {
         "headlines": "Manchester United face clear threat of relegation, admits Ruben AmorimRuben Amorim admitted that it is \"really clear\" Manchester United are being drawn into a relegation battle following their 2-0 defeat to Newcastle at Old Trafford. ",
         "article_url": "https://www.indiatoday.in/sports/football/story/manchester-united-threat-relegation-ruben-amorim-newcastle-loss-2657569-2024-12-31",
         "category": "sports",
@@ -8388,13 +8181,13 @@
         "negative": 3.5
     },
     {
-        "headlines": "Pritish Nandy dies: Kareena Kapoor remembers producer with throwback photosPritish Nandy, a luminary in Indian journalism and cinema, died at 73 on Wednesday. Bollywood celebrities such as Kareena Kapoor and Sanjay Dutt remembered his impactful contributions and paid tributes via social media.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/pritish-nandy-dies-kareena-kapoor-remembers-producer-sanjay-dutt-anil-kapoor-sudhir-mishra-2662042-2025-01-09",
+        "headlines": "Param Sundari: Sidharth Malhotra's swag meets Janhvi Kapoor's grace in new filmSidharth Malhotra and Janhvi Kapoor are set to star together in a film titled Param Sundari. This romantic comedy, directed by Tushar Jalota, is slated for a theatrical release in July 2025.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/param-sundari-janhvi-kapoor-sidharth-malhotra-rom-com-to-release-in-july-2025-2654585-2024-12-24",
         "category": "bollywood",
-        "date_time": "2025-01-09T11:24:00",
-        "uuid": "855695bb-84a6-4539-bf4e-9d1441280e92",
-        "positive": 14.1,
-        "negative": 9.6
+        "date_time": "2024-12-24T14:01:00",
+        "uuid": "722953f6-570b-401d-bb4f-27b415cde4d7",
+        "positive": 14.7,
+        "negative": 0.3
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8449,6 +8242,96 @@
         "uuid": "96e11370-755d-46b6-8aac-63006ffccf13",
         "positive": 16.5,
         "negative": 3.6
+    },
+    {
+        "headlines": "Siddharth Anand replaces Sujoy Ghosh as director for SRK's King: ReportsAmid much buzz around Shah Rukh Khan's King, it has now been reported that Siddharth Aand has replaced Sujoy Ghosh to direct the entertainer. The film also stars Suhana Khan in a key role. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/siddharth-anand-replaces-sujoy-ghosh-director-shah-rukh-khan-king-stmp-2654749-2024-12-24",
+        "category": "bollywood",
+        "date_time": "2024-12-24T18:11:00",
+        "uuid": "392068f8-177c-4a63-ba6b-cde3804a0180",
+        "positive": 5.6,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Baby John review: Varun Dhawan-Keerthy Suresh's actioner is massy but messyReleased-Wed Dec 25, 2024Baby John movie review: Varun Dhawan, Keerthy Suresh and Jackie Shroff-starrer Baby John is a commercial entertainer with an overdose of mass moments. The performances of lead cast make the film enjoyable.",
+        "article_url": "https://www.indiatoday.in/movies/reviews/story/baby-john-movie-review-varun-dhawan-keerthy-suresh-atlee-actioner-massy-messy-2655044-2024-12-25",
+        "category": "bollywood",
+        "date_time": "2024-12-25T09:44:00",
+        "uuid": "91b787bf-e5e2-4905-9842-95857ef23ca3",
+        "positive": 14.9,
+        "negative": 8.4
+    },
+    {
+        "headlines": "The Idiot of Istanbul: Imtiaz Ali confirms his next with Fahadh Faasil Imtiaz Ali confirmed his film with Malayalam superstar Fahadh Faasil. During an interview, he revealed that the film has been titled The Idiot of Istanbul. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/the-idiot-of-istanbul-imtiaz-ali-confirms-his-next-with-fahadh-faasil-2655077-2024-12-25",
+        "category": "bollywood",
+        "date_time": "2024-12-25T10:37:00",
+        "uuid": "93d182bd-cb00-4e39-9a95-597c203b1241",
+        "positive": 10.1,
+        "negative": 5.7
+    },
+    {
+        "headlines": "Housefull 5: Akshay Kumar, Abhishek Bachchan, Riteish, others wrap film's shootAkshay Kumar, Riteish Deshmukh, Abhishek Bachchan and others have wrapped the shoot of the upcoming film, Housefull 5. Fardeen Khan shared pictures on social media from the bash. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-riteish-deshmukh-fardeen-khan-abhishek-bachchan-wrap-housefull-5-shoot-2655171-2024-12-25",
+        "category": "bollywood",
+        "date_time": "2024-12-25T14:43:00",
+        "uuid": "206eb097-9115-49b7-ad04-691f9605fb43",
+        "positive": 15.8,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Karan Johar, Kartik Aaryan team up for new film Tu Meri Main TeraKaran Johar and Kartik Aaryan have finally joined forces for a romantic drama directed by Sameer Vidwans. The film, Tu Meri Main Tera, Main Tera Tu Meri, is set to release in 2026.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-kartik-aaryan-team-up-romantic-drama-tu-meri-main-tera-main-tera-tu-meri-2655308-2024-12-25",
+        "category": "bollywood",
+        "date_time": "2024-12-25T21:12:00",
+        "uuid": "2990ab97-cd6f-4227-91cb-08adfbf9cca1",
+        "positive": 15.2,
+        "negative": 0
+    },
+    {
+        "headlines": "Baby John box office Day 1: Varun Dhawan, Atlee's film opens at Rs 12.5 crore Varun Dhawan's Baby John had a modest opening on Christmas Day, overshadowed by the continued success of Pushpa 2. The intense box office competition was further fuelled by other releases, including Max.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-1-collection-varun-dhawan-atlee-film-opens-at-rs-125-crore-2655424-2024-12-26",
+        "category": "bollywood",
+        "date_time": "2024-12-26T08:57:00",
+        "uuid": "e1924837-3054-4e5e-8822-aadd5a6dc1cf",
+        "positive": 9.9,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Anil Kapoor skipped bathing for days to preserve makeup after his debut: Boney KapoorProducer Boney Kapoor recently revealed a personal anecdote about his actor-brother Anil Kapoor. He shared he didn't bathe for days after shooting for his first film. \r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anil-kapoor-skipped-bathing-for-days-to-preserve-makeup-after-his-debut-boney-kapoor-2655450-2024-12-26",
+        "category": "bollywood",
+        "date_time": "2024-12-26T09:48:00",
+        "uuid": "8878c9ac-26e6-46d9-b661-d85dc48465d0",
+        "positive": 8.9,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Shahana Goswami on Laapataa Ladies' exit from Oscars: It's still a big winShahana Goswami discusses the significance of Laapataa Ladies' journey despite not advancing in the Oscars race, highlighting the ongoing debates around India's film selection for the awards.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shahana-goswami-on-laapataa-ladies-exit-from-oscars-its-still-a-big-win-2655584-2024-12-26",
+        "category": "bollywood",
+        "date_time": "2024-12-26T14:19:00",
+        "uuid": "16785322-14f8-4267-8be6-aed680c61029",
+        "positive": 11,
+        "negative": 0.5
+    },
+    {
+        "headlines": "Akshay Kumar's Welcome to the Jungle team to shoot mega schedule in DubaiAkshay Kumar's Welcome to the Jungle team is set to start a major shooting schedule in Dubai and Abu Dhabi, following extensive shoots in Mumbai and Kashmir. The film promises a cinematic spectacle with scenes to be shot at exclusive UAE locations.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-welcome-to-the-jungle-team-shoot-mega-schedule-dubai-abu-dhabi-2655617-2024-12-26",
+        "category": "bollywood",
+        "date_time": "2024-12-26T14:53:00",
+        "uuid": "8b3ca2f7-2370-4688-b9cd-897b479600a8",
+        "positive": 7.5,
+        "negative": 3.8
+    },
+    {
+        "headlines": "Hrithik Roshan to start Krrish 4 shoot after wrapping War 2: ReportActor Hrithik Roshan will reportedly begin Krrish 4 shooting after completing Ayan Mukerji's War 2. The shooting of the superhero franchise is expected to begin in the summer of 2025.  ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/hrithik-roshan-krrish-4-shoot-wrapping-war-2-ayan-mukerji-rakesh-roshan-2655749-2024-12-26",
+        "category": "bollywood",
+        "date_time": "2024-12-26T18:01:00",
+        "uuid": "ae01c873-09b2-4a7a-960c-0c32ffd4255f",
+        "positive": 4.7,
+        "negative": 5.8
     },
     {
         "headlines": "Jasprit Bumrah to be rested for England ODIs ahead of Champions Trophy: SourcesIndia vs England, 2025: Star pacer Jasprit Bumrah is likely to be rested for the white-ball series against England. India will play five ODIs and three T20Is against a visiting England side from January 22 to February 9. ",
@@ -8620,15 +8503,6 @@
         "uuid": "20e7fd56-9579-43b2-8945-1bd7a55384fe",
         "positive": 14.5,
         "negative": 2.7
-    },
-    {
-        "headlines": "Kangana Ranaut: Directing Emergency was wrong decisionActor and MP, Kangana Ranaut discussed the delay in the release of her debut solo directorial, Emergency. She regretted her decision to release the film in theatres. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/kangana-ranaut-directing-emergency-wrong-decision-things-for-granted-bjp-rule-cbfc-controversies-2662020-2025-01-09",
-        "category": "bollywood",
-        "date_time": "2025-01-09T10:58:00",
-        "uuid": "ade40e3e-5e94-4363-a7f6-28107de08fb4",
-        "positive": 4.6,
-        "negative": 12.7
     },
     {
         "headlines": "Bunch of liars: Ex-player slams Team India over MCG Test DRS controversiesA former India cricketer has hit out against the Rohit Sharma-led Indian team. Former Delhi wicketkeeper Surinder Khanna called the Indian team a bunch of liars after their loss in the Boxing Day Test match at the MCG.",
@@ -8874,6 +8748,15 @@
         "negative": 4.6
     },
     {
+        "headlines": "Junaid Khan and Khushi Kapoor's next titled Loveyapa, to release in 2025Junaid Khan and Khushi Kapoor have teamed up for their upcoming rom-com, Loveyapa, set to release on February 7, 2025. The film explores modern-day romance with vibrant music and visuals.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/junaid-khan-khushi-kapoor-new-film-loveyapa-release-2025-2655780-2024-12-26",
+        "category": "bollywood",
+        "date_time": "2024-12-26T19:16:00",
+        "uuid": "5ec809c1-a5db-4d6b-8516-92f3a833da95",
+        "positive": 16,
+        "negative": 1
+    },
+    {
         "headlines": "KL Rahul's stylish New Year celebration with wife Athiya Shetty in SydneyKL Rahul celebrated New Year with wife Athiya Shetty under Sydney's iconic fireworks, ahead of India's crucial fifth Test against Australia. The match carries high stakes for India's World Test Championship qualification hopes and Border-Gavaskar Trophy defence.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-kl-rahul-new-year-celebration-wife-athiya-shetty-sydney-fifth-test-2658314-2025-01-01",
         "category": "sports",
@@ -8998,5 +8881,122 @@
         "uuid": "94542a94-df04-42d5-922a-2fe9996b0195",
         "positive": 2.8,
         "negative": 5.2
+    },
+    {
+        "headlines": "Just reports, not truth: Coach Gautam Gambhir on leaks from Indian dressing room Coach Gautam Gambhir has dismissed reports of a rift within the Indian dressing room, emphasising the importance of maintaining privacy in dressing room discussions.  The controversy has added to the mounting pressure on the Indian team, which trails 1-2 in the series.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-coach-gautam-gambhir-on-leaks-from-indian-dressing-room-sydney-test-2658412-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T09:31:00",
+        "uuid": "e86fa0b6-bb85-46a2-afd5-f37c7d85d6a6",
+        "positive": 14.5,
+        "negative": 4.6
+    },
+    {
+        "headlines": "Perera's hundred gives SL their first T20I win in New Zealand since 2006Kusal Perera's maiden T20I century helped Sri Lanka register their first T20I win in New Zealand since 2006, a consolation in the three-match T20I series, which the hosts won 2-1.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-sri-lanka-3rd-t20i-report-kusal-perera-hundred-2658443-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T10:25:00",
+        "uuid": "edafc65b-bb2d-4b38-9187-9a1774d549a4",
+        "positive": 11.7,
+        "negative": 2.9
+    },
+    {
+        "headlines": "India's predicted XI for 5th Test: Rohit Sharma out, Shubman Gill in?Australia vs India: India coach Gautam Gambhir has sparked speculation over Rohit Sharma's participation in the final Border-Gavaskar Trophy Test at Sydney Cricket Ground by declining to confirm his place.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-predicted-xi-sydney-test-vs-australia-rohit-sharma-shubman-gill-pant-gill-2658470-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T11:23:00",
+        "uuid": "0e51d780-0a14-4d0b-a6ec-ee6502b3bb41",
+        "positive": 4.1,
+        "negative": 5.3
+    },
+    {
+        "headlines": "Transition phase in Test team has already begun, says coach Gautam GambhirAustralia vs India: Speaking to the press on the eve of the New Year's Test in Sydney, coach Gautam Gambhir said the transition phase in the Test team is not just a challenge but an exciting opportunity. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-coach-gautam-gambhir-press-conference-transition-phase-rohit-virat-2658458-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T10:51:00",
+        "uuid": "0afd85bb-1736-4cb1-bd6e-36d3b3983850",
+        "positive": 11.8,
+        "negative": 2
+    },
+    {
+        "headlines": "Gill's fist bump, Rohit's cameo: Sydney training adds to selection intrigueAustralia vs India, 5th Test: While captain Rohit Sharma did not attend the pre-match press conference in Sydney, he batted briefly in the nets. Meanwhile, coach Gautam Gambhir and vice-captain Jasprit Bumrah appeared to send a message to Shubman Gill.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-5th-test-shubman-gill-gautam-gambhir-rohit-sharma-sydney-training-2658501-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T12:37:00",
+        "uuid": "23c31711-c99f-4b61-ab06-532168707f18",
+        "positive": 4.9,
+        "negative": 5.7
+    },
+    {
+        "headlines": "Pakistan board worried due to incomplete renovation work at Karachi StadiumThe Pakistan Cricket Board is racing against time to complete renovations at the National Stadium before the Champions Trophy, leading to a reshuffling of scheduled matches to alternate venues. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-pakistan-worried-incomplete-renovation-karachi-stadium-2658494-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T12:09:00",
+        "uuid": "f5bf45e0-8609-40f8-a9de-ee9a52ed47ac",
+        "positive": 5,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Don't take things for granted: Details of Gambhir's dressing room dressing-down Australia vs India, 5th Test: Head coach Gautam Gambhir had a stern yet constructive talk with the players, including seniors Virat Kohli and Rohit Sharma, after the 184-run defeat in the fourth Test in Melbourne. Gambhir addressed chatter about his dressing room speech while talking to the press on Thursday in Sydney. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-dressing-room-speech-melbourne-defeat-inside-scoop-2658539-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T13:25:00",
+        "uuid": "8de42fb3-001e-4a86-9897-a2faa2247fe1",
+        "positive": 9.7,
+        "negative": 4.2
+    },
+    {
+        "headlines": "Won't be shocked if Rohit Sharma retires from Test cricket: Ravi ShastriFormer India coach Ravi Shastri said he would not be surprised if Rohit Sharma calls time on his Test career. Shastri's comments came after India coach Gautam Gambhir refrained from confirming Rohit's participation in the fifth Test against Australia.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-test-future-ravi-shastri-2658525-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T12:55:00",
+        "uuid": "131c9869-3c0e-4391-b656-cd35e9fc836a",
+        "positive": 12.6,
+        "negative": 4.4
+    },
+    {
+        "headlines": "AUS vs IND: India head to Sydney to salvage some pride amid dressing room troublesBorder-Gavaskar Trophy: India head to the Sydney Test with hopes of salvaging a draw, being overshadowed by questions about their captain Rohit Sharma's place in the playing XI and dressing room leaks. Here's ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-5th-test-preview-gautam-gambhir-rohit-sharma-virat-kohli-ind-vs-aus-border-gavaskar-trophy-2024-25-2658291-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T14:40:00",
+        "uuid": "e05453f5-9108-4c90-b9e5-2efee9a3d4c6",
+        "positive": 9.9,
+        "negative": 4.2
+    },
+    {
+        "headlines": "Manu Bhaker, D Gukesh among four to be awarded Khel Ratna in JanuaryDouble Olympic medalist Manu Bhaker and world chess champion D Gukesh are among the four athletes who will receive the Khel Ratna award on January 17. Manu Bhaker's name was initially missing from the list of nominees for the highest sporting award in the country. ",
+        "article_url": "https://www.indiatoday.in/sports/other-sports/story/manu-bhaker-d-gukesh-among-four-to-be-awarded-khel-ratna-in-january-2658587-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T14:40:00",
+        "uuid": "062f951a-697a-472f-8f94-2bbe18d310c9",
+        "positive": 16.8,
+        "negative": 2
+    },
+    {
+        "headlines": "Poor Test form won't impact Rohit, Kohli in Champions Trophy: Shane WatsonShane Watson backed Virat Kohli and Rohit Sharma to shine in the Champions Trophy, dismissing concerns over their Test form. Despite struggles in the Border-Gavaskar Trophy, their ODI brilliance remains a critical factor for India's campaign success.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-virat-kohli-test-form-wont-impact-champions-trophy-shane-watson-2658570-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T14:03:00",
+        "uuid": "c43ff640-a650-48e8-8ba6-bc251abdefd7",
+        "positive": 11.9,
+        "negative": 6.2
+    },
+    {
+        "headlines": "National Sports Day 2024: Full list of Khel Ratna, Arjuna award winnersThe National Sports Awards 2024 celebrated India's top athletes, recognizing their unparalleled contributions to sports, including Major Dhyan Chand Khel Ratna winners Manu Bhaker, Gukesh D, Harmanpreet Singh, and Praveen Kumar. ",
+        "article_url": "https://www.indiatoday.in/sports/other-sports/story/khel-ratna-arjuna-award-dronacharya-manu-bhaker-d-gukesh-full-list-winners-national-sports-day-2658628-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T15:24:00",
+        "uuid": "f7d3c2d3-ebfb-4faa-9c3a-e34dfbf4d106",
+        "positive": 22.4,
+        "negative": 0.9
+    },
+    {
+        "headlines": "5th Test live streaming, TV guide, SCG pitch conditions and India timingsBorder-Gavaskar Trophy: India head to the Sydney Test with hopes of salvaging a draw, but are overshadowed by questions about their captain Rohit Sharma's place in the playing XI and dressing room leaks. Here's all you need to know about the BGT series decider.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-5th-test-live-streaming-tv-guide-scg-pitch-conditions-and-india-timings-2658291-2025-01-02",
+        "category": "sports",
+        "date_time": "2025-01-02T14:40:00",
+        "uuid": "15e09ea8-a2e8-4c89-b79b-5d59993ba4df",
+        "positive": 10.9,
+        "negative": 4.4
     }
 ]
