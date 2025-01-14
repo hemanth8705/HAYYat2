@@ -2376,13 +2376,13 @@
         "negative": 5
     },
     {
-        "headlines": "Rupee hits all-time low, nears 86 mark against US dollarRupee hits all-time: Closing at 85.9650, the rupee marked its tenth consecutive weekly loss, slipping 0.2% this week amid a strong dollar and persistent capital outflows.",
-        "article_url": "https://www.indiatoday.in/business/story/rupee-hits-all-time-low-of-nearly-86-against-us-dollar-key-reasons-explained-2662866-2025-01-10",
+        "headlines": "Supreme Court gives big relief for online gaming sector. Details hereThe Supreme Court has stayed Rs 1.12 lakh crore GST notices against online gaming firms, with a final hearing scheduled for March 18, 2025.",
+        "article_url": "https://www.indiatoday.in/business/story/supreme-court-gives-big-relief-for-online-gaming-sector-details-here-2662919-2025-01-10",
         "category": "business",
-        "date_time": "2025-01-10T16:01:00",
-        "uuid": "d29e782e-12ab-4a3c-afcd-9799227ae8ed",
-        "positive": 7.1,
-        "negative": 5.4
+        "date_time": "2025-01-10T17:35:00",
+        "uuid": "d455587b-0ebd-42b0-9068-075ea798719a",
+        "positive": 16.8,
+        "negative": 2
     },
     {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
@@ -3042,13 +3042,13 @@
         "negative": 1.9
     },
     {
-        "headlines": "OnePlus 13R review: Great hardware, loaded with features, and a killer priceOnePlus is back with two top-end phones — the OnePlus 13 and the OnePlus 13R. Of the two, we find in this review that the OnePlus 13R may prove to be a fan-favourite due to its combination of great hardware, ample top-end features and a killer price of just Rs 42,999. ",
-        "article_url": "https://www.indiatoday.in/technology/reviews/story/oneplus-13r-review-great-hardware-loaded-with-features-and-a-killer-price-2662965-2025-01-10",
-        "category": "technology",
-        "date_time": "2025-01-10T18:40:00",
-        "uuid": "b06be793-8add-4afd-a170-80826b3fac5f",
-        "positive": 13.9,
-        "negative": 2
+        "headlines": "Baby John: What derails Varun Dhawan and Atlee's action thriller?Despite much anticipation for Varun Dhawan's action thriller Baby John, it failed to impress fans.  Here's a complete round-up highlighting points about what did not work for the film. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-varun-dhawan-atlee-action-thriller-kalees-keerthy-suresh-wamiqa-gabbi-jackie-shroff-2655601-2024-12-27",
+        "category": "bollywood",
+        "date_time": "2024-12-27T09:56:00",
+        "uuid": "8ac85c02-1d02-4e62-8ee7-c7850d738ad5",
+        "positive": 16.2,
+        "negative": 11.8
     },
     {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
@@ -4932,6 +4932,141 @@
         "negative": 3.7
     },
     {
+        "headlines": "Karan Johar calls Varun Dhawan's Baby John 'one helluva masala ride' Baby John is currently running in theatres. Karan Johar praised Varun Dhawan's film and urged fans to watch the \"new year spectacle\".",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-calls-varun-dhawans-baby-john-one-helluva-masala-ride-2656101-2024-12-27",
+        "category": "bollywood",
+        "date_time": "2024-12-27T12:03:00",
+        "uuid": "57971feb-6b54-40c5-8fcc-a455cca3d1d7",
+        "positive": 11.5,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Yeh Jawaani Hai Deewani to re-release in theatres in JanuaryThe beloved romantic comedy Yeh Jawaani Hai Deewani, starring Ranbir Kapoor, Deepika Padukone, and Aditya Roy Kapur, is set to return to theatres. On Friday, Dharma Movies announced the re-release date in an exciting social media post.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-to-re-release-in-theatres-in-january-2656164-2024-12-27",
+        "category": "bollywood",
+        "date_time": "2024-12-27T13:59:00",
+        "uuid": "e5b2fde1-b7aa-4579-98ca-cae308dfc840",
+        "positive": 17.2,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Baby John box office Day 3: Varun Dhawan's film sees decline in earningsIt has been three days since Varun Dhawan's Baby John hit theatres. However, the film has been experiencing a lull at the box office, with earnings steadily declining since its opening day.\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-3-varun-dhawans-film-sees-decline-in-earnings-2656548-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T08:36:00",
+        "uuid": "b34d8f45-941d-4c4c-a6aa-a20d8595fcf2",
+        "positive": 3.4,
+        "negative": 2.9
+    },
+    {
+        "headlines": "Sikandar teaser: Salman Khan gears up for high-octane action on Eid 2025Salman Khan's Sikandar teaser is finally out. The movie, directed by AR Murugadoss, will release in theatres on Eid 2025. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-salman-khan-high-octane-action-eid-2025-ar-murugadoss-rashmika-mandanna-sajid-nadiadwala-2656669-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T16:22:00",
+        "uuid": "745bf0f5-a0ee-4d87-8704-04e20c22e2e9",
+        "positive": 6,
+        "negative": 8.3
+    },
+    {
+        "headlines": "Sikandar teaser X reactions: Fans call Salman Khan 'badass', say 'bhai is back'The highly-anticipated teaser of Salman Khan's upcoming film Sikandar was unveiled today, sending fans into a frenzy online. Enthusiastic users hailed the mass actioner, declaring it a \"blockbuster in the making.\"",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-x-reactions-fans-call-salman-khan-badass-say-bhai-is-back-2656701-2024-12-28",
+        "category": "bollywood",
+        "date_time": "2024-12-28T16:58:00",
+        "uuid": "4c088c3f-fcc3-4fb2-a9f8-7f761cd155fd",
+        "positive": 17.9,
+        "negative": 3.7
+    },
+    {
+        "headlines": "Baby John box office Day 4: Varun Dhawan film crosses Rs 20-crore mark in IndiaBaby John, featuring Varun Dhawan, is currently being screened in theatres. After four days of release, the film has crossed Rs 20 crore in India.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-4-varun-dhawan-film-crosses-rs-20-crore-mark-in-india-2656843-2024-12-29",
+        "category": "bollywood",
+        "date_time": "2024-12-29T09:59:00",
+        "uuid": "8f8c765e-6074-44ee-bf83-0a9e49739564",
+        "positive": 1.8,
+        "negative": 1.4
+    },
+    {
+        "headlines": "Baby John box office Day 5: Varun Dhawan's film stumbles, earns Rs 28 croreVarun Dhawan's Baby John earned Rs 28.65 crore in 5 days, with a global total of Rs 36.7 crore. Despite a promising start, negative word of mouth and competition have hit the film's performance.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-5-varun-dhawan-film-stumbles-earns-rs-28-crore-2657159-2024-12-30",
+        "category": "bollywood",
+        "date_time": "2024-12-30T11:26:00",
+        "uuid": "eedca722-adaa-4673-a03f-a8b77e99c57d",
+        "positive": 4.8,
+        "negative": 6.3
+    },
+    {
+        "headlines": "Director Sujoy Ghosh to team up with Shahid Kapoor after exit from SRK's King?Sujoy Ghosh has apparently stepped away from Shah Rukh Khan's King. Rumours suggest that he will develop a thriller with Shahid Kapoor, although the actor's team denied it.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sujoy-ghosh-collaborate-shahid-kapoor-after-exit-from-srk-king-truth-revealed-2657227-2024-12-30",
+        "category": "bollywood",
+        "date_time": "2024-12-30T13:45:00",
+        "uuid": "41eb7679-d142-4fd7-970e-3c1f0d7051a4",
+        "positive": 6,
+        "negative": 5.6
+    },
+    {
+        "headlines": "Baby John box office Day 6: Pushpa 2 overshadows Varun Dhawan's filmVarun Dhawan's Baby John is struggling at the box office. It is facing stiff competition from Allu Arjun's Pushpa 2. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-6-pushpa-2-overshadows-varun-dhawans-film-2657708-2024-12-31",
+        "category": "bollywood",
+        "date_time": "2024-12-31T13:04:00",
+        "uuid": "04678a59-783f-4982-a909-afeba51e792a",
+        "positive": 2,
+        "negative": 5
+    },
+    {
+        "headlines": "Baby John box office Day 7: Varun Dhawan's film crawls towards Rs 50-crore markVarun Dhawan and Atlee's Baby John is struggling to perform at the box office. Released on Christmas, the action-thriller has so far only earned Rs 30 crore at the Indian box office.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-atlee-baby-john-box-office-day-7-film-struggles-to-earn-rs-50-in-india-2658107-2025-01-01",
+        "category": "bollywood",
+        "date_time": "2025-01-01T12:03:00",
+        "uuid": "1309708e-4e74-4be2-b08c-5430fe1c5a49",
+        "positive": 3.6,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Doordarshan pays tribute to Shyam Benegal with screening of Manthan on New Year'sIn a tribute to Shyam Benegal, Doordarshan will air a 4K restored version of Manthan on January 1. The film, restored by the Film Heritage Foundation, highlights the story of a milk cooperative in rural India.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/doordarshan-pays-tribute-shyam-benegal-with-screening-of-manthan-on-new-years-day-january-1-2658174-2025-01-01",
+        "category": "bollywood",
+        "date_time": "2025-01-01T14:33:00",
+        "uuid": "ccb5485e-09d3-42a7-9080-052f9a8d03ab",
+        "positive": 9.1,
+        "negative": 3.3
+    },
+    {
+        "headlines": "Deva poster: Shahid Kapoor's look from Rosshan Andrrews' film wows fansZee Studios and Roy Kapur Films have released the first poster of Deva, starring Shahid Kapoor and directed by Rosshan Andrrews. The film is slated for a January 31, 2025 release, with the poster stirring excitement among fans.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/deva-poster-out-shahid-kapoor-look-rosshan-andrrews-film-wows-fans-pooja-hegde-pavail-gulati-2658285-2025-01-01",
+        "category": "bollywood",
+        "date_time": "2025-01-01T19:15:00",
+        "uuid": "55b35e42-159b-485e-a226-bfbb5969b797",
+        "positive": 9.4,
+        "negative": 0
+    },
+    {
+        "headlines": "Baby John box office Day 8: Pushpa 2, Mufasa outshine Varun Dhawan filmVarun Dhawan's Baby John continues to struggle at the box office, earning just Rs 35.40 crore in 8 days. Meanwhile, Pushpa 2 and Mufasa draw larger audiences and higher collections.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-8-pushpa-2-mufasa-outshine-varun-dhawan-film-2658449-2025-01-02",
+        "category": "bollywood",
+        "date_time": "2025-01-02T10:32:00",
+        "uuid": "90007983-2a05-4c5b-91f4-3fc6216ba4ce",
+        "positive": 3,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Abhishek Banerjee on his role in Mirzapur film: Expect swag and dhamakaActor Abhishek Banerjee, in an exclusive interview with India Today Digital, spoke about Mirzapur: The Film. The actor shared what fans can expect from his character in the upcoming film. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/abhishek-banerjee-return-compounder-mirzapur-the-film-bloodshed-ali-fazal-2658561-2025-01-02",
+        "category": "bollywood",
+        "date_time": "2025-01-02T15:23:00",
+        "uuid": "3d13d9cd-734a-4f0e-be13-c7ecd18f8cd0",
+        "positive": 15.9,
+        "negative": 2.2
+    },
+    {
+        "headlines": "Mere Husband Ki Biwi: Arjun Kapoor, Bhumi and Rakul's film to release in FebruaryThe release date of Arjun Kapoor, Bhumi Pedenkar and Rakul Preet Singh's next film Arjun Mere Husband Ki Biwi will release on February 21. The makers announced the news with a motion poster. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/arjun-kapoor-bhumi-pedenkar-rakul-preet-singh-mere-husband-ki-biwi-release-february-2658657-2025-01-02",
+        "category": "bollywood",
+        "date_time": "2025-01-02T16:01:00",
+        "uuid": "29f5071f-f2d4-4f46-b0a8-969821a32281",
+        "positive": 12,
+        "negative": 0.8
+    },
+    {
         "headlines": "Who is G Trisha? India's U19 World Cup winner, now U19 Asia Cup hero Under-19 Women's Asia Cup 2024: 19-year-old Gongadi Trisha scored a match-winning half-century in the final against Bangladesh, which also helped her win the Player of the Match award. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-asia-cup-2024-gongadi-trisha-final-2653648-2024-12-22",
         "category": "sports",
@@ -5355,24 +5490,6 @@
         "negative": 3.3
     },
     {
-        "headlines": "Realme GT 7 Pro gets big discount on Flipkart, but is it worth buying?The Realme GT 7 Pro, launched just a month ago, has received a notable price drop on Flipkart. While the reduced price adds to its appeal, is the Realme GT 7 Pro worth purchasing? Here is a quick guide.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/realme-gt-7-pro-gets-big-discount-on-flipkart-but-is-it-worth-buying-2663028-2025-01-10",
-        "category": "technology",
-        "date_time": "2025-01-10T20:01:00",
-        "uuid": "157d7b62-5f05-45f9-9f44-12a23f603544",
-        "positive": 20.8,
-        "negative": 2.9
-    },
-    {
-        "headlines": "Meta scraps diversity programmes in broad shift ahead of Trump inaugurationMeta Platforms announced it will end its diversity, equity, and inclusion (DEI) programs, citing shifting legal and policy landscapes in the US. The decision includes eliminating its DEI team and discontinuing the \"Diverse Slate Approach.\"",
-        "article_url": "https://www.indiatoday.in/technology/story/meta-diversity-equity-and-inclusion-programs-donald-trump-inauguration-mark-zuckerberg-2663166-2025-01-11",
-        "category": "technology",
-        "date_time": "2025-01-11T01:39:00",
-        "uuid": "724528c6-3389-40c5-bf4f-73335781b864",
-        "positive": 9,
-        "negative": 5.5
-    },
-    {
         "headlines": "England name squads for Women's Ashes, MacDonald-Gay rewarded Women's Ashes 2025: 20-year-old Ryana MacDonald-Gay has been retained in the England squad for the Day-Night Test at the Melbourne Cricket Ground. Maia Bouchier has been included in all three squads. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-womens-ashes-ryana-macdonald-gay-england-squad-australia-2654103-2024-12-23",
         "category": "sports",
@@ -5436,13 +5553,13 @@
         "negative": 0.8
     },
     {
-        "headlines": "Redmi 14C 5G review: An entertainment box under Rs 10,000Redmi 14C 5G is an entry-level smartphone with a few premium features. At a starting price of Rs 9,999, the phone sports a Snapdragon 4 Gen 2 chipset, and a 5,160mAh battery. It looks great on paper. But is it just as good in real life? Let's find out in this review by India Today Tech. ",
-        "article_url": "https://www.indiatoday.in/technology/reviews/story/redmi-14c-5g-review-an-entertainment-box-under-rs-10000-2662907-2025-01-11",
-        "category": "technology",
-        "date_time": "2025-01-11T12:12:00",
-        "uuid": "132df6de-07e4-411e-9d48-0d10980fffaf",
-        "positive": 13.3,
-        "negative": 2.3
+        "headlines": "Mika Singh recalls 'horrible' work experience Bipasha Basu, Karan Singh GroverMika Singh shared his disappointment over an unpleasant work experience with actors Bipasha Basu and Karan Singh Grover. The singer highlighted unprofessional behaviour as the main issue during a film project.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/mika-singh-horrible-work-experience-bipasha-basu-karan-singh-grover-dangerous-2658722-2025-01-02",
+        "category": "bollywood",
+        "date_time": "2025-01-02T17:40:00",
+        "uuid": "5a5377f0-03b5-4313-9b36-2728c04bc76d",
+        "positive": 9.8,
+        "negative": 11.4
     },
     {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
@@ -5823,6 +5940,24 @@
         "negative": 1.4
     },
     {
+        "headlines": "Rajkummar, Ayushmann and Kriti Sanon's Bareilly Ki Barfi to re-release in theatresBareilly Ki Barfi, starring Rajkummar Rao, Ayushmann Khurrana and Kriti Sanon, is re-releasing in theatres. The Bollywood rom-com will be hitting the theatres in February. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rajkummar-rao-ayushmann-khurrana-and-kriti-sanons-bareilly-ki-barfi-to-re-release-in-theatres-2664044-2025-01-13",
+        "category": "bollywood",
+        "date_time": "2025-01-13T15:46:00",
+        "uuid": "2677807a-0dcb-47b3-92e7-4414ae72ba8b",
+        "positive": 16,
+        "negative": 0
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Harleen hits maiden ODI century in India's fiery batting-show vs West IndiesHarleen Deol dazzled with her maiden ODI century, leading India to their highest ODI total against West Indies. Her composed yet aggressive innings placed her alongside legends, showcasing India's batting brilliance in a dominant series display.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-west-indies-women-harleen-deol-maiden-odi-century-vadodara-2654701-2024-12-24",
         "category": "sports",
@@ -5883,24 +6018,6 @@
         "date_time": "2024-12-24T19:25:00",
         "uuid": "6fbe0cef-2a66-41b6-9ef6-eaed3301165c",
         "positive": 17.2,
-        "negative": 0.9
-    },
-    {
-        "headlines": "Rajkummar, Ayushmann and Kriti Sanon's Bareilly Ki Barfi to re-release in theatresBareilly Ki Barfi, starring Rajkummar Rao, Ayushmann Khurrana and Kriti Sanon, is re-releasing in theatres. The Bollywood rom-com will be hitting the theatres in February. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rajkummar-rao-ayushmann-khurrana-and-kriti-sanons-bareilly-ki-barfi-to-re-release-in-theatres-2664044-2025-01-13",
-        "category": "bollywood",
-        "date_time": "2025-01-13T15:46:00",
-        "uuid": "2677807a-0dcb-47b3-92e7-4414ae72ba8b",
-        "positive": 16,
-        "negative": 0
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
         "negative": 0.9
     },
     {
@@ -6327,15 +6444,6 @@
         "negative": 2.6
     },
     {
-        "headlines": "Sensex, Nifty close lower amid earnings concerns; TCS gains 6% The S&P BSE Sensex lost 241.30 points to end at 77,378.91, while the NSE Nifty50 was down 95 points to end at 23,431.50.",
-        "article_url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-close-lower-amid-earnings-concerns-tcs-gains-6-percent-it-stocks-rise-2662858-2025-01-10",
-        "category": "business",
-        "date_time": "2025-01-10T16:06:00",
-        "uuid": "e08721a7-0563-4c48-bbbf-c917e339f5b0",
-        "positive": 10,
-        "negative": 7
-    },
-    {
         "headlines": "Australia miss David Warner's attacking approach at the top: Ravi ShastriFormer India cricketer and head coach Ravi Shastri feels Australia is missing the attacking approach of David Warner at the top of the order in the ongoing series against India.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ravi-shastri-feels-australia-miss-david-warner-aus-vs-ind-border-gavaskar-trophy-2024-25-2655333-2024-12-25",
         "category": "sports",
@@ -6543,6 +6651,24 @@
         "negative": 2.7
     },
     {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Stree 3, Bhediya 2 to Maha Munjya: Maddock Films announce release datesMaddock Films has unveiled its ambitious slate of upcoming sequels and new releases, including Stree 3, Bhediya 2, and a monumental two-part saga, Mahayudh, set to redefine the horror-comedy genre in Indian cinema. The release dates for these projects span until 2028.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/stree-3-bhediya-2-maha-munjya-maddock-films-announce-release-dates-2658820-2025-01-02",
+        "category": "bollywood",
+        "date_time": "2025-01-02T19:41:00",
+        "uuid": "f254a9b1-5537-4f49-9418-d693f34e0441",
+        "positive": 10.2,
+        "negative": 0.7
+    },
+    {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/how-virat-kohli-and-rohit-sharma-geared-up-for-mcg-test-abhishek-nayar-reveals-2655689-2024-12-26",
         "category": "sports",
@@ -6595,15 +6721,6 @@
         "uuid": "6066e256-78dd-446f-a061-4a18f80454fe",
         "positive": 2.3,
         "negative": 8.1
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
     },
     {
         "headlines": "Sam Konstas tore MCC coaching manual to shreds: Ravi Shastri praises debutantSam Konstas' audacious debut innings left a lasting impression, with Ravi Shastri and Justin Langer praising his fearless approach. The young Australian batter's bold shots against Bumrah have many predicting a bright future for him in Test cricket.",
@@ -7227,6 +7344,33 @@
         "negative": 7.2
     },
     {
+        "headlines": "Baby John box office Day 9: Varun film earnings drop to Rs 1 crore in IndiaVarun Dhawan's Baby John is struggling at the box office, both domestically and internationally. The film's collections have dwindled, plummeting to just Rs 1 crore on Day 9.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-9-varun-dhawan-film-earnings-drop-to-rs-1-crore-in-india-2659025-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T08:53:00",
+        "uuid": "148ab2d2-0df7-4918-a49f-004cf369c57f",
+        "positive": 4.6,
+        "negative": 7
+    },
+    {
+        "headlines": "Sonu Sood shares why he rejected role of Chhedi Singh's brother in Dabangg 2Actor Sonu Sood, who played the main antagonist in Dabangg, recently revealed the reason behind rejecting its sequel. He was offered the role of Chhedi Singh's brother in Dabangg 2.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sonu-sood-shares-why-he-rejected-role-of-chhedi-singhs-brother-in-dabangg-2-2659152-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T13:11:00",
+        "uuid": "b3215f84-b1e6-4663-86ed-646d8d8c23e0",
+        "positive": 9.4,
+        "negative": 10.9
+    },
+    {
+        "headlines": "Yeh Jawaani Hai Deewani re-release: Ranbir-Deepika film eyes Rs 3 crore openingRanbir Kapoor and Deepika Padukone-starrer Yeh Jawaani Hai Deewani has re-released today, Friday. According to reports, the movie is eyeing a Rs 3 crore opening at the box office. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-re-release-ranbir-kapoor-deepika-padukone-3-crore-opening-2659274-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T15:33:00",
+        "uuid": "c591e3bf-e058-4c8b-9890-45fd22ad8d29",
+        "positive": 13.7,
+        "negative": 0
+    },
+    {
         "headlines": "Nitish Reddy's witty post for Siraj after MCG hundred: I also believe in Siraj bhaiIndia all-rounder Nitish Kumar Reddy praised his teammate Mohammed Siraj with a witty social media post as he played a pivotal role in helping him complete his maiden Test hundred in Melbourne.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-nitish-kumar-reddy-mohammed-siraj-aus-vs-ind-border-gavaskar-trophy-2024-25-ind-vs-aus-2656678-2024-12-28",
         "category": "sports",
@@ -7389,15 +7533,6 @@
         "negative": 4.7
     },
     {
-        "headlines": "Supreme Court gives big relief for online gaming sector. Details hereThe Supreme Court has stayed Rs 1.12 lakh crore GST notices against online gaming firms, with a final hearing scheduled for March 18, 2025.",
-        "article_url": "https://www.indiatoday.in/business/story/supreme-court-gives-big-relief-for-online-gaming-sector-details-here-2662919-2025-01-10",
-        "category": "business",
-        "date_time": "2025-01-10T17:35:00",
-        "uuid": "d455587b-0ebd-42b0-9068-075ea798719a",
-        "positive": 16.8,
-        "negative": 2
-    },
-    {
         "headlines": "PAK vs SA: Shakeel, Pakistan pacers shine as 1st Test set for thrilling finishSouth Africa need 121 runs with seven wickets in hand as Pakistan's fiery bowling, led by Abbas, sets up a nail-biting finish at Centurion. Can Markram steer the hosts to victory, or will Pakistan script a stunning turnaround?",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/pak-vs-sa-shakeel-pakistan-pacers-shine-as-1st-test-set-for-thrilling-finish-2656778-2024-12-28",
         "category": "sports",
@@ -7504,6 +7639,15 @@
         "uuid": "3f48feee-0265-41f7-b499-a5afdb00dfa6",
         "positive": 6.6,
         "negative": 10.5
+    },
+    {
+        "headlines": "Kunaal Roy Kapur on Yeh Jawaani Hai Deewani's Taran becoming a social media heroActor Kunaal Roy Kapur opens up about his character Taran from the superhit, Yeh Jawaani Hai Deewani, which has re-released in cinemas today, Friday. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/kunaal-roy-kapur-on-yeh-jawaani-hai-deewani-taran-social-media-hero-2659282-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T15:52:00",
+        "uuid": "b016c9a5-a665-4fc9-aff5-737325e0bf60",
+        "positive": 11.7,
+        "negative": 3.2
     },
     {
         "headlines": "Jasprit Bumrah's cheeky quip to Marnus Labuschagne goes viralIND vs AUS, 4th Test: Star India pacer Jasprit Bumrah's cheeky quip to Marnus Labuschagne went viral on the penultimate day of the MCG Test match. Bumrah took a dig at Marnus Labuschagne after the batter survived multiple close chances in his 139-ball stay.\r\n",
@@ -7947,6 +8091,15 @@
         "negative": 2.2
     },
     {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
+    },
+    {
         "headlines": "Why Jaiswal's drops are not the only reason for India's MCG Test lossIndia's defeat in the Melbourne Test exposed glaring flaws, from senior players' failures to tactical errors, while Yashasvi Jaiswal's dropped catches, though costly, were far from the sole reason for their precarious position in the Border Gavaskar Trophy.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-five-reasons-why-india-lost-melbourne-test-yashasvi-jaiswal-dropped-catches-2657469-2024-12-30",
         "category": "sports",
@@ -7963,15 +8116,6 @@
         "uuid": "68a74950-5e7c-4f69-852b-b671a86e8294",
         "positive": 5.3,
         "negative": 8.9
-    },
-    {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
     },
     {
         "headlines": "Manchester United face clear threat of relegation, admits Ruben AmorimRuben Amorim admitted that it is \"really clear\" Manchester United are being drawn into a relegation battle following their 2-0 defeat to Newcastle at Old Trafford. ",
@@ -8071,6 +8215,15 @@
         "uuid": "f032957a-df68-442d-ae22-4f269e264f33",
         "positive": 13.1,
         "negative": 3.5
+    },
+    {
+        "headlines": "Junaid Khan-Khushi Kapoor's Loveyapa song out, fans call it 'cringeyapa'Junaid Khan and Khushi Kapoor's new song Loveyapa Ho Gaya has been released, sparking mixed reactions from the audience. While some fans admired their chemistry, others labelled the track as 'cringe'.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/junaid-khan-khushi-kapoor-loveyapa-song-out-fans-call-it-cringeyapa-2659324-2025-01-03",
+        "category": "bollywood",
+        "date_time": "2025-01-03T17:05:00",
+        "uuid": "8209a247-1b8a-42f3-855d-8dabf5e4aeda",
+        "positive": 13.9,
+        "negative": 0
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8845,158 +8998,5 @@
         "uuid": "139e9de1-c574-465d-bf8a-1add6115f5f1",
         "positive": 10.7,
         "negative": 5.9
-    },
-    {
-        "headlines": "Dressing room leaks, Indian cricket's persistent plague, strikes againWhat happened in the dressing room hasn't stayed in the dressing room. Ahead of the much-awaited finale of the Border-Gavaskar Trophy, the Indian cricket team has been rocked by off-field controversy. While the dressing room chaos has been ugly, it is not unprecedented.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-dressing-room-leaks-persistent-issue-rohit-sharma-sydney-test-gambhir-2658790-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T18:53:00",
-        "uuid": "be3d9936-90d1-40fb-858b-95fce8c08069",
-        "positive": 7.9,
-        "negative": 9.4
-    },
-    {
-        "headlines": "Will motivate me to work harder: Gukesh ecstatic after Khel Ratna honourD Gukesh was among the four athletes along with Manu Bhaker, Harmanpreet Singh and Praveen Kumar to be honoured with the Major Dhyan Chand Khel Ratna Award. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-khel-ratna-award-motivate-work-hard-2658856-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T20:25:00",
-        "uuid": "58b4ef85-4e12-4da2-91fa-4db1fcceb723",
-        "positive": 17.7,
-        "negative": 3.2
-    },
-    {
-        "headlines": "India will not care about media stories ahead of Sydney Test: GavaskarSunil Gavaskar urged Team India to ignore media speculation about Rohit Sharma's potential exclusion and focus on the high-stakes Sydney Test, aiming to level the Border-Gavaskar Trophy and keep their World Test Championship hopes alive.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-will-not-care-about-media-stories-rohit-sharma-sydney-test-sunil-gavaskar-2658855-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T20:18:00",
-        "uuid": "57ac155c-504d-411e-81c2-301fdad0204f",
-        "positive": 7.9,
-        "negative": 5.2
-    },
-    {
-        "headlines": "Sydney Spirit of 2021 is what wounded India needs for series finaleIndia enters the SCG Test under intense scrutiny, aiming to replicate the grit and resilience of their iconic 2021 performance. With speculation around Rohit Sharma's absence, the team seeks to silence critics and defend the Border-Gavaskar Trophy.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sydney-test-2021-spirit-needed-rohit-sharma-exclusion-reports-series-finale-2658868-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T21:18:00",
-        "uuid": "dd04fbd1-751d-4987-a684-81df0ebea398",
-        "positive": 9.7,
-        "negative": 5.3
-    },
-    {
-        "headlines": "Split Wide Open: Gambhir Rohit ignore each other on Sydney Test eveAs India geared up for the Sydney Test, tensions flared between coach Gautam Gambhir and captain Rohit Sharma. Speculation about Rohit's exclusion reached a crescendo, overshadowing team preparations and signaling a shift in leadership dynamics.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-rohit-sharma-ignore-each-other-sydney-test-eve-2658917-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T22:15:00",
-        "uuid": "30c95316-27dd-4206-88e8-6cb73368c6b5",
-        "positive": 7.2,
-        "negative": 1.4
-    },
-    {
-        "headlines": "South Africa vs Pakistan New Year's Test: All you need to knowSA vs PAK, 2nd Test: South Africa would be looking to carry on from where they left off in the Centurion Test, which they won by two wickets. The Proteas have already sealed their berth in the final of the World Test Championship. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-pakistan-new-years-test-cape-town-live-streaming-2658909-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T21:58:00",
-        "uuid": "7afeffe8-186c-4a0e-a5e3-60570bfc8f6f",
-        "positive": 5.9,
-        "negative": 3.2
-    },
-    {
-        "headlines": "Rohit Sharma misses SCG Test, Jasprit Bumrah returns as captain Border Gavaskar Trophy, IND vs AUS: Rohit Sharma has been left out of India's playing XI for the New Year's Test against Australia. Shubman Gill has replaced him while Jasprit Bumrah has returned as captain. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/bgt-rohit-sharma-dropped-playing-xi-rested-jasprit-bumrah-sydney-test-captain-ind-vs-aus-2658937-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T04:42:00",
-        "uuid": "02d29080-89eb-462f-835a-828c7c2d4c49",
-        "positive": 6.7,
-        "negative": 3.8
-    },
-    {
-        "headlines": "Bold call from Rohit Sharma to rest himself for Sydney Test: Ravi ShastriIND vs AUS: Former India head coach Ravi Shastri believes that it was a bold call to 'rest' Rohit Sharma for the final Test match in Sydney. Sharma opted to remove himself from the playing XI and bring in Shubman Gill.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rohit-sharma-dropped-retirement-avi-shastri-reacts-2659005-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T06:13:00",
-        "uuid": "52f0de41-5437-476a-a2dd-3f8511980d05",
-        "positive": 7.1,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Our captain Rohit Sharma opted to 'rest', no selfishness in team: Jasprit BumrahIND vs AUS: Unselfish Rohit Sharma has opted to 'rest' himself from the SCG Test, said stand-in captain Jasprit Bumrah. Bumrah said that the Indian team was as united as ever and were trying to keep the positives in mind going into the final match of the series.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-jasprit-bumrah-captain-rohit-sharma-rested-india-playing-xi-scg-2659003-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T06:22:00",
-        "uuid": "e8537b45-880a-40b5-ba12-cc16116059e0",
-        "positive": 13.8,
-        "negative": 4.1
-    },
-    {
-        "headlines": "He's been dropped: Mark Taylor slams Rohit Sharma's 'resting' antics at SCGFormer Australia cricketer Mark Taylor has slammed Team India's line of Rohit Sharma 'resting himself'. Speaking on Triple M Cricket, Taylor said that Rohit has been dropped, and the team should just simply say so.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-dropped-mark-taylor-ind-vs-aus-scg-test-2659007-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T07:15:00",
-        "uuid": "f5cf3806-feaa-4337-8a22-3ff9c42582af",
-        "positive": 3.6,
-        "negative": 3.2
-    },
-    {
-        "headlines": "Virat Kohli out or not? Smith upset over third umpire's call in Sydney TestAustralia vs India, 5th Test: Virat Kohli was handed a lifeline when he was batting on 0 in the first innings of the final Test in Sydney. Steve Smith's effort in the slip cordon was deemed not out by third umpire Joel Wilson, leading to mixed reactions. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-sydney-test-virat-kohli-catch-not-out-joel-wilson-steve-smith-2659006-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T07:11:00",
-        "uuid": "82dd9b4e-46ba-4927-9b64-f31997ebb3e6",
-        "positive": 5.1,
-        "negative": 5.2
-    },
-    {
-        "headlines": "Rohit Sharma has played his last Test for India: Sunil GavaskarIndia captain Rohit Sharma has played his last Test match in Melbourne, said Sunil Gavaskar on Friday - Day 1 of the final Test match of the Border-Gavaskar Trophy. Sharma skipped the SCG Test after opting to rest himself.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-rohit-sharma-retirement-rested-dropped-gavaskar-2659020-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T08:25:00",
-        "uuid": "8f06afca-5794-42fd-8d20-cd8c81035acf",
-        "positive": 7,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Steve Smith '100 percent' certain he got his hand under Virat Kohli's catchSteven Smith is 100 percent certain he got his hand under the ball while attempting to catch Virat Kohli at slip on the first day of the SCG Test. The decision was referred to the TV umpire and was eventually ruled not out.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-steve-smith-reaction-virat-kohli-catch-sydney-test-2659017-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T08:15:00",
-        "uuid": "e1a46b88-84a0-4cab-9262-5caff5a44f49",
-        "positive": 11.5,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Sam Konstas built for this stage: Watson praises Australia opener's showmanshipFormer Australian all-rounder Shane Watson, who has mentored Sam Konstas, was pleasantly surprised by the 19-year-old's blockbuster debut in the fourth Test against India at the Melbourne Cricket Ground.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-shane-watson-on-sam-konstas-debut-2659029-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T09:02:00",
-        "uuid": "6a2aaf0f-ea5f-4d6c-b18c-45fd707bed51",
-        "positive": 13.5,
-        "negative": 3.7
-    },
-    {
-        "headlines": "Watch: Rishabh Pant takes body-blows, replies with massive six at SCGIndia batter Rishabh Pant battled it out like a gladiator at the SCG on Friday. In testing conditions, Pant took blows to the hand and head and then replied with a stunning six on Day 1 of the final Test.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rishabh-pant-takes-body-blows-replies-with-six-2659054-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T10:07:00",
-        "uuid": "e2d3d1c3-56f8-4819-a651-240aae54ffa2",
-        "positive": 3.4,
-        "negative": 9.6
-    },
-    {
-        "headlines": "Edged and gone, again: Virat Kohli booed at SCG, dismissed for 17Senior India batter Virat Kohli once again edged the ball to the slips in the Border-Gavaskar Trophy. This was the 6th time out of 7 innings that Kohli got out edging the ball outside off stump.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-sydney-test-match-virat-kohli-outside-off-edge-2659040-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T10:19:00",
-        "uuid": "927c6d3a-75c9-4281-ba87-9d84816d8a90",
-        "positive": 1.2,
-        "negative": 2.6
-    },
-    {
-        "headlines": "SCG pitch has excessive grass, but no former Indian player is complaining: GavaskarFormer India captain Sunil Gavaskar slammed the unusually grassy pitch at the Sydney Cricket Ground, adding that former Indian players have refrained from criticising the challenging surfaces in Australia. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sunil-gavaskar-sydney-grass-pitch-5th-test-2659077-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T11:11:00",
-        "uuid": "f62a00d2-886c-4c31-8728-7a1a7bbbcdd4",
-        "positive": 8.4,
-        "negative": 9.6
     }
 ]
