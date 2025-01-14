@@ -2376,6 +2376,15 @@
         "negative": 5
     },
     {
+        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T18:30:00",
+        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
+        "positive": 11.5,
+        "negative": 11.9
+    },
+    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -3033,31 +3042,13 @@
         "negative": 1.9
     },
     {
-        "headlines": "Indians are chasing luxury travel like never before. What's driving this shift?Luxury travel among Indian tourists is no longer a rare occurrence. Recent statistics also reveal a clear shift in how Indians approach their travel plans. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/indians-are-chasing-luxury-travel-like-never-before-whats-driving-this-shift-2653015-2024-12-22",
+        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
         "category": "lifestyle",
-        "date_time": "2024-12-22T14:03:00",
-        "uuid": "bf97c7e1-815e-4aed-800a-71d2a00ea7b0",
-        "positive": 11.2,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Retirement depression is real and rising in India. How to manage itFor many people, retirement brings feelings of emptiness, loneliness, and worthlessness, which can potentially lead to clinical depression.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/retirement-depression-is-real-how-to-manage-prevent-it-2654219-2024-12-23",
-        "category": "lifestyle",
-        "date_time": "2024-12-23T19:34:00",
-        "uuid": "0f8587f3-b100-4bd9-863d-25648330d1d9",
-        "positive": 15.5,
-        "negative": 18.5
-    },
-    {
-        "headlines": "Diet Coke with protein shake? The new viral drink is not what experts recommendProtein Diet Coke is a blend of Diet Coke and a flavoured protein shake (mostly vanilla) that Rebecca Gordan, a teacher from Utah, introduced. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/diet-coke-with-protein-shake-the-new-viral-drink-is-not-what-experts-recommend-2654420-2024-12-24",
-        "category": "lifestyle",
-        "date_time": "2024-12-24T09:57:00",
-        "uuid": "ad6eef7a-172f-44d1-b7c3-743a85bfc7a9",
-        "positive": 13.8,
-        "negative": 8.2
+        "date_time": "2024-12-11T14:06:00",
+        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
+        "positive": 13.2,
+        "negative": 15
     },
     {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
@@ -3076,6 +3067,24 @@
         "uuid": "fc5b0e82-01f2-42d9-8591-a4422cf6a68b",
         "positive": 4.7,
         "negative": 6.7
+    },
+    {
+        "headlines": "Shami's BGT hopes take hit. Pacer gets left out of Bengal's Vijay Hazare openerIndia pacer Mohammed Shami's Border-Gavaskar Trophy hopes took a massive hit as the pacer was sidelined from Bengal's Vijay Hazare Trophy opener against Delhi. PTI reported that the pacer's knee injury had flared up once again and that's why he was sidelined.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-mohammed-shami-injury-bgt-vijay-hazare-2652609-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T22:27:00",
+        "uuid": "e0a4e93a-8e34-455d-b7e5-06ada7ec47fc",
+        "positive": 6.4,
+        "negative": 3.3
+    },
+    {
+        "headlines": "How Smriti Mandhana inspired Team India to end 5-year drought at home IND-W vs WI-W: Smriti Mandhana, who led India in Harmanpreet Kaur's career, talked about the importance of winning a T20I series on home soil. On Thursday, India beat the West Indies in the deciding game to claim the series 2-1. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-womens-t20i-series-smriti-mandhana-drought-2652634-2024-12-19",
+        "category": "sports",
+        "date_time": "2024-12-19T23:34:00",
+        "uuid": "d96529cf-3333-4669-8405-7813ce6969a8",
+        "positive": 13.5,
+        "negative": 4.3
     },
     {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
@@ -3114,22 +3123,22 @@
         "negative": 0.6
     },
     {
-        "headlines": "Shami's BGT hopes take hit. Pacer gets left out of Bengal's Vijay Hazare openerIndia pacer Mohammed Shami's Border-Gavaskar Trophy hopes took a massive hit as the pacer was sidelined from Bengal's Vijay Hazare Trophy opener against Delhi. PTI reported that the pacer's knee injury had flared up once again and that's why he was sidelined.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-mohammed-shami-injury-bgt-vijay-hazare-2652609-2024-12-19",
+        "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
         "category": "sports",
-        "date_time": "2024-12-19T22:27:00",
-        "uuid": "e0a4e93a-8e34-455d-b7e5-06ada7ec47fc",
-        "positive": 6.4,
-        "negative": 3.3
+        "date_time": "2024-12-19T23:16:00",
+        "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
+        "positive": 12.3,
+        "negative": 3.6
     },
     {
-        "headlines": "Legendary Beatle Paul McCartney's Big 2025 Plan: A New Album In The WorksPaul McCartney's last solo album, McCartney III (2020), recorded during the pandemic, topped UK charts, marking his first solo number one since 1989, showcasing his creative freedom and personal musical expression.\r\n",
-        "article_url": "https://www.indiatoday.in/lifestyle/celebrity/story/legendary-beatle-paul-mccartneys-big-2025-plan-a-new-album-in-the-works-glbs-2654982-2024-12-24",
+        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
         "category": "lifestyle",
-        "date_time": "2024-12-24T23:45:00",
-        "uuid": "2442e867-a5d5-459b-8318-340e7048131a",
-        "positive": 17.4,
-        "negative": 0
+        "date_time": "2024-12-10T19:31:00",
+        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
+        "positive": 16,
+        "negative": 8.3
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -3825,24 +3834,6 @@
         "negative": 4.3
     },
     {
-        "headlines": "How Smriti Mandhana inspired Team India to end 5-year drought at home IND-W vs WI-W: Smriti Mandhana, who led India in Harmanpreet Kaur's career, talked about the importance of winning a T20I series on home soil. On Thursday, India beat the West Indies in the deciding game to claim the series 2-1. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-west-indies-womens-t20i-series-smriti-mandhana-drought-2652634-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T23:34:00",
-        "uuid": "d96529cf-3333-4669-8405-7813ce6969a8",
-        "positive": 13.5,
-        "negative": 4.3
-    },
-    {
-        "headlines": "Richa Ghosh happy to follow footsteps of Smriti Mandhana after series win vs WIPlayer of the match in India's T20I series decider vs West Indies - Richa Ghosh - said that she was happy to follow in the footsteps of Smriti Mandhana. Richa credited Mandhana for setting the stage with aggressive batting.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/richa-ghosh-india-women-vs-west-indies-fastest-fifty-2652626-2024-12-19",
-        "category": "sports",
-        "date_time": "2024-12-19T23:16:00",
-        "uuid": "33dd235d-6b27-4a68-8e01-9cde3a2ac6b5",
-        "positive": 12.3,
-        "negative": 3.6
-    },
-    {
         "headlines": "Jasprit Bumrah is the right-handed Wasim Akram: Justin LangerFormer Australia head coach Justin Langer has compared Jasprit Bumrah to Wasim Akram. Langer said that he would have hated to face Bumrah in his playing days.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-jasprit-bumrah-wasim-akram-justin-langer-2652622-2024-12-19",
         "category": "sports",
@@ -3888,6 +3879,24 @@
         "negative": 6.2
     },
     {
+        "headlines": "Bangladesh clinch 1st-ever 3-0 T20I sweep vs West Indies after Jaker specialBangladesh completed a stunning redemption arc, sweeping West Indies 3-0 in the T20I series after an 80-run victory in the final match, powered by Jaker Ali's brilliance and Rishad Hossain's exceptional bowling performance in St. Vincent.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-bangladesh-t20i-series-sweep-jaker-ali-special-kingstown-2652722-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T10:25:00",
+        "uuid": "e6c1e9ab-e601-4668-afc7-37d7a294cdb0",
+        "positive": 10.3,
+        "negative": 1.7
+    },
+    {
+        "headlines": "Australia drop Nathan McSweeney for Boxing Day Test, add teenage opener to squadBorder-Gavaskar Trophy: Australia named a 15-man squad for the last two tests against India on Friday. In a bold call, the Australian selectors dropped Nathan McSweeney and roped in 19-year-old Sam Konstas. Pacers Jhye Richardson and Sean Abbott also returned to the squad. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-squad-nathan-mcsweeney-dropped-sam-konstas-jhye-richardson-2652715-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T10:17:00",
+        "uuid": "28674c32-55d9-4384-9b56-28f9b97df423",
+        "positive": 8.4,
+        "negative": 4.1
+    },
+    {
         "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
         "category": "bollywood",
@@ -3922,24 +3931,6 @@
         "uuid": "64e3fd8d-cb46-4578-a9a9-462d774a0f34",
         "positive": 11.9,
         "negative": 0.6
-    },
-    {
-        "headlines": "Bangladesh clinch 1st-ever 3-0 T20I sweep vs West Indies after Jaker specialBangladesh completed a stunning redemption arc, sweeping West Indies 3-0 in the T20I series after an 80-run victory in the final match, powered by Jaker Ali's brilliance and Rishad Hossain's exceptional bowling performance in St. Vincent.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-bangladesh-t20i-series-sweep-jaker-ali-special-kingstown-2652722-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T10:25:00",
-        "uuid": "e6c1e9ab-e601-4668-afc7-37d7a294cdb0",
-        "positive": 10.3,
-        "negative": 1.7
-    },
-    {
-        "headlines": "Australia drop Nathan McSweeney for Boxing Day Test, add teenage opener to squadBorder-Gavaskar Trophy: Australia named a 15-man squad for the last two tests against India on Friday. In a bold call, the Australian selectors dropped Nathan McSweeney and roped in 19-year-old Sam Konstas. Pacers Jhye Richardson and Sean Abbott also returned to the squad. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-squad-nathan-mcsweeney-dropped-sam-konstas-jhye-richardson-2652715-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T10:17:00",
-        "uuid": "28674c32-55d9-4384-9b56-28f9b97df423",
-        "positive": 8.4,
-        "negative": 4.1
     },
     {
         "headlines": "From sapno ka sheher to WPL deal: MI's Akshita set to take flightExclusive: Mumbai Indians' cricketer Akshita Maheshwari talked to IndiaToday.in and spoke about her WPL deal, her admiration for Jasprit Bumrah, Bhuvneshwar Kumar. In the auction that took place in Bengaluru, MI picked Maheshwari for Rs 20 lakhs. ",
@@ -4023,15 +4014,6 @@
         "negative": 10
     },
     {
-        "headlines": "Quadrant Future Tek listing: Shares make strong D-Street debut at 27% premium Quadrant Future Tek stock: The stock opened at Rs 370 on the NSE, reflecting a 27.5% premium over its IPO price of Rs 290. ",
-        "article_url": "https://www.indiatoday.in/business/story/quadrant-future-tek-shares-price-listing-makes-strong-debut-lists-at-27-percent-premium-nse-bse-2664408-2025-01-14",
-        "category": "business",
-        "date_time": "2025-01-14T10:20:00",
-        "uuid": "7de713cd-9060-400d-88df-3defc3bf96dc",
-        "positive": 12,
-        "negative": 1.6
-    },
-    {
         "headlines": "BCCI to hold Special General Meeting in January to elect Jay Shah's replacementThe BCCI will host a Special General Meeting (SGM) in Mumbai on January 12 to pick a new secretary and treasurer, after Jay Shah and Ashish Shelar quit their positions earlier this month.",
         "article_url": "https://www.indiatoday.in/sports/story/bcci-to-hold-special-general-meeting-in-january-to-elect-jay-shahs-replacement-2652864-2024-12-20",
         "category": "sports",
@@ -4048,6 +4030,33 @@
         "uuid": "d99da8de-fdc2-49d6-9d8c-0308e8013e5b",
         "positive": 12.7,
         "negative": 2.4
+    },
+    {
+        "headlines": "Quadrant Future Tek listing: Shares make strong D-Street debut at 27% premium Quadrant Future Tek stock: The stock opened at Rs 370 on the NSE, reflecting a 27.5% premium over its IPO price of Rs 290. ",
+        "article_url": "https://www.indiatoday.in/business/story/quadrant-future-tek-shares-price-listing-makes-strong-debut-lists-at-27-percent-premium-nse-bse-2664408-2025-01-14",
+        "category": "business",
+        "date_time": "2025-01-14T10:20:00",
+        "uuid": "7de713cd-9060-400d-88df-3defc3bf96dc",
+        "positive": 12,
+        "negative": 1.6
+    },
+    {
+        "headlines": "Pakistan will not lose face or money with hybrid Champions Trophy: ChopraAakash Chopra believes the ICC's hybrid model for Champions Trophy 2025 safeguards Pakistan Cricket Board's reputation and finances, even as India's refusal to travel altered the tournament's hosting dynamics.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-champions-trophy-hybrid-model-will-not-hurt-pakistan-money-lose-face-aakash-chopra-2652839-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T14:04:00",
+        "uuid": "a71ae42b-b59d-41c7-9ccb-38a4dde9d3a9",
+        "positive": 12.6,
+        "negative": 2.9
+    },
+    {
+        "headlines": "Mates club? Australian selectors accused of bias after Nathan McSweeney snub Australia vs India, 4th Test: Australia dropped 25-year-old Nathan McSweeney from the squad for the final two Tests of the Border-Gavaskar Trophy. Selector George Bailey has faced criticism for not backing the youngster, especially when senior players like Usman Khawaja and Marnus Labuschagne have struggled with the bat.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricke-ind-vs-aus-boxing-day-nathan-mcsweeney-dropped-george-bailey-criticism-2652823-2024-12-20",
+        "category": "sports",
+        "date_time": "2024-12-20T13:48:00",
+        "uuid": "64406747-4863-4f7e-b2b5-e9270fa6452f",
+        "positive": 6.1,
+        "negative": 5.7
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -4228,24 +4237,6 @@
         "uuid": "4173d4f1-79da-4cab-a44a-fd533622a249",
         "positive": 9.9,
         "negative": 4.3
-    },
-    {
-        "headlines": "Pakistan will not lose face or money with hybrid Champions Trophy: ChopraAakash Chopra believes the ICC's hybrid model for Champions Trophy 2025 safeguards Pakistan Cricket Board's reputation and finances, even as India's refusal to travel altered the tournament's hosting dynamics.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-champions-trophy-hybrid-model-will-not-hurt-pakistan-money-lose-face-aakash-chopra-2652839-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T14:04:00",
-        "uuid": "a71ae42b-b59d-41c7-9ccb-38a4dde9d3a9",
-        "positive": 12.6,
-        "negative": 2.9
-    },
-    {
-        "headlines": "Mates club? Australian selectors accused of bias after Nathan McSweeney snub Australia vs India, 4th Test: Australia dropped 25-year-old Nathan McSweeney from the squad for the final two Tests of the Border-Gavaskar Trophy. Selector George Bailey has faced criticism for not backing the youngster, especially when senior players like Usman Khawaja and Marnus Labuschagne have struggled with the bat.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricke-ind-vs-aus-boxing-day-nathan-mcsweeney-dropped-george-bailey-criticism-2652823-2024-12-20",
-        "category": "sports",
-        "date_time": "2024-12-20T13:48:00",
-        "uuid": "64406747-4863-4f7e-b2b5-e9270fa6452f",
-        "positive": 6.1,
-        "negative": 5.7
     },
     {
         "headlines": "Aayushi Shukla stars as India beat Sri Lanka to reach finalIndia defeated Sri Lanka by four wickets in their last Super Four contest to extend their unbeaten run and reach the final of the U19 Women's T20 Asia Cup on Friday.\r\n",
@@ -4815,132 +4806,6 @@
         "negative": 8.6
     },
     {
-        "headlines": "Microcurrent facials promise a natural facelift. Do they really deliver?Initially developed in the 1970s as a treatment for facial paralysis, microcurrent technology was later adopted by the beauty industry when its aesthetic benefits became apparent.",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/microcurrent-facials-promise-a-natural-facelift-do-they-really-deliver-2655754-2024-12-26",
-        "category": "lifestyle",
-        "date_time": "2024-12-26T18:54:00",
-        "uuid": "f7bba38b-649f-4872-a79a-c23ae3543a3f",
-        "positive": 21.2,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Renting wedding lehenga is practical, but why Indian brides still not up for itPractical, sustainable, and hassle-free, renting a wedding lehenga seems perfect in theory. Yet, it remains far from becoming a mainstream choice amo",
-        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/renting-wedding-lehenga-is-practical-but-why-indian-brides-still-not-up-for-it-2655776-2024-12-27",
-        "category": "lifestyle",
-        "date_time": "2024-12-27T08:00:00",
-        "uuid": "8e450043-1353-4c2a-bc0d-b40843f92338",
-        "positive": 14.2,
-        "negative": 1.8
-    },
-    {
-        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
-        "category": "lifestyle",
-        "date_time": "2024-12-28T17:48:00",
-        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
-        "positive": 13.5,
-        "negative": 1.6
-    },
-    {
-        "headlines": "How India is now partying with non-alcoholic spiritsAlso known as zero-proof spirits, non-alcoholic spirits are crafted to replicate the taste of traditional spirits but without the alcohol. These zero-proof drinks are not like your other non-alcoholic beverages such as ginger ale, soda, or mocktails.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/india-party-culture-non-alcoholic-spirits-gen-z-millennials-2656796-2024-12-29",
-        "category": "lifestyle",
-        "date_time": "2024-12-29T14:38:00",
-        "uuid": "744eeb7f-9d73-415c-9faf-da0969839713",
-        "positive": 12.3,
-        "negative": 4.1
-    },
-    {
-        "headlines": "I tested 5 heatless curling methods to find the best one. Here's what I foundFrom foam rollers to headbands, heatless curlers are going viral across social media. But which one works the best?",
-        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/i-tested-5-heatless-curling-methods-to-find-the-best-one-heres-what-i-found-2657051-2024-12-30",
-        "category": "lifestyle",
-        "date_time": "2024-12-30T12:40:00",
-        "uuid": "6e4d6695-ec51-4da3-88f9-7cd60b1cae74",
-        "positive": 18.2,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Why is it a good idea to skip the mountains this New Year's From steep hotel prices to overcrowding, are mountains not calling this New Year? ",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-is-it-a-good-idea-to-skip-the-mountains-this-new-years-2657548-2024-12-31",
-        "category": "lifestyle",
-        "date_time": "2024-12-31T07:57:00",
-        "uuid": "99488be6-3f44-43aa-b05a-8d21922c9e9e",
-        "positive": 9.8,
-        "negative": 11.5
-    },
-    {
-        "headlines": "Can 'Living Apart Together' marriages be a hit in India?Living Apart Together (LAT), a growing trend among committed and married couples in the West, refers to couples intentionally avoiding cohabitation in order to keep the spark alive.",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/can-living-apart-together-marriages-be-a-hit-in-india-2657775-2024-12-31",
-        "category": "lifestyle",
-        "date_time": "2024-12-31T16:38:00",
-        "uuid": "3519a734-3fb0-4943-8e5f-bf61372f4633",
-        "positive": 18.7,
-        "negative": 6.4
-    },
-    {
-        "headlines": "The Gen Beta era is here. What will define their journey?Children of younger millennials and older Gen Z, Gen Beta will be born into a world dominated by technology and AI.",
-        "article_url": "https://www.indiatoday.in/lifestyle/society/story/gen-beta-has-arrived-what-can-we-expect-from-them-2657962-2025-01-01",
-        "category": "lifestyle",
-        "date_time": "2025-01-01T08:13:00",
-        "uuid": "c76a25ef-a217-4cb1-a7c8-6d14731267a9",
-        "positive": 19.4,
-        "negative": 2.3
-    },
-    {
-        "headlines": "The expensive reality of social media's never-ending trendsThe need to stay on top of every new social media trend is not just exhaustive but also draining your bank account. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/society/story/the-expensive-reality-of-instagram-facebook-tiktoks-never-ending-trends-and-reels-2658413-2025-01-02",
-        "category": "lifestyle",
-        "date_time": "2025-01-02T10:05:00",
-        "uuid": "5956d457-4fd8-476f-a5b5-985d726a4800",
-        "positive": 13.4,
-        "negative": 11
-    },
-    {
-        "headlines": "Wi-Fi on Air India flights now: 5 things you might miss doing on planeOn January 1, Air India introduced complimentary internet access for passengers on select aircraft.",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/wi-fi-on-air-india-flights-now-5-things-you-might-miss-doing-on-plane-2658781-2025-01-03",
-        "category": "lifestyle",
-        "date_time": "2025-01-03T08:00:00",
-        "uuid": "23a9c6a9-8865-4129-b1cd-b35b367602ae",
-        "positive": 11.7,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Do black plastic containers used in food deliveries cause cancer?A recent study found toxic flame retardants in black plastic products. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/do-black-plastic-containers-used-in-food-deliveries-cause-cancer-2659350-2025-01-03",
-        "category": "lifestyle",
-        "date_time": "2025-01-03T18:51:00",
-        "uuid": "b48c621c-0a86-41d7-9c98-a5d686709ef9",
-        "positive": 5.2,
-        "negative": 9.2
-    },
-    {
-        "headlines": "What are the healthiest snacks to go with chai? Not biscuits, rusks for sureHealth experts warn that many popular tea-time snack choices in Indian households are unhealthy and should be avoided for daily consumption. If your morning tea ritual also feels incomplete without dipping biscuits or rusks, it might be time to rethink your snack choices.",
-        "article_url": "https://www.indiatoday.in/lifestyle/food/story/healthy-tea-snacks-not-biscuits-rusks-2659861-2025-01-05",
-        "category": "lifestyle",
-        "date_time": "2025-01-05T12:00:00",
-        "uuid": "524b7138-8568-4707-9115-41ede02fdafa",
-        "positive": 8.7,
-        "negative": 9.3
-    },
-    {
-        "headlines": "Does skipping baths in winter increase life span by 34%? Well, here's the truthA video claiming that skipping winter baths can increase life expectancy by 34 per cent has gone viral on social media. We did a little digging, and here's what we found.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/does-skipping-bath-in-winter-increase-life-span-well-heres-the-truth-2660183-2025-01-06",
-        "category": "lifestyle",
-        "date_time": "2025-01-06T09:14:00",
-        "uuid": "13f8f0b4-1f63-4f06-a97c-9febea39fc9a",
-        "positive": 21.9,
-        "negative": 5.5
-    },
-    {
-        "headlines": "It was all Golden at The Globes this year. Plus, other fashion trendsBillowing silhouettes, opera gloves, ogle-worthy jewellery pieces, sequin galore, voluminous hairstyles  and roaring red were the top trends at the Golden Globes.",
-        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/golden-globes-2025-fashion-trends-best-dressed-celebrities-stmp-2660522-2025-01-06",
-        "category": "lifestyle",
-        "date_time": "2025-01-06T19:31:00",
-        "uuid": "0b2aa525-a454-4369-8e11-d3a370db74f8",
-        "positive": 10.7,
-        "negative": 0.5
-    },
-    {
         "headlines": "Sam Konstas ready to face Bumrah? Australia batter opens up on his preparationYoung Australia batter Sam Konstas revealed that he's ready with plans to face Indian bowlers in the upcoming fourth Test against India in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-sam-konstas-ready-with-plans-to-face-jasprit-bumrah-aus-vs-ind-border-gavaskar-trophy-2653547-2024-12-21",
         "category": "sports",
@@ -5065,6 +4930,15 @@
         "uuid": "9323aa85-34c3-4d92-b5ae-a1778804181d",
         "positive": 9.9,
         "negative": 2.8
+    },
+    {
+        "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T15:31:00",
+        "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
+        "positive": 12.9,
+        "negative": 4.5
     },
     {
         "headlines": "Delhi SG Pipers' Rajkumar Pal aiming for Hockey India League spotlightIn an exclusive interaction with Indiatoday.in, Delhi SG Pipers' Rajkumar Pal opens up about taking the spotlight with his performances and being realistic about the chances of his side in the 2024-25 season of the Hockey India League. \r\n",
@@ -5364,42 +5238,6 @@
         "negative": 7.2
     },
     {
-        "headlines": "What's the real story of tourism in Goa right now?Is tourism in Goa really declining, or are we missing an undercurrent, a positive one that can reposition the state's identity as the \"party capital of India\"?",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/whats-the-real-story-of-tourism-in-goa-right-now-2661259-2025-01-08",
-        "category": "lifestyle",
-        "date_time": "2025-01-08T10:28:00",
-        "uuid": "e2ef4435-dd40-41d5-84e1-1f71f423ad01",
-        "positive": 11.5,
-        "negative": 6.9
-    },
-    {
-        "headlines": "Gentle reminder: It's the little lifestyle changes that will make 2025 healthierFrom increasing water intake and making small dietary changes to ditching phone usage while eating, these simple lifestyle adjustments can make a significant impact on your well-being.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/gentle-reminder-its-the-little-lifestyle-changes-that-will-make-2025-healthier-2661759-2025-01-09",
-        "category": "lifestyle",
-        "date_time": "2025-01-09T08:00:00",
-        "uuid": "971f360f-9913-49b4-b765-ef1475cb81cb",
-        "positive": 19.7,
-        "negative": 6.7
-    },
-    {
-        "headlines": "How the Michelangelo Phenomenon can shape or break a relationshipThe Michelangelo Phenomenon is a fascinating psychological concept that likens the dynamic between partners to that of a sculptor and their art.",
-        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/how-the-michelangelo-phenomenon-can-shape-or-break-a-relationship-2662344-2025-01-09",
-        "category": "lifestyle",
-        "date_time": "2025-01-09T18:20:00",
-        "uuid": "a124b665-2bc9-4c5e-a114-4743b4f74e0c",
-        "positive": 25.4,
-        "negative": 4.6
-    },
-    {
-        "headlines": "Can popping supplements help you manage your PCOS?The internet is obsessing over supplements as a way to manage and even treat PCOS.",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-popping-supplements-help-you-manage-your-pcos-2662475-2025-01-10",
-        "category": "lifestyle",
-        "date_time": "2025-01-10T08:00:00",
-        "uuid": "d9311521-e903-444c-aae5-ab99079a553a",
-        "positive": 21.4,
-        "negative": 6.6
-    },
-    {
         "headlines": "Dinesh Karthik raises concern about Shubman Gill's major technical flawFormer India batter Dinesh Karthik believes that Shubman Gill has a major flaw in his technique. Gill has had a lean series so far, failing to register any fifties in his three innings.",
         "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-shubman-gill-major-technical-flaw-dinesh-karthik-bgt-2653898-2024-12-23",
         "category": "sports",
@@ -5461,15 +5299,6 @@
         "uuid": "1d8e4fd3-1e91-4e6a-b729-38b6d0e1171f",
         "positive": 10.3,
         "negative": 8.6
-    },
-    {
-        "headlines": "The male attitude towards sex toys is changing in IndiaHesitation, social taboo, judgment, and the shame associated with using sex toys often prevents men from exploring sex toys.",
-        "article_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/male-sex-toys-attitude-india-2662924-2025-01-10",
-        "category": "lifestyle",
-        "date_time": "2025-01-10T18:32:00",
-        "uuid": "2e020f36-dcf5-4d4b-8dc5-97e24f4115d5",
-        "positive": 11.9,
-        "negative": 1.7
     },
     {
         "headlines": "AUS vs IND: Pujara suggests game plan to tackle 'dangerous' Mitchell Starc threatBorder-Gavaskar Trophy 2025: India batter Cheteshwar Pujara said Mitchell Starc has been more effective and potent in the ongoing series against India. The Test specialist highlighted why the left-arm pacer has found more success this year. ",
@@ -5589,15 +5418,6 @@
         "negative": 2.6
     },
     {
-        "headlines": "What the Indian passport can learn from Singapore, the world's most powerfulOver the past eight years, Singapore has consistently ranked in the top two and has remained amongst the top ten for over two decades, according to data from Henley Global. ",
-        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/what-the-indian-passport-can-learn-from-singapore-the-worlds-most-powerful-2663026-2025-01-11",
-        "category": "lifestyle",
-        "date_time": "2025-01-11T08:00:00",
-        "uuid": "d9bcada0-b0ae-4d3b-b810-f8c201a74894",
-        "positive": 21.8,
-        "negative": 1.7
-    },
-    {
         "headlines": "Rashford's Decline: 'Generational talent' nears Manchester United exitMarcus Rashford's journey at Manchester United appears to be near its end, as his form and off-field issues under Ruben Amorim's management has seen him fall out of favour, leaving fans and pundits questioning the trajectory of his career.",
         "article_url": "https://www.indiatoday.in/sports/football/story/marcus-rashford-decline-manchester-united-exit-transfer-ruben-amorim-2654168-2024-12-23",
         "category": "sports",
@@ -5625,13 +5445,13 @@
         "negative": 0.8
     },
     {
-        "headlines": "How social media fuels Imposter SyndromeSocial media has a huge role in making people feel terrible about themselves, and can instil the feeling of being an \"imposter\".",
-        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/how-social-media-fuels-imposter-syndrome-manoj-bajpayee-2663476-2025-01-12",
+        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
         "category": "lifestyle",
-        "date_time": "2025-01-12T08:00:00",
-        "uuid": "37621240-f288-4f49-8974-1c7cd2d8000b",
-        "positive": 14.6,
-        "negative": 11.9
+        "date_time": "2024-12-11T19:34:00",
+        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
+        "positive": 19.2,
+        "negative": 6.4
     },
     {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
@@ -5713,6 +5533,15 @@
         "uuid": "953d94c3-26ab-4dbe-955e-939663622880",
         "positive": 4.9,
         "negative": 8.3
+    },
+    {
+        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
+        "category": "lifestyle",
+        "date_time": "2024-12-09T18:58:00",
+        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
+        "positive": 17.6,
+        "negative": 1.2
     },
     {
         "headlines": "How have Pakistan performed in Boxing Day Tests in South Africa? SA vs PAK: Pakistan have their task cut out as they are set to lock horns with South Africa in a two-match Test series, starting December 26 at the SuperSport Park in Centurion. ",
@@ -5958,24 +5787,6 @@
         "negative": 2.6
     },
     {
-        "headlines": "Rajkummar, Ayushmann and Kriti Sanon's Bareilly Ki Barfi to re-release in theatresBareilly Ki Barfi, starring Rajkummar Rao, Ayushmann Khurrana and Kriti Sanon, is re-releasing in theatres. The Bollywood rom-com will be hitting the theatres in February. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rajkummar-rao-ayushmann-khurrana-and-kriti-sanons-bareilly-ki-barfi-to-re-release-in-theatres-2664044-2025-01-13",
-        "category": "bollywood",
-        "date_time": "2025-01-13T15:46:00",
-        "uuid": "2677807a-0dcb-47b3-92e7-4414ae72ba8b",
-        "positive": 16,
-        "negative": 0
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Should have made Manu Bhaker a cricketer, not shooter: Father on Khel Ratna snubDouble Olympic medallist Manu Bhaker was reportedly snubbed from the Khel Ratna nominees list. Manu's father reacted to the reports and said that he should have made his daughter a cricketer and not a shooter.",
         "article_url": "https://www.indiatoday.in/sports/story/manu-bhaker-khel-ratna-award-snub-controversy-paris-olympics-india-medals-2654610-2024-12-24",
         "category": "sports",
@@ -6154,6 +5965,24 @@
         "uuid": "921e6809-bce8-46ec-8d8f-819e143b0037",
         "positive": 15.4,
         "negative": 0.8
+    },
+    {
+        "headlines": "Rajkummar, Ayushmann and Kriti Sanon's Bareilly Ki Barfi to re-release in theatresBareilly Ki Barfi, starring Rajkummar Rao, Ayushmann Khurrana and Kriti Sanon, is re-releasing in theatres. The Bollywood rom-com will be hitting the theatres in February. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rajkummar-rao-ayushmann-khurrana-and-kriti-sanons-bareilly-ki-barfi-to-re-release-in-theatres-2664044-2025-01-13",
+        "category": "bollywood",
+        "date_time": "2025-01-13T15:46:00",
+        "uuid": "2677807a-0dcb-47b3-92e7-4414ae72ba8b",
+        "positive": 16,
+        "negative": 0
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "Vinod Kambli develops fever in hospital, condition stableVinod Kambli, battling a severe urinary infection and brain clots, is stable in ICU. Maharashtra Deputy CM Eknath Shinde and MP Shrikant Shinde have extended financial aid and support, ensuring the former cricketer receives top-notch medical care.",
@@ -6345,6 +6174,105 @@
         "negative": 5.5
     },
     {
+        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
+        "category": "lifestyle",
+        "date_time": "2024-12-08T18:40:00",
+        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
+        "positive": 20.3,
+        "negative": 3.3
+    },
+    {
+        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:36:00",
+        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
+        "positive": 26.5,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Can making a vision board really help you achieve your goals for 2025?A vision board is a creative visual representation of one's goals, dreams, and aspirations. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/can-making-a-vision-board-really-help-you-manifest-your-goals-for-2025-2652499-2024-12-20",
+        "category": "lifestyle",
+        "date_time": "2024-12-20T08:00:00",
+        "uuid": "8f2b01a5-c4c0-481b-ae53-f1f060cd0633",
+        "positive": 22,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Warming lotions can keep you cosy during winter. But are they really safe?These warming lotions may seem like ordinary creams until you apply them. They create a warming sensation and that particular body part begins to feel hot.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/warming-lotions-can-keep-you-cosy-during-winter-but-are-they-really-safe-2652498-2024-12-20",
+        "category": "lifestyle",
+        "date_time": "2024-12-20T17:01:00",
+        "uuid": "17f50bd3-2767-4829-abd3-cbbfc68e05f8",
+        "positive": 23.7,
+        "negative": 7
+    },
+    {
+        "headlines": "You think OCD is just about cleanliness? You got it wrong all this longFor Millennials and Gen Z, \"OCD\" might seem like a trendy buzzword for an obsession with cleanliness. But hold on—there's so much more to it than meets the eye.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/ocd-is-not-just-about-cleanliness-you-got-it-wrong-all-this-long-monica-geller-friends-sheldon-cooper-2653185-2024-12-21",
+        "category": "lifestyle",
+        "date_time": "2024-12-21T08:30:00",
+        "uuid": "1d814ddb-f229-4013-bf76-b0f5e341c4d0",
+        "positive": 12.4,
+        "negative": 14.3
+    },
+    {
+        "headlines": "Indians are chasing luxury travel like never before. What's driving this shift?Luxury travel among Indian tourists is no longer a rare occurrence. Recent statistics also reveal a clear shift in how Indians approach their travel plans. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/indians-are-chasing-luxury-travel-like-never-before-whats-driving-this-shift-2653015-2024-12-22",
+        "category": "lifestyle",
+        "date_time": "2024-12-22T14:03:00",
+        "uuid": "bf97c7e1-815e-4aed-800a-71d2a00ea7b0",
+        "positive": 11.2,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Retirement depression is real and rising in India. How to manage itFor many people, retirement brings feelings of emptiness, loneliness, and worthlessness, which can potentially lead to clinical depression.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/retirement-depression-is-real-how-to-manage-prevent-it-2654219-2024-12-23",
+        "category": "lifestyle",
+        "date_time": "2024-12-23T19:34:00",
+        "uuid": "0f8587f3-b100-4bd9-863d-25648330d1d9",
+        "positive": 15.5,
+        "negative": 18.5
+    },
+    {
+        "headlines": "Diet Coke with protein shake? The new viral drink is not what experts recommendProtein Diet Coke is a blend of Diet Coke and a flavoured protein shake (mostly vanilla) that Rebecca Gordan, a teacher from Utah, introduced. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/diet-coke-with-protein-shake-the-new-viral-drink-is-not-what-experts-recommend-2654420-2024-12-24",
+        "category": "lifestyle",
+        "date_time": "2024-12-24T09:57:00",
+        "uuid": "ad6eef7a-172f-44d1-b7c3-743a85bfc7a9",
+        "positive": 13.8,
+        "negative": 8.2
+    },
+    {
+        "headlines": "Legendary Beatle Paul McCartney's Big 2025 Plan: A New Album In The WorksPaul McCartney's last solo album, McCartney III (2020), recorded during the pandemic, topped UK charts, marking his first solo number one since 1989, showcasing his creative freedom and personal musical expression.\r\n",
+        "article_url": "https://www.indiatoday.in/lifestyle/celebrity/story/legendary-beatle-paul-mccartneys-big-2025-plan-a-new-album-in-the-works-glbs-2654982-2024-12-24",
+        "category": "lifestyle",
+        "date_time": "2024-12-24T23:45:00",
+        "uuid": "2442e867-a5d5-459b-8318-340e7048131a",
+        "positive": 17.4,
+        "negative": 0
+    },
+    {
+        "headlines": "Microcurrent facials promise a natural facelift. Do they really deliver?Initially developed in the 1970s as a treatment for facial paralysis, microcurrent technology was later adopted by the beauty industry when its aesthetic benefits became apparent.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/microcurrent-facials-promise-a-natural-facelift-do-they-really-deliver-2655754-2024-12-26",
+        "category": "lifestyle",
+        "date_time": "2024-12-26T18:54:00",
+        "uuid": "f7bba38b-649f-4872-a79a-c23ae3543a3f",
+        "positive": 21.2,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Renting wedding lehenga is practical, but why Indian brides still not up for itPractical, sustainable, and hassle-free, renting a wedding lehenga seems perfect in theory. Yet, it remains far from becoming a mainstream choice amo",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/renting-wedding-lehenga-is-practical-but-why-indian-brides-still-not-up-for-it-2655776-2024-12-27",
+        "category": "lifestyle",
+        "date_time": "2024-12-27T08:00:00",
+        "uuid": "8e450043-1353-4c2a-bc0d-b40843f92338",
+        "positive": 14.2,
+        "negative": 1.8
+    },
+    {
         "headlines": "Before MCG Test, Virat Kohli, Rohit Sharma suffer drop in rankings AUS vs IND: Virat Kohli, Rohit Sharma and most of the Indian batters gained in rankings before the Melbourne Test against Australia, but KL Rahul and Ravindra Jadeja moved up. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-virat-kohli-rohit-sharma-icc-test-rankings-2655174-2024-12-25",
         "category": "sports",
@@ -6534,24 +6462,6 @@
         "negative": 5.4
     },
     {
-        "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T17:55:00",
-        "uuid": "b9103930-2ddc-4baa-a892-9a2cb7251458",
-        "positive": 4.3,
-        "negative": 1.1
-    },
-    {
-        "headlines": "Nana Patekar invites Aamir Khan for a special screening of his film VanvaasNana Patekar is set to host a special Vanvaas screening for Aamir Khan. The film, starring Utkarsh Sharma and Simratt Kaur along with Nana Patekar, is set to release on December 20. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/nana-patekar-invites-aamir-khan-for-a-special-screening-of-his-film-vanvaas-2652293-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T14:33:00",
-        "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
-        "positive": 15.8,
-        "negative": 1.3
-    },
-    {
         "headlines": "No one in Real Madrid will regret my signing: A confident MbappeKylian Mbappé showcased resilience after a tough start at Real Madrid, silencing critics with recent standout performances and proving his potential as a marquee signing for Los Blancos.",
         "article_url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-no-one-will-regret-my-real-madrid-signing-laliga-form-2655391-2024-12-25",
         "category": "sports",
@@ -6570,132 +6480,6 @@
         "negative": 2
     },
     {
-        "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-tabus-de-de-pyaar-de-2-to-hit-theatres-in-november-2025-2652214-2024-12-19",
-        "category": "bollywood",
-        "date_time": "2024-12-19T12:51:00",
-        "uuid": "32a2c971-7e64-4baf-98cc-d84a009807a0",
-        "positive": 3.5,
-        "negative": 1
-    },
-    {
-        "headlines": "Thaman S: The creative force behind hits like Ramuloo Ramulaa and Nain MattakaThaman S, famed for his South Indian hits, is set to debut his first full Bollywood album with Baby John this Christmas. The film stars Varun Dhawan in the lead and the will be released on December 25.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/meet-thaman-s-man-behind-tracks-like-ramuloo-ramulaa-nain-mattaka-baby-john-varun-dhawan-2651892-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T20:55:00",
-        "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
-        "positive": 11.9,
-        "negative": 0.6
-    },
-    {
-        "headlines": "Taapsee Pannu begins shoot for Gandhari: Let the war beginAfter Phir Aayi Haseen Dilruba, Taapsee Pannu began filming her next film. Titled Gandhari, the action-thriller is produced by Kanika Dhillon and directed by Devashish Makhija.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/taapsee-pannu-begins-shoot-for-gandhari-let-the-war-begin-2651609-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T13:16:00",
-        "uuid": "d7717455-e11c-4a05-b13e-fce8a08b22ce",
-        "positive": 11.8,
-        "negative": 8.7
-    },
-    {
-        "headlines": "20 years of Swades: Exploring the timeless relevance of Shah Rukh Khan filmReleased in 2004, Ashutosh Gowariker's Swades remains a poignant narrative in Indian cinema. Starring Shah Rukh Khan, it explores themes of identity, responsibility, and self-reliance.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/swades-20-years-shah-rukh-khan-film-themes-timeless-ashutosh-gowariker-2651239-2024-12-18",
-        "category": "bollywood",
-        "date_time": "2024-12-18T08:37:00",
-        "uuid": "1f6634c5-3c58-4bd8-9191-1cc256c71564",
-        "positive": 14.8,
-        "negative": 2.8
-    },
-    {
-        "headlines": "Relive Mohan Bhargava's journey of homecoming as Swades completes 20 yearsAshutosh Gowariker's film Swades turned 20 today. The filmmaker shared a heartfelt letter celebrating the milestone on Instagram.\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ashutosh-gowariker-celebrates-20-years-of-swades-with-heartfelt-letter-to-fans-2651137-2024-12-17",
-        "category": "bollywood",
-        "date_time": "2024-12-17T18:59:00",
-        "uuid": "b05f6d60-112b-4453-b127-dbf7a6e68d56",
-        "positive": 17.7,
-        "negative": 0
-    },
-    {
-        "headlines": "Sikandar teaser to release on Salman Khan's 59th birthday: ReportThe much-awaited teaser for Sikandar will be reportedly release on Salman Khan's 59th birthday. Fans are eager for this special birthday treat from the Bollywood superstar.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-to-release-on-salman-khans-59th-birthday-report-2650634-2024-12-16",
-        "category": "bollywood",
-        "date_time": "2024-12-16T20:06:00",
-        "uuid": "58bbde1a-747b-4da1-aad5-96c2ae4f7f13",
-        "positive": 11.8,
-        "negative": 6.1
-    },
-    {
-        "headlines": "Varun Dhawan on Salman Khan's cameo in Baby John: Its impact will last for many daysSalman Khan is set to make a cameo appearance in the upcoming film Baby John. Varun Dhawan, who plays the lead in the movie, shared insights about the superstar's role.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-on-salman-khan-cameo-in-baby-john-its-impact-will-last-for-many-days-2650209-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T19:32:00",
-        "uuid": "f303ae39-504d-4557-af9d-e209bca13146",
-        "positive": 6.4,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
-        "category": "bollywood",
-        "date_time": "2024-12-15T10:21:00",
-        "uuid": "39ba8cd6-e33e-4b30-b193-0126bb35d5bd",
-        "positive": 10.7,
-        "negative": 2
-    },
-    {
-        "headlines": "KJo on 23 years of Kabhi Khushi Kabhie Gham: One of those pinch me moments…Karan Johar celebrated 23 years of the iconic movie Kabhi Khushi Kabhie Gham. On Saturday, the filmmaker shared stills from the film with a heartfelt note on Instagram. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-on-23-years-of-shah-rukh-khan-amitabh-bachchan-kabhi-khushi-kabhie-gham-2649801-2024-12-14",
-        "category": "bollywood",
-        "date_time": "2024-12-14T14:29:00",
-        "uuid": "068b8af4-fc5e-4eb0-b5fd-4dd17b609dfa",
-        "positive": 17.2,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Rani Mukerji's Mardaani 3 to release in theatres in 2026The makers of the upcoming film Mardaani 3 announced that the film will release in theatres in 2026. Actor Rani Mukerji will reprise her role as Shivani Shivaji Rao. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rani-mukerji-mardaani-3-to-release-in-2026-2649254-2024-12-13",
-        "category": "bollywood",
-        "date_time": "2024-12-13T12:21:00",
-        "uuid": "6355b289-2ab9-4219-8f70-0fc3391ebcd4",
-        "positive": 14.6,
-        "negative": 0.8
-    },
-    {
-        "headlines": "SRK shares sweet birthday wish for 'coolest and bossest' RajinikanthSuperstar Shah Rukh Khan on Thursday shared the sweetest birthday wish for megastar Rajinikanth. Sharing a photo of himself with the icon, SRK called Rajinikanth 'remarkably simple' and 'inspiring.'",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-shares-sweet-birthday-wish-for-coolest-and-bossest-rajinikanth-2649125-2024-12-13",
-        "category": "bollywood",
-        "date_time": "2024-12-13T00:07:00",
-        "uuid": "235d66ee-56ed-474b-a9c9-82a4706103cc",
-        "positive": 22.3,
-        "negative": 0.8
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
-        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T22:14:00",
-        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
-        "positive": 4.1,
-        "negative": 7.3
-    },
-    {
-        "headlines": "Preity Zinta's sweet BTS moment from Dil Chahta Hai: A chocolate croissant to rescuePreity Zinta shared a heartwarming behind-the-scenes story from the shoot of Dil Chahta Hai, highlighting a moment of hunger and humour that ended with a chocolate croissant. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/preity-zinta-sweet-bts-moment-from-dil-chahta-hai-a-chocolate-croissant-to-rescue-2649030-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T21:12:00",
-        "uuid": "6b67f197-8203-48fb-bc5f-621473e06508",
-        "positive": 18.9,
-        "negative": 4.3
-    },
-    {
         "headlines": "Haven't been disciplined enough: Virat Kohli makes bold admissionStar Indian batter Virat Kohli has admitted his lack of discipline with the bat on the livelier pitches during the ongoing Border-Gavaskar Trophy. Kohli has managed to score 126 runs at an average of 31.50.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-virat-kohli-reaction-poor-run-boxing-day-test-2655403-2024-12-26",
         "category": "sports",
@@ -6712,15 +6496,6 @@
         "uuid": "18d8a2c5-ee1c-4324-9576-c347ba743ad7",
         "positive": 10.4,
         "negative": 4.1
-    },
-    {
-        "headlines": "Anees Bazmee recalls being Raj Kapoor's assistant director: He breathed cinemaDirector Anees Bazmee opens up about being iconic filmmaker Raj Kapoor's former assistant director. Bazmee had assisted Kapoor on Prem Rog. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anees-bazmee-recalls-being-raj-kapoor-assistant-director-2648884-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T17:16:00",
-        "uuid": "aef00406-6fd1-449f-b0aa-0059fd09ade9",
-        "positive": 17.8,
-        "negative": 0.6
     },
     {
         "headlines": "Virat Kohli slammed for bumping into Sam Konstas as tempers flare at MCGSenior India batter Virat Kohli was engaged in a heated altercation with Australia debutant Sam Konstas on Boxing Day at Melbourne Cricket Ground (MCG). Konstas hit a superb fifty on his Test debut against India.",
@@ -6768,6 +6543,24 @@
         "negative": 6.7
     },
     {
+        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
+        "category": "lifestyle",
+        "date_time": "2024-12-28T17:48:00",
+        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
+        "positive": 13.5,
+        "negative": 1.6
+    },
+    {
+        "headlines": "How India is now partying with non-alcoholic spiritsAlso known as zero-proof spirits, non-alcoholic spirits are crafted to replicate the taste of traditional spirits but without the alcohol. These zero-proof drinks are not like your other non-alcoholic beverages such as ginger ale, soda, or mocktails.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/india-party-culture-non-alcoholic-spirits-gen-z-millennials-2656796-2024-12-29",
+        "category": "lifestyle",
+        "date_time": "2024-12-29T14:38:00",
+        "uuid": "744eeb7f-9d73-415c-9faf-da0969839713",
+        "positive": 12.3,
+        "negative": 4.1
+    },
+    {
         "headlines": "Watch: Melbourne crowd pays floppy hat tribute to Shane Warne on Boxing Day Border-Gavaskar Trophy: Shane Warne's children joined the crowd at Melbourne to pay tribute to the leg-spinner, who died in March 2022. Fans doffed their floppy hats in memory of the legendary cricketer. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-melbourne-shane-warne-floppy-hat-tribute-2655483-2024-12-26",
         "category": "sports",
@@ -6786,6 +6579,141 @@
         "negative": 4.5
     },
     {
+        "headlines": "I tested 5 heatless curling methods to find the best one. Here's what I foundFrom foam rollers to headbands, heatless curlers are going viral across social media. But which one works the best?",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/i-tested-5-heatless-curling-methods-to-find-the-best-one-heres-what-i-found-2657051-2024-12-30",
+        "category": "lifestyle",
+        "date_time": "2024-12-30T12:40:00",
+        "uuid": "6e4d6695-ec51-4da3-88f9-7cd60b1cae74",
+        "positive": 18.2,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Why is it a good idea to skip the mountains this New Year's From steep hotel prices to overcrowding, are mountains not calling this New Year? ",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-is-it-a-good-idea-to-skip-the-mountains-this-new-years-2657548-2024-12-31",
+        "category": "lifestyle",
+        "date_time": "2024-12-31T07:57:00",
+        "uuid": "99488be6-3f44-43aa-b05a-8d21922c9e9e",
+        "positive": 9.8,
+        "negative": 11.5
+    },
+    {
+        "headlines": "Can 'Living Apart Together' marriages be a hit in India?Living Apart Together (LAT), a growing trend among committed and married couples in the West, refers to couples intentionally avoiding cohabitation in order to keep the spark alive.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/can-living-apart-together-marriages-be-a-hit-in-india-2657775-2024-12-31",
+        "category": "lifestyle",
+        "date_time": "2024-12-31T16:38:00",
+        "uuid": "3519a734-3fb0-4943-8e5f-bf61372f4633",
+        "positive": 18.7,
+        "negative": 6.4
+    },
+    {
+        "headlines": "The Gen Beta era is here. What will define their journey?Children of younger millennials and older Gen Z, Gen Beta will be born into a world dominated by technology and AI.",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/gen-beta-has-arrived-what-can-we-expect-from-them-2657962-2025-01-01",
+        "category": "lifestyle",
+        "date_time": "2025-01-01T08:13:00",
+        "uuid": "c76a25ef-a217-4cb1-a7c8-6d14731267a9",
+        "positive": 19.4,
+        "negative": 2.3
+    },
+    {
+        "headlines": "The expensive reality of social media's never-ending trendsThe need to stay on top of every new social media trend is not just exhaustive but also draining your bank account. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/the-expensive-reality-of-instagram-facebook-tiktoks-never-ending-trends-and-reels-2658413-2025-01-02",
+        "category": "lifestyle",
+        "date_time": "2025-01-02T10:05:00",
+        "uuid": "5956d457-4fd8-476f-a5b5-985d726a4800",
+        "positive": 13.4,
+        "negative": 11
+    },
+    {
+        "headlines": "Wi-Fi on Air India flights now: 5 things you might miss doing on planeOn January 1, Air India introduced complimentary internet access for passengers on select aircraft.",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/wi-fi-on-air-india-flights-now-5-things-you-might-miss-doing-on-plane-2658781-2025-01-03",
+        "category": "lifestyle",
+        "date_time": "2025-01-03T08:00:00",
+        "uuid": "23a9c6a9-8865-4129-b1cd-b35b367602ae",
+        "positive": 11.7,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Do black plastic containers used in food deliveries cause cancer?A recent study found toxic flame retardants in black plastic products. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/do-black-plastic-containers-used-in-food-deliveries-cause-cancer-2659350-2025-01-03",
+        "category": "lifestyle",
+        "date_time": "2025-01-03T18:51:00",
+        "uuid": "b48c621c-0a86-41d7-9c98-a5d686709ef9",
+        "positive": 5.2,
+        "negative": 9.2
+    },
+    {
+        "headlines": "What are the healthiest snacks to go with chai? Not biscuits, rusks for sureHealth experts warn that many popular tea-time snack choices in Indian households are unhealthy and should be avoided for daily consumption. If your morning tea ritual also feels incomplete without dipping biscuits or rusks, it might be time to rethink your snack choices.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/healthy-tea-snacks-not-biscuits-rusks-2659861-2025-01-05",
+        "category": "lifestyle",
+        "date_time": "2025-01-05T12:00:00",
+        "uuid": "524b7138-8568-4707-9115-41ede02fdafa",
+        "positive": 8.7,
+        "negative": 9.3
+    },
+    {
+        "headlines": "Does skipping baths in winter increase life span by 34%? Well, here's the truthA video claiming that skipping winter baths can increase life expectancy by 34 per cent has gone viral on social media. We did a little digging, and here's what we found.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/does-skipping-bath-in-winter-increase-life-span-well-heres-the-truth-2660183-2025-01-06",
+        "category": "lifestyle",
+        "date_time": "2025-01-06T09:14:00",
+        "uuid": "13f8f0b4-1f63-4f06-a97c-9febea39fc9a",
+        "positive": 21.9,
+        "negative": 5.5
+    },
+    {
+        "headlines": "It was all Golden at The Globes this year. Plus, other fashion trendsBillowing silhouettes, opera gloves, ogle-worthy jewellery pieces, sequin galore, voluminous hairstyles  and roaring red were the top trends at the Golden Globes.",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/golden-globes-2025-fashion-trends-best-dressed-celebrities-stmp-2660522-2025-01-06",
+        "category": "lifestyle",
+        "date_time": "2025-01-06T19:31:00",
+        "uuid": "0b2aa525-a454-4369-8e11-d3a370db74f8",
+        "positive": 10.7,
+        "negative": 0.5
+    },
+    {
+        "headlines": "What's the real story of tourism in Goa right now?Is tourism in Goa really declining, or are we missing an undercurrent, a positive one that can reposition the state's identity as the \"party capital of India\"?",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/whats-the-real-story-of-tourism-in-goa-right-now-2661259-2025-01-08",
+        "category": "lifestyle",
+        "date_time": "2025-01-08T10:28:00",
+        "uuid": "e2ef4435-dd40-41d5-84e1-1f71f423ad01",
+        "positive": 11.5,
+        "negative": 6.9
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Gentle reminder: It's the little lifestyle changes that will make 2025 healthierFrom increasing water intake and making small dietary changes to ditching phone usage while eating, these simple lifestyle adjustments can make a significant impact on your well-being.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/gentle-reminder-its-the-little-lifestyle-changes-that-will-make-2025-healthier-2661759-2025-01-09",
+        "category": "lifestyle",
+        "date_time": "2025-01-09T08:00:00",
+        "uuid": "971f360f-9913-49b4-b765-ef1475cb81cb",
+        "positive": 19.7,
+        "negative": 6.7
+    },
+    {
+        "headlines": "How the Michelangelo Phenomenon can shape or break a relationshipThe Michelangelo Phenomenon is a fascinating psychological concept that likens the dynamic between partners to that of a sculptor and their art.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/how-the-michelangelo-phenomenon-can-shape-or-break-a-relationship-2662344-2025-01-09",
+        "category": "lifestyle",
+        "date_time": "2025-01-09T18:20:00",
+        "uuid": "a124b665-2bc9-4c5e-a114-4743b4f74e0c",
+        "positive": 25.4,
+        "negative": 4.6
+    },
+    {
+        "headlines": "Can popping supplements help you manage your PCOS?The internet is obsessing over supplements as a way to manage and even treat PCOS.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-popping-supplements-help-you-manage-your-pcos-2662475-2025-01-10",
+        "category": "lifestyle",
+        "date_time": "2025-01-10T08:00:00",
+        "uuid": "d9311521-e903-444c-aae5-ab99079a553a",
+        "positive": 21.4,
+        "negative": 6.6
+    },
+    {
         "headlines": "Fiery Virat Kohli instructions at MCG caught on stump micVirat Kohli was caught on the stump mic delivering stern instructions to pacer Mohammed Siraj, saying, \"Has ke baat nahi karna inse\" (Don't smile while talking to them) on Day 1 of the fourth Test.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-fiery-virat-kohli-instructions-mcg-test-siraj-stump-mic-2655471-2024-12-26",
         "category": "sports",
@@ -6802,6 +6730,15 @@
         "uuid": "75d0daa8-b8ee-46a1-aea6-4f4cc30b642c",
         "positive": 5.2,
         "negative": 2.6
+    },
+    {
+        "headlines": "The male attitude towards sex toys is changing in IndiaHesitation, social taboo, judgment, and the shame associated with using sex toys often prevents men from exploring sex toys.",
+        "article_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/male-sex-toys-attitude-india-2662924-2025-01-10",
+        "category": "lifestyle",
+        "date_time": "2025-01-10T18:32:00",
+        "uuid": "2e020f36-dcf5-4d4b-8dc5-97e24f4115d5",
+        "positive": 11.9,
+        "negative": 1.7
     },
     {
         "headlines": "Watch: Jasprit Bumrah bowls Travis Head for 0, breaks Anil Kumble's MCG recordAustralia vs India, 4th Test: Jasprit Bumrah became India's leading wicket-taker in Tests at the Melbourne Cricket Ground. The top-ranked fast bowler took 3 wickets on Day 1 of the Boxing Day Test. ",
@@ -6876,13 +6813,13 @@
         "negative": 2.7
     },
     {
-        "headlines": "Go this weekend: All We Imagine as Light back in cinemas, Payal Kapadia thrilledDirector Payal Kapadia's film, All We Imagine As Light, has returned to cinemas with improved showtimes in select cities.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/all-we-imagine-as-light-back-in-cinemas-director-payal-kapadia-thrilled-2648880-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T17:30:00",
-        "uuid": "c2af656f-3e8c-408a-b24b-4a4a457136b8",
-        "positive": 17.8,
-        "negative": 0.5
+        "headlines": "What the Indian passport can learn from Singapore, the world's most powerfulOver the past eight years, Singapore has consistently ranked in the top two and has remained amongst the top ten for over two decades, according to data from Henley Global. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/what-the-indian-passport-can-learn-from-singapore-the-worlds-most-powerful-2663026-2025-01-11",
+        "category": "lifestyle",
+        "date_time": "2025-01-11T08:00:00",
+        "uuid": "d9bcada0-b0ae-4d3b-b810-f8c201a74894",
+        "positive": 21.8,
+        "negative": 1.7
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -6919,6 +6856,15 @@
         "uuid": "1ec62e63-e1b9-46b5-bfa6-f36f2d6aee35",
         "positive": 11.9,
         "negative": 9.2
+    },
+    {
+        "headlines": "How social media fuels Imposter SyndromeSocial media has a huge role in making people feel terrible about themselves, and can instil the feeling of being an \"imposter\".",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/how-social-media-fuels-imposter-syndrome-manoj-bajpayee-2663476-2025-01-12",
+        "category": "lifestyle",
+        "date_time": "2025-01-12T08:00:00",
+        "uuid": "37621240-f288-4f49-8974-1c7cd2d8000b",
+        "positive": 14.6,
+        "negative": 11.9
     },
     {
         "headlines": "What are India's chances of winning Boxing Day Test after Day 1? AUS vs IND, Boxing Day Test: With Australia at 311 for six at Stumps on Day 1, are India still in with a good enough chance to come up trumps at the Melbourne Cricket Ground (MCG)? ",
@@ -7227,42 +7173,6 @@
         "negative": 9.4
     },
     {
-        "headlines": "Priyanka Chopra on working in SRK's Don: I tasted blood a little bitGlobal icon Priyanka Chopra recently opened up about working in the Farhan Akhtar directorial, Don, which also starred superstar Shah Rukh Khan in the lead. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-chopra-on-working-in-shah-rukh-khan-don-2648797-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T14:51:00",
-        "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
-        "positive": 9.6,
-        "negative": 2.1
-    },
-    {
-        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T14:25:00",
-        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
-        "positive": 11.3,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
-        "category": "bollywood",
-        "date_time": "2024-12-11T11:31:00",
-        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
-        "positive": 17,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Singham Again OTT release: When and where to watch Ajay Devgn's actionerSingham Again, starring Ajay Devgn, is now available on Prime Video. The film, which was released on Diwali, earned around Rs 300 crore in India. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/singham-again-on-ott-when-and-where-to-watch-rohit-shetty-ajay-devgns-actioner-2652743-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T12:11:00",
-        "uuid": "0e006bea-61bf-45f3-9ffc-2b75d976e3cb",
-        "positive": 9.4,
-        "negative": 1.3
-    },
-    {
         "headlines": "Feels like grade cricket: Nathan Lyon reveals Sam Konstas' debut verdict vs IndiaAt just 19, Sam Konstas stole the spotlight with a fearless 60 on his Boxing Day Test debut. Calm under pressure, the youngest Aussie in decades to hit fifty-plus showed why he's a star in the making. ",
         "article_url": "https://www.indiatoday.in/sports/story/feels-like-grade-cricket-nathan-lyon-reveals-sam-konstas-debut-verdict-vs-india-2656345-2024-12-27",
         "category": "sports",
@@ -7326,6 +7236,24 @@
         "negative": 4.9
     },
     {
+        "headlines": "Varun Dhawan recreates real-life wedding moment with Keerthy in Baby John songVarun Dhawan recreated a memorable wedding moment with Keerthy Suresh in the song Hazaar Baar from his upcoming film Baby John, capturing the essence of romance akin to his real-life wedding.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-recreates-real-life-wedding-moment-natasha-dalal-keerthy-suresh-new-baby-john-song-hazaar-baar-2652424-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T17:55:00",
+        "uuid": "b9103930-2ddc-4baa-a892-9a2cb7251458",
+        "positive": 4.3,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Nana Patekar invites Aamir Khan for a special screening of his film VanvaasNana Patekar is set to host a special Vanvaas screening for Aamir Khan. The film, starring Utkarsh Sharma and Simratt Kaur along with Nana Patekar, is set to release on December 20. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/nana-patekar-invites-aamir-khan-for-a-special-screening-of-his-film-vanvaas-2652293-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T14:33:00",
+        "uuid": "f4c26c95-6434-4636-81de-62f08b0ef7d7",
+        "positive": 15.8,
+        "negative": 1.3
+    },
+    {
         "headlines": "Corbin Bosch's 81* gives South Africa an upper hand over Pakistan on Day 2Corbin Bosch's fearless 81 on debut turned the tide for South Africa, giving them a vital 90-run lead. Pakistan now rely on Babar Azam to rescue their innings, with Day 3 poised for a gripping contest.",
         "article_url": "https://www.indiatoday.in/sports/story/corbin-boschs-81-gives-south-africa-an-upper-hand-over-pakistan-on-day-2-2656442-2024-12-27",
         "category": "sports",
@@ -7369,24 +7297,6 @@
         "uuid": "6340e71e-0494-45f5-9a54-8df042e12452",
         "positive": 8.1,
         "negative": 3.7
-    },
-    {
-        "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/thalapathy-vijay-impressed-baby-john-varun-dhawan-work-director-kalees-2652819-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T13:30:00",
-        "uuid": "6968f830-dcd4-46c5-a90b-8c2c065ceee6",
-        "positive": 16.3,
-        "negative": 0.9
-    },
-    {
-        "headlines": "Vanvaas review: Nana Patekar, Utkarsh Sharma's film is a dull version of BaghbanReleased-Fri Dec 20, 2024Vanvaas, starring Nana Patekar and Utkarsh Sharma, explores the deteriorating bond between parents and children, reminiscent of Baghban but with a deeper twist. Despite its noble intentions, the film struggles with execution and fails to evoke the emotional depth it aims for.",
-        "article_url": "https://www.indiatoday.in/movies/reviews/story/vanvaas-movie-review-nana-patekar-utkarsh-sharma-film-dull-version-baghban-2652809-2024-12-20",
-        "category": "bollywood",
-        "date_time": "2024-12-20T13:37:00",
-        "uuid": "47cbd85a-5124-418f-94a8-9c5c096ba740",
-        "positive": 12.5,
-        "negative": 11.1
     },
     {
         "headlines": "FC Barcelona's Dani Olmo registration plea rejected by Spanish courtBarcelona's efforts to extend Dani Olmo's registration were denied, leaving the midfielder ineligible to play after December 31. With La Liga's financial restrictions looming, the club is scrambling to find solutions before the January deadline.  ",
@@ -7459,6 +7369,24 @@
         "uuid": "9f676058-0f71-4197-80bd-1a771ec60c41",
         "positive": 9.7,
         "negative": 7
+    },
+    {
+        "headlines": "Ajay Devgn, Tabu's De De Pyaar De 2 to hit theatres in November 2025De De Pyaar De's sequel has been officially announced for a November 2025 release. The film will feature a star-studded cast and is directed by Anshul Sharma.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-tabus-de-de-pyaar-de-2-to-hit-theatres-in-november-2025-2652214-2024-12-19",
+        "category": "bollywood",
+        "date_time": "2024-12-19T12:51:00",
+        "uuid": "32a2c971-7e64-4baf-98cc-d84a009807a0",
+        "positive": 3.5,
+        "negative": 1
+    },
+    {
+        "headlines": "Thaman S: The creative force behind hits like Ramuloo Ramulaa and Nain MattakaThaman S, famed for his South Indian hits, is set to debut his first full Bollywood album with Baby John this Christmas. The film stars Varun Dhawan in the lead and the will be released on December 25.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/meet-thaman-s-man-behind-tracks-like-ramuloo-ramulaa-nain-mattaka-baby-john-varun-dhawan-2651892-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T20:55:00",
+        "uuid": "9dea412b-a5b7-408d-8f5f-b32852992650",
+        "positive": 11.9,
+        "negative": 0.6
     },
     {
         "headlines": "Stupid, Stupid, Stupid: Furious Gavaskar slams Pant for reckless dismissalIND vs AUS: Legendary Sunil Gavaskar was furious with India wicketkeeper-batter Rishabh Pant for throwing away his wicket on Day 3 of the MCG Test match. Gavaskar called Pant stupid and said the left-hander should have walked back to the Australian dressing room instead of the Indian one.\r\n",
@@ -7785,42 +7713,6 @@
         "negative": 8
     },
     {
-        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T09:05:00",
-        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
-        "positive": 16,
-        "negative": 3.6
-    },
-    {
-        "headlines": "Ali Fazal, Richa Chadha broke fixed deposits to fund Girls Will Be GirlsActors Richa Chadha and Ali Fazal broke their fixed deposits to fund their debut production Girls Will Be Girls, which has been praised for its portrayal of adolescent challenges. The film premiered at international festivals and is now available on Prime Video.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ali-fazal-richa-chadha-broke-fixed-deposits-to-fund-girls-will-be-girls-2653459-2024-12-21",
-        "category": "bollywood",
-        "date_time": "2024-12-21T17:21:00",
-        "uuid": "ccb1661a-2722-48bd-a329-e29338e12c9a",
-        "positive": 15.4,
-        "negative": 6
-    },
-    {
-        "headlines": "Yeh Jawaani Hai Deewani to re-release? Dharma's cryptic post sparks speculationDharma Movies shared a cryptic post on Monday suggesting the re-release of the hit film Yeh Jawaani Hai Deewani. The film stars Ranbir Kapoor, Deepika Padukone, Kalki Koechlin, Aditya Roy Kapur and others. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-to-re-release-in-theatres-dharma-production-shares-cryptic-post-2654007-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T13:36:00",
-        "uuid": "5670f2c4-9aae-44dc-a66e-7d6455c87243",
-        "positive": 16.1,
-        "negative": 2
-    },
-    {
-        "headlines": "When Diljit Dosanjh was cast as Priyanka Chopra's on-screen husbandFilmmaker Boney Kapoor recently revealed that he wanted to cast Diljit Dosanjh alongside Priyanka Chopra in a movie. In an interview, he said that he wanted the singer to play Chopra's husband in the film. \r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/boney-kapoor-shared-that-diljit-dosanjh-was-cast-to-play-priyanka-chopra-on-screen-husband-2654024-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T14:13:00",
-        "uuid": "cbd44945-5e72-46f5-a82d-5cb1cc8db5f8",
-        "positive": 7.3,
-        "negative": 2
-    },
-    {
         "headlines": "Nitish Reddy reveals reason behind his hundred celebration at MCGNitish Kumar Reddy's maiden century at the MCG was not only a personal milestone but also a tribute to his father's unwavering support. His emotional celebration, saluting the Indian flag, reflected the deep gesture towards making his country proud.",
         "article_url": "https://www.indiatoday.in/sports/story/nitish-reddy-reveals-reason-behind-his-hundred-celebration-at-mcg-was-saluting-indian-flag-2656789-2024-12-28",
         "category": "sports",
@@ -7891,6 +7783,51 @@
         "uuid": "b1c8a39e-96da-49a2-bebb-f74616ba981b",
         "positive": 5.2,
         "negative": 3
+    },
+    {
+        "headlines": "Taapsee Pannu begins shoot for Gandhari: Let the war beginAfter Phir Aayi Haseen Dilruba, Taapsee Pannu began filming her next film. Titled Gandhari, the action-thriller is produced by Kanika Dhillon and directed by Devashish Makhija.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/taapsee-pannu-begins-shoot-for-gandhari-let-the-war-begin-2651609-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T13:16:00",
+        "uuid": "d7717455-e11c-4a05-b13e-fce8a08b22ce",
+        "positive": 11.8,
+        "negative": 8.7
+    },
+    {
+        "headlines": "20 years of Swades: Exploring the timeless relevance of Shah Rukh Khan filmReleased in 2004, Ashutosh Gowariker's Swades remains a poignant narrative in Indian cinema. Starring Shah Rukh Khan, it explores themes of identity, responsibility, and self-reliance.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/swades-20-years-shah-rukh-khan-film-themes-timeless-ashutosh-gowariker-2651239-2024-12-18",
+        "category": "bollywood",
+        "date_time": "2024-12-18T08:37:00",
+        "uuid": "1f6634c5-3c58-4bd8-9191-1cc256c71564",
+        "positive": 14.8,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Relive Mohan Bhargava's journey of homecoming as Swades completes 20 yearsAshutosh Gowariker's film Swades turned 20 today. The filmmaker shared a heartfelt letter celebrating the milestone on Instagram.\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ashutosh-gowariker-celebrates-20-years-of-swades-with-heartfelt-letter-to-fans-2651137-2024-12-17",
+        "category": "bollywood",
+        "date_time": "2024-12-17T18:59:00",
+        "uuid": "b05f6d60-112b-4453-b127-dbf7a6e68d56",
+        "positive": 17.7,
+        "negative": 0
+    },
+    {
+        "headlines": "Sikandar teaser to release on Salman Khan's 59th birthday: ReportThe much-awaited teaser for Sikandar will be reportedly release on Salman Khan's 59th birthday. Fans are eager for this special birthday treat from the Bollywood superstar.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/sikandar-teaser-to-release-on-salman-khans-59th-birthday-report-2650634-2024-12-16",
+        "category": "bollywood",
+        "date_time": "2024-12-16T20:06:00",
+        "uuid": "58bbde1a-747b-4da1-aad5-96c2ae4f7f13",
+        "positive": 11.8,
+        "negative": 6.1
+    },
+    {
+        "headlines": "Varun Dhawan on Salman Khan's cameo in Baby John: Its impact will last for many daysSalman Khan is set to make a cameo appearance in the upcoming film Baby John. Varun Dhawan, who plays the lead in the movie, shared insights about the superstar's role.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-on-salman-khan-cameo-in-baby-john-its-impact-will-last-for-many-days-2650209-2024-12-15",
+        "category": "bollywood",
+        "date_time": "2024-12-15T19:32:00",
+        "uuid": "f303ae39-504d-4557-af9d-e209bca13146",
+        "positive": 6.4,
+        "negative": 2.3
     },
     {
         "headlines": "What is the highest successful run-chase in Melbourne Tests? AUS vs IND: The Boxing Day Test at the Melbourne Cricket Ground is poised to be a thriller with a day left. India have a healthy record at the MCG and would be fancying their chances, but what are the chances?  ",
@@ -8127,15 +8064,6 @@
         "negative": 1.9
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "Rohit Sharma wastes patient start as poor Test run in Australia continuesBoxing Day Test: Rohit Sharma failed to capitalise on his patient start, again falling to Australian captain Pat Cummins. Rohit managed to score only 9 runs on Day 5 of the MCG Test.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-poor-form-australia-mcg-test-day-5-cummins-rahul-2657064-2024-12-30",
         "category": "sports",
@@ -8206,6 +8134,15 @@
         "uuid": "5a674745-7fc2-4488-a53b-21aea8d44eb0",
         "positive": 3.8,
         "negative": 6.6
+    },
+    {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
     },
     {
         "headlines": "Steely Australia break India's resistance to win MCG thriller, end 13-year streakAustralia vs India, 4th Test: Australia rode on an all-round bowling show on Day 5 to beat India by 184 runs and take a 2-1 lead in the five-match series on Monday. India paid the price for their big stars, including Rohit Sharma and Virat Kohli, not showing enough fight with the bat in the final innings. ",
@@ -8487,13 +8424,13 @@
         "negative": 3.5
     },
     {
-        "headlines": "Orry joins Bhansali's Love and War cast, Deepika Padukone to make cameo Sanjay Leela Bhansali's Love and War will star Orry, alongside Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal. Deepika Padukone will make a cameo. The film releases in March 2026.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/orry-sanjay-leela-bhansali-love-and-war-deepika-padukone-cameo-2654018-2024-12-23",
+        "headlines": "Varun Dhawan on Baby John being a Theri remake: We had to change a lotActor Varun Dhawan clarified that his upcoming film, Baby John is an adaptation of the Tamil movie Theri, not a remake. He also said that Baby John has significant changes. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-baby-john-theri-remake-had-to-change-a-lot-2649984-2024-12-15",
         "category": "bollywood",
-        "date_time": "2024-12-23T13:58:00",
-        "uuid": "8e84250e-3914-4f43-8e3b-376f61f4491d",
-        "positive": 15.7,
-        "negative": 7.6
+        "date_time": "2024-12-15T10:21:00",
+        "uuid": "39ba8cd6-e33e-4b30-b193-0126bb35d5bd",
+        "positive": 10.7,
+        "negative": 2
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8566,6 +8503,15 @@
         "uuid": "42165829-e354-4b8a-92ef-1702b15dc2e2",
         "positive": 13.9,
         "negative": 3.1
+    },
+    {
+        "headlines": "KJo on 23 years of Kabhi Khushi Kabhie Gham: One of those pinch me moments…Karan Johar celebrated 23 years of the iconic movie Kabhi Khushi Kabhie Gham. On Saturday, the filmmaker shared stills from the film with a heartfelt note on Instagram. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-on-23-years-of-shah-rukh-khan-amitabh-bachchan-kabhi-khushi-kabhie-gham-2649801-2024-12-14",
+        "category": "bollywood",
+        "date_time": "2024-12-14T14:29:00",
+        "uuid": "068b8af4-fc5e-4eb0-b5fd-4dd17b609dfa",
+        "positive": 17.2,
+        "negative": 0.7
     },
     {
         "headlines": "Jasprit Bumrah named captain, Cummins ignored in Australian media's Test Team of 2024India fast bowler Jasprit Bumrah was named the captain of the Test team of the year by the Australian media but captain Pat Cummins failed to find any spot. ",
@@ -8694,114 +8640,6 @@
         "negative": 3.8
     },
     {
-        "headlines": "Fateh trailer: Sonu Sood is on a killing spree in his fight against cybercrimeSonu Sood's Fateh trailer is out. The film, starring Jacqueliene Fernandez alongside the actor, will release in theatres on January 10. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/fateh-trailer-sonu-sood-killing-spree-fight-against-cybercrime-jacqueliene-fernandez-2654264-2024-12-23",
-        "category": "bollywood",
-        "date_time": "2024-12-23T19:40:00",
-        "uuid": "1da8afd0-c9dc-464e-91a0-20dd687bec8f",
-        "positive": 4.9,
-        "negative": 10
-    },
-    {
-        "headlines": "Border 2: Sunny Deol, Varun Dhawan, Diljit Dosanjh begin shooting, see picSunny Deol, Varun Dhawan, and Diljit Dosanjh's Border 2 commenced filming today, December 24, with the makers exciting fans by sharing a glimpse from the sets.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/border-2-sunny-deol-varun-dhawan-diljit-dosanjh-ahan-shetty-film-shooting-begins-2654550-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:16:00",
-        "uuid": "4a2f074f-267a-4ad5-a4ae-5930ad17b847",
-        "positive": 17,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Subedaar teaser: Anil Kapoor plays a retired soldier in the gritty actionerThe teaser of Anil Kapoor's upcoming film, Subedaar, was released on his birthday today. The crime-thriller will also star Radhikka Madan and will release on Prime Video. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/subedaar-teaser-anil-kapoor-plays-a-retired-soldier-in-the-gritty-actioner-2654551-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T13:04:00",
-        "uuid": "744ffd05-8b82-4273-a517-dd2a36b61183",
-        "positive": 7.2,
-        "negative": 6.9
-    },
-    {
-        "headlines": "Param Sundari: Sidharth Malhotra's swag meets Janhvi Kapoor's grace in new filmSidharth Malhotra and Janhvi Kapoor are set to star together in a film titled Param Sundari. This romantic comedy, directed by Tushar Jalota, is slated for a theatrical release in July 2025.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/param-sundari-janhvi-kapoor-sidharth-malhotra-rom-com-to-release-in-july-2025-2654585-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T14:01:00",
-        "uuid": "722953f6-570b-401d-bb4f-27b415cde4d7",
-        "positive": 14.7,
-        "negative": 0.3
-    },
-    {
-        "headlines": "Siddharth Anand replaces Sujoy Ghosh as director for SRK's King: ReportsAmid much buzz around Shah Rukh Khan's King, it has now been reported that Siddharth Aand has replaced Sujoy Ghosh to direct the entertainer. The film also stars Suhana Khan in a key role. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/siddharth-anand-replaces-sujoy-ghosh-director-shah-rukh-khan-king-stmp-2654749-2024-12-24",
-        "category": "bollywood",
-        "date_time": "2024-12-24T18:11:00",
-        "uuid": "392068f8-177c-4a63-ba6b-cde3804a0180",
-        "positive": 5.6,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Baby John review: Varun Dhawan-Keerthy Suresh's actioner is massy but messyReleased-Wed Dec 25, 2024Baby John movie review: Varun Dhawan, Keerthy Suresh and Jackie Shroff-starrer Baby John is a commercial entertainer with an overdose of mass moments. The performances of lead cast make the film enjoyable.",
-        "article_url": "https://www.indiatoday.in/movies/reviews/story/baby-john-movie-review-varun-dhawan-keerthy-suresh-atlee-actioner-massy-messy-2655044-2024-12-25",
-        "category": "bollywood",
-        "date_time": "2024-12-25T09:44:00",
-        "uuid": "91b787bf-e5e2-4905-9842-95857ef23ca3",
-        "positive": 14.9,
-        "negative": 8.4
-    },
-    {
-        "headlines": "The Idiot of Istanbul: Imtiaz Ali confirms his next with Fahadh Faasil Imtiaz Ali confirmed his film with Malayalam superstar Fahadh Faasil. During an interview, he revealed that the film has been titled The Idiot of Istanbul. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/the-idiot-of-istanbul-imtiaz-ali-confirms-his-next-with-fahadh-faasil-2655077-2024-12-25",
-        "category": "bollywood",
-        "date_time": "2024-12-25T10:37:00",
-        "uuid": "93d182bd-cb00-4e39-9a95-597c203b1241",
-        "positive": 10.1,
-        "negative": 5.7
-    },
-    {
-        "headlines": "Housefull 5: Akshay Kumar, Abhishek Bachchan, Riteish, others wrap film's shootAkshay Kumar, Riteish Deshmukh, Abhishek Bachchan and others have wrapped the shoot of the upcoming film, Housefull 5. Fardeen Khan shared pictures on social media from the bash. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-riteish-deshmukh-fardeen-khan-abhishek-bachchan-wrap-housefull-5-shoot-2655171-2024-12-25",
-        "category": "bollywood",
-        "date_time": "2024-12-25T14:43:00",
-        "uuid": "206eb097-9115-49b7-ad04-691f9605fb43",
-        "positive": 15.8,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Karan Johar, Kartik Aaryan team up for new film Tu Meri Main TeraKaran Johar and Kartik Aaryan have finally joined forces for a romantic drama directed by Sameer Vidwans. The film, Tu Meri Main Tera, Main Tera Tu Meri, is set to release in 2026.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-kartik-aaryan-team-up-romantic-drama-tu-meri-main-tera-main-tera-tu-meri-2655308-2024-12-25",
-        "category": "bollywood",
-        "date_time": "2024-12-25T21:12:00",
-        "uuid": "2990ab97-cd6f-4227-91cb-08adfbf9cca1",
-        "positive": 15.2,
-        "negative": 0
-    },
-    {
-        "headlines": "Baby John box office Day 1: Varun Dhawan, Atlee's film opens at Rs 12.5 crore Varun Dhawan's Baby John had a modest opening on Christmas Day, overshadowed by the continued success of Pushpa 2. The intense box office competition was further fuelled by other releases, including Max.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-box-office-day-1-collection-varun-dhawan-atlee-film-opens-at-rs-125-crore-2655424-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T08:57:00",
-        "uuid": "e1924837-3054-4e5e-8822-aadd5a6dc1cf",
-        "positive": 9.9,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Anil Kapoor skipped bathing for days to preserve makeup after his debut: Boney KapoorProducer Boney Kapoor recently revealed a personal anecdote about his actor-brother Anil Kapoor. He shared he didn't bathe for days after shooting for his first film. \r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anil-kapoor-skipped-bathing-for-days-to-preserve-makeup-after-his-debut-boney-kapoor-2655450-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T09:48:00",
-        "uuid": "8878c9ac-26e6-46d9-b661-d85dc48465d0",
-        "positive": 8.9,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Shahana Goswami on Laapataa Ladies' exit from Oscars: It's still a big winShahana Goswami discusses the significance of Laapataa Ladies' journey despite not advancing in the Oscars race, highlighting the ongoing debates around India's film selection for the awards.",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shahana-goswami-on-laapataa-ladies-exit-from-oscars-its-still-a-big-win-2655584-2024-12-26",
-        "category": "bollywood",
-        "date_time": "2024-12-26T14:19:00",
-        "uuid": "16785322-14f8-4267-8be6-aed680c61029",
-        "positive": 11,
-        "negative": 0.5
-    },
-    {
         "headlines": "Will Rohit Sharma do what's best for Team India in the New Year's Test?Australia vs India, 5th Test: Captain Rohit Sharma faces mounting scrutiny after a string of failures in the Border-Gavaskar Trophy, with questions arising about his form and leadership. As India fight to salvage the series in Sydney, Rohit's choices could define both the team's fate and his legacy.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-new-year-test-sydney-big-call-drop-2657957-2025-01-01",
         "category": "sports",
@@ -8827,6 +8665,15 @@
         "uuid": "20e7fd56-9579-43b2-8945-1bd7a55384fe",
         "positive": 14.5,
         "negative": 2.7
+    },
+    {
+        "headlines": "Rani Mukerji's Mardaani 3 to release in theatres in 2026The makers of the upcoming film Mardaani 3 announced that the film will release in theatres in 2026. Actor Rani Mukerji will reprise her role as Shivani Shivaji Rao. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rani-mukerji-mardaani-3-to-release-in-2026-2649254-2024-12-13",
+        "category": "bollywood",
+        "date_time": "2024-12-13T12:21:00",
+        "uuid": "6355b289-2ab9-4219-8f70-0fc3391ebcd4",
+        "positive": 14.6,
+        "negative": 0.8
     },
     {
         "headlines": "Bunch of liars: Ex-player slams Team India over MCG Test DRS controversiesA former India cricketer has hit out against the Rohit Sharma-led Indian team. Former Delhi wicketkeeper Surinder Khanna called the Indian team a bunch of liars after their loss in the Boxing Day Test match at the MCG.",
@@ -8863,6 +8710,114 @@
         "uuid": "367683a9-9fc5-4318-9586-875aa6ce62a1",
         "positive": 9.3,
         "negative": 6.7
+    },
+    {
+        "headlines": "SRK shares sweet birthday wish for 'coolest and bossest' RajinikanthSuperstar Shah Rukh Khan on Thursday shared the sweetest birthday wish for megastar Rajinikanth. Sharing a photo of himself with the icon, SRK called Rajinikanth 'remarkably simple' and 'inspiring.'",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-shares-sweet-birthday-wish-for-coolest-and-bossest-rajinikanth-2649125-2024-12-13",
+        "category": "bollywood",
+        "date_time": "2024-12-13T00:07:00",
+        "uuid": "235d66ee-56ed-474b-a9c9-82a4706103cc",
+        "positive": 22.3,
+        "negative": 0.8
+    },
+    {
+        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T22:14:00",
+        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
+        "positive": 4.1,
+        "negative": 7.3
+    },
+    {
+        "headlines": "Preity Zinta's sweet BTS moment from Dil Chahta Hai: A chocolate croissant to rescuePreity Zinta shared a heartwarming behind-the-scenes story from the shoot of Dil Chahta Hai, highlighting a moment of hunger and humour that ended with a chocolate croissant. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/preity-zinta-sweet-bts-moment-from-dil-chahta-hai-a-chocolate-croissant-to-rescue-2649030-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T21:12:00",
+        "uuid": "6b67f197-8203-48fb-bc5f-621473e06508",
+        "positive": 18.9,
+        "negative": 4.3
+    },
+    {
+        "headlines": "Anees Bazmee recalls being Raj Kapoor's assistant director: He breathed cinemaDirector Anees Bazmee opens up about being iconic filmmaker Raj Kapoor's former assistant director. Bazmee had assisted Kapoor on Prem Rog. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/anees-bazmee-recalls-being-raj-kapoor-assistant-director-2648884-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T17:16:00",
+        "uuid": "aef00406-6fd1-449f-b0aa-0059fd09ade9",
+        "positive": 17.8,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Go this weekend: All We Imagine as Light back in cinemas, Payal Kapadia thrilledDirector Payal Kapadia's film, All We Imagine As Light, has returned to cinemas with improved showtimes in select cities.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/all-we-imagine-as-light-back-in-cinemas-director-payal-kapadia-thrilled-2648880-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T17:30:00",
+        "uuid": "c2af656f-3e8c-408a-b24b-4a4a457136b8",
+        "positive": 17.8,
+        "negative": 0.5
+    },
+    {
+        "headlines": "Priyanka Chopra on working in SRK's Don: I tasted blood a little bitGlobal icon Priyanka Chopra recently opened up about working in the Farhan Akhtar directorial, Don, which also starred superstar Shah Rukh Khan in the lead. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-chopra-on-working-in-shah-rukh-khan-don-2648797-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T14:51:00",
+        "uuid": "68ff93ae-7ba5-409f-a0d1-af64ac51e99c",
+        "positive": 9.6,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Don teaser: Diljit Dosanjh collabs with OG don SRK for upcoming music videoDiljit Dosanjh has released a teaser for his music video Don, featuring a special voiceover by Shah Rukh Khan. The teaser has captured fans' attention with SRK's powerful narration.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/og-don-shah-rukh-khan-diljit-dosanjh-don-teaser-music-video-2648785-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T14:25:00",
+        "uuid": "c1f709c3-03f3-4303-a2d6-57d05b045ae1",
+        "positive": 11.3,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Varun Dhawan's Baby John: What to expect from the remake of Atlee's TheriBollywood star Varun Dhawan takes on a thrilling new role in Baby John, a remake of the Tamil hit, Theri. Directed by Kalees and produced by Atlee, the film promises action, drama, and emotional depth.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawans-baby-john-what-to-expect-from-the-remake-of-atlees-theri-thalapathy-vijay-2647757-2024-12-11",
+        "category": "bollywood",
+        "date_time": "2024-12-11T11:31:00",
+        "uuid": "c351191e-93d8-4283-a980-063a81e0e623",
+        "positive": 17,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Singham Again OTT release: When and where to watch Ajay Devgn's actionerSingham Again, starring Ajay Devgn, is now available on Prime Video. The film, which was released on Diwali, earned around Rs 300 crore in India. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/singham-again-on-ott-when-and-where-to-watch-rohit-shetty-ajay-devgns-actioner-2652743-2024-12-20",
+        "category": "bollywood",
+        "date_time": "2024-12-20T12:11:00",
+        "uuid": "0e006bea-61bf-45f3-9ffc-2b75d976e3cb",
+        "positive": 9.4,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Thalapathy Vijay loved Varun Dhawan's work in Baby John: Director KaleesIn an interview, director Kalees revealed that Thalapathy Vijay was impressed by Baby John and highly appreciated Varun Dhawan's performance. Baby John is an adaptation of the 2016 Tamil film in which Vijay played the lead role.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/thalapathy-vijay-impressed-baby-john-varun-dhawan-work-director-kalees-2652819-2024-12-20",
+        "category": "bollywood",
+        "date_time": "2024-12-20T13:30:00",
+        "uuid": "6968f830-dcd4-46c5-a90b-8c2c065ceee6",
+        "positive": 16.3,
+        "negative": 0.9
+    },
+    {
+        "headlines": "Vanvaas review: Nana Patekar, Utkarsh Sharma's film is a dull version of BaghbanReleased-Fri Dec 20, 2024Vanvaas, starring Nana Patekar and Utkarsh Sharma, explores the deteriorating bond between parents and children, reminiscent of Baghban but with a deeper twist. Despite its noble intentions, the film struggles with execution and fails to evoke the emotional depth it aims for.",
+        "article_url": "https://www.indiatoday.in/movies/reviews/story/vanvaas-movie-review-nana-patekar-utkarsh-sharma-film-dull-version-baghban-2652809-2024-12-20",
+        "category": "bollywood",
+        "date_time": "2024-12-20T13:37:00",
+        "uuid": "47cbd85a-5124-418f-94a8-9c5c096ba740",
+        "positive": 12.5,
+        "negative": 11.1
+    },
+    {
+        "headlines": "Barack Obama's 2024 film recommendations: All We Imagine As Light tops the listBarack Obama has listed Payal Kapadia's film, All We Imagine As Light, as his top movie recommendation for 2024, highlighting its international acclaim. The list also features films like Dune: Part Two, Conclave, and more.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/barack-obama-2024-movie-recommendations-payal-kapadia-all-we-imagine-as-light-tops-list-2653227-2024-12-21",
+        "category": "bollywood",
+        "date_time": "2024-12-21T09:05:00",
+        "uuid": "724c9c7b-fcc8-4b9f-ab51-6245a5b5fd35",
+        "positive": 16,
+        "negative": 3.6
     },
     {
         "headlines": "Football in 2025: Ronaldo-Messi future and 4 other things coming upFootball in 2025 promises high-stakes drama as Lionel Messi, Cristiano Ronaldo, and major tournaments like the FIFA Club World Cup headline an exciting year, while clubs like Manchester United battle challenges and January transfers shape the season's fate.",
@@ -8998,5 +8953,50 @@
         "uuid": "15ad93b3-7a80-41bf-9c33-1446d2b32628",
         "positive": 14.8,
         "negative": 3
+    },
+    {
+        "headlines": "Can India retain Border Gavaskar Trophy at SCG? Here's what history saysBorder Gavaskar Trophy, IND vs AUS: India have won only 1 out of 13 Test matches at the Sydney Cricket Ground. India's New Year's Test against Pat Cummins' Australia starts on January 3. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-border-gavaskar-trophy-india-sydney-test-record-2658280-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T18:38:00",
+        "uuid": "67409504-1c27-43a9-a346-0b5ae8aa94f1",
+        "positive": 14.4,
+        "negative": 7
+    },
+    {
+        "headlines": "Watch: Glenn Maxwell's mind-boggling take on boundary during Big Bash League gameAustralia all-rounder Glenn Maxwell took a stunning catch on the boundary during Match 19 of the Big Bash League 2024-25 between Brisbane Heat and Melbourne Stars.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/glenn-maxwell-stunning-catch-big-bash-league-2024-25-bbl-2024-25-brisbane-heat-vs-melbourne-stars-2658278-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T18:17:00",
+        "uuid": "480b5eba-7e09-4795-94db-8d48bd51b531",
+        "positive": 9,
+        "negative": 1.7
+    },
+    {
+        "headlines": "See pics: Kohli, Bumrah pose with Sam Konstas's brothers on New Year's DayVirat Kohli and Jasprit Bumrah shared a light moment with Sam Konstas's brothers during a New Year celebration hosted by Australian PM Anthony Albanese, setting aside their on-field rivalries ahead of the Sydney Test.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-jasprit-bumrah-sam-konstas-brother-pictures-prime-minister-2658276-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T18:05:00",
+        "uuid": "e96b0528-5962-4b9a-ac8f-b58d8ab9cebe",
+        "positive": 12.5,
+        "negative": 4.2
+    },
+    {
+        "headlines": "Ashes, Champions League, Grand Slams: Full list of major sports events in 20252025 promises a blockbuster year for sports fans worldwide, with cricket, football, athletics, and more delivering high-stakes events, thrilling rivalries, and iconic moments that will capture global attention and celebrate the unifying spirit of sports.",
+        "article_url": "https://www.indiatoday.in/sports/other-sports/story/sports-calendar-australia-vs-england-uefa-champions-league-india-vs-australia-2025-2658294-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T19:32:00",
+        "uuid": "2ad6e9f0-402b-4d8c-ada3-3a467538cb4a",
+        "positive": 10.5,
+        "negative": 0.2
+    },
+    {
+        "headlines": "When Dhoni ridiculed dressing room leaks in 2014-15 Australia tourBorder Gavaskar Trophy, IND vs AUS: Amid reports of tensions in the dressing room where head coach Gautam Gambhir criticised the players after the MCG Test defeat, a video has been circulating where MS Dhoni tactfully dodged questions about the rift between the players on India's 2014-15 tour of Australia. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-ms-dhoni-dressing-room-leak-india-vs-australia-melbourne-2658293-2025-01-01",
+        "category": "sports",
+        "date_time": "2025-01-01T20:22:00",
+        "uuid": "3032fa35-0293-4a0c-9363-9f08ade90f66",
+        "positive": 7.3,
+        "negative": 6.9
     }
 ]
