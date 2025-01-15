@@ -288,15 +288,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "iPhone 15 available for under Rs 40,000The iPhone 15 is selling at a massive discount on Amazon, making it one of the best deals on a premium smartphone. Here's why this offer is worth grabbing right now.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-available-for-under-rs-40000-2663848-2025-01-13",
-        "category": "technology",
-        "date_time": "2025-01-13T10:40:00",
-        "uuid": "4bc4d3f2-3536-4df2-a659-28323fc3afc6",
-        "positive": 13.9,
-        "negative": 1.4
-    },
-    {
         "headlines": "Elon Musk says stop using hashtags on X because they look uglyHave you still been using hashtags? You don't need them anymore, at least on X, and the company CEO Elon Musk has confirmed that. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-stop-using-hashtags-on-x-because-you-dont-need-them-and-they-look-ugly-2651563-2024-12-18",
         "category": "technology",
@@ -3033,13 +3024,13 @@
         "negative": 1.9
     },
     {
-        "headlines": "Delhi man loses Rs 9 lakh after getting call from fake electricity department officials A man from West Delhi was duped of Rs 9 lakh by fraudsters posing as electricity department officials. The scam involved remote access to the victim's phone, leading to multiple unauthorized transactions from his bank account.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/delhi-man-loses-rs-9-lakh-after-getting-call-from-fake-electricity-department-officials-2663889-2025-01-13",
-        "category": "technology",
-        "date_time": "2025-01-13T11:36:00",
-        "uuid": "07be5224-b796-4e5a-aa6c-3c04c256d1d7",
-        "positive": 7.4,
-        "negative": 15.7
+        "headlines": "How to keep romance alive after marriage, if you live with familyMarriage counselors say that finding privacy and keeping romance alive is a common challenge for Indian couples living with their families. However, it is certainly possible to keep the spark alive.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/indian-married-couples-romance-alive-while-living-with-family-2648573-2024-12-15",
+        "category": "lifestyle",
+        "date_time": "2024-12-15T13:28:00",
+        "uuid": "4df8a75e-5b5d-4778-80f1-5332a236d631",
+        "positive": 19.5,
+        "negative": 4.6
     },
     {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
@@ -4779,13 +4770,13 @@
         "negative": 8.6
     },
     {
-        "headlines": "Samsung Galaxy S25 series details leak ahead of launch next weekThe Samsung Galaxy S25 series will be unveiled on January 22, 2025. While the company has not revealed any details about the upcoming phones, a leaked render shows all specs. Let's find out more. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-series-details-leak-ahead-of-launch-next-week-2663853-2025-01-13",
-        "category": "technology",
-        "date_time": "2025-01-13T10:44:00",
-        "uuid": "a7150a28-0f76-4954-8836-162300c200bc",
-        "positive": 10.4,
-        "negative": 2.8
+        "headlines": "Another day, another tantrum. How to manage your child's anger and stubbornnessEvery parent knows the struggle when their child throws a fit after being told 'no'. It's frustrating, and while you know this behaviour isn't healthy, how should you handle it?\r\n",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/how-to-manage-your-childs-anger-and-stubbornness-2649430-2024-12-14",
+        "category": "lifestyle",
+        "date_time": "2024-12-14T09:06:00",
+        "uuid": "9a679325-a16f-4509-8c4a-fe6f20f5b738",
+        "positive": 13.7,
+        "negative": 17.4
     },
     {
         "headlines": "Amol Mazumdar gives update on Harmanpreet Kaur's injury ahead of ODI seriesAmol Mazumdar provided an update on Harmanpreet Kaur's injury ahead of the 3-match ODI series between India and West Indies women. The Indian team, under Smriti Mandhana, has already clinched the 3-match T20I series 2-1 vs West Indies.  ",
@@ -4914,6 +4905,15 @@
         "negative": 2.8
     },
     {
+        "headlines": "How Bhutan's Ema Datshi became one of India's most searched recipesGoogle India's year-end report revealed that Ema Datshi was one of India's top 10 most-searched recipes in 2024.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-bhutans-ema-datshi-became-one-of-indias-most-searched-recipes-2649511-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T19:26:00",
+        "uuid": "4560b915-9ef2-46f2-a72a-b99dab1ef740",
+        "positive": 13,
+        "negative": 1.9
+    },
+    {
         "headlines": "Delhi SG Pipers' Rajkumar Pal aiming for Hockey India League spotlightIn an exclusive interaction with Indiatoday.in, Delhi SG Pipers' Rajkumar Pal opens up about taking the spotlight with his performances and being realistic about the chances of his side in the 2024-25 season of the Hockey India League. \r\n",
         "article_url": "https://www.indiatoday.in/sports/story/delhi-sg-pipers-rajkumar-pal-aiming-for-hockey-india-league-spotlight-2653638-2024-12-22",
         "category": "sports",
@@ -4939,6 +4939,141 @@
         "uuid": "c46e25c4-692d-4dfe-8ba2-f1adacb8d01d",
         "positive": 15.6,
         "negative": 0
+    },
+    {
+        "headlines": "DIY 'collagen supplement' is viral for glowing skin, but experts have a warningIn the quest for youthful, glowing skin, the spotlight has turned to humble kitchen staples - Amla, beetroot, carrot, and apple - with skinfluencers touting a drink made from them as a collagen supplement.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/skinfluencers-are-making-collagen-supplement-at-home-for-glowing-skin-but-experts-have-a-warning-2649005-2024-12-13",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:37:00",
+        "uuid": "62676be9-a737-4469-af21-a0ebb1709656",
+        "positive": 18.6,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Can viral silicone socks treat cracked heels and dry feet in winter?Unlike regular fabric socks, silicone socks function like a snug silicone glove for your feet. But can they truly be a game-changer in treating cracked heels and dry feet?",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-viral-silicone-moisturising-socks-treat-cracked-heels-and-dry-feet-in-winter-2649006-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-13T11:40:00",
+        "uuid": "86e91908-1534-4135-8608-254ac7c144f2",
+        "positive": 21.6,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Does living together before marriage lower the chance of divorce?Thinking about marriage but unsure if you'll be able to adjust to living together? Why not try a live-in relationship first to see how things go before taking the next step?",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/does-living-together-before-marriage-lower-the-chance-of-divorce-2648781-2024-12-12",
+        "category": "lifestyle",
+        "date_time": "2024-12-12T15:30:00",
+        "uuid": "44925c52-5c56-496d-b596-6adf4b8baaf6",
+        "positive": 19.1,
+        "negative": 6.7
+    },
+    {
+        "headlines": "No more ear-ritation! Here's how to deal with airplane ear If you feel a strange sensation in your ear as soon as your flight takes off, you might be dealing with airplane ear. While it can be uncomfortable, it can be relieved with some simple tricks.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/no-more-ear-ritation-heres-how-to-deal-with-airplane-ear-2648173-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T18:30:00",
+        "uuid": "b0bc89a0-107f-42da-ad1f-d1d339f4aad1",
+        "positive": 11.5,
+        "negative": 11.9
+    },
+    {
+        "headlines": "Is winter depression real? Experts weigh inSeasonal Affective Disorder (SAD) is a form of 'sadness' more prevalent in specific seasons, typically autumn and winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/is-winter-depression-real-experts-weigh-in-2648155-2024-12-11",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T14:06:00",
+        "uuid": "1f7ae76f-b828-4808-8bb6-eadd464b37ee",
+        "positive": 13.2,
+        "negative": 15
+    },
+    {
+        "headlines": "Can peeing after sex really prevent UTI? It is believed that urinating after sex is not merely a good hygiene practice but also keeps issues like UTI (urinary tract infection) and other infections away, especially among women.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-peeing-after-sex-really-prevent-uti-2647827-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T19:31:00",
+        "uuid": "103c24c6-9d4b-43aa-b0a2-eb7cea1f06d9",
+        "positive": 16,
+        "negative": 8.3
+    },
+    {
+        "headlines": "How long can you wear makeup without risking skin damage?Who doesn't love showing off flawless skin? While makeup can definitely help you achieve that perfect look, how long should you actually keep these products on?",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/how-long-can-you-wear-makeup-without-risking-skin-damage-2647586-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-10T15:31:00",
+        "uuid": "72ca3196-3bc0-42a6-9c8e-a9f8ad3a228e",
+        "positive": 12.9,
+        "negative": 4.5
+    },
+    {
+        "headlines": " Can you live forever like Bryan Johnson wants to?Can money, science, and obsession really cheat death? US tech millionaire Bryan Johnson thinks so.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-live-forever-like-bryan-johnson-wants-to-2647404-2024-12-10",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:34:00",
+        "uuid": "4b9c9fb3-70f6-4983-9680-e15449836fcc",
+        "positive": 19.2,
+        "negative": 6.4
+    },
+    {
+        "headlines": "Why a turtleneck is the fashion BFF you need this (and every) winterThough a basic winter staple, turtlenecks can be the key to having a super-stylish winter.",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/turtleneck-sweaters-winter-priyanka-chopra-jonas-deepika-padukone-beyonce-ananya-panday-2647186-2024-12-09",
+        "category": "lifestyle",
+        "date_time": "2024-12-09T18:58:00",
+        "uuid": "776ace3c-bb3f-4f58-a35d-87bcc1359dd6",
+        "positive": 17.6,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Why solo trips are essential, even when you have a partner or kidsTravelling solo might seem odd when you have a partner, but it offers unique benefits that strengthen both your relationship and personal growth.",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-solo-trips-are-essential-even-when-you-have-a-partner-or-kids-2646687-2024-12-08",
+        "category": "lifestyle",
+        "date_time": "2024-12-08T18:40:00",
+        "uuid": "20f0639d-7181-4151-935c-51c36a740dcb",
+        "positive": 20.3,
+        "negative": 3.3
+    },
+    {
+        "headlines": "Pilates vs weight training: Which one helps you lose weight faster?Pilates was developed by Joseph Pilates in the early 20th century during World War I as a method to rehabilitate injured soldiers and dancers. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/pilates-vs-weight-training-which-one-helps-you-lose-weight-faster-2646112-2024-12-07",
+        "category": "lifestyle",
+        "date_time": "2024-12-11T19:36:00",
+        "uuid": "98ae2a9c-b5a7-4bb0-a779-8f1a0515a3e2",
+        "positive": 26.5,
+        "negative": 6.2
+    },
+    {
+        "headlines": "Can making a vision board really help you achieve your goals for 2025?A vision board is a creative visual representation of one's goals, dreams, and aspirations. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/can-making-a-vision-board-really-help-you-manifest-your-goals-for-2025-2652499-2024-12-20",
+        "category": "lifestyle",
+        "date_time": "2024-12-20T08:00:00",
+        "uuid": "8f2b01a5-c4c0-481b-ae53-f1f060cd0633",
+        "positive": 22,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Warming lotions can keep you cosy during winter. But are they really safe?These warming lotions may seem like ordinary creams until you apply them. They create a warming sensation and that particular body part begins to feel hot.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/warming-lotions-can-keep-you-cosy-during-winter-but-are-they-really-safe-2652498-2024-12-20",
+        "category": "lifestyle",
+        "date_time": "2024-12-20T17:01:00",
+        "uuid": "17f50bd3-2767-4829-abd3-cbbfc68e05f8",
+        "positive": 23.7,
+        "negative": 7
+    },
+    {
+        "headlines": "You think OCD is just about cleanliness? You got it wrong all this longFor Millennials and Gen Z, \"OCD\" might seem like a trendy buzzword for an obsession with cleanliness. But hold on—there's so much more to it than meets the eye.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/ocd-is-not-just-about-cleanliness-you-got-it-wrong-all-this-long-monica-geller-friends-sheldon-cooper-2653185-2024-12-21",
+        "category": "lifestyle",
+        "date_time": "2024-12-21T08:30:00",
+        "uuid": "1d814ddb-f229-4013-bf76-b0f5e341c4d0",
+        "positive": 12.4,
+        "negative": 14.3
+    },
+    {
+        "headlines": "Indians are chasing luxury travel like never before. What's driving this shift?Luxury travel among Indian tourists is no longer a rare occurrence. Recent statistics also reveal a clear shift in how Indians approach their travel plans. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/indians-are-chasing-luxury-travel-like-never-before-whats-driving-this-shift-2653015-2024-12-22",
+        "category": "lifestyle",
+        "date_time": "2024-12-22T14:03:00",
+        "uuid": "bf97c7e1-815e-4aed-800a-71d2a00ea7b0",
+        "positive": 11.2,
+        "negative": 1.3
     },
     {
         "headlines": "Virat Kohli eyes Sachin Tendulkar's historic Test record at MCG IND vs AUS: Virat Kohli scored a hundred in the second innings of the Perth Test, but he has struggled for most part of the series until now. Kohli now has a chance to break Sachin Tendulkar's record in the Boxing Day Test. ",
@@ -5238,6 +5373,15 @@
         "negative": 5
     },
     {
+        "headlines": "Retirement depression is real and rising in India. How to manage itFor many people, retirement brings feelings of emptiness, loneliness, and worthlessness, which can potentially lead to clinical depression.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/retirement-depression-is-real-how-to-manage-prevent-it-2654219-2024-12-23",
+        "category": "lifestyle",
+        "date_time": "2024-12-23T19:34:00",
+        "uuid": "0f8587f3-b100-4bd9-863d-25648330d1d9",
+        "positive": 15.5,
+        "negative": 18.5
+    },
+    {
         "headlines": "Tired pitches for India, fresher ones for Australia: MCG practice row explainedAustralia vs India, 4th Test: After India trained on used pitches at the Melbourne Cricket Ground over the weekend, the home team got a spicier one during their first training session on Monday. Here's why the two teams were given pitches with different nature in the lead-up to the Boxing Day Test. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-australia-4th-test-practice-pitches-melbourne-cricket-ground-controversy-2653908-2024-12-23",
         "category": "sports",
@@ -5418,13 +5562,13 @@
         "negative": 0.8
     },
     {
-        "headlines": "Jio announces free YouTube Premium for 2 years with JioFiber and AirFiber plansReliance Jio now offers two years of free YouTube Premium with select broadband plans. Enjoy ad-free videos, offline downloads, and YouTube Music at no extra cost with JioFiber and AirFiber postpaid services.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/jio-announces-free-youtube-premium-for-2-years-with-jiofiber-and-airfiber-plans-2663911-2025-01-13",
-        "category": "technology",
-        "date_time": "2025-01-13T12:08:00",
-        "uuid": "f020ab81-4d0f-4b36-a1a1-241bd1070ee4",
-        "positive": 14.3,
-        "negative": 1.5
+        "headlines": "Diet Coke with protein shake? The new viral drink is not what experts recommendProtein Diet Coke is a blend of Diet Coke and a flavoured protein shake (mostly vanilla) that Rebecca Gordan, a teacher from Utah, introduced. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/diet-coke-with-protein-shake-the-new-viral-drink-is-not-what-experts-recommend-2654420-2024-12-24",
+        "category": "lifestyle",
+        "date_time": "2024-12-24T09:57:00",
+        "uuid": "ad6eef7a-172f-44d1-b7c3-743a85bfc7a9",
+        "positive": 13.8,
+        "negative": 8.2
     },
     {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
@@ -5805,6 +5949,15 @@
         "negative": 1.4
     },
     {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
+    },
+    {
         "headlines": "Harleen hits maiden ODI century in India's fiery batting-show vs West IndiesHarleen Deol dazzled with her maiden ODI century, leading India to their highest ODI total against West Indies. Her composed yet aggressive innings placed her alongside legends, showcasing India's batting brilliance in a dominant series display.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-west-indies-women-harleen-deol-maiden-odi-century-vadodara-2654701-2024-12-24",
         "category": "sports",
@@ -5938,15 +6091,6 @@
         "uuid": "c31544fc-5e43-4c0c-82ed-9d58eb456986",
         "positive": 11.9,
         "negative": 1.6
-    },
-    {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
     },
     {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
@@ -6507,22 +6651,22 @@
         "negative": 2.7
     },
     {
-        "headlines": "OnePlus 13R review in 5 points: Flagship-killer for 2025Of the two phones launched recently by OnePlus, the more affordable OnePlus 13R is the real star of the show. As we found in our review, the OnePlus 13R offers capable hardware and at a superb price point. ",
-        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13r-review-in-5-points-flagship-killer-for-2025-2663963-2025-01-13",
-        "category": "technology",
-        "date_time": "2025-01-13T13:35:00",
-        "uuid": "71ee31bf-980f-4c6a-af35-32e24913e7e6",
-        "positive": 17.7,
-        "negative": 6.1
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
-        "headlines": "Apple iPhone 17 Air launch in September seems more likely than everApple is rumored to launch its thinnest iPhone ever this year, the iPhone 17 Air. While several reports have suggested the phone's launch, the latest report further reinforces these rumors.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-iphone-17-air-launch-in-september-seems-more-likely-than-ever-2663945-2025-01-13",
-        "category": "technology",
-        "date_time": "2025-01-13T13:03:00",
-        "uuid": "6f060891-0f47-4871-8042-9464334e6c00",
-        "positive": 6.1,
-        "negative": 0.7
+        "headlines": "Legendary Beatle Paul McCartney's Big 2025 Plan: A New Album In The WorksPaul McCartney's last solo album, McCartney III (2020), recorded during the pandemic, topped UK charts, marking his first solo number one since 1989, showcasing his creative freedom and personal musical expression.\r\n",
+        "article_url": "https://www.indiatoday.in/lifestyle/celebrity/story/legendary-beatle-paul-mccartneys-big-2025-plan-a-new-album-in-the-works-glbs-2654982-2024-12-24",
+        "category": "lifestyle",
+        "date_time": "2024-12-24T23:45:00",
+        "uuid": "2442e867-a5d5-459b-8318-340e7048131a",
+        "positive": 17.4,
+        "negative": 0
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -6640,15 +6784,6 @@
         "uuid": "8c081cf4-3b7c-45ef-a1b3-a1fd140616e9",
         "positive": 7.3,
         "negative": 1.1
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
     },
     {
         "headlines": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n",
@@ -7254,6 +7389,150 @@
         "negative": 2.7
     },
     {
+        "headlines": "Microcurrent facials promise a natural facelift. Do they really deliver?Initially developed in the 1970s as a treatment for facial paralysis, microcurrent technology was later adopted by the beauty industry when its aesthetic benefits became apparent.",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/microcurrent-facials-promise-a-natural-facelift-do-they-really-deliver-2655754-2024-12-26",
+        "category": "lifestyle",
+        "date_time": "2024-12-26T18:54:00",
+        "uuid": "f7bba38b-649f-4872-a79a-c23ae3543a3f",
+        "positive": 21.2,
+        "negative": 2.3
+    },
+    {
+        "headlines": "Renting wedding lehenga is practical, but why Indian brides still not up for itPractical, sustainable, and hassle-free, renting a wedding lehenga seems perfect in theory. Yet, it remains far from becoming a mainstream choice amo",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/renting-wedding-lehenga-is-practical-but-why-indian-brides-still-not-up-for-it-2655776-2024-12-27",
+        "category": "lifestyle",
+        "date_time": "2024-12-27T08:00:00",
+        "uuid": "8e450043-1353-4c2a-bc0d-b40843f92338",
+        "positive": 14.2,
+        "negative": 1.8
+    },
+    {
+        "headlines": " How Dubai kunafa chocolate went viral and inspired a global trendUnless you've been living under a rock, you're likely aware of just how viral Dubai's kunafa chocolates have gone. Experts suggest that this widespread appeal heralds a brilliant business opportunity.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/how-dubais-viral-kunafa-chocolates-took-over-social-media-and-inspired-a-global-trend-lindt-2656685-2024-12-28",
+        "category": "lifestyle",
+        "date_time": "2024-12-28T17:48:00",
+        "uuid": "e669ce73-ed8a-4f25-a46f-3502c1797d29",
+        "positive": 13.5,
+        "negative": 1.6
+    },
+    {
+        "headlines": "How India is now partying with non-alcoholic spiritsAlso known as zero-proof spirits, non-alcoholic spirits are crafted to replicate the taste of traditional spirits but without the alcohol. These zero-proof drinks are not like your other non-alcoholic beverages such as ginger ale, soda, or mocktails.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/india-party-culture-non-alcoholic-spirits-gen-z-millennials-2656796-2024-12-29",
+        "category": "lifestyle",
+        "date_time": "2024-12-29T14:38:00",
+        "uuid": "744eeb7f-9d73-415c-9faf-da0969839713",
+        "positive": 12.3,
+        "negative": 4.1
+    },
+    {
+        "headlines": "I tested 5 heatless curling methods to find the best one. Here's what I foundFrom foam rollers to headbands, heatless curlers are going viral across social media. But which one works the best?",
+        "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/i-tested-5-heatless-curling-methods-to-find-the-best-one-heres-what-i-found-2657051-2024-12-30",
+        "category": "lifestyle",
+        "date_time": "2024-12-30T12:40:00",
+        "uuid": "6e4d6695-ec51-4da3-88f9-7cd60b1cae74",
+        "positive": 18.2,
+        "negative": 2.5
+    },
+    {
+        "headlines": "Why is it a good idea to skip the mountains this New Year's From steep hotel prices to overcrowding, are mountains not calling this New Year? ",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/why-is-it-a-good-idea-to-skip-the-mountains-this-new-years-2657548-2024-12-31",
+        "category": "lifestyle",
+        "date_time": "2024-12-31T07:57:00",
+        "uuid": "99488be6-3f44-43aa-b05a-8d21922c9e9e",
+        "positive": 9.8,
+        "negative": 11.5
+    },
+    {
+        "headlines": "Can 'Living Apart Together' marriages be a hit in India?Living Apart Together (LAT), a growing trend among committed and married couples in the West, refers to couples intentionally avoiding cohabitation in order to keep the spark alive.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/can-living-apart-together-marriages-be-a-hit-in-india-2657775-2024-12-31",
+        "category": "lifestyle",
+        "date_time": "2024-12-31T16:38:00",
+        "uuid": "3519a734-3fb0-4943-8e5f-bf61372f4633",
+        "positive": 18.7,
+        "negative": 6.4
+    },
+    {
+        "headlines": "The Gen Beta era is here. What will define their journey?Children of younger millennials and older Gen Z, Gen Beta will be born into a world dominated by technology and AI.",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/gen-beta-has-arrived-what-can-we-expect-from-them-2657962-2025-01-01",
+        "category": "lifestyle",
+        "date_time": "2025-01-01T08:13:00",
+        "uuid": "c76a25ef-a217-4cb1-a7c8-6d14731267a9",
+        "positive": 19.4,
+        "negative": 2.3
+    },
+    {
+        "headlines": "The expensive reality of social media's never-ending trendsThe need to stay on top of every new social media trend is not just exhaustive but also draining your bank account. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/society/story/the-expensive-reality-of-instagram-facebook-tiktoks-never-ending-trends-and-reels-2658413-2025-01-02",
+        "category": "lifestyle",
+        "date_time": "2025-01-02T10:05:00",
+        "uuid": "5956d457-4fd8-476f-a5b5-985d726a4800",
+        "positive": 13.4,
+        "negative": 11
+    },
+    {
+        "headlines": "Wi-Fi on Air India flights now: 5 things you might miss doing on planeOn January 1, Air India introduced complimentary internet access for passengers on select aircraft.",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/wi-fi-on-air-india-flights-now-5-things-you-might-miss-doing-on-plane-2658781-2025-01-03",
+        "category": "lifestyle",
+        "date_time": "2025-01-03T08:00:00",
+        "uuid": "23a9c6a9-8865-4129-b1cd-b35b367602ae",
+        "positive": 11.7,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Do black plastic containers used in food deliveries cause cancer?A recent study found toxic flame retardants in black plastic products. ",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/do-black-plastic-containers-used-in-food-deliveries-cause-cancer-2659350-2025-01-03",
+        "category": "lifestyle",
+        "date_time": "2025-01-03T18:51:00",
+        "uuid": "b48c621c-0a86-41d7-9c98-a5d686709ef9",
+        "positive": 5.2,
+        "negative": 9.2
+    },
+    {
+        "headlines": "What are the healthiest snacks to go with chai? Not biscuits, rusks for sureHealth experts warn that many popular tea-time snack choices in Indian households are unhealthy and should be avoided for daily consumption. If your morning tea ritual also feels incomplete without dipping biscuits or rusks, it might be time to rethink your snack choices.",
+        "article_url": "https://www.indiatoday.in/lifestyle/food/story/healthy-tea-snacks-not-biscuits-rusks-2659861-2025-01-05",
+        "category": "lifestyle",
+        "date_time": "2025-01-05T12:00:00",
+        "uuid": "524b7138-8568-4707-9115-41ede02fdafa",
+        "positive": 8.7,
+        "negative": 9.3
+    },
+    {
+        "headlines": "Does skipping baths in winter increase life span by 34%? Well, here's the truthA video claiming that skipping winter baths can increase life expectancy by 34 per cent has gone viral on social media. We did a little digging, and here's what we found.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/does-skipping-bath-in-winter-increase-life-span-well-heres-the-truth-2660183-2025-01-06",
+        "category": "lifestyle",
+        "date_time": "2025-01-06T09:14:00",
+        "uuid": "13f8f0b4-1f63-4f06-a97c-9febea39fc9a",
+        "positive": 21.9,
+        "negative": 5.5
+    },
+    {
+        "headlines": "It was all Golden at The Globes this year. Plus, other fashion trendsBillowing silhouettes, opera gloves, ogle-worthy jewellery pieces, sequin galore, voluminous hairstyles  and roaring red were the top trends at the Golden Globes.",
+        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/golden-globes-2025-fashion-trends-best-dressed-celebrities-stmp-2660522-2025-01-06",
+        "category": "lifestyle",
+        "date_time": "2025-01-06T19:31:00",
+        "uuid": "0b2aa525-a454-4369-8e11-d3a370db74f8",
+        "positive": 10.7,
+        "negative": 0.5
+    },
+    {
+        "headlines": "What's the real story of tourism in Goa right now?Is tourism in Goa really declining, or are we missing an undercurrent, a positive one that can reposition the state's identity as the \"party capital of India\"?",
+        "article_url": "https://www.indiatoday.in/lifestyle/travel/story/whats-the-real-story-of-tourism-in-goa-right-now-2661259-2025-01-08",
+        "category": "lifestyle",
+        "date_time": "2025-01-08T10:28:00",
+        "uuid": "e2ef4435-dd40-41d5-84e1-1f71f423ad01",
+        "positive": 11.5,
+        "negative": 6.9
+    },
+    {
+        "headlines": "Gentle reminder: It's the little lifestyle changes that will make 2025 healthierFrom increasing water intake and making small dietary changes to ditching phone usage while eating, these simple lifestyle adjustments can make a significant impact on your well-being.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/gentle-reminder-its-the-little-lifestyle-changes-that-will-make-2025-healthier-2661759-2025-01-09",
+        "category": "lifestyle",
+        "date_time": "2025-01-09T08:00:00",
+        "uuid": "971f360f-9913-49b4-b765-ef1475cb81cb",
+        "positive": 19.7,
+        "negative": 6.7
+    },
+    {
         "headlines": "Nitish Reddy should go up the order to correct the balance of the side: ShastriFormer India cricketer and head coach has suggested promoting all-rounder Nitish Kumar Reddy up the order after his magnificent maiden century on Day 3 of the fourth Test against Australia in Melbourne.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ravi-shastri-nitish-kumar-reddy-aus-vs-ind-border-gavaskar-troph-2024-25-melbourne-test-2656710-2024-12-28",
         "category": "sports",
@@ -7641,15 +7920,6 @@
         "negative": 9.5
     },
     {
-        "headlines": "Sensex, Nifty rebound: What's driving today's gains, and will the recovery last?Despite today's rally, the stock market remains under pressure due to several factors, especially the impact of Q3 earnings and sustained selling by foreign institutional investors.",
-        "article_url": "https://www.indiatoday.in/business/story/sensex-and-nifty-rebound-why-is-stock-market-rising-today-key-factors-explained-2664418-2025-01-14",
-        "category": "business",
-        "date_time": "2025-01-14T10:36:00",
-        "uuid": "b274edc8-fc7a-4b4e-83ca-61001c33a363",
-        "positive": 9.1,
-        "negative": 4.6
-    },
-    {
         "headlines": "ZIM vs AFG: Hashmatullah shines with 179* as draw looms after rain-marred Day 4Rain played spoilsport on Day 4 in Bulawayo, allowing only 31 overs of play as Afghanistan trailed Zimbabwe by 71 runs. With heavy downpours and interruptions expected on the final day, the Test is heading towards a draw.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/zim-vs-afg-hashmatullah-shines-with-179-as-draw-looms-after-rain-marred-day-4-2657039-2024-12-29",
         "category": "sports",
@@ -7837,6 +8107,15 @@
         "uuid": "aaf49253-d754-4746-a8ff-be553ee40e2a",
         "positive": 7.4,
         "negative": 6.5
+    },
+    {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
     },
     {
         "headlines": "Jasprit Bumrah, Joe Root among nominees for ICC Test Cricket of 2024 awardIndia fast bowler Jasprit Bumrah, who took 71 wickets in 2024, has been nominated for the ICC Test Cricketer of the Year award. Joe Root, Harry Brook and Kamindu Mendis are the other three in the shortlist. ",
@@ -8046,13 +8325,13 @@
         "negative": 3.5
     },
     {
-        "headlines": "Truly disheartening: L&T HR head defends chairman amid 90-hour workweek rowL&T Chairman S N Subrahmanyan's 90-hour workweek remark made last week has triggered debate on work-life balance.",
-        "article_url": "https://www.indiatoday.in/business/story/truly-disheartening-l-and-t-hr-head-defends-chairman-amid-90-hour-workweek-row-2664470-2025-01-14",
-        "category": "business",
-        "date_time": "2025-01-14T12:35:00",
-        "uuid": "3555abee-9d06-4b8a-a549-1360db847792",
-        "positive": 13.2,
-        "negative": 8
+        "headlines": "How the Michelangelo Phenomenon can shape or break a relationshipThe Michelangelo Phenomenon is a fascinating psychological concept that likens the dynamic between partners to that of a sculptor and their art.",
+        "article_url": "https://www.indiatoday.in/lifestyle/relationship/story/how-the-michelangelo-phenomenon-can-shape-or-break-a-relationship-2662344-2025-01-09",
+        "category": "lifestyle",
+        "date_time": "2025-01-09T18:20:00",
+        "uuid": "a124b665-2bc9-4c5e-a114-4743b4f74e0c",
+        "positive": 25.4,
+        "negative": 4.6
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8089,15 +8368,6 @@
         "uuid": "757bcf02-791a-4b0c-91ef-5e515c9a940f",
         "positive": 11.9,
         "negative": 10.7
-    },
-    {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
     },
     {
         "headlines": "Rishabh Pant should be criticized for his failures, not how he fails: ManjrekarFormer India cricketer turned commentator Sanjay Manjkrekar feels India wicketkeeper batter Rishabh Pant shouldn't be criticised for his mode of dismissals but only his failures.",
@@ -8352,6 +8622,15 @@
         "negative": 3.5
     },
     {
+        "headlines": "Exclusive: Ranbir Kapoor's Dhoom 4 looks for an antagonist in SouthBollywood star Ranbir Kapoor will be playing the lead role in the highly-anticipated Dhoom 4. Now, as per sources, makers are looking to cast a popular South star as the villain. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-kapoor-dhoom-4-looks-for-an-antagonist-in-south-2665077-2025-01-15",
+        "category": "bollywood",
+        "date_time": "2025-01-15T13:53:00",
+        "uuid": "0c1cc75b-d4af-4ee3-b98d-fdce371090ff",
+        "positive": 10,
+        "negative": 8.4
+    },
+    {
         "headlines": "Without Bumrah, Test series would've been more 1-sided for Australia: McGrathLegendary Australia fast bowler Glenn McGrath feels the ongoing five-match Test series between India and Australia would've been a lot one-sided without Jasprit Bumrah.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/glenn-mcgrath-on-jasprit-bumrah-aus-vs-ind-border-gavaskar-trophy-2024-25-2658129-2025-01-01",
         "category": "sports",
@@ -8451,33 +8730,6 @@
         "negative": 5.5
     },
     {
-        "headlines": "Tiktok may have to either sell or face ban in the USThe lawyer for TikTok and its Chinese parent company ByteDance offered a warning during Supreme Court arguments over a law that would compel the sale of the short-video app or ban it in the United States: If Congress could do this to TikTok, it could come after other companies, too.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/tiktok-may-have-to-either-sell-or-face-ban-in-us-company-says-this-may-have-broader-consequences-2664001-2025-01-13",
-        "category": "technology",
-        "date_time": "2025-01-13T14:36:00",
-        "uuid": "f5e939ac-aa70-4766-bcc8-9a76308c3359",
-        "positive": 7,
-        "negative": 8.3
-    },
-    {
-        "headlines": "Best mobile phones under Rs 25,000 in January 2025: Poco X7, OnePlus Nord CE 4 and moreHere's a curated list of the best 5G mobile phones you can buy in India this January for under Rs 25,000.",
-        "article_url": "https://www.indiatoday.in/technology/buying-guide/story/best-mobile-phones-under-rs-25000-in-january-2025-poco-x7-oneplus-nord-ce-4-and-more-2663995-2025-01-13",
-        "category": "technology",
-        "date_time": "2025-01-13T14:23:00",
-        "uuid": "d98e5698-3239-4add-904b-f6ed4e90c5d5",
-        "positive": 13.7,
-        "negative": 0
-    },
-    {
-        "headlines": "Mark Zuckerberg mocks Apple for not inventing, says they are milking iPhone for 20 yearsMeta CEO Mark Zuckerberg has taken a fresh jab at Apple, criticising the company for not inventing anything groundbreaking in recent years and relying too heavily on the iPhone's long-standing success.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/mark-zuckerberg-mocks-apple-for-not-inventing-says-they-are-milking-iphone-for-20-years-2663988-2025-01-13",
-        "category": "technology",
-        "date_time": "2025-01-13T14:13:00",
-        "uuid": "e8422d19-f3df-468e-9eb1-3a8d051202cb",
-        "positive": 11.7,
-        "negative": 9
-    },
-    {
         "headlines": "Rybakina stars as Kazakhstan knock defending champion Germany outUnited Cup 2024: Kazakhstan knocked defending champion Germany out of the competition. Poland also secured their berth in the quarters after taking down the Czech Republic. ",
         "article_url": "https://www.indiatoday.in/sports/tennis/story/united-cup-2024-elena-rybakina-kazakhstan-vs-germany-quarterfinal-2658242-2025-01-01",
         "category": "sports",
@@ -8521,6 +8773,15 @@
         "uuid": "2ad6e9f0-402b-4d8c-ada3-3a467538cb4a",
         "positive": 10.5,
         "negative": 0.2
+    },
+    {
+        "headlines": "Can popping supplements help you manage your PCOS?The internet is obsessing over supplements as a way to manage and even treat PCOS.",
+        "article_url": "https://www.indiatoday.in/lifestyle/wellness/story/can-popping-supplements-help-you-manage-your-pcos-2662475-2025-01-10",
+        "category": "lifestyle",
+        "date_time": "2025-01-10T08:00:00",
+        "uuid": "d9311521-e903-444c-aae5-ab99079a553a",
+        "positive": 21.4,
+        "negative": 6.6
     },
     {
         "headlines": "When Dhoni ridiculed dressing room leaks in 2014-15 Australia tourBorder Gavaskar Trophy, IND vs AUS: Amid reports of tensions in the dressing room where head coach Gautam Gambhir criticised the players after the MCG Test defeat, a video has been circulating where MS Dhoni tactfully dodged questions about the rift between the players on India's 2014-15 tour of Australia. ",
@@ -8593,15 +8854,6 @@
         "uuid": "34d36d00-fae3-4189-9c93-a92ef1fa8872",
         "positive": 4.4,
         "negative": 2
-    },
-    {
-        "headlines": "Exclusive: Ranbir Kapoor's Dhoom 4 looks for an antagonist in SouthBollywood star Ranbir Kapoor will be playing the lead role in the highly-anticipated Dhoom 4. Now, as per sources, makers are looking to cast a popular South star as the villain. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-kapoor-dhoom-4-looks-for-an-antagonist-in-south-2665077-2025-01-15",
-        "category": "bollywood",
-        "date_time": "2025-01-15T13:53:00",
-        "uuid": "0c1cc75b-d4af-4ee3-b98d-fdce371090ff",
-        "positive": 10,
-        "negative": 8.4
     },
     {
         "headlines": "Niemann calls for investigation into Carlsen-Nepo tie after viral videoHans Niemann demanded a FIDE investigation into Magnus Carlsen and Ian Nepomniachtchi's viral video, which sparked controversy over their shared 2024 World Blitz Championship title, alleging collusion and raising concerns about the integrity of professional chess.",
@@ -8746,257 +8998,5 @@
         "uuid": "f5bf45e0-8609-40f8-a9de-ee9a52ed47ac",
         "positive": 5,
         "negative": 2.8
-    },
-    {
-        "headlines": "Don't take things for granted: Details of Gambhir's dressing room dressing-down Australia vs India, 5th Test: Head coach Gautam Gambhir had a stern yet constructive talk with the players, including seniors Virat Kohli and Rohit Sharma, after the 184-run defeat in the fourth Test in Melbourne. Gambhir addressed chatter about his dressing room speech while talking to the press on Thursday in Sydney. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-dressing-room-speech-melbourne-defeat-inside-scoop-2658539-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T13:25:00",
-        "uuid": "8de42fb3-001e-4a86-9897-a2faa2247fe1",
-        "positive": 9.7,
-        "negative": 4.2
-    },
-    {
-        "headlines": "Won't be shocked if Rohit Sharma retires from Test cricket: Ravi ShastriFormer India coach Ravi Shastri said he would not be surprised if Rohit Sharma calls time on his Test career. Shastri's comments came after India coach Gautam Gambhir refrained from confirming Rohit's participation in the fifth Test against Australia.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-test-future-ravi-shastri-2658525-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T12:55:00",
-        "uuid": "131c9869-3c0e-4391-b656-cd35e9fc836a",
-        "positive": 12.6,
-        "negative": 4.4
-    },
-    {
-        "headlines": "AUS vs IND: India head to Sydney to salvage some pride amid dressing room troublesBorder-Gavaskar Trophy: India head to the Sydney Test with hopes of salvaging a draw, being overshadowed by questions about their captain Rohit Sharma's place in the playing XI and dressing room leaks. Here's ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-5th-test-preview-gautam-gambhir-rohit-sharma-virat-kohli-ind-vs-aus-border-gavaskar-trophy-2024-25-2658291-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T14:40:00",
-        "uuid": "e05453f5-9108-4c90-b9e5-2efee9a3d4c6",
-        "positive": 9.9,
-        "negative": 4.2
-    },
-    {
-        "headlines": "Manu Bhaker, D Gukesh among four to be awarded Khel Ratna in JanuaryDouble Olympic medalist Manu Bhaker and world chess champion D Gukesh are among the four athletes who will receive the Khel Ratna award on January 17. Manu Bhaker's name was initially missing from the list of nominees for the highest sporting award in the country. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/manu-bhaker-d-gukesh-among-four-to-be-awarded-khel-ratna-in-january-2658587-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T14:40:00",
-        "uuid": "062f951a-697a-472f-8f94-2bbe18d310c9",
-        "positive": 16.8,
-        "negative": 2
-    },
-    {
-        "headlines": "Poor Test form won't impact Rohit, Kohli in Champions Trophy: Shane WatsonShane Watson backed Virat Kohli and Rohit Sharma to shine in the Champions Trophy, dismissing concerns over their Test form. Despite struggles in the Border-Gavaskar Trophy, their ODI brilliance remains a critical factor for India's campaign success.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-virat-kohli-test-form-wont-impact-champions-trophy-shane-watson-2658570-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T14:03:00",
-        "uuid": "c43ff640-a650-48e8-8ba6-bc251abdefd7",
-        "positive": 11.9,
-        "negative": 6.2
-    },
-    {
-        "headlines": "National Sports Day 2024: Full list of Khel Ratna, Arjuna award winnersThe National Sports Awards 2024 celebrated India's top athletes, recognizing their unparalleled contributions to sports, including Major Dhyan Chand Khel Ratna winners Manu Bhaker, Gukesh D, Harmanpreet Singh, and Praveen Kumar. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/khel-ratna-arjuna-award-dronacharya-manu-bhaker-d-gukesh-full-list-winners-national-sports-day-2658628-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T15:24:00",
-        "uuid": "f7d3c2d3-ebfb-4faa-9c3a-e34dfbf4d106",
-        "positive": 22.4,
-        "negative": 0.9
-    },
-    {
-        "headlines": "5th Test live streaming, TV guide, SCG pitch conditions and India timingsBorder-Gavaskar Trophy: India head to the Sydney Test with hopes of salvaging a draw, but are overshadowed by questions about their captain Rohit Sharma's place in the playing XI and dressing room leaks. Here's all you need to know about the BGT series decider.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-5th-test-live-streaming-tv-guide-scg-pitch-conditions-and-india-timings-2658291-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T14:40:00",
-        "uuid": "15e09ea8-a2e8-4c89-b79b-5d59993ba4df",
-        "positive": 10.9,
-        "negative": 4.4
-    },
-    {
-        "headlines": "Magnus Carlsen set to marry girlfriend Ella Victoria Malone: ReportsWorld No.1 chess player Magnus Carlsen is set to enter wedlock with 26-year-old Ella Victoria Malone. Carlsen recently shared the World Blitz Championship 2024 title with Russia's Ian Nepomniachtchi. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/chess-magnus-carlsen-wedding-ella-victoria-malone-girlfriend-2658682-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T16:37:00",
-        "uuid": "33346a54-3d89-4018-9233-9b0a4681e727",
-        "positive": 10.1,
-        "negative": 2.1
-    },
-    {
-        "headlines": "Rohit likely to miss Sydney Test, may have played last match in whites: SourcesAustralia vs India, 5th Test: Rohit Sharma may not find a place in the playing XI for the series finale, starting January 3 in Sydney. Pacer Aakash Deep will miss the fifth Test due to injury. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-5th-test-sydney-rohit-sharma-not-feature-playing-xi-2658668-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T16:27:00",
-        "uuid": "c00dc822-636a-464f-a65b-5175b9db79c0",
-        "positive": 4.9,
-        "negative": 2.9
-    },
-    {
-        "headlines": "Terrific personality: Shastri delighted to meet Djokovic's former coachRavi Shastri met Novak Djokovic's former coach Goran Ivanisevic and praised the retired Croatian tennis player for being a 'champion' and a 'terrific personality'.  ",
-        "article_url": "https://www.indiatoday.in/sports/tennis/story/ravi-shastri-novak-djokovic-goran-ivanisevic-meet-2658640-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T15:42:00",
-        "uuid": "9f7e7abb-4531-4f3f-8e1b-407c4df6162a",
-        "positive": 18.8,
-        "negative": 2.6
-    },
-    {
-        "headlines": "AUS vs IND, SCG Test Day 1 Weather: Will rain affect opening day?India faces a must-win Test at SCG to keep their World Test Championship hopes alive, battling inconsistent form, extreme weather, and Rohit Sharma's likely absence in a high-stakes decider against Australia.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sydney-day-1-weather-rain-prediction-rohit-sharma-pat-cummins-2658696-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T17:05:00",
-        "uuid": "0da10536-6109-4626-afa1-b9fccf824f4d",
-        "positive": 14.7,
-        "negative": 5.6
-    },
-    {
-        "headlines": "Australia beautiful for travel, tough to tour: Watch Gambhir's Sydney speechGautam Gambhir inspired Team India with a motivational speech at the Australian Prime Minister's residence, emphasising resilience ahead of their must-win Sydney Test. The event celebrated cricketing camaraderie while honouring the meaningful legacy of Jane McGrath Day.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-speech-prime-minister-residence-kirribilli-house-2658772-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T18:41:00",
-        "uuid": "cb53a5d4-0448-466d-ad90-cc4612b7e2fe",
-        "positive": 16.3,
-        "negative": 4.7
-    },
-    {
-        "headlines": "Can India win Sydney Test? History doesn't favour visitors Border Gavaskar Trophy, IND vs AUS: India have won only one out of 13 Test matches at the Sydney Cricket Ground. India lost the Adelaide and Melbourne Tests to trail 1-2 in the five-match series. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-australia-sydney-test-record-border-gavaskar-trophy-2658818-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T19:31:00",
-        "uuid": "631f60ed-7a8a-4450-bad5-c5309efb4514",
-        "positive": 17.2,
-        "negative": 9.7
-    },
-    {
-        "headlines": "Can India rise above chaos and taste rare success in Sydney Test?Border Gavaskar Trophy, IND vs AUS: India have a point to prove in the Sydney Test with a place on the line for the World Test Championship Final. Rohit Sharma's fate in the purest might also be decided in the New Year's Test. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/border-gavaskar-trophy-india-vs-australia-sydney-test-victory-storm-preview-2658757-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T19:15:00",
-        "uuid": "139e9de1-c574-465d-bf8a-1add6115f5f1",
-        "positive": 10.7,
-        "negative": 5.9
-    },
-    {
-        "headlines": "Dressing room leaks, Indian cricket's persistent plague, strikes againWhat happened in the dressing room hasn't stayed in the dressing room. Ahead of the much-awaited finale of the Border-Gavaskar Trophy, the Indian cricket team has been rocked by off-field controversy. While the dressing room chaos has been ugly, it is not unprecedented.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-dressing-room-leaks-persistent-issue-rohit-sharma-sydney-test-gambhir-2658790-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T18:53:00",
-        "uuid": "be3d9936-90d1-40fb-858b-95fce8c08069",
-        "positive": 7.9,
-        "negative": 9.4
-    },
-    {
-        "headlines": "Will motivate me to work harder: Gukesh ecstatic after Khel Ratna honourD Gukesh was among the four athletes along with Manu Bhaker, Harmanpreet Singh and Praveen Kumar to be honoured with the Major Dhyan Chand Khel Ratna Award. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-khel-ratna-award-motivate-work-hard-2658856-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T20:25:00",
-        "uuid": "58b4ef85-4e12-4da2-91fa-4db1fcceb723",
-        "positive": 17.7,
-        "negative": 3.2
-    },
-    {
-        "headlines": "India will not care about media stories ahead of Sydney Test: GavaskarSunil Gavaskar urged Team India to ignore media speculation about Rohit Sharma's potential exclusion and focus on the high-stakes Sydney Test, aiming to level the Border-Gavaskar Trophy and keep their World Test Championship hopes alive.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-will-not-care-about-media-stories-rohit-sharma-sydney-test-sunil-gavaskar-2658855-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T20:18:00",
-        "uuid": "57ac155c-504d-411e-81c2-301fdad0204f",
-        "positive": 7.9,
-        "negative": 5.2
-    },
-    {
-        "headlines": "Sydney Spirit of 2021 is what wounded India needs for series finaleIndia enters the SCG Test under intense scrutiny, aiming to replicate the grit and resilience of their iconic 2021 performance. With speculation around Rohit Sharma's absence, the team seeks to silence critics and defend the Border-Gavaskar Trophy.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sydney-test-2021-spirit-needed-rohit-sharma-exclusion-reports-series-finale-2658868-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T21:18:00",
-        "uuid": "dd04fbd1-751d-4987-a684-81df0ebea398",
-        "positive": 9.7,
-        "negative": 5.3
-    },
-    {
-        "headlines": "Split Wide Open: Gambhir Rohit ignore each other on Sydney Test eveAs India geared up for the Sydney Test, tensions flared between coach Gautam Gambhir and captain Rohit Sharma. Speculation about Rohit's exclusion reached a crescendo, overshadowing team preparations and signaling a shift in leadership dynamics.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-rohit-sharma-ignore-each-other-sydney-test-eve-2658917-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T22:15:00",
-        "uuid": "30c95316-27dd-4206-88e8-6cb73368c6b5",
-        "positive": 7.2,
-        "negative": 1.4
-    },
-    {
-        "headlines": "South Africa vs Pakistan New Year's Test: All you need to knowSA vs PAK, 2nd Test: South Africa would be looking to carry on from where they left off in the Centurion Test, which they won by two wickets. The Proteas have already sealed their berth in the final of the World Test Championship. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-pakistan-new-years-test-cape-town-live-streaming-2658909-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T21:58:00",
-        "uuid": "7afeffe8-186c-4a0e-a5e3-60570bfc8f6f",
-        "positive": 5.9,
-        "negative": 3.2
-    },
-    {
-        "headlines": "Rohit Sharma misses SCG Test, Jasprit Bumrah returns as captain Border Gavaskar Trophy, IND vs AUS: Rohit Sharma has been left out of India's playing XI for the New Year's Test against Australia. Shubman Gill has replaced him while Jasprit Bumrah has returned as captain. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/bgt-rohit-sharma-dropped-playing-xi-rested-jasprit-bumrah-sydney-test-captain-ind-vs-aus-2658937-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T04:42:00",
-        "uuid": "02d29080-89eb-462f-835a-828c7c2d4c49",
-        "positive": 6.7,
-        "negative": 3.8
-    },
-    {
-        "headlines": "Bold call from Rohit Sharma to rest himself for Sydney Test: Ravi ShastriIND vs AUS: Former India head coach Ravi Shastri believes that it was a bold call to 'rest' Rohit Sharma for the final Test match in Sydney. Sharma opted to remove himself from the playing XI and bring in Shubman Gill.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rohit-sharma-dropped-retirement-avi-shastri-reacts-2659005-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T06:13:00",
-        "uuid": "52f0de41-5437-476a-a2dd-3f8511980d05",
-        "positive": 7.1,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Our captain Rohit Sharma opted to 'rest', no selfishness in team: Jasprit BumrahIND vs AUS: Unselfish Rohit Sharma has opted to 'rest' himself from the SCG Test, said stand-in captain Jasprit Bumrah. Bumrah said that the Indian team was as united as ever and were trying to keep the positives in mind going into the final match of the series.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-jasprit-bumrah-captain-rohit-sharma-rested-india-playing-xi-scg-2659003-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T06:22:00",
-        "uuid": "e8537b45-880a-40b5-ba12-cc16116059e0",
-        "positive": 13.8,
-        "negative": 4.1
-    },
-    {
-        "headlines": "He's been dropped: Mark Taylor slams Rohit Sharma's 'resting' antics at SCGFormer Australia cricketer Mark Taylor has slammed Team India's line of Rohit Sharma 'resting himself'. Speaking on Triple M Cricket, Taylor said that Rohit has been dropped, and the team should just simply say so.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-dropped-mark-taylor-ind-vs-aus-scg-test-2659007-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T07:15:00",
-        "uuid": "f5cf3806-feaa-4337-8a22-3ff9c42582af",
-        "positive": 3.6,
-        "negative": 3.2
-    },
-    {
-        "headlines": "Virat Kohli out or not? Smith upset over third umpire's call in Sydney TestAustralia vs India, 5th Test: Virat Kohli was handed a lifeline when he was batting on 0 in the first innings of the final Test in Sydney. Steve Smith's effort in the slip cordon was deemed not out by third umpire Joel Wilson, leading to mixed reactions. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-sydney-test-virat-kohli-catch-not-out-joel-wilson-steve-smith-2659006-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T07:11:00",
-        "uuid": "82dd9b4e-46ba-4927-9b64-f31997ebb3e6",
-        "positive": 5.1,
-        "negative": 5.2
-    },
-    {
-        "headlines": "Rohit Sharma has played his last Test for India: Sunil GavaskarIndia captain Rohit Sharma has played his last Test match in Melbourne, said Sunil Gavaskar on Friday - Day 1 of the final Test match of the Border-Gavaskar Trophy. Sharma skipped the SCG Test after opting to rest himself.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-rohit-sharma-retirement-rested-dropped-gavaskar-2659020-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T08:25:00",
-        "uuid": "8f06afca-5794-42fd-8d20-cd8c81035acf",
-        "positive": 7,
-        "negative": 1.3
-    },
-    {
-        "headlines": "Steve Smith '100 percent' certain he got his hand under Virat Kohli's catchSteven Smith is 100 percent certain he got his hand under the ball while attempting to catch Virat Kohli at slip on the first day of the SCG Test. The decision was referred to the TV umpire and was eventually ruled not out.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-steve-smith-reaction-virat-kohli-catch-sydney-test-2659017-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T08:15:00",
-        "uuid": "e1a46b88-84a0-4cab-9262-5caff5a44f49",
-        "positive": 11.5,
-        "negative": 2.3
-    },
-    {
-        "headlines": "Sam Konstas built for this stage: Watson praises Australia opener's showmanshipFormer Australian all-rounder Shane Watson, who has mentored Sam Konstas, was pleasantly surprised by the 19-year-old's blockbuster debut in the fourth Test against India at the Melbourne Cricket Ground.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-shane-watson-on-sam-konstas-debut-2659029-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T09:02:00",
-        "uuid": "6a2aaf0f-ea5f-4d6c-b18c-45fd707bed51",
-        "positive": 13.5,
-        "negative": 3.7
     }
 ]
