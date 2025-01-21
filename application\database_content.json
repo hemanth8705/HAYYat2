@@ -2367,6 +2367,15 @@
         "negative": 5
     },
     {
+        "headlines": "OpenAI introduces o3 and o3 mini AI models, to be launched in 2025On the last day of the 12-day-long 'Shipmas', OpenAI revealed its new models: o3 and o3 mini. The models, in test phase for now, will be launched next year. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/openai-introduces-o3-and-o3-mini-ai-models-to-be-launched-in-2025-2653315-2024-12-21",
+        "category": "technology",
+        "date_time": "2024-12-21T12:30:00",
+        "uuid": "e88fb3ad-6f32-442c-9c6e-5158a7a2a151",
+        "positive": 11.4,
+        "negative": 2.4
+    },
+    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -3024,13 +3033,13 @@
         "negative": 1.9
     },
     {
-        "headlines": "Google widely rolls out QR code-based sharing via Quick Share on AndroidGoogle's Quick Share now supports QR codes, making file transfers simpler and faster. You no longer need to save a contact or verify a device before sharing files between Android devices.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/google-widely-rolls-out-qr-code-based-sharing-via-quick-share-on-android-2661316-2025-01-08",
+        "headlines": "ChatGPT for macOS now compatible with Apple Notes and other appsOpenAI has expanded ChatGPT's capabilities on macOS, adding support for popular note-taking and coding apps like Apple Notes and VSCode. This new feature lets users get real-time assistance directly within their favourite apps, enhancing productivity and workflow.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/chatgpt-for-macos-now-compatible-with-apple-notes-and-other-apps-2653472-2024-12-21",
         "category": "technology",
-        "date_time": "2025-01-08T09:22:00",
-        "uuid": "ed3fb728-cc31-452f-908a-9c7114252148",
-        "positive": 13.6,
-        "negative": 1
+        "date_time": "2024-12-21T17:35:00",
+        "uuid": "0435ab47-f374-449d-ac3f-a01c5f829b6b",
+        "positive": 10.4,
+        "negative": 0.3
     },
     {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
@@ -3726,6 +3735,15 @@
         "negative": 2.7
     },
     {
+        "headlines": "Apple rumoured to bring iOS 19 support only to these iPhonesA new report claims that all iPhones running iOS 18 will be compatible with the iOS 19 update.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-rumoured-to-extend-ios-19-support-to-these-iphones-2653874-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T08:41:00",
+        "uuid": "6abb220e-ae7e-4d0e-8db8-6a72c0c0415c",
+        "positive": 7.4,
+        "negative": 1.5
+    },
+    {
         "headlines": "Inventurus Knowledge Solutions IPO share listing: Stocks list at 43% premium Inventurus Knowledge Solutions IPO share price: On the NSE, the shares opened at Rs 1,900 per share, marking a premium of 42.96% over the issue price. ",
         "article_url": "https://www.indiatoday.in/business/story/inventurus-knowledge-solutions-share-price-today-ipo-listing-43-percent-premium-stmp-2652146-2024-12-19",
         "category": "business",
@@ -4329,6 +4347,141 @@
         "negative": 3.6
     },
     {
+        "headlines": "AirPods Pro 3 could feature heart rate and temperature monitoring featuresApple may introduce health features to its upcoming AirPods Pro. According to Bloomberg's Mark Gurman, the company is testing features like heart rate and temperature monitoring for earbuds. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/next-gen-airpods-pro-could-sport-health-features-like-heart-rate-and-temperature-monitoring-2653872-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T08:34:00",
+        "uuid": "3767e6bb-df9e-4c20-af7f-e01d1ece9493",
+        "positive": 12.4,
+        "negative": 1
+    },
+    {
+        "headlines": "Forget keys, Apple will soon let you lock and unlock doors with FaceIDApple is reportedly working on a Face ID-enabled smart doorbell as part of its push for home security devices. The device is expected to be released by late 2025.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/forget-keys-face-id-may-soon-lock-and-unlock-your-house-doors-apple-exploring-smart-doorbells-2653880-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T09:11:00",
+        "uuid": "fd61994c-a0b5-4f44-b7e1-20992f4371e4",
+        "positive": 18.1,
+        "negative": 1.7
+    },
+    {
+        "headlines": "OpenAI's next flagship model is running late, researchers blame low quality dataOpenAI's GPT 5, code-named Orion, is reportedly behind schedule and costing a lot. According to the Wall Street Journal, there are two reasons for it: lack of quality data and financial demands. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/openais-next-flagship-model-is-running-late-researchers-blame-low-quality-data-2653924-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T10:58:00",
+        "uuid": "6498d928-ac36-435d-a8a5-4d1ad5bedf97",
+        "positive": 9.2,
+        "negative": 4.3
+    },
+    {
+        "headlines": "OnePlus Watch 3 leak confirms similar design with rotary dial and advanced ECG monitoringThe OnePlus Watch 3 is expected to come with top-tier hardware. It will run on the Snapdragon W5 Gen 1 processor, paired with 2GB of RAM along with 32GB of onboard storage.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-watch-3-leak-confirms-similar-design-with-rotary-dial-and-advanced-ecg-monitoring-2653913-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T10:40:00",
+        "uuid": "1930813a-8184-46a4-82ea-164920cee52f",
+        "positive": 7,
+        "negative": 0.8
+    },
+    {
+        "headlines": "WhatsApp releases full list of Android phones that will stop supporting the appWhatsApp will begin the New Year by withdrawing its services from selected Android phones. Starting January 1, 2025, more than 10-year-old devices running Android KitKat will not be able to access Meta's WhatsApp.   ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/meta-releases-full-list-of-android-phones-that-will-no-longer-support-whatsapp-starting-january-1-2653961-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T12:06:00",
+        "uuid": "1737bce4-860c-4db2-a243-198b8ead3d38",
+        "positive": 9.7,
+        "negative": 5.1
+    },
+    {
+        "headlines": "Samsung Galaxy S24 series is available with big discount offersSamsung is offering discounts on its old and new premium Galaxy smartphones, along with offers on Galaxy wearables too, as part of its holiday sale.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s24-series-is-available-with-big-discount-offers-2653956-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T12:02:00",
+        "uuid": "2e7bda1a-dae7-4687-b6cb-606a71addffc",
+        "positive": 11.4,
+        "negative": 0.9
+    },
+    {
+        "headlines": "Qualcomm wins against Arm: What it means for the future of laptops and phonesThe Qualcomm vs Arm legal battle has come to an end. Qualcomm says the results affirmed its right to innovate, however, Arm has vowed to seek a new trial.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/qualcomm-has-finally-won-the-battle-against-arm-here-is-what-it-means-for-the-future-of-laptops-and-phones-2653946-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T11:46:00",
+        "uuid": "ec540ccd-ef49-4ae8-ba6a-68f274fee5ae",
+        "positive": 12.1,
+        "negative": 6.4
+    },
+    {
+        "headlines": "Oppo Reno 13 series confirmed to launch in India next month, design details revealedOppo has confirmed the launch of the Reno 13 series in India. The company has yet to reveal the exact date of launch, but it has confirmed that it will take place in January 2025. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-series-confirmed-to-launch-in-india-next-month-design-details-revealed-2654010-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T13:39:00",
+        "uuid": "b56d760f-b809-4244-8c6d-823f58f53cd0",
+        "positive": 9.7,
+        "negative": 1.8
+    },
+    {
+        "headlines": "iPhone 15 and iPhone 15 Pro are available with massive discountsiPhone 15 and iPhone 15 Pro are selling at amazing discount offers. Here are all the details of the deals.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-and-iphone-15-pro-are-available-with-massive-discounts-2654034-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T14:16:00",
+        "uuid": "b4800ddc-f4a6-4e21-b80a-6b88d5bfde4b",
+        "positive": 17,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Galaxy S25 Slim vs iPhone 17 Air: 2 most exciting phones of 2025Samsung and Apple, the biggest competitors in the smartphone market, are both set to launch a slim version of their flagships in September 2025. Here is everything we know about the phones so far.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/samsung-galaxy-s25-slim-vs-apple-iphone-17-air-all-we-know-about-the-2-most-exciting-phones-of-2025-2654081-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T15:54:00",
+        "uuid": "590594cb-6e5b-484f-aeb1-6dcf7aceac20",
+        "positive": 9.5,
+        "negative": 1.1
+    },
+    {
+        "headlines": "Asus ZenBook S16 review: Powerful, lightweight and gets most things right Powered by AMD Ryzen AI chipset, the Asus ZenBook S16 is a stylish, sturdy and a powerful laptop. It delivers up to 50 TOPS NPU with premium features. At Rs 1,49,990, the laptop has some great specs and features, but is it worth it? Let's find out in this review by India Today Tech. ",
+        "article_url": "https://www.indiatoday.in/technology/reviews/story/asus-zenbook-s16-review-powerful-lightweight-and-gets-most-things-right-2654079-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T17:03:00",
+        "uuid": "15abd406-17ef-4970-8e61-ac85648e6384",
+        "positive": 14.9,
+        "negative": 2.2
+    },
+    {
+        "headlines": "Xiaomi 15 Ultra launching in India soon? Here is what we know about it Xiaomi 15 Ultra has recently been listed on the BIS certification website, which suggests that the smartphone may soon be launched in the Indian market.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-15-ultra-launching-in-india-soon-here-is-what-we-know-about-it-2654440-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T08:59:00",
+        "uuid": "378f73f0-a44f-4542-8fa8-91e1a182e216",
+        "positive": 4.3,
+        "negative": 0
+    },
+    {
+        "headlines": "Meta plans to introduce display to Ray-Ban smart glasses in 2025Meta's popular Ray-Ban smart glasses could see further improvements in the upcoming version. According to a Financial Times report, this updated device could be released as soon as 2025.  ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/meta-plans-to-introduce-display-to-ray-ban-smart-glasses-in-2025-2654437-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T08:52:00",
+        "uuid": "9ae69fe0-f63f-4030-aeb3-cc0d9ca168c1",
+        "positive": 10.4,
+        "negative": 0.3
+    },
+    {
+        "headlines": "Apple approaches historic $4 trillion valuation, it is now also ahead of Nvidia and MicrosoftApple shares saw a 16 per cent jump in shares since early November that has added about $500 billion to its market capitalisation.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-approaches-historic-4-trillion-valuation-it-is-now-also-ahead-of-nvidia-and-microsoft-2654469-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T10:37:00",
+        "uuid": "8c4d0848-48e4-48ce-b1f4-4cf1b5d0b0a6",
+        "positive": 10.3,
+        "negative": 2.2
+    },
+    {
+        "headlines": "Apple M5 Pro chipset to feature separate CPU and GPU for server-grade performanceUnlike past SoCs, Apple is reportedly planning to separate the CPU and GPU in its upcoming M-series chips to take advantage of TSMC's latest chip-packaging technology, known as SoIC-mH.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-m5-pro-chipset-to-feature-separate-cpu-and-gpu-for-server-grade-performance-2654456-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T09:50:00",
+        "uuid": "c73f7c19-3f62-4f3b-b8f1-ba991ff39e86",
+        "positive": 11.8,
+        "negative": 1.7
+    },
+    {
         "headlines": "Ravi Shastri reacts to India's Brisbane follow-on celebrations: Fully justifiedFormer Indian coach Ravi Shastri believes India were well within their rights to celebrate escaping the follow-on in Brisbane and can build on their effort as the Test series against Australia heads to Melbourne.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ravi-shastri-reacts-to-india-brisbane-follow-on-celebrations-vs-australia-2653014-2024-12-20",
         "category": "sports",
@@ -4671,6 +4824,15 @@
         "negative": 3.2
     },
     {
+        "headlines": "Sam Konstas ready to face Bumrah? Australia batter opens up on his preparationYoung Australia batter Sam Konstas revealed that he's ready with plans to face Indian bowlers in the upcoming fourth Test against India in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-sam-konstas-ready-with-plans-to-face-jasprit-bumrah-aus-vs-ind-border-gavaskar-trophy-2653547-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T22:28:00",
+        "uuid": "75ceddb7-688e-40b3-8568-79ef9a7b3c8a",
+        "positive": 15.7,
+        "negative": 1.5
+    },
+    {
         "headlines": "Travis Head credits Sussex learning for batting transformationTravis Head credited his time at Sussex for transforming his Test cricket approach, which has been pivotal in his stunning performances in the ongoing Border-Gavaskar Trophy.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-travis-head-sussex-learning-form-redemption-boxing-day-test-2653442-2024-12-21",
         "category": "sports",
@@ -4770,13 +4932,13 @@
         "negative": 8.6
     },
     {
-        "headlines": "Samsung's triple-fold phone could debut in 2025Samsung has been showcasing its triple-fold smartphone concept, but now it might see the light of day in 2025. But with high costs and low production, the Samsung tri-fold might materialise as much as it seems. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsungs-triple-fold-phone-could-debut-in-2025-2661324-2025-01-08",
+        "headlines": "OnePlus Open 2 launch timeline leaked: Here is when it will launch in 2025OnePlus' second generation foldable smartphone, OnePlus Open 2, was rumoured to launch in the first quarter of 2025. However, the timeline has reportedly been revised and now the phone will launch in the second half of 2025. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-open-2-launch-timeline-leaked-here-is-when-it-will-launch-in-2025-2654502-2024-12-24",
         "category": "technology",
-        "date_time": "2025-01-08T09:52:00",
-        "uuid": "95444483-e21d-4d6d-88f6-ed74a94316a3",
-        "positive": 6.3,
-        "negative": 3.2
+        "date_time": "2024-12-24T11:34:00",
+        "uuid": "7a487241-a917-4839-a8cb-532903342669",
+        "positive": 2.9,
+        "negative": 0.9
     },
     {
         "headlines": "Amol Mazumdar gives update on Harmanpreet Kaur's injury ahead of ODI seriesAmol Mazumdar provided an update on Harmanpreet Kaur's injury ahead of the 3-match ODI series between India and West Indies women. The Indian team, under Smriti Mandhana, has already clinched the 3-match T20I series 2-1 vs West Indies.  ",
@@ -4813,15 +4975,6 @@
         "uuid": "f3d9568e-bfc3-4dec-a582-60a8fe10234f",
         "positive": 7.9,
         "negative": 2.6
-    },
-    {
-        "headlines": "Sam Konstas ready to face Bumrah? Australia batter opens up on his preparationYoung Australia batter Sam Konstas revealed that he's ready with plans to face Indian bowlers in the upcoming fourth Test against India in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-sam-konstas-ready-with-plans-to-face-jasprit-bumrah-aus-vs-ind-border-gavaskar-trophy-2653547-2024-12-21",
-        "category": "sports",
-        "date_time": "2024-12-21T22:28:00",
-        "uuid": "75ceddb7-688e-40b3-8568-79ef9a7b3c8a",
-        "positive": 15.7,
-        "negative": 1.5
     },
     {
         "headlines": "Travis Head shares adorable picture of his newborn: Harrison's first smileTravis Head shared an adorable picture of his newborn son, Harrison. The caption read, \"Harrison's first smile.\" The Aussie star will gear up for the upcoming Boxing Day Test vs India.",
@@ -5409,15 +5562,6 @@
         "negative": 0.8
     },
     {
-        "headlines": "Gemini Overlay brings Ask about this PDF feature for AndroidGemini AI's new feature, dubbed, Ask about this PDF, makes working with PDFs easier by allowing users to ask questions directly in the Files by Google app, offering a seamless way to interact with document content.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/gemini-overlay-brings-ask-about-this-pdf-feature-for-android-2661343-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T10:52:00",
-        "uuid": "d72fc6e2-b5a7-483d-a2a9-c983c3728674",
-        "positive": 5.6,
-        "negative": 1.1
-    },
-    {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
         "article_url": "https://www.indiatoday.in/sports/story/sanjay-manjrekar-wants-rohit-to-rediscover-his-england-2021-series-like-batting-2654140-2024-12-23",
         "category": "sports",
@@ -5506,6 +5650,15 @@
         "uuid": "102e7a7c-4690-420d-ba41-588f8f3db959",
         "positive": 10.4,
         "negative": 3.2
+    },
+    {
+        "headlines": " iPhone 18 Pro camera details leak, rumoured to work like DSLR According to the latest rumour, the iPhone 18 Pro models are expected to get a large sensor with great control over the depth of the field. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-18-pro-camera-details-leak-rumoured-to-work-like-dslr-2654464-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T10:58:00",
+        "uuid": "6e32f96d-0750-4632-baae-32d6419b29a4",
+        "positive": 9.5,
+        "negative": 0.9
     },
     {
         "headlines": "Raphael Varane attends Lens vs PSG in disguise, spotted among fansRaphaël Varane, former Real Madrid and Manchester United defender, returned to his roots, watching RC Lens' French Cup clash against PSG disguised amongst fans. His heartfelt gesture highlighted his enduring connection to the club where his illustrious journey began.",
@@ -5652,6 +5805,15 @@
         "negative": 0.6
     },
     {
+        "headlines": "Samsung Galaxy M16 leaked renders show colour options and new designLeaked renders of the Samsung Galaxy M16 5G indicate a few design changes over the last generation model, the Galaxy M15 5G.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-m16-leaked-renders-show-colour-options-and-new-design-2654504-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T11:40:00",
+        "uuid": "a26ee664-e92e-4eff-a1cc-79385034445d",
+        "positive": 6.9,
+        "negative": 1
+    },
+    {
         "headlines": "Manchester United manager questions Rashford camp over new challenge commentsManchester United boss Ruben Amorim has questioned the decision-making of individuals close to forward Marcus Rashford, who has been absent from the team's last three games.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/football-manchester-united-manager-ruben-amorim-questions-rashford-camp-2654483-2024-12-24",
         "category": "sports",
@@ -5785,6 +5947,15 @@
         "uuid": "78b4fddd-491c-40d8-9277-f14dc7c4d484",
         "positive": 15.2,
         "negative": 5.8
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
+        "negative": 0.9
     },
     {
         "headlines": "West Indies Test team to tour Pakistan for 1st time since 2006, announce squadAmir Jangoo earns his maiden Test call-up, while Gudakesh Motie returns as West Indies prepare for their first Test series in Pakistan since 2006. Kraigg Brathwaite leads a 15-member squad, aiming for a strong finish to the WTC cycle.",
@@ -5931,15 +6102,6 @@
         "negative": 1.6
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Harshit or Prasidh Krishna? Pujara says India need another pacer for MCG TestCheteshwar Pujara stressed the importance of adding an extra pacer for India's Boxing Day Test against Australia, even at the cost of a batter, as concerns grow over India's bowling depth despite Jasprit Bumrah's stellar performances in the series.",
         "article_url": "https://www.indiatoday.in/sports/football/story/australia-vs-india-another-pacer-harshit-rana-prasidh-krishna-boxing-day-test-melbourne-2654986-2024-12-25",
         "category": "sports",
@@ -6001,78 +6163,6 @@
         "uuid": "e1177a7a-8935-49e3-99a3-ff85d291307e",
         "positive": 9.6,
         "negative": 8
-    },
-    {
-        "headlines": "OnePlus launches 180 days phone replacement plan, available for OnePlus 13OnePlus has announced a new phone replacement plan, but this is not available for all the devices. The latest offer is only applicable to the flagship OnePlus 13 and OnePlus 13R smartphones. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-launches-180-days-phone-replacement-plan-available-for-oneplus-13-2661421-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T12:34:00",
-        "uuid": "79dc0e6d-b8a8-40f4-973c-c6dd7e612d5b",
-        "positive": 9.3,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Sam Altman's sister accuses him of sexual abuse, OpenAI CEO denies claimsSam Altman rubbishes the accusation of sexual abuse by his sister. He posted on X, saying the claims are utterly untrue. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/sam-altmans-sister-accuses-him-of-sexual-abuse-openai-ceo-denies-claims-2661391-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T12:05:00",
-        "uuid": "fd120559-694b-4abb-a6da-100665a709ec",
-        "positive": 1.5,
-        "negative": 21
-    },
-    {
-        "headlines": "Amazon launches Alexa-enabled Echo Spot in India for Rs 8,999Amazon has introduced the Echo Spot in India, a compact, Alexa-enabled smart alarm clock priced at Rs 8,999. The device offers smart home integration, custom alarms, and media playback. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/amazon-launches-alexa-enabled-echo-spot-in-india-for-rs-8999-2661390-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T11:51:00",
-        "uuid": "35974d65-6310-4635-b129-10b2ccfa05a5",
-        "positive": 14.5,
-        "negative": 4.2
-    },
-    {
-        "headlines": "Microsoft says it will fire more employees who are underperformingMicrosoft is preparing to fire more employees. The company has confirmed that this move will primarily target underperforming employees.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/microsoft-says-it-will-fire-more-employees-who-are-underperforming-2661445-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T13:15:00",
-        "uuid": "c1da9f24-224e-41a1-a6b3-65b4075fba5b",
-        "positive": 2.9,
-        "negative": 8.5
-    },
-    {
-        "headlines": "Samsung Galaxy S25 is now up for pre-reserve in India, check out offersSamsung is gearing up to launch its Galaxy S25 series on January 22 at the Galaxy Unpacked event. For those interested, pre-reservations for the Galaxy S25 series have started in India.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-is-now-up-for-pre-reserve-in-india-check-out-offers-2661428-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T12:44:00",
-        "uuid": "df4601b0-2054-4d40-ad44-bc7fb144afd3",
-        "positive": 13.1,
-        "negative": 0.8
-    },
-    {
-        "headlines": "Best mobile phones under Rs 35,000 in January 2024: Redmi Note 14 Pro+ and moreHere's a curated list of the best smartphones you can buy in India for under Rs 35,000 this January.",
-        "article_url": "https://www.indiatoday.in/technology/buying-guide/story/best-mobile-phones-under-rs-35000-in-january-2024-redmi-note-14-pro-and-more-2661482-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T14:03:00",
-        "uuid": "b6f12730-9510-42cf-941b-1cba81b66e3d",
-        "positive": 14.7,
-        "negative": 1.9
-    },
-    {
-        "headlines": "Mark Zuckerberg ends fact-checking program, possibly to appease Trump: Story in 5 pointsMark Zuckerberg has made a big decision to end the fact-checking program. The impact of this decision is wide-ranging, from how misinformation will be managed on platforms like Facebook and Instagram to the future of third-party fact-checking organisations that rely on Meta's support. Here is the full story in 5 points.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/mark-zuckerberg-ends-fact-checking-program-possibly-as-he-tries-to-appease-donald-trump-story-in-5-points-2661547-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T15:32:00",
-        "uuid": "6602ab14-3935-4e1e-a368-77df4a38662a",
-        "positive": 5.5,
-        "negative": 5.2
-    },
-    {
-        "headlines": "Microsoft partners govt to skill 500,000 Indian students, teachers in AI by 2026 Microsoft CEO Satya Nadella at the Microsoft AI Tour in New Delhi announced a partnership with the Ministry of Electronics and Information Technology, wherein it will be skilling 5,00,000 students and teachers in AI by 2026.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/microsoft-partners-govt-to-skill-500000-indian-students-and-teachers-in-ai-by-2026-2661605-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T17:16:00",
-        "uuid": "e084a51b-232a-48c6-a53a-2a65616f5844",
-        "positive": 8.6,
-        "negative": 0.9
     },
     {
         "headlines": "Australia vs India: KL Rahul chases special 'Boxing Day Test' hat-trickAustralia vs India: KL Rahul is poised to make history if he manages to hit a third consecutive Boxing Day century at the MCG. His consistent form and past heroics in these iconic matches make him India's key player in the 4th Test of the Border Gavaskar Trophy series.",
@@ -6147,6 +6237,15 @@
         "negative": 2.5
     },
     {
+        "headlines": "Mohammed Shami on national comeback: Want to play for India till my last breathIndia fast bowler Mohammed Shami opened up on his hunger to play for the country ahead of his national comeback and said that he wants to don the India jersey till his last breath.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-mohammed-shami-on-national-comeback-want-to-play-for-india-till-my-last-breath-2667823-2025-01-21",
+        "category": "sports",
+        "date_time": "2025-01-21T10:36:00",
+        "uuid": "7ff6c027-da61-4544-812b-a527068e4900",
+        "positive": 10.9,
+        "negative": 3.3
+    },
+    {
         "headlines": "India predicted XI for 4th Test vs Australia: Will Rohit Sharma open in Melbourne?Boxing Day Test: If Rohit Sharma opts to open with Yashasvi Jaiswal in the fourth Test at the MCG, KL Rahul is likely to bat at No.3. Melbourne weather may influence India's decision to play two spinners.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-predicted-xi-boxing-day-test-rohit-sundar-nitish-gill-2655121-2024-12-25",
         "category": "sports",
@@ -6208,15 +6307,6 @@
         "uuid": "167b1127-ffdf-4785-9680-8f9955b24506",
         "positive": 25.9,
         "negative": 6.3
-    },
-    {
-        "headlines": "Mohammed Shami on national comeback: Want to play for India till my last breathIndia fast bowler Mohammed Shami opened up on his hunger to play for the country ahead of his national comeback and said that he wants to don the India jersey till his last breath.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-mohammed-shami-on-national-comeback-want-to-play-for-india-till-my-last-breath-2667823-2025-01-21",
-        "category": "sports",
-        "date_time": "2025-01-21T10:36:00",
-        "uuid": "7ff6c027-da61-4544-812b-a527068e4900",
-        "positive": 10.9,
-        "negative": 3.3
     },
     {
         "headlines": "In pics: Dhoni turns Santa Claus for family Christmas with wife and daughterMS Dhoni delighted fans by dressing as Santa Claus during his family's Christmas celebrations, showcasing his playful side. The viral pictures added a heartwarming touch to the festivities, keeping fans eager for his potential IPL 2025 appearance.",
@@ -6435,6 +6525,15 @@
         "negative": 6.3
     },
     {
+        "headlines": "WhatsApp rolls out a new feature to scan documents directly via cameraSay goodbye to third-party apps to scan documents. WhatsApp has recently added a new feature that allows users to scan documents directly via camera. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/whatsapp-rolls-out-a-new-feature-to-scan-documents-directly-via-camera-2654573-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T13:26:00",
+        "uuid": "68c967be-19a5-44c6-8cbb-58f42f889447",
+        "positive": 13.1,
+        "negative": 2.6
+    },
+    {
         "headlines": "Will Virat Kohli be banned for Sam Konstas on-field bust-up? ICC rules explainedBorder-Gavaskar Trophy 2024: Virat Kohli might face a strict sanction from the International Cricket Council for his bust-up with teenage opener Sam Konstas on Day 1 of the Boxing Day Test in Melbourne. Kohli appeared to make deliberate contact with the opener on December 26. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-mcg-virat-kohli-sam-konstas-icc-ban-rules-explained-2655420-2024-12-26",
         "category": "sports",
@@ -6469,6 +6568,15 @@
         "uuid": "20f480ef-7d40-4304-a588-9dd9ff945557",
         "positive": 9.9,
         "negative": 6.7
+    },
+    {
+        "headlines": "Reset, Restart, Refocus: Siraj trains hard after Champions Trophy snubMohammed Siraj, excluded from India's Champions Trophy squad, is focusing on intense gym sessions to prepare for a strong comeback. Despite being one of India's top ODI wicket-takers, Siraj remains determined to reclaim his spot in the team.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/mohammed-siraj-gym-trains-hard-comeback-champions-trophy-snub-arshdeep-singh-2667815-2025-01-21",
+        "category": "sports",
+        "date_time": "2025-01-21T10:21:00",
+        "uuid": "b51a4354-decc-4adf-badc-4f5e9aa86d2a",
+        "positive": 21,
+        "negative": 4.1
     },
     {
         "headlines": "Watch: Melbourne crowd pays floppy hat tribute to Shane Warne on Boxing Day Border-Gavaskar Trophy: Shane Warne's children joined the crowd at Melbourne to pay tribute to the leg-spinner, who died in March 2022. Fans doffed their floppy hats in memory of the legendary cricketer. ",
@@ -6534,15 +6642,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Reset, Restart, Refocus: Siraj trains hard after Champions Trophy snubMohammed Siraj, excluded from India's Champions Trophy squad, is focusing on intense gym sessions to prepare for a strong comeback. Despite being one of India's top ODI wicket-takers, Siraj remains determined to reclaim his spot in the team.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/mohammed-siraj-gym-trains-hard-comeback-champions-trophy-snub-arshdeep-singh-2667815-2025-01-21",
-        "category": "sports",
-        "date_time": "2025-01-21T10:21:00",
-        "uuid": "b51a4354-decc-4adf-badc-4f5e9aa86d2a",
-        "positive": 21,
-        "negative": 4.1
-    },
-    {
         "headlines": "Jasprit Bumrah, India recover from Sam Konstas punch on Boxing DayBoxing Day Test: Australia's top-order stepped with the bat to guide the hosts to 311 for six at the close of play on Day 1. Jasprit Bumrah-inspired India took 4 wickets in the final session to script a small comeback after Sam Konstas's special hammering in the fourth Test against Australia.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-australia-vs-india-boxing-day-test-day-1-report-konstas-bumrah-2655518-2024-12-26",
         "category": "sports",
@@ -6559,6 +6658,15 @@
         "uuid": "a507174e-751c-46af-9db7-2cf1210b45be",
         "positive": 5.9,
         "negative": 4.9
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "AUS vs IND: Rohit Sharma will return to opening in MCG Test, confirms Abhishek Nayar AUS vs IND, Border Gavaskar Trophy: Rohit Sharma will open the batting in the Melbourne Test after failing to perform in the middle order in the Brisbane and Adelaide Tests, confirmed by Abhishek Nayar. ",
@@ -6588,13 +6696,13 @@
         "negative": 2.7
     },
     {
-        "headlines": "Oppo Reno 13, Reno 13 Pro to launch in India tomorrow: How to watch it liveOppo will launch its flagship Reno series in India tomorrow, January 9. The series will include two smartphones, the Reno 13 and Reno 13 Pro. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-reno-13-pro-to-launch-in-india-tomorrow-what-to-expect-how-to-watch-it-live-2661652-2025-01-08",
+        "headlines": "Samsung Galaxy S25 series is expected to go on sale on this dateSamsung Galaxy S25 series is rumoured to be launched on January 22. While the date is yet to be made official by the company, another report claims to reveal the day the new smartphones will hit the shelves. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-galaxy-s25-series-is-expected-to-go-on-sale-on-this-date-2654555-2024-12-24",
         "category": "technology",
-        "date_time": "2025-01-08T18:01:00",
-        "uuid": "1b13f133-b8ff-42ab-ae78-67c16d236e38",
-        "positive": 5.7,
-        "negative": 0.6
+        "date_time": "2024-12-24T13:05:00",
+        "uuid": "d6bfd0f4-4463-41d3-93a8-d2e738f4be9a",
+        "positive": 3.2,
+        "negative": 3
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -6622,15 +6730,6 @@
         "uuid": "78c5609f-9df3-46cb-bcae-364bd56f3413",
         "positive": 11.3,
         "negative": 4.2
-    },
-    {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
     },
     {
         "headlines": "Watch: Kamran Ghulam abuses Kagiso Rabada, later bowler takes catch in 1st TestTensions flared on Day 1 of the 1st Test between Pakistan and South Africa, with Kamran Ghulam allegedly abusing Kagiso Rabada and clashing with Kyle Verreynne. Later, Rabada had the last laugh by dismissing him with a catch.  ",
@@ -7416,6 +7515,15 @@
         "negative": 5.5
     },
     {
+        "headlines": "Faster PF transfers, direct online claims: Check benefits of new EPFO rulesThe newly introduced measures are expected to minimise the turnaround time, thereby benefiting about 94% of the 13 million claims filed during FY 2024-25.",
+        "article_url": "https://www.indiatoday.in/business/story/faster-pf-transfers-direct-online-claims-check-benefits-of-new-epfo-rules-2667279-2025-01-20",
+        "category": "business",
+        "date_time": "2025-01-20T13:55:00",
+        "uuid": "d569306a-4ed6-4fce-bf58-1b7085cb598f",
+        "positive": 8.6,
+        "negative": 3.4
+    },
+    {
         "headlines": "Nitish Reddy's Under 16 coach recalls days of struggle after Melbourne hundredIndia all rounder Nitish Kumar Reddy's under 16 coach Kumar Swamy recalled his early days in cricket as he notched up his maiden Test hundred on Day 3 of the fourth Test against Australia in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/nitish-kumar-reddy-u-16-coach-kumar-swamy-aus-vs-ind-ind-vs-aus-melbourne-test-2656769-2024-12-28",
         "category": "sports",
@@ -7468,15 +7576,6 @@
         "uuid": "817cfb56-be38-48e0-a89f-fd1469f5ef80",
         "positive": 8.4,
         "negative": 4.7
-    },
-    {
-        "headlines": "Faster PF transfers, direct online claims: Check benefits of new EPFO rulesThe newly introduced measures are expected to minimise the turnaround time, thereby benefiting about 94% of the 13 million claims filed during FY 2024-25.",
-        "article_url": "https://www.indiatoday.in/business/story/faster-pf-transfers-direct-online-claims-check-benefits-of-new-epfo-rules-2667279-2025-01-20",
-        "category": "business",
-        "date_time": "2025-01-20T13:55:00",
-        "uuid": "d569306a-4ed6-4fce-bf58-1b7085cb598f",
-        "positive": 8.6,
-        "negative": 3.4
     },
     {
         "headlines": "Watch: Jasprit Bumrah wins battle vs Sam Konstas and gives him animated send-offAustralia vs India, 4th Test: Jasprit Bumrah came up with an uncharacteristically animated send-off after picking up the wicket of Sam Konstas on Day 4 morning. ",
@@ -7560,6 +7659,15 @@
         "negative": 10.5
     },
     {
+        "headlines": "Sensex tumbles over 800 points. Is Trump 2.0 behind stock market bloodbath?Stock market crash: The S&P BSE Sensex was trading 800.18 points lower at 76,281 at 11:12 am, while the NSE Nifty50 dipped 200 points to 23,144.75.",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-tumbles-over-800-points-is-trump-20-behind-stock-market-bloodbath-2667838-2025-01-21",
+        "category": "business",
+        "date_time": "2025-01-21T11:24:00",
+        "uuid": "dd5e3aea-7c3a-488a-92cc-6da1e85d6431",
+        "positive": 6,
+        "negative": 3.5
+    },
+    {
         "headlines": "Jasprit Bumrah's cheeky quip to Marnus Labuschagne goes viralIND vs AUS, 4th Test: Star India pacer Jasprit Bumrah's cheeky quip to Marnus Labuschagne went viral on the penultimate day of the MCG Test match. Bumrah took a dig at Marnus Labuschagne after the batter survived multiple close chances in his 139-ball stay.\r\n",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-mcg-test-jasprit-bumrah-cheeky-quip-sledging-marnus-labuschagne-2656857-2024-12-29",
         "category": "sports",
@@ -7614,15 +7722,6 @@
         "negative": 3.4
     },
     {
-        "headlines": "Sensex tumbles over 800 points. Is Trump 2.0 behind stock market bloodbath?Stock market crash: The S&P BSE Sensex was trading 800.18 points lower at 76,281 at 11:12 am, while the NSE Nifty50 dipped 200 points to 23,144.75.",
-        "article_url": "https://www.indiatoday.in/business/story/sensex-tumbles-over-800-points-is-trump-20-behind-stock-market-bloodbath-2667838-2025-01-21",
-        "category": "business",
-        "date_time": "2025-01-21T11:24:00",
-        "uuid": "dd5e3aea-7c3a-488a-92cc-6da1e85d6431",
-        "positive": 6,
-        "negative": 3.5
-    },
-    {
         "headlines": "ICC Women's ODI Cricketer of the Year: Smriti Mandhana named as nomineeSmriti Mandhana's stellar 2024, featuring 743 runs and key performances, earned her a nomination for ICC Women's ODI Cricketer of the Year. Competing alongside Wolvaardt, Athapaththu, and Sutherland, her consistency and match-winning efforts set her apart.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-womens-odi-cricketer-of-the-year-smriti-mandhana-named-as-nominee-2656960-2024-12-29",
         "category": "sports",
@@ -7639,6 +7738,15 @@
         "uuid": "72047e3d-7882-4977-93fa-e6c3c9ec07d1",
         "positive": 12.2,
         "negative": 2
+    },
+    {
+        "headlines": "Mohammed Shami and Jasprit Bumrah vital for each others' success: GangulySourav Ganguly hailed Mohammed Shami's return to India's squad as a significant boost, particularly ahead of the Champions Trophy. Reuniting with Jasprit Bumrah, Shami's comeback strengthens India's pace attack across formats, ensuring better balance and depth for upcoming challenges.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-jasprit-bumrah-vital-for-each-others-success-sourav-ganguly-india-champions-trophy-2667810-2025-01-21",
+        "category": "sports",
+        "date_time": "2025-01-21T10:02:00",
+        "uuid": "9decd0ba-39d0-48d8-9194-e768c9053d2c",
+        "positive": 15.3,
+        "negative": 5.6
     },
     {
         "headlines": "Why Australia didn't declare on Day 4 at MCG: Marnus Labuschagne reveals reasonAustralia extended their lead to 333 on Day 4 at the MCG, prioritising caution over an early declaration. Marnus Labuschagne credited the lower-order fightback and explained how India's relentless bowling shaped their decision to bat longer.",
@@ -7695,15 +7803,6 @@
         "negative": 3.5
     },
     {
-        "headlines": "Mohammed Shami and Jasprit Bumrah vital for each others' success: GangulySourav Ganguly hailed Mohammed Shami's return to India's squad as a significant boost, particularly ahead of the Champions Trophy. Reuniting with Jasprit Bumrah, Shami's comeback strengthens India's pace attack across formats, ensuring better balance and depth for upcoming challenges.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-jasprit-bumrah-vital-for-each-others-success-sourav-ganguly-india-champions-trophy-2667810-2025-01-21",
-        "category": "sports",
-        "date_time": "2025-01-21T10:02:00",
-        "uuid": "9decd0ba-39d0-48d8-9194-e768c9053d2c",
-        "positive": 15.3,
-        "negative": 5.6
-    },
-    {
         "headlines": "Sunil Gavaskar backs Rohit Sharma to give India Sehwag-esque start in MCG chaseLegendary India cricketer Sunil Gavaskar has backed India captain Rohit Sharma to give the team Virender Sehwag-like start on Day 5 of the ongoing Melbourne Test.",
         "article_url": "https://www.indiatoday.in/sports/story/sunil-gavaskar-rohit-sharma-aus-vs-ind-melbourne-test-border-gavaskar-trophy-2024-25-2657009-2024-12-29",
         "category": "sports",
@@ -7756,15 +7855,6 @@
         "uuid": "981113b6-37a6-429f-9839-22982a948c84",
         "positive": 10,
         "negative": 4.7
-    },
-    {
-        "headlines": "OnePlus 13 launched in India, here is how you can get Rs 5,000 discountThe OnePlus 13 will go on open sale on January 10 and as part of the launch sale offers, consumers will see a Rs 5,000 discount on the latest flagship phone.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13-launched-in-india-here-is-how-you-can-get-a-rs-5000-discount-2661648-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T18:21:00",
-        "uuid": "450c2631-c59a-4f35-8d14-b663a3b80880",
-        "positive": 8.6,
-        "negative": 0.4
     },
     {
         "headlines": "Magnus Carlsen returns to World Blitz Championship after jeans dispute resolvedMagnus Carlsen has confirmed his participation in the FIDE World Rapid and Blitz tournament and will play in jeans after a change in the rules. Carlsen had pulled out of the tournament after the sport's global governing body fined him for wearing jeans.\r\n\r\n",
@@ -8010,6 +8100,15 @@
         "negative": 11.7
     },
     {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
+    },
+    {
         "headlines": "Watch: Jaiswal tells chatty Konstas to shut up, then hits a shot at himYashasvi Jaiswal and Sam Konstas clashed in a fiery spat during the MCG Test, with Jaiswal responding to constant sledging by smashing a shot onto Konstas' body, adding another layer of tension to the Border-Gavaskar Trophy series.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-yashasvi-jaiswal-shut-up-to-sam-konstas-hits-a-shot-silly-point-melbourne-test-2657386-2024-12-30",
         "category": "sports",
@@ -8064,15 +8163,6 @@
         "negative": 6.8
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "No more Fab 4: Virat Kohli fails to keep up with ever-evolving peers IND vs AUS: Virat Kohli has struggled to find his form in Test cricket over the last five years, while the other members of the Fab-Four, Steve Smith, Kane Williamson and Steve Smith, have kept hammering runs all around the globe. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-virat-kohli-test-comparison-fab-four-williamson-smith-root-2657490-2024-12-31",
         "category": "sports",
@@ -8107,78 +8197,6 @@
         "uuid": "19520a48-eb7f-4cd7-9ae6-c7642903157b",
         "positive": 8.6,
         "negative": 11.5
-    },
-    {
-        "headlines": "Amazon Eco Spot review: Cute, smart enough and pricey  It took Amazon a while but the company has brought back the Echo Spot to India. The Spot is a sort of smart alarm clock that can do much more than just show you the time and wake up. But priced at Rs 8,999, is it really worth it? Let's find out in this India Today Tech review.",
-        "article_url": "https://www.indiatoday.in/technology/reviews/story/amazon-eco-spot-review-cute-smart-enough-and-pricey-2661716-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T19:22:00",
-        "uuid": "54556d51-05a2-4b50-89d8-732a2195c44c",
-        "positive": 17.8,
-        "negative": 4.9
-    },
-    {
-        "headlines": "Trump back in power, Mark Zuckerberg uses it to throw facts under the busWith Donald Trump set to be the next US president, everyone in Silicon Valley is using this moment to get in his good books. But Mark Zuckerberg, by getting rid of fact-checking on Facebook, is doing something more: He is trying to curry favours with Trump as well as getting rid of something that he always found irritating. ",
-        "article_url": "https://www.indiatoday.in/technology/talking-points/story/trump-back-in-power-mark-zuckerberg-uses-it-to-throw-facts-under-the-bus-2661700-2025-01-08",
-        "category": "technology",
-        "date_time": "2025-01-08T19:06:00",
-        "uuid": "4fd684a9-ac8d-4f7a-8d4d-b032f1e69d13",
-        "positive": 12.8,
-        "negative": 9.3
-    },
-    {
-        "headlines": "Poco X7, Poco X7 Pro to launch in India today: How to watch it, what to expectPoco is set to launch its new X-series smartphones in India today, January 9. The launch will include two smartphones: the Poco X7 and Poco X7 Pro.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/poco-x7-poco-x7-pro-to-launch-in-india-today-when-and-how-to-watch-it-what-to-expect-2661989-2025-01-09",
-        "category": "technology",
-        "date_time": "2025-01-09T09:38:00",
-        "uuid": "9a7ad985-cce2-4412-b84e-aec9ac4de7e0",
-        "positive": 1.9,
-        "negative": 0.6
-    },
-    {
-        "headlines": "Oppo Reno 13 series to launch in India today: Price, specs and moreOppo Reno 13 series is all set to release in India today. The series will introduce two variants, the Reno 13 and the Reno 13 Pro. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-series-to-launch-in-india-today-how-to-watch-livestream-price-specs-and-everything-we-know-2661930-2025-01-09",
-        "category": "technology",
-        "date_time": "2025-01-09T08:58:00",
-        "uuid": "6c93a843-7b77-4121-af9c-40c2790371ec",
-        "positive": 2,
-        "negative": 1
-    },
-    {
-        "headlines": "Google might face lawsuit for collecting Android user data without consentGoogle may face a lawsuit in August this year for collecting data of Android users even after they toggled off the permission. Google, however, argues that basic record-keeping \"doesn't hurt anyone.\"",
-        "article_url": "https://www.indiatoday.in/technology/news/story/google-may-face-lawsuit-for-collecting-data-from-android-smartphones-even-after-users-denied-consent-2661992-2025-01-09",
-        "category": "technology",
-        "date_time": "2025-01-09T09:51:00",
-        "uuid": "28abc4e1-4c7f-4a36-9fce-f119b68fcf08",
-        "positive": 4,
-        "negative": 10.9
-    },
-    {
-        "headlines": "Siri spying on you for ads? Apple denies claims Apple's Siri has recently been blamed for spying on its users, but the company has denied all the allegations. The company claims that it has never used Siri data to build marketing profiles.  ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/siri-spying-on-you-for-ads-apple-denies-claims-that-it-sends-users-recordings-to-advertisers-2662007-2025-01-09",
-        "category": "technology",
-        "date_time": "2025-01-09T10:12:00",
-        "uuid": "91ceee0c-44e0-4514-b019-d41d5f8be8cb",
-        "positive": 7.6,
-        "negative": 5.2
-    },
-    {
-        "headlines": "Mangaluru man tries to sell his old coins online, ends up losing Rs 58 lakh in online scam A Mangaluru resident lost Rs 58.26 lakh in an online scam while attempting to sell old coins on an online platform which he came across through a Facebook ad.  ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/mangaluru-man-tries-to-sell-his-old-coins-online-ends-up-losing-rs-58-lakh-in-online-scam-2662054-2025-01-09",
-        "category": "technology",
-        "date_time": "2025-01-09T11:45:00",
-        "uuid": "ef1dc0a3-3fc1-44f9-b0e6-dd643bb5993b",
-        "positive": 6.9,
-        "negative": 13
-    },
-    {
-        "headlines": "OpenAI CEO faces allegations of sexual assault by sister: Story in 5 pointsOpenAI CEO Sam Altman's sister, Ann Altman, has recently filed a lawsuit claiming that he sexually abused her for several years, starting when they were children. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/openai-ceo-sam-altman-faces-allegations-of-sexual-assault-by-sister-story-in-5-points-2661974-2025-01-09",
-        "category": "technology",
-        "date_time": "2025-01-09T12:05:00",
-        "uuid": "a85c06f3-c562-4596-8573-0e2a6d891d84",
-        "positive": 2,
-        "negative": 17.3
     },
     {
         "headlines": "Captain fantastic: Cummins steps up to haunt India againBoxing Day Test, IND vs AUS: Pat Cummins has been a thorn in the flesh for India over the last one and a half years. On Monday, he captained Australia to a 2-1 series lead with an 184-run win at the Melbourne Cricket Ground. ",
@@ -8226,13 +8244,13 @@
         "negative": 3.5
     },
     {
-        "headlines": "Apple is rumoured to release either iPhone SE 4 or iPhone 17 Air in 2025Apple is expected to release 4 iPhones in 2025. According to a tipster, Majin Bu, Apple will either release the iPhone 17 Air or the iPhone SE 4. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/apple-is-rumoured-to-release-either-iphone-se-4-or-iphone-17-air-in-2025-2662140-2025-01-09",
+        "headlines": "OnePlus 13 to launch in India on January 7: Price, specs and more OnePlus has confirmed that its flagship model, OnePlus 13, will debut in India on January 7. While all the details will be confirmed during the launch, the company has been teasing about the upcoming device. Let's take a look at what is coming. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-13-to-launch-in-india-on-january-7-price-specs-and-more-2654629-2024-12-24",
         "category": "technology",
-        "date_time": "2025-01-09T13:26:00",
-        "uuid": "f962b677-cbd8-4fc9-aeac-8eba84d9abd6",
-        "positive": 4.9,
-        "negative": 1.1
+        "date_time": "2024-12-24T15:33:00",
+        "uuid": "7dd346d0-48a6-4dac-8298-df13ad3e2900",
+        "positive": 9.1,
+        "negative": 1.7
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8460,15 +8478,6 @@
         "negative": 2.7
     },
     {
-        "headlines": "Flipkart Republic Day sale starts next week: Deal price revealed on iPhone 16, Plus, Pro and Pro MaxFlipkart has revealed the deal price of the iPhone 16, Pro, Plus, and Pro Max during the Republic Day sale event. Here are the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/flipkart-republic-day-sale-starts-next-week-deal-price-revealed-on-iphone-16-plus-pro-and-pro-max-2662136-2025-01-09",
-        "category": "technology",
-        "date_time": "2025-01-09T13:17:00",
-        "uuid": "beae8ed4-3608-4920-a450-eb067a97d272",
-        "positive": 7.9,
-        "negative": 0.1
-    },
-    {
         "headlines": "Bunch of liars: Ex-player slams Team India over MCG Test DRS controversiesA former India cricketer has hit out against the Rohit Sharma-led Indian team. Former Delhi wicketkeeper Surinder Khanna called the Indian team a bunch of liars after their loss in the Boxing Day Test match at the MCG.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/bgt-ind-vs-aus-scg-test-indian-team-bunch-of-liars-yashasvi-jaiswal-rohit-sharma-2658074-2025-01-01",
         "category": "sports",
@@ -8484,6 +8493,15 @@
         "date_time": "2025-01-01T11:35:00",
         "uuid": "42e8b3d9-dd4f-4de0-b370-6ef56e7c48c8",
         "positive": 18,
+        "negative": 1.3
+    },
+    {
+        "headlines": "OnePlus 12 price drops just two weeks before OnePlus 13 India launch eventThe OnePlus 12 is currently listed on Amazon at a starting price of Rs 59,999. However, with a certain bank card, you can purchase the phone for even less.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oneplus-12-price-drops-just-two-weeks-before-oneplus-13-india-launch-event-2654614-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T14:43:00",
+        "uuid": "6c224102-5797-4535-bd7d-44a89ac2a1bf",
+        "positive": 18.5,
         "negative": 1.3
     },
     {
@@ -8647,6 +8665,132 @@
         "uuid": "67409504-1c27-43a9-a346-0b5ae8aa94f1",
         "positive": 14.4,
         "negative": 7
+    },
+    {
+        "headlines": "Apple MacBook Air with M4 chip could launch even before iPhone SE 4Apple's M4-powered MacBook Air may launch sooner than expected. In fact, a report suggests it could be even sooner than the iPhone SE 4 launch.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-macbook-air-with-m4-chip-could-launch-even-before-iphone-se-4-2654675-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T16:45:00",
+        "uuid": "a1cd2125-d544-4223-ba4c-1feb6b7183be",
+        "positive": 3.4,
+        "negative": 1.5
+    },
+    {
+        "headlines": "AI models now create text-to-video clips, promise a new futureWhat is the future of video creation with AI tools like Veo2 and Sora generating high-quality, realistic videos? More importantly, which is better for you? We try to find some answers to some of these questions.",
+        "article_url": "https://www.indiatoday.in/technology/story/google-veo2-vs-openai-sora-ai-video-creators-promise-a-new-future-2655094-2024-12-25",
+        "category": "technology",
+        "date_time": "2024-12-25T11:33:00",
+        "uuid": "f9df786c-36bf-4046-8c00-d0196a91b00b",
+        "positive": 13.4,
+        "negative": 3.1
+    },
+    {
+        "headlines": "IcfaiTech Hyderabad inaugurates VLSI Center to boost semiconductor innovationIcfaiTech Hyderabad inaugurates Centre for VLSI with an aim to advance India's semiconductor capabilities.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/icfaitech-hyderabad-inaugurates-vlsi-center-to-boost-semiconductor-innovation-2655085-2024-12-25",
+        "category": "technology",
+        "date_time": "2024-12-25T11:05:00",
+        "uuid": "fcf6549c-7712-4891-872c-e0600c5986c7",
+        "positive": 17.7,
+        "negative": 1.1
+    },
+    {
+        "headlines": "iPhone 16 available with big discount but the deal is only for todayApple iPhone 16 is available with a discount up to Rs 16,000 but the deal is only valid till today.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-16-available-with-big-discount-but-the-deal-is-only-for-today-2655446-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T09:42:00",
+        "uuid": "123b0465-6111-4b2c-8d72-730efe9cab2f",
+        "positive": 16.6,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Rs 601 annual Jio plan offers unlimited 5G data to subscribers: Check plan details hereThe new annual Jio mobile plan offers unlimited 5G data for a whole year.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/rs-601-annual-jio-plan-offers-unlimited-5g-data-to-subscribers-check-plan-details-here-2655445-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T09:41:00",
+        "uuid": "ec1ab3ef-da13-4cd2-be4c-0596c5a784a5",
+        "positive": 14.2,
+        "negative": 0.5
+    },
+    {
+        "headlines": "TRAI directs telcos to provide call and SMS-only tariff plansThe latest TRAI mandate directs telecom operators to now also offer mobile tariff plans that focus only on SMS and voice calls.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/trai-directs-telecom-operators-to-provide-non-data-tariff-plans-2655486-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T11:19:00",
+        "uuid": "7cff180b-2882-407e-a296-3c774db98888",
+        "positive": 13.1,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Airtel down: Airtel mobile and broadband users unable to place calls, use internetAirtel mobile and broadband network is facing an outage due to which Airtel users are unable to place calls or use the internet. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/airtel-down-airtel-mobile-and-broadband-users-unable-to-place-calls-use-internet-2655502-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T11:55:00",
+        "uuid": "4a068c29-e179-4b5f-b848-61f14c864dea",
+        "positive": 3.7,
+        "negative": 7.2
+    },
+    {
+        "headlines": "OnePlus 13 India launch on January 7 and we already know everything about itOnePlus 13 is scheduled to launch in India on January 7 and we already know pretty much everything about the smartphone.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-in-india-on-january-7-and-we-already-know-almost-everything-about-it-2655529-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T12:39:00",
+        "uuid": "52dca4fc-bccd-4033-bd5a-c85afddc5a40",
+        "positive": 6.9,
+        "negative": 0.8
+    },
+    {
+        "headlines": "iPhone 18 to be Apple's first bezel-free display phone? Here is what the fresh leak revealsApple has long been working towards creating a completely bezel-free iPhone, and a recent supply chain leak suggests the company was hoping to achieve this with the iPhone 18, set for release in 2026. However, a new report reveals that some technical challenges make this difficult to achieve.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-18-to-be-apples-first-bezel-free-display-phone-here-is-what-the-fresh-leak-revealed-2655544-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T13:26:00",
+        "uuid": "be146680-e6e1-4b9e-9ec5-7936a2dabf10",
+        "positive": 8.7,
+        "negative": 5.6
+    },
+    {
+        "headlines": "iPhone 17 Air to feature sleek build, improved camera, big battery: All we know so farWith the iPhone 17 series expected to launch in September 2025, Apple might introduce a new model, the iPhone 17 Air, replacing the Plus. Read about all the details.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-17-air-to-feature-sleek-build-improved-camera-big-battery-all-we-know-so-far-2655524-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T12:35:00",
+        "uuid": "44d7ff23-c322-4a91-87c5-d11487a20b97",
+        "positive": 10.5,
+        "negative": 0.9
+    },
+    {
+        "headlines": "WhatsApp releases new update for iOS users, now apply AR effects and more to cameraIn the latest update on WhatsApp for iOS, users can now apply AR effects, add new backgrounds to video recordings and more, directly in the WhatsApp camera.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/whatsapp-releases-new-update-for-ios-users-now-apply-ar-effects-and-more-to-camera-2655669-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T16:19:00",
+        "uuid": "ece2bff5-3012-4b59-a658-f85f43351c2c",
+        "positive": 9.7,
+        "negative": 0.3
+    },
+    {
+        "headlines": "Sriram in White House, Trump supporters demand ban on H1-B Visa The divide between Silicon Valley and Trump's base is emblematic of a broader cultural and political conflict in the US.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/sriram-in-white-house-trump-supporters-demand-ban-on-h1-b-visa-and-fewer-indians-in-silicon-valley-2655718-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T17:12:00",
+        "uuid": "546e2d6e-8e06-4a66-9264-83a459d27bfc",
+        "positive": 9.1,
+        "negative": 9.5
+    },
+    {
+        "headlines": "Poco M7 Pro 5G review: Strong on the fundamentalsAt a starting price of Rs 14,999, the Poco M7 Pro is a strong contender in the affordable smartphone price segment. While not perfect, it stands out with its ergonomic build, vibrant display, and solid battery life.",
+        "article_url": "https://www.indiatoday.in/technology/reviews/story/poco-m7-pro-5g-review-strong-on-the-fundamentals-2655685-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T17:10:00",
+        "uuid": "2611d619-9169-4617-88a9-eeb33f2c9453",
+        "positive": 20.6,
+        "negative": 2.2
+    },
+    {
+        "headlines": "27-year-old man loses Rs 57 lakh in part-time job scamA 27-year-old businessman from the electrical poles industry has been defrauded of Rs 57.75 lakh in a part-time job scam. Lured by promises of easy money for minimal work, the man ended up transferring a large sum of money over a period of time before realizing he had been scammed. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/27-year-old-man-loses-rs-57-lakh-in-part-time-job-scam-2655724-2024-12-26",
+        "category": "technology",
+        "date_time": "2024-12-26T17:22:00",
+        "uuid": "ee697c7c-044e-47fc-81f2-374bd6459215",
+        "positive": 7.5,
+        "negative": 8.7
     },
     {
         "headlines": "Watch: Glenn Maxwell's mind-boggling take on boundary during Big Bash League gameAustralia all-rounder Glenn Maxwell took a stunning catch on the boundary during Match 19 of the Big Bash League 2024-25 between Brisbane Heat and Melbourne Stars.",
@@ -8854,149 +8998,5 @@
         "uuid": "edafc65b-bb2d-4b38-9187-9a1774d549a4",
         "positive": 11.7,
         "negative": 2.9
-    },
-    {
-        "headlines": "India's predicted XI for 5th Test: Rohit Sharma out, Shubman Gill in?Australia vs India: India coach Gautam Gambhir has sparked speculation over Rohit Sharma's participation in the final Border-Gavaskar Trophy Test at Sydney Cricket Ground by declining to confirm his place.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-predicted-xi-sydney-test-vs-australia-rohit-sharma-shubman-gill-pant-gill-2658470-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T11:23:00",
-        "uuid": "0e51d780-0a14-4d0b-a6ec-ee6502b3bb41",
-        "positive": 4.1,
-        "negative": 5.3
-    },
-    {
-        "headlines": "Transition phase in Test team has already begun, says coach Gautam GambhirAustralia vs India: Speaking to the press on the eve of the New Year's Test in Sydney, coach Gautam Gambhir said the transition phase in the Test team is not just a challenge but an exciting opportunity. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-coach-gautam-gambhir-press-conference-transition-phase-rohit-virat-2658458-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T10:51:00",
-        "uuid": "0afd85bb-1736-4cb1-bd6e-36d3b3983850",
-        "positive": 11.8,
-        "negative": 2
-    },
-    {
-        "headlines": "Gill's fist bump, Rohit's cameo: Sydney training adds to selection intrigueAustralia vs India, 5th Test: While captain Rohit Sharma did not attend the pre-match press conference in Sydney, he batted briefly in the nets. Meanwhile, coach Gautam Gambhir and vice-captain Jasprit Bumrah appeared to send a message to Shubman Gill.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-5th-test-shubman-gill-gautam-gambhir-rohit-sharma-sydney-training-2658501-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T12:37:00",
-        "uuid": "23c31711-c99f-4b61-ab06-532168707f18",
-        "positive": 4.9,
-        "negative": 5.7
-    },
-    {
-        "headlines": "Pakistan board worried due to incomplete renovation work at Karachi StadiumThe Pakistan Cricket Board is racing against time to complete renovations at the National Stadium before the Champions Trophy, leading to a reshuffling of scheduled matches to alternate venues. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-pakistan-worried-incomplete-renovation-karachi-stadium-2658494-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T12:09:00",
-        "uuid": "f5bf45e0-8609-40f8-a9de-ee9a52ed47ac",
-        "positive": 5,
-        "negative": 2.8
-    },
-    {
-        "headlines": "Don't take things for granted: Details of Gambhir's dressing room dressing-down Australia vs India, 5th Test: Head coach Gautam Gambhir had a stern yet constructive talk with the players, including seniors Virat Kohli and Rohit Sharma, after the 184-run defeat in the fourth Test in Melbourne. Gambhir addressed chatter about his dressing room speech while talking to the press on Thursday in Sydney. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-dressing-room-speech-melbourne-defeat-inside-scoop-2658539-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T13:25:00",
-        "uuid": "8de42fb3-001e-4a86-9897-a2faa2247fe1",
-        "positive": 9.7,
-        "negative": 4.2
-    },
-    {
-        "headlines": "Won't be shocked if Rohit Sharma retires from Test cricket: Ravi ShastriFormer India coach Ravi Shastri said he would not be surprised if Rohit Sharma calls time on his Test career. Shastri's comments came after India coach Gautam Gambhir refrained from confirming Rohit's participation in the fifth Test against Australia.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-test-future-ravi-shastri-2658525-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T12:55:00",
-        "uuid": "131c9869-3c0e-4391-b656-cd35e9fc836a",
-        "positive": 12.6,
-        "negative": 4.4
-    },
-    {
-        "headlines": "AUS vs IND: India head to Sydney to salvage some pride amid dressing room troublesBorder-Gavaskar Trophy: India head to the Sydney Test with hopes of salvaging a draw, being overshadowed by questions about their captain Rohit Sharma's place in the playing XI and dressing room leaks. Here's ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-5th-test-preview-gautam-gambhir-rohit-sharma-virat-kohli-ind-vs-aus-border-gavaskar-trophy-2024-25-2658291-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T14:40:00",
-        "uuid": "e05453f5-9108-4c90-b9e5-2efee9a3d4c6",
-        "positive": 9.9,
-        "negative": 4.2
-    },
-    {
-        "headlines": "Manu Bhaker, D Gukesh among four to be awarded Khel Ratna in JanuaryDouble Olympic medalist Manu Bhaker and world chess champion D Gukesh are among the four athletes who will receive the Khel Ratna award on January 17. Manu Bhaker's name was initially missing from the list of nominees for the highest sporting award in the country. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/manu-bhaker-d-gukesh-among-four-to-be-awarded-khel-ratna-in-january-2658587-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T14:40:00",
-        "uuid": "062f951a-697a-472f-8f94-2bbe18d310c9",
-        "positive": 16.8,
-        "negative": 2
-    },
-    {
-        "headlines": "Poor Test form won't impact Rohit, Kohli in Champions Trophy: Shane WatsonShane Watson backed Virat Kohli and Rohit Sharma to shine in the Champions Trophy, dismissing concerns over their Test form. Despite struggles in the Border-Gavaskar Trophy, their ODI brilliance remains a critical factor for India's campaign success.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-virat-kohli-test-form-wont-impact-champions-trophy-shane-watson-2658570-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T14:03:00",
-        "uuid": "c43ff640-a650-48e8-8ba6-bc251abdefd7",
-        "positive": 11.9,
-        "negative": 6.2
-    },
-    {
-        "headlines": "National Sports Day 2024: Full list of Khel Ratna, Arjuna award winnersThe National Sports Awards 2024 celebrated India's top athletes, recognizing their unparalleled contributions to sports, including Major Dhyan Chand Khel Ratna winners Manu Bhaker, Gukesh D, Harmanpreet Singh, and Praveen Kumar. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/khel-ratna-arjuna-award-dronacharya-manu-bhaker-d-gukesh-full-list-winners-national-sports-day-2658628-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T15:24:00",
-        "uuid": "f7d3c2d3-ebfb-4faa-9c3a-e34dfbf4d106",
-        "positive": 22.4,
-        "negative": 0.9
-    },
-    {
-        "headlines": "5th Test live streaming, TV guide, SCG pitch conditions and India timingsBorder-Gavaskar Trophy: India head to the Sydney Test with hopes of salvaging a draw, but are overshadowed by questions about their captain Rohit Sharma's place in the playing XI and dressing room leaks. Here's all you need to know about the BGT series decider.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-5th-test-live-streaming-tv-guide-scg-pitch-conditions-and-india-timings-2658291-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T14:40:00",
-        "uuid": "15e09ea8-a2e8-4c89-b79b-5d59993ba4df",
-        "positive": 10.9,
-        "negative": 4.4
-    },
-    {
-        "headlines": "Magnus Carlsen set to marry girlfriend Ella Victoria Malone: ReportsWorld No.1 chess player Magnus Carlsen is set to enter wedlock with 26-year-old Ella Victoria Malone. Carlsen recently shared the World Blitz Championship 2024 title with Russia's Ian Nepomniachtchi. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/chess-magnus-carlsen-wedding-ella-victoria-malone-girlfriend-2658682-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T16:37:00",
-        "uuid": "33346a54-3d89-4018-9233-9b0a4681e727",
-        "positive": 10.1,
-        "negative": 2.1
-    },
-    {
-        "headlines": "Rohit likely to miss Sydney Test, may have played last match in whites: SourcesAustralia vs India, 5th Test: Rohit Sharma may not find a place in the playing XI for the series finale, starting January 3 in Sydney. Pacer Aakash Deep will miss the fifth Test due to injury. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-5th-test-sydney-rohit-sharma-not-feature-playing-xi-2658668-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T16:27:00",
-        "uuid": "c00dc822-636a-464f-a65b-5175b9db79c0",
-        "positive": 4.9,
-        "negative": 2.9
-    },
-    {
-        "headlines": "Terrific personality: Shastri delighted to meet Djokovic's former coachRavi Shastri met Novak Djokovic's former coach Goran Ivanisevic and praised the retired Croatian tennis player for being a 'champion' and a 'terrific personality'.  ",
-        "article_url": "https://www.indiatoday.in/sports/tennis/story/ravi-shastri-novak-djokovic-goran-ivanisevic-meet-2658640-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T15:42:00",
-        "uuid": "9f7e7abb-4531-4f3f-8e1b-407c4df6162a",
-        "positive": 18.8,
-        "negative": 2.6
-    },
-    {
-        "headlines": "AUS vs IND, SCG Test Day 1 Weather: Will rain affect opening day?India faces a must-win Test at SCG to keep their World Test Championship hopes alive, battling inconsistent form, extreme weather, and Rohit Sharma's likely absence in a high-stakes decider against Australia.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-sydney-day-1-weather-rain-prediction-rohit-sharma-pat-cummins-2658696-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T17:05:00",
-        "uuid": "0da10536-6109-4626-afa1-b9fccf824f4d",
-        "positive": 14.7,
-        "negative": 5.6
-    },
-    {
-        "headlines": "Australia beautiful for travel, tough to tour: Watch Gambhir's Sydney speechGautam Gambhir inspired Team India with a motivational speech at the Australian Prime Minister's residence, emphasising resilience ahead of their must-win Sydney Test. The event celebrated cricketing camaraderie while honouring the meaningful legacy of Jane McGrath Day.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-gautam-gambhir-speech-prime-minister-residence-kirribilli-house-2658772-2025-01-02",
-        "category": "sports",
-        "date_time": "2025-01-02T18:41:00",
-        "uuid": "cb53a5d4-0448-466d-ad90-cc4612b7e2fe",
-        "positive": 16.3,
-        "negative": 4.7
     }
 ]
