@@ -2376,15 +2376,6 @@
         "negative": 5
     },
     {
-        "headlines": "Explained: Why Infosys share price tumbled over 5% after strong Q3 resultsInfosys stock was down 5.40% at Rs 1,822.10 on the BSE at 10:15 a.m. The company's shares had hit a day's low of Rs 1,815.85. \r\n\r\n",
-        "article_url": "https://www.indiatoday.in/business/story/infosys-share-price-down-today-overnight-adrs-q3-results-key-reasons-future-outlook-2666088-2025-01-17",
-        "category": "business",
-        "date_time": "2025-01-17T10:41:00",
-        "uuid": "20c424db-40af-450d-93af-8d6856491c4d",
-        "positive": 11,
-        "negative": 4.3
-    },
-    {
         "headlines": "OnePlus 13 to launch on January 7: India price, specs and all we knowOnePlus has confirmed the launch of OnePlus 13 on January 7. Here is everything we know about the smartphone already.",
         "article_url": "https://www.indiatoday.in/technology/features/story/oneplus-13-to-launch-on-january-7-india-price-specs-and-all-we-know-2652191-2024-12-19",
         "category": "technology",
@@ -4770,15 +4761,6 @@
         "negative": 5.5
     },
     {
-        "headlines": "Robin Uthappa breaks silence after arrest warrant over PF fraud allegationRobin Uthappa clarifies his non-involvement in day-to-day operations of companies linked to PF fraud allegations, emphasising his role was limited to financial contributions. He vows to resolve the matter legally.",
-        "article_url": "https://www.indiatoday.in/sports/story/robin-uthappa-breaks-silence-after-arrest-warrant-over-pf-fraud-allegation-2653526-2024-12-21",
-        "category": "sports",
-        "date_time": "2024-12-21T20:52:00",
-        "uuid": "7c4dcf30-c201-4d81-8a66-5b5c5095a6ed",
-        "positive": 5.5,
-        "negative": 8.6
-    },
-    {
         "headlines": "What to expect from Budget 2025: Growth, taxes, and fiscal realities in numbersFY25's deficit is projected at 4.9 per cent of the GDP, or Rs 16.1 trillion. Despite slower economic growth, the government is expected to stick to its fiscal discipline plan.",
         "article_url": "https://www.indiatoday.in/diu/story/budget-2025-growth-taxes-fiscal-realities-in-numbers-2668140-2025-01-21",
         "category": "business",
@@ -4797,13 +4779,13 @@
         "negative": 4.8
     },
     {
-        "headlines": "Amol Mazumdar gives update on Harmanpreet Kaur's injury ahead of ODI seriesAmol Mazumdar provided an update on Harmanpreet Kaur's injury ahead of the 3-match ODI series between India and West Indies women. The Indian team, under Smriti Mandhana, has already clinched the 3-match T20I series 2-1 vs West Indies.  ",
-        "article_url": "https://www.indiatoday.in/sports/story/amol-mazumdar-gives-update-on-harmanpreet-kaurs-injury-ahead-of-odi-series-2653548-2024-12-21",
+        "headlines": "Robin Uthappa breaks silence after arrest warrant over PF fraud allegationRobin Uthappa clarifies his non-involvement in day-to-day operations of companies linked to PF fraud allegations, emphasising his role was limited to financial contributions. He vows to resolve the matter legally.",
+        "article_url": "https://www.indiatoday.in/sports/story/robin-uthappa-breaks-silence-after-arrest-warrant-over-pf-fraud-allegation-2653526-2024-12-21",
         "category": "sports",
-        "date_time": "2024-12-21T22:25:00",
-        "uuid": "b9b92682-e2a3-47b8-b7fa-ebfc3a26d28a",
-        "positive": 9.8,
-        "negative": 3.6
+        "date_time": "2024-12-21T20:52:00",
+        "uuid": "7c4dcf30-c201-4d81-8a66-5b5c5095a6ed",
+        "positive": 5.5,
+        "negative": 8.6
     },
     {
         "headlines": "Sam Konstas ready to face Bumrah? Australia batter opens up on his preparationYoung Australia batter Sam Konstas revealed that he's ready with plans to face Indian bowlers in the upcoming fourth Test against India in Melbourne. ",
@@ -4813,6 +4795,15 @@
         "uuid": "75ceddb7-688e-40b3-8568-79ef9a7b3c8a",
         "positive": 15.7,
         "negative": 1.5
+    },
+    {
+        "headlines": "Amol Mazumdar gives update on Harmanpreet Kaur's injury ahead of ODI seriesAmol Mazumdar provided an update on Harmanpreet Kaur's injury ahead of the 3-match ODI series between India and West Indies women. The Indian team, under Smriti Mandhana, has already clinched the 3-match T20I series 2-1 vs West Indies.  ",
+        "article_url": "https://www.indiatoday.in/sports/story/amol-mazumdar-gives-update-on-harmanpreet-kaurs-injury-ahead-of-odi-series-2653548-2024-12-21",
+        "category": "sports",
+        "date_time": "2024-12-21T22:25:00",
+        "uuid": "b9b92682-e2a3-47b8-b7fa-ebfc3a26d28a",
+        "positive": 9.8,
+        "negative": 3.6
     },
     {
         "headlines": "KL Rahul looks ever-so-stylish on coffee date with wife Athiya in MelbourneKL Rahul was out and about in Melbourne with wife Athiya Shetty as the couple spent quality time over a cup of coffee. The Indian batter will feature in the Boxing Day Test vs Australia at the MCG. ",
@@ -7461,6 +7452,15 @@
         "negative": 1.2
     },
     {
+        "headlines": "Sensex tumbles over 800 points. Is Trump 2.0 behind stock market bloodbath?Stock market crash: The S&P BSE Sensex was trading 800.18 points lower at 76,281 at 11:12 am, while the NSE Nifty50 dipped 200 points to 23,144.75.",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-tumbles-over-800-points-is-trump-20-behind-stock-market-bloodbath-2667838-2025-01-21",
+        "category": "business",
+        "date_time": "2025-01-21T11:24:00",
+        "uuid": "dd5e3aea-7c3a-488a-92cc-6da1e85d6431",
+        "positive": 6,
+        "negative": 3.5
+    },
+    {
         "headlines": "Injury crisis hits Australia: Keeper ruled out, pacer provides key updateIND vs AUS: Australia wicketkeeper-batter Josh Inglis has been ruled out for the remainder of the Border-Gavaskar Trophy. Cricket Australia announced the development on Sunday, 29 December after Inglis suffered a calf strain.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-mcg-test-bgt-australia-injuries-mitchell-starc-josh-inglis-2656842-2024-12-29",
         "category": "sports",
@@ -7533,6 +7533,15 @@
         "negative": 3.4
     },
     {
+        "headlines": "Mohammed Shami and Jasprit Bumrah vital for each others' success: GangulySourav Ganguly hailed Mohammed Shami's return to India's squad as a significant boost, particularly ahead of the Champions Trophy. Reuniting with Jasprit Bumrah, Shami's comeback strengthens India's pace attack across formats, ensuring better balance and depth for upcoming challenges.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-jasprit-bumrah-vital-for-each-others-success-sourav-ganguly-india-champions-trophy-2667810-2025-01-21",
+        "category": "sports",
+        "date_time": "2025-01-21T10:02:00",
+        "uuid": "9decd0ba-39d0-48d8-9194-e768c9053d2c",
+        "positive": 15.3,
+        "negative": 5.6
+    },
+    {
         "headlines": "ICC Women's ODI Cricketer of the Year: Smriti Mandhana named as nomineeSmriti Mandhana's stellar 2024, featuring 743 runs and key performances, earned her a nomination for ICC Women's ODI Cricketer of the Year. Competing alongside Wolvaardt, Athapaththu, and Sutherland, her consistency and match-winning efforts set her apart.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-womens-odi-cricketer-of-the-year-smriti-mandhana-named-as-nominee-2656960-2024-12-29",
         "category": "sports",
@@ -7576,15 +7585,6 @@
         "uuid": "ff66e5db-833d-41bd-8bf1-b4636e4b5058",
         "positive": 16.1,
         "negative": 1.7
-    },
-    {
-        "headlines": "Sensex tumbles over 800 points. Is Trump 2.0 behind stock market bloodbath?Stock market crash: The S&P BSE Sensex was trading 800.18 points lower at 76,281 at 11:12 am, while the NSE Nifty50 dipped 200 points to 23,144.75.",
-        "article_url": "https://www.indiatoday.in/business/story/sensex-tumbles-over-800-points-is-trump-20-behind-stock-market-bloodbath-2667838-2025-01-21",
-        "category": "business",
-        "date_time": "2025-01-21T11:24:00",
-        "uuid": "dd5e3aea-7c3a-488a-92cc-6da1e85d6431",
-        "positive": 6,
-        "negative": 3.5
     },
     {
         "headlines": "South Africa qualify for WTC final with thrilling 2-wicket win vs PakistanSouth Africa have qualified for their maiden World Test Championship final. Kagiso Rabada and Marco Jansen's ninth wicket stand ensured South Africa chased down the tricky target of 148 runs. ",
@@ -7657,15 +7657,6 @@
         "uuid": "c7bba467-936b-4a22-ae8c-0c7e334e669f",
         "positive": 5.2,
         "negative": 6.7
-    },
-    {
-        "headlines": "Mohammed Shami and Jasprit Bumrah vital for each others' success: GangulySourav Ganguly hailed Mohammed Shami's return to India's squad as a significant boost, particularly ahead of the Champions Trophy. Reuniting with Jasprit Bumrah, Shami's comeback strengthens India's pace attack across formats, ensuring better balance and depth for upcoming challenges.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-jasprit-bumrah-vital-for-each-others-success-sourav-ganguly-india-champions-trophy-2667810-2025-01-21",
-        "category": "sports",
-        "date_time": "2025-01-21T10:02:00",
-        "uuid": "9decd0ba-39d0-48d8-9194-e768c9053d2c",
-        "positive": 15.3,
-        "negative": 5.6
     },
     {
         "headlines": "James Anderson reflects on early retirement: Could've made it till Ashes 2025James Anderson reflects on his early retirement, expressing confidence he could have played until the 2025 Ashes. With 704 Test wickets, England's bowling legend leaves a lasting legacy while continuing to contribute as a mentor for the team.",
@@ -7902,6 +7893,15 @@
         "negative": 11.6
     },
     {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
+    },
+    {
         "headlines": "Mitch Hay stars as New Zealand crush Sri Lanka to claim series NZ vs SL: Mitch Hay's unbeaten 41 off 19 balls helped New Zealand win the T20I series after beating Sri Lanka by 45 runs in the second game at the Bay Oval in Mount Maunganui. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-sri-lanka-mitch-hay-2nd-t20i-series-win-report-2657414-2024-12-30",
         "category": "sports",
@@ -7954,15 +7954,6 @@
         "uuid": "68a74950-5e7c-4f69-852b-b671a86e8294",
         "positive": 5.3,
         "negative": 8.9
-    },
-    {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
     },
     {
         "headlines": "Manchester United face clear threat of relegation, admits Ruben AmorimRuben Amorim admitted that it is \"really clear\" Manchester United are being drawn into a relegation battle following their 2-0 defeat to Newcastle at Old Trafford. ",
@@ -8091,6 +8082,15 @@
         "negative": 2.1
     },
     {
+        "headlines": "Amorim explains decision to sub off Zirkzee after 33 minutes vs NewcastleRuben Amorim justified substituting Joshua Zirkzee after 33 minutes in Manchester United's 2-0 defeat to Newcastle, emphasising it was a tactical decision amidst growing concerns over United's relegation battle after their third consecutive Premier League loss.",
+        "article_url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-newcastle-united-ruben-amorim-joshua-zirkzee-substitution-explains-2657786-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T15:16:00",
+        "uuid": "757bcf02-791a-4b0c-91ef-5e515c9a940f",
+        "positive": 11.9,
+        "negative": 10.7
+    },
+    {
         "headlines": "Rishabh Pant should be criticized for his failures, not how he fails: ManjrekarFormer India cricketer turned commentator Sanjay Manjkrekar feels India wicketkeeper batter Rishabh Pant shouldn't be criticised for his mode of dismissals but only his failures.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-sanjay-manjrekar-aus-vs-ind-border-gavaskar-trophy-2024-25-2657779-2024-12-31",
         "category": "sports",
@@ -8134,15 +8134,6 @@
         "uuid": "02adc6be-1388-42f7-8577-94128135c740",
         "positive": 4.8,
         "negative": 3.5
-    },
-    {
-        "headlines": "Amorim explains decision to sub off Zirkzee after 33 minutes vs NewcastleRuben Amorim justified substituting Joshua Zirkzee after 33 minutes in Manchester United's 2-0 defeat to Newcastle, emphasising it was a tactical decision amidst growing concerns over United's relegation battle after their third consecutive Premier League loss.",
-        "article_url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-newcastle-united-ruben-amorim-joshua-zirkzee-substitution-explains-2657786-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T15:16:00",
-        "uuid": "757bcf02-791a-4b0c-91ef-5e515c9a940f",
-        "positive": 11.9,
-        "negative": 10.7
     },
     {
         "headlines": "Karnataka High Court stays arrest warrant against Robin Uthappa in fraud case Karnataka High Court has stayed the arrest warrant issued against former Indian cricketer Robin Uthappa in the alleged EPF fraud case. On December 21, Shadakshari Gopal Reddy, the PF Regional Commissioner, issued the arrest warrant against him.  ",
@@ -8998,5 +8989,14 @@
         "uuid": "5c5d34c9-c154-4191-98de-9e2141a6023c",
         "positive": 2.3,
         "negative": 4.1
+    },
+    {
+        "headlines": "Awful decision: Washington Sundar shocked after controversial DRS call in SydneyAustralia vs India, 5th Test: Washington Sundar was not able to believe his luck when third umpire Joel Wilson ruled him caught behind after he appeared to glove a bouncer from Pat Cummins. Wilson made two debatable calls on Day 1 of the Test in Syndey. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-washington-sundar-catch-drs-joel-wilson-third-umpire-controveresy-2659112-2025-01-03",
+        "category": "sports",
+        "date_time": "2025-01-03T12:12:00",
+        "uuid": "b5dc5a5b-bb7e-4b0b-aac3-b0fbeee393df",
+        "positive": 4.4,
+        "negative": 6.8
     }
 ]
