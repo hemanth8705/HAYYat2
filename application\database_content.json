@@ -1494,15 +1494,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Ian Bremmer calls Elon Musk the most powerful man after Donald Trump in USIan Bremmer responded with a yes when asked if Musk is right now the most powerful man in the US after Donald Trump. ",
-        "article_url": "https://www.indiatoday.in/business/story/ian-bremmer-calls-elon-musk-the-most-powerful-man-after-donald-trump-in-us-davos-wef-2667287-2025-01-20",
-        "category": "business",
-        "date_time": "2025-01-20T14:36:00",
-        "uuid": "6a6df2ac-fd65-469b-a1d3-1019256369ad",
-        "positive": 9.6,
-        "negative": 1.9
-    },
-    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -3051,6 +3042,15 @@
         "negative": 2.6
     },
     {
+        "headlines": "Qualcomm wins against Arm: What it means for the future of laptops and phonesThe Qualcomm vs Arm legal battle has come to an end. Qualcomm says the results affirmed its right to innovate, however, Arm has vowed to seek a new trial.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/qualcomm-has-finally-won-the-battle-against-arm-here-is-what-it-means-for-the-future-of-laptops-and-phones-2653946-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T11:46:00",
+        "uuid": "ec540ccd-ef49-4ae8-ba6a-68f274fee5ae",
+        "positive": 12.1,
+        "negative": 6.4
+    },
+    {
         "headlines": "Richa Ghosh hits joint-fastest WT20I fifty, India register record total vs WIINDW vs WIW: Richa Ghosh scored the joint fastest-fifty in women's T20Is taking India to their highest-ever total in the format. Richa slammed her fifty in just 18 balls, breaking Smriti Mandhana's record.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/india-women-vs-west-indies-3rd-t20i-highest-total-richa-ghosh-fastest-fifty-2652556-2024-12-19",
         "category": "sports",
@@ -4383,6 +4383,15 @@
         "negative": 0.5
     },
     {
+        "headlines": "Oppo Reno 13 series confirmed to launch in India next month, design details revealedOppo has confirmed the launch of the Reno 13 series in India. The company has yet to reveal the exact date of launch, but it has confirmed that it will take place in January 2025. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/oppo-reno-13-series-confirmed-to-launch-in-india-next-month-design-details-revealed-2654010-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T13:39:00",
+        "uuid": "b56d760f-b809-4244-8c6d-823f58f53cd0",
+        "positive": 9.7,
+        "negative": 1.8
+    },
+    {
         "headlines": "Ruben Dias ruled out for four weeks as Manchester City suffer fresh injury blowManchester City defender Ruben Dias has been ruled out for up to four weeks due to a muscular injury, increasing Pep Guardiola's problems as he attempts to save the club's season.\r\n",
         "article_url": "https://www.indiatoday.in/sports/story/football-uben-dias-out-four-weeks-manchester-city-fresh-injury-blow-2653049-2024-12-20",
         "category": "sports",
@@ -4462,6 +4471,15 @@
         "uuid": "00bb48cb-c6cf-4c1c-8d74-06cce1adbc7c",
         "positive": 8.6,
         "negative": 1.6
+    },
+    {
+        "headlines": "iPhone 15 and iPhone 15 Pro are available with massive discountsiPhone 15 and iPhone 15 Pro are selling at amazing discount offers. Here are all the details of the deals.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphone-15-and-iphone-15-pro-are-available-with-massive-discounts-2654034-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T14:16:00",
+        "uuid": "b4800ddc-f4a6-4e21-b80a-6b88d5bfde4b",
+        "positive": 17,
+        "negative": 1.2
     },
     {
         "headlines": "I got to know Ashwin was retiring 5 minutes before he announced it: JadejaBorder-Gavaskar Trophy: Ravindra Jadeja revealed that R Ashwin did not give him the slightest hint about his retirement, even though the two shared adjacent seats in the Indian dressing room at the Gabba on the final day of the third Test.",
@@ -4941,24 +4959,6 @@
         "negative": 2.8
     },
     {
-        "headlines": "Donald Trump plans to make cryptocurrency a national priority: ReportThe order will designate cryptocurrency as a national imperative, encouraging government agencies to collaborate with the industry.",
-        "article_url": "https://www.indiatoday.in/business/story/donald-trump-plans-to-make-cryptocurrency-national-priority-bitcoin-price-cryptocurrency-report-2666053-2025-01-17",
-        "category": "business",
-        "date_time": "2025-01-17T08:52:00",
-        "uuid": "1976a3db-96ea-42b8-8c7d-8af4c9da8988",
-        "positive": 11.2,
-        "negative": 0.3
-    },
-    {
-        "headlines": "D Gukesh dethrones Ajrun Erigaisi to become highest-ranked Indian in FIDE RankingsWorld Champion D Gukesh has dethroned compatriot Arjun Erigaisi to become the highest-ranked Indian in the newly-updated FIDE Rankings, which was released on Thursday, January 23. Gukesh went to the 4th spot in the rankings after his second win in the Tata Steel Masters. ",
-        "article_url": "https://www.indiatoday.in/sports/story/chess-d-gukesh-dethrones-ajrun-erigaisi-to-become-highest-ranked-indian-in-fide-rankings-2669071-2025-01-23",
-        "category": "sports",
-        "date_time": "2025-01-23T16:38:00",
-        "uuid": "14961b63-7795-4544-b90d-ac7c350c54ff",
-        "positive": 10.6,
-        "negative": 1.4
-    },
-    {
         "headlines": "Bowlers did a fantastic job: Niki Prasad on historic Asia Cup triumphUnder-19 Women's Asia Cup 2024: Captain Niki Prasad praised Gongadi Trisha and the Indian bowlers for putting their best foot forward in the final on Sunday against Bangladesh in Kuala Lumpur. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-under-19-womens-asia-cup-niki-prasad-elated-win-bowlers-final-2653634-2024-12-22",
         "category": "sports",
@@ -5065,6 +5065,15 @@
         "uuid": "3aff1c05-76f4-4519-b8c6-251f541fc18f",
         "positive": 9.9,
         "negative": 2.7
+    },
+    {
+        "headlines": "D Gukesh dethrones Ajrun Erigaisi to become highest-ranked Indian in FIDE RankingsWorld Champion D Gukesh has dethroned compatriot Arjun Erigaisi to become the highest-ranked Indian in the newly-updated FIDE Rankings, which was released on Thursday, January 23. Gukesh went to the 4th spot in the rankings after his second win in the Tata Steel Masters. ",
+        "article_url": "https://www.indiatoday.in/sports/story/chess-d-gukesh-dethrones-ajrun-erigaisi-to-become-highest-ranked-indian-in-fide-rankings-2669071-2025-01-23",
+        "category": "sports",
+        "date_time": "2025-01-23T16:38:00",
+        "uuid": "14961b63-7795-4544-b90d-ac7c350c54ff",
+        "positive": 10.6,
+        "negative": 1.4
     },
     {
         "headlines": "McSweeney had hard start in his career: Vaughan suggests alternate batting positionMichael Vaughan sympathised with Nathan McSweeney after the 25-year-old was dropped from Australia's squad for the final two Tests. Sam Konstas has been given an opportunity for the MCG and SCG Tests. ",
@@ -5481,6 +5490,15 @@
         "negative": 0.8
     },
     {
+        "headlines": "Galaxy S25 Slim vs iPhone 17 Air: 2 most exciting phones of 2025Samsung and Apple, the biggest competitors in the smartphone market, are both set to launch a slim version of their flagships in September 2025. Here is everything we know about the phones so far.",
+        "article_url": "https://www.indiatoday.in/technology/features/story/samsung-galaxy-s25-slim-vs-apple-iphone-17-air-all-we-know-about-the-2-most-exciting-phones-of-2025-2654081-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T15:54:00",
+        "uuid": "590594cb-6e5b-484f-aeb1-6dcf7aceac20",
+        "positive": 9.5,
+        "negative": 1.1
+    },
+    {
         "headlines": "Sanjay Manjrekar wants Rohit to rediscover his England 2021 series-like battingSanjay Manjrekar has expressed concern over Rohit Sharma's form in the Border-Gavaskar Trophy, citing a shaky defence and low confidence. He urged Rohit to rediscover the grit and patience he displayed during the 2021 England series.",
         "article_url": "https://www.indiatoday.in/sports/story/sanjay-manjrekar-wants-rohit-to-rediscover-his-england-2021-series-like-batting-2654140-2024-12-23",
         "category": "sports",
@@ -5823,15 +5841,6 @@
         "negative": 2.8
     },
     {
-        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
-        "category": "sports",
-        "date_time": "2024-12-23T17:25:00",
-        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
-        "positive": 17,
-        "negative": 0.9
-    },
-    {
         "headlines": "Don't speculate, awards not my goal: Manu Bhaker breaks silence on Khel Ratna snubManu Bhaker remained undeterred despite being left out of the Khel Ratna nominations. The shooter emphasised her commitment to winning medals for India, stating that while awards motivate her, they are not the ultimate goal of her journey.",
         "article_url": "https://www.indiatoday.in/sports/story/manu-bhaker-breaks-silence-on-khel-ratna-snub-awards-not-my-goal-2654653-2024-12-24",
         "category": "sports",
@@ -5928,6 +5937,15 @@
         "date_time": "2024-12-24T19:25:00",
         "uuid": "6fbe0cef-2a66-41b6-9ef6-eaed3301165c",
         "positive": 17.2,
+        "negative": 0.9
+    },
+    {
+        "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
+        "category": "sports",
+        "date_time": "2024-12-23T17:25:00",
+        "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
+        "positive": 17,
         "negative": 0.9
     },
     {
@@ -6282,15 +6300,6 @@
         "negative": 3.5
     },
     {
-        "headlines": "Abbas's skill is second to none: Shan Masood on pacer's comebackPakistan captain Shan Masood praised Mohammad Abbas's return, highlighting his skill and experience as Pakistan aimed to end their poor Boxing Day Test record in South Africa with a revitalised pace attack.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-pakistan-mohammad-abbas-skill-second-to-none-comeback-shan-masood-2655321-2024-12-25",
-        "category": "sports",
-        "date_time": "2024-12-25T21:03:00",
-        "uuid": "c554a267-a5ff-4035-97d8-9bbb87c0ea0e",
-        "positive": 10,
-        "negative": 4.5
-    },
-    {
         "headlines": "Real Madrid Chritmas reunion ft Nacho, Joselu join Carvajal, VazquezFormer Real Madrid stars Nacho Fernandez and Joselu reunited with Lucas Vazquez and Dani Carvajal, creating a heartwarming moment for fans during Christmas as they reminisced about their time together at the Bernabeu and on the Spanish national team.",
         "article_url": "https://www.indiatoday.in/sports/football/story/real-madrid-reunion-christmas-nacho-carvajal-joselu-lucas-vazquez-2655292-2024-12-25",
         "category": "sports",
@@ -6345,6 +6354,15 @@
         "negative": 1.6
     },
     {
+        "headlines": "Asus ZenBook S16 review: Powerful, lightweight and gets most things right Powered by AMD Ryzen AI chipset, the Asus ZenBook S16 is a stylish, sturdy and a powerful laptop. It delivers up to 50 TOPS NPU with premium features. At Rs 1,49,990, the laptop has some great specs and features, but is it worth it? Let's find out in this review by India Today Tech. ",
+        "article_url": "https://www.indiatoday.in/technology/reviews/story/asus-zenbook-s16-review-powerful-lightweight-and-gets-most-things-right-2654079-2024-12-23",
+        "category": "technology",
+        "date_time": "2024-12-23T17:03:00",
+        "uuid": "15abd406-17ef-4970-8e61-ac85648e6384",
+        "positive": 14.9,
+        "negative": 2.2
+    },
+    {
         "headlines": "Former India cricketer unhappy with reports of Rohit opening in place of KL RahulAhead of the fourth Test against Australia in Melbourne, several reports are claiming that India captain Rohit Sharma might open the innings, pushing KL Rahul to number three. However, the move hasn't gone down well with several experts.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-rohit-sharma-kl-rahul-aus-vs-ind-dodda-ganesh-border-gavaskar-trophy-2024-25-ind-vs-aus-2655374-2024-12-25",
         "category": "sports",
@@ -6370,6 +6388,15 @@
         "uuid": "23d2a6b7-37f5-41a0-adae-f88d70a5dafd",
         "positive": 5.7,
         "negative": 5.4
+    },
+    {
+        "headlines": "Abbas's skill is second to none: Shan Masood on pacer's comebackPakistan captain Shan Masood praised Mohammad Abbas's return, highlighting his skill and experience as Pakistan aimed to end their poor Boxing Day Test record in South Africa with a revitalised pace attack.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-pakistan-mohammad-abbas-skill-second-to-none-comeback-shan-masood-2655321-2024-12-25",
+        "category": "sports",
+        "date_time": "2024-12-25T21:03:00",
+        "uuid": "c554a267-a5ff-4035-97d8-9bbb87c0ea0e",
+        "positive": 10,
+        "negative": 4.5
     },
     {
         "headlines": "No one in Real Madrid will regret my signing: A confident MbappeKylian Mbappé showcased resilience after a tough start at Real Madrid, silencing critics with recent standout performances and proving his potential as a marquee signing for Los Blancos.",
@@ -6525,15 +6552,6 @@
         "negative": 4.3
     },
     {
-        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
-        "category": "sports",
-        "date_time": "2024-12-26T17:25:00",
-        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
-        "positive": 6.7,
-        "negative": 6.2
-    },
-    {
         "headlines": "Think Virat Kohli accidentally bumped into me, altercations fire me up: Sam KonstasAustralia vs India, 4th Test: 19-year-old opener Sam Konstas said the on-field exchanges with India players, including Virat Kohli, fired him up. On debut, Konstas smashed 60 off just 65 balls in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-4th-test-sam-konstas-reaction-virat-kohli-jasprit-bumrah-2655602-2024-12-26",
         "category": "sports",
@@ -6568,6 +6586,15 @@
         "uuid": "84160572-e95c-41b9-93aa-2d4ba5ca2667",
         "positive": 15.7,
         "negative": 2.7
+    },
+    {
+        "headlines": "Xiaomi 15 Ultra launching in India soon? Here is what we know about it Xiaomi 15 Ultra has recently been listed on the BIS certification website, which suggests that the smartphone may soon be launched in the Indian market.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/xiaomi-15-ultra-launching-in-india-soon-here-is-what-we-know-about-it-2654440-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T08:59:00",
+        "uuid": "378f73f0-a44f-4542-8fa8-91e1a182e216",
+        "positive": 4.3,
+        "negative": 0
     },
     {
         "headlines": "How Virat Kohli and Rohit Sharma geared up for MCG Test: Abhishek Nayar revealsIndia's assistant coach Abhishek Nayar reveals how Virat Kohli and Rohit Sharma have geared up for the Boxing Day Test in Melbourne. ",
@@ -6613,6 +6640,15 @@
         "uuid": "01d9f5cf-6fdc-4084-ac85-0adbf0719bbd",
         "positive": 6,
         "negative": 3.6
+    },
+    {
+        "headlines": "Why Virat Kohli may not be proud of his altercation with fanboy Sam KonstasBorder-Gavaskar Trophy: Virat Kohli shouldered 19-year-old Sam Konstas, who was making his debut for Australia on Boxing Day in Melbourne. Kohli's act was unbecoming of a player of his stature and inappropriate for the occasion.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-virat-kohli-shoulder-sam-konstas-opinion-regret-sanction-2655716-2024-12-26",
+        "category": "sports",
+        "date_time": "2024-12-26T17:25:00",
+        "uuid": "b84477ff-8e08-42f4-bfb6-de68cf994881",
+        "positive": 6.7,
+        "negative": 6.2
     },
     {
         "headlines": "Usman Khawaja offers ringside view of Virat Kohli vs Sam Konstas at MCGUsman Khawaja revealed the fiery exchange between Virat Kohli and debutant Sam Konstas, shedding light on the collision controversy. ",
@@ -6867,24 +6903,6 @@
         "negative": 7.6
     },
     {
-        "headlines": "Watch: Arshdeep Singh hilariously apologises to Chahal for breaking his recordIndia's left-arm seamer Arshdeep Singh apologised to Yuzvendra Chahal for surpassing his record to become India's leading wicket taker in T20Is.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-arshdeep-singh-hilariously-apologises-to-yuzvendra-chahal-for-breaking-his-record-2668961-2025-01-23",
-        "category": "sports",
-        "date_time": "2025-01-23T12:19:00",
-        "uuid": "fc92efee-149c-4c47-950d-b42826c5dcae",
-        "positive": 10.7,
-        "negative": 4.8
-    },
-    {
-        "headlines": "Superstars fail in Ranji Trophy as Rohit, Gill, Pant and Jaiswal disappointRanji Trophy: India's cricketing superstars faltered in their much-anticipated Ranji Trophy returns, with Rohit Sharma, Rishabh Pant, and Shubman Gill failing to make significant contributions, raising concerns about their form ahead of the Champions Trophy.",
-        "article_url": "https://www.indiatoday.in/sports/story/rohit-sharma-shubman-gill-superstars-fail-on-return-yashasvi-jaiswal-ranji-trophy-2668953-2025-01-23",
-        "category": "sports",
-        "date_time": "2025-01-23T12:12:00",
-        "uuid": "6f6b89ef-48db-44b2-9b2c-d61daaab548b",
-        "positive": 8,
-        "negative": 9.5
-    },
-    {
         "headlines": "When Steve Smith feared a Virat Kohli masterclass in MelbourneAustralia vs India, 4th Test: Virat Kohli looked in complete control of his game, resisting the temptation to drive and poke at deliveries bowled in the corridor of uncertainty. However, he fell into the trap, getting out to Scott Boland in the last hour of the day's play on Saturday. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-mcg-test-virat-kohli-control-boxing-day-steve-smith-2656255-2024-12-27",
         "category": "sports",
@@ -7036,6 +7054,24 @@
         "uuid": "6340e71e-0494-45f5-9a54-8df042e12452",
         "positive": 8.1,
         "negative": 3.7
+    },
+    {
+        "headlines": "Watch: Arshdeep Singh hilariously apologises to Chahal for breaking his recordIndia's left-arm seamer Arshdeep Singh apologised to Yuzvendra Chahal for surpassing his record to become India's leading wicket taker in T20Is.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-arshdeep-singh-hilariously-apologises-to-yuzvendra-chahal-for-breaking-his-record-2668961-2025-01-23",
+        "category": "sports",
+        "date_time": "2025-01-23T12:19:00",
+        "uuid": "fc92efee-149c-4c47-950d-b42826c5dcae",
+        "positive": 10.7,
+        "negative": 4.8
+    },
+    {
+        "headlines": "Superstars fail in Ranji Trophy as Rohit, Gill, Pant and Jaiswal disappointRanji Trophy: India's cricketing superstars faltered in their much-anticipated Ranji Trophy returns, with Rohit Sharma, Rishabh Pant, and Shubman Gill failing to make significant contributions, raising concerns about their form ahead of the Champions Trophy.",
+        "article_url": "https://www.indiatoday.in/sports/story/rohit-sharma-shubman-gill-superstars-fail-on-return-yashasvi-jaiswal-ranji-trophy-2668953-2025-01-23",
+        "category": "sports",
+        "date_time": "2025-01-23T12:12:00",
+        "uuid": "6f6b89ef-48db-44b2-9b2c-d61daaab548b",
+        "positive": 8,
+        "negative": 9.5
     },
     {
         "headlines": "FC Barcelona's Dani Olmo registration plea rejected by Spanish courtBarcelona's efforts to extend Dani Olmo's registration were denied, leaving the midfielder ineligible to play after December 31. With La Liga's financial restrictions looming, the club is scrambling to find solutions before the January deadline.  ",
@@ -7315,6 +7351,15 @@
         "uuid": "7c6f7282-4d1e-461e-a83f-f10f947ea352",
         "positive": 11.3,
         "negative": 4.5
+    },
+    {
+        "headlines": "Meta plans to introduce display to Ray-Ban smart glasses in 2025Meta's popular Ray-Ban smart glasses could see further improvements in the upcoming version. According to a Financial Times report, this updated device could be released as soon as 2025.  ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/meta-plans-to-introduce-display-to-ray-ban-smart-glasses-in-2025-2654437-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T08:52:00",
+        "uuid": "9ae69fe0-f63f-4030-aeb3-cc0d9ca168c1",
+        "positive": 10.4,
+        "negative": 0.3
     },
     {
         "headlines": "Watch: Nitish Kumar Reddy gets emotional on meeting family after MCG heroicsNitish Kumar Reddy's emotional reunion with his family after his maiden Test century at the MCG highlighted years of sacrifice and resilience. Tears flowed as his heroic knock became a testament to his hard work and unwavering family support.",
@@ -7875,15 +7920,6 @@
         "negative": 5.8
     },
     {
-        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T12:08:00",
-        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
-        "positive": 16.2,
-        "negative": 1.4
-    },
-    {
         "headlines": "Virat Kohli deserves a longer rope, don't compare him to Rohit Sharma: ManjrekarSanjay Manjrekar said that it was unfair to judge Virat Kohli and Rohit Sharma's performances in the Border-Gavaskar Trophy by the same standard, particularly in light of calls for their retirement after their struggles in the Boxing Day Test.\r\n",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-virat-kohli-test-future-sanjay-manjrekar-2657236-2024-12-30",
         "category": "sports",
@@ -7983,15 +8019,6 @@
         "negative": 2.2
     },
     {
-        "headlines": "Explained: Why Infosys share price tumbled over 5% after strong Q3 resultsInfosys stock was down 5.40% at Rs 1,822.10 on the BSE at 10:15 a.m. The company's shares had hit a day's low of Rs 1,815.85. \r\n\r\n",
-        "article_url": "https://www.indiatoday.in/business/story/infosys-share-price-down-today-overnight-adrs-q3-results-key-reasons-future-outlook-2666088-2025-01-17",
-        "category": "business",
-        "date_time": "2025-01-17T10:41:00",
-        "uuid": "20c424db-40af-450d-93af-8d6856491c4d",
-        "positive": 11,
-        "negative": 4.3
-    },
-    {
         "headlines": "Why Jaiswal's drops are not the only reason for India's MCG Test lossIndia's defeat in the Melbourne Test exposed glaring flaws, from senior players' failures to tactical errors, while Yashasvi Jaiswal's dropped catches, though costly, were far from the sole reason for their precarious position in the Border Gavaskar Trophy.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-five-reasons-why-india-lost-melbourne-test-yashasvi-jaiswal-dropped-catches-2657469-2024-12-30",
         "category": "sports",
@@ -8028,15 +8055,6 @@
         "negative": 6.8
     },
     {
-        "headlines": "Iga Swiatek eyes 1st final, Badosa, Sabalenka in best-friend clashAustralian Open 2025: Iga Swiatek will face Madison Keys in the first semi-final of the day, followed by the clash between Aryna Sabalenka and Paula Badosa in the second match at the Rod Laver Arena. ",
-        "article_url": "https://www.indiatoday.in/sports/story/tennis-australian-open-2025-preview-iga-swiatek-paula-badosa-aryna-sabalenka-semi-final-2668945-2025-01-23",
-        "category": "sports",
-        "date_time": "2025-01-23T11:59:00",
-        "uuid": "18899b92-2437-4116-a948-68e1f6041533",
-        "positive": 15.4,
-        "negative": 6.8
-    },
-    {
         "headlines": "No more Fab 4: Virat Kohli fails to keep up with ever-evolving peers IND vs AUS: Virat Kohli has struggled to find his form in Test cricket over the last five years, while the other members of the Fab-Four, Steve Smith, Kane Williamson and Steve Smith, have kept hammering runs all around the globe. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-virat-kohli-test-comparison-fab-four-williamson-smith-root-2657490-2024-12-31",
         "category": "sports",
@@ -8064,6 +8082,15 @@
         "negative": 8.4
     },
     {
+        "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-nitish-reddy-better-hardik-pandya-test-sunil-gavaskar-stmp-2657680-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T12:08:00",
+        "uuid": "b9c0e93e-fa3b-45c5-adc4-70b0883a5f0a",
+        "positive": 16.2,
+        "negative": 1.4
+    },
+    {
         "headlines": "Head's celebration insulted not just Pant but 1.5 billion Indians: Navjot SidhuAustralia vs India: Former Indian batter Navjot Singh Sidhu has slammed Travis Head's 'obnoxious' celebration after Rishabh Pant's dismissal in the recent Boxing Day Test. Sidhu labeled the act as \"obnoxious behavior\", saying the celebration insulted not just Pant but the entire Indian population of 1.5 billion.\r\n",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-navjot-sindhu-slams-travis-head-celebration-pant-insult-indian-2657635-2024-12-31",
         "category": "sports",
@@ -8071,15 +8098,6 @@
         "uuid": "19520a48-eb7f-4cd7-9ae6-c7642903157b",
         "positive": 8.6,
         "negative": 11.5
-    },
-    {
-        "headlines": "Amorim explains decision to sub off Zirkzee after 33 minutes vs NewcastleRuben Amorim justified substituting Joshua Zirkzee after 33 minutes in Manchester United's 2-0 defeat to Newcastle, emphasising it was a tactical decision amidst growing concerns over United's relegation battle after their third consecutive Premier League loss.",
-        "article_url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-newcastle-united-ruben-amorim-joshua-zirkzee-substitution-explains-2657786-2024-12-31",
-        "category": "sports",
-        "date_time": "2024-12-31T15:16:00",
-        "uuid": "757bcf02-791a-4b0c-91ef-5e515c9a940f",
-        "positive": 11.9,
-        "negative": 10.7
     },
     {
         "headlines": "Captain fantastic: Cummins steps up to haunt India againBoxing Day Test, IND vs AUS: Pat Cummins has been a thorn in the flesh for India over the last one and a half years. On Monday, he captained Australia to a 2-1 series lead with an 184-run win at the Melbourne Cricket Ground. ",
@@ -8127,13 +8145,13 @@
         "negative": 3.5
     },
     {
-        "headlines": "Faster PF transfers, direct online claims: Check benefits of new EPFO rulesThe newly introduced measures are expected to minimise the turnaround time, thereby benefiting about 94% of the 13 million claims filed during FY 2024-25.",
-        "article_url": "https://www.indiatoday.in/business/story/faster-pf-transfers-direct-online-claims-check-benefits-of-new-epfo-rules-2667279-2025-01-20",
-        "category": "business",
-        "date_time": "2025-01-20T13:55:00",
-        "uuid": "d569306a-4ed6-4fce-bf58-1b7085cb598f",
-        "positive": 8.6,
-        "negative": 3.4
+        "headlines": "Apple approaches historic $4 trillion valuation, it is now also ahead of Nvidia and MicrosoftApple shares saw a 16 per cent jump in shares since early November that has added about $500 billion to its market capitalisation.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-approaches-historic-4-trillion-valuation-it-is-now-also-ahead-of-nvidia-and-microsoft-2654469-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T10:37:00",
+        "uuid": "8c4d0848-48e4-48ce-b1f4-4cf1b5d0b0a6",
+        "positive": 10.3,
+        "negative": 2.2
     },
     {
         "headlines": "Rohit prioritised himself over team's best interests at MCG, says ex-openerAustralia vs India, 4th Test: Former India opener Aakash Chopra said Rohit Sharma prioritised himself over the team's best interests for the first time in his captaincy career when he returned to open the batting and left out Shubman Gill from the XI in Melbourne. ",
@@ -8161,6 +8179,15 @@
         "uuid": "91effe98-d8b9-4420-8aac-6889a5ef9b23",
         "positive": 10.5,
         "negative": 2.1
+    },
+    {
+        "headlines": "Apple M5 Pro chipset to feature separate CPU and GPU for server-grade performanceUnlike past SoCs, Apple is reportedly planning to separate the CPU and GPU in its upcoming M-series chips to take advantage of TSMC's latest chip-packaging technology, known as SoIC-mH.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/apple-m5-pro-chipset-to-feature-separate-cpu-and-gpu-for-server-grade-performance-2654456-2024-12-24",
+        "category": "technology",
+        "date_time": "2024-12-24T09:50:00",
+        "uuid": "c73f7c19-3f62-4f3b-b8f1-ba991ff39e86",
+        "positive": 11.8,
+        "negative": 1.7
     },
     {
         "headlines": "Rishabh Pant should be criticized for his failures, not how he fails: ManjrekarFormer India cricketer turned commentator Sanjay Manjkrekar feels India wicketkeeper batter Rishabh Pant shouldn't be criticised for his mode of dismissals but only his failures.",
@@ -8208,6 +8235,15 @@
         "negative": 3.5
     },
     {
+        "headlines": "Iga Swiatek eyes 1st final, Badosa, Sabalenka in best-friend clashAustralian Open 2025: Iga Swiatek will face Madison Keys in the first semi-final of the day, followed by the clash between Aryna Sabalenka and Paula Badosa in the second match at the Rod Laver Arena. ",
+        "article_url": "https://www.indiatoday.in/sports/story/tennis-australian-open-2025-preview-iga-swiatek-paula-badosa-aryna-sabalenka-semi-final-2668945-2025-01-23",
+        "category": "sports",
+        "date_time": "2025-01-23T11:59:00",
+        "uuid": "18899b92-2437-4116-a948-68e1f6041533",
+        "positive": 15.4,
+        "negative": 6.8
+    },
+    {
         "headlines": "Karnataka High Court stays arrest warrant against Robin Uthappa in fraud case Karnataka High Court has stayed the arrest warrant issued against former Indian cricketer Robin Uthappa in the alleged EPF fraud case. On December 21, Shadakshari Gopal Reddy, the PF Regional Commissioner, issued the arrest warrant against him.  ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/karnataka-high-court-robin-uthappa-epf-fraud-case-arrest-warrant-2657888-2024-12-31",
         "category": "sports",
@@ -8242,6 +8278,15 @@
         "uuid": "3a79e1df-5215-428e-a598-23ab0f523531",
         "positive": 7,
         "negative": 0.5
+    },
+    {
+        "headlines": "Amorim explains decision to sub off Zirkzee after 33 minutes vs NewcastleRuben Amorim justified substituting Joshua Zirkzee after 33 minutes in Manchester United's 2-0 defeat to Newcastle, emphasising it was a tactical decision amidst growing concerns over United's relegation battle after their third consecutive Premier League loss.",
+        "article_url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-newcastle-united-ruben-amorim-joshua-zirkzee-substitution-explains-2657786-2024-12-31",
+        "category": "sports",
+        "date_time": "2024-12-31T15:16:00",
+        "uuid": "757bcf02-791a-4b0c-91ef-5e515c9a940f",
+        "positive": 11.9,
+        "negative": 10.7
     },
     {
         "headlines": "Wayne Rooney's time as Plymouth Argyle coach ends after just 7 monthsWayne Rooney's struggles as a manager continued, with his seven-month stint at Plymouth Argyle ending after a poor run of results left the club languishing at the bottom of the Championship table.",
@@ -8953,50 +8998,5 @@
         "uuid": "7afeffe8-186c-4a0e-a5e3-60570bfc8f6f",
         "positive": 5.9,
         "negative": 3.2
-    },
-    {
-        "headlines": "Rohit Sharma misses SCG Test, Jasprit Bumrah returns as captain Border Gavaskar Trophy, IND vs AUS: Rohit Sharma has been left out of India's playing XI for the New Year's Test against Australia. Shubman Gill has replaced him while Jasprit Bumrah has returned as captain. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/bgt-rohit-sharma-dropped-playing-xi-rested-jasprit-bumrah-sydney-test-captain-ind-vs-aus-2658937-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T04:42:00",
-        "uuid": "02d29080-89eb-462f-835a-828c7c2d4c49",
-        "positive": 6.7,
-        "negative": 3.8
-    },
-    {
-        "headlines": "Bold call from Rohit Sharma to rest himself for Sydney Test: Ravi ShastriIND vs AUS: Former India head coach Ravi Shastri believes that it was a bold call to 'rest' Rohit Sharma for the final Test match in Sydney. Sharma opted to remove himself from the playing XI and bring in Shubman Gill.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-5th-test-rohit-sharma-dropped-retirement-avi-shastri-reacts-2659005-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T06:13:00",
-        "uuid": "52f0de41-5437-476a-a2dd-3f8511980d05",
-        "positive": 7.1,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Our captain Rohit Sharma opted to 'rest', no selfishness in team: Jasprit BumrahIND vs AUS: Unselfish Rohit Sharma has opted to 'rest' himself from the SCG Test, said stand-in captain Jasprit Bumrah. Bumrah said that the Indian team was as united as ever and were trying to keep the positives in mind going into the final match of the series.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-jasprit-bumrah-captain-rohit-sharma-rested-india-playing-xi-scg-2659003-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T06:22:00",
-        "uuid": "e8537b45-880a-40b5-ba12-cc16116059e0",
-        "positive": 13.8,
-        "negative": 4.1
-    },
-    {
-        "headlines": "He's been dropped: Mark Taylor slams Rohit Sharma's 'resting' antics at SCGFormer Australia cricketer Mark Taylor has slammed Team India's line of Rohit Sharma 'resting himself'. Speaking on Triple M Cricket, Taylor said that Rohit has been dropped, and the team should just simply say so.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-dropped-mark-taylor-ind-vs-aus-scg-test-2659007-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T07:15:00",
-        "uuid": "f5cf3806-feaa-4337-8a22-3ff9c42582af",
-        "positive": 3.6,
-        "negative": 3.2
-    },
-    {
-        "headlines": "Virat Kohli out or not? Smith upset over third umpire's call in Sydney TestAustralia vs India, 5th Test: Virat Kohli was handed a lifeline when he was batting on 0 in the first innings of the final Test in Sydney. Steve Smith's effort in the slip cordon was deemed not out by third umpire Joel Wilson, leading to mixed reactions. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-sydney-test-virat-kohli-catch-not-out-joel-wilson-steve-smith-2659006-2025-01-03",
-        "category": "sports",
-        "date_time": "2025-01-03T07:11:00",
-        "uuid": "82dd9b4e-46ba-4927-9b64-f31997ebb3e6",
-        "positive": 5.1,
-        "negative": 5.2
     }
 ]
