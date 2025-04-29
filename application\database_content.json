@@ -3114,15 +3114,6 @@
         "negative": 2.1
     },
     {
-        "headlines": "GST Council's key decisions: What's cheaper, what's costlier, and all other detailsGST Council brings key tax changes impacting everyday essentials like popcorn, used cars, fortified rice, corporate sponsorships, and penalties.\r\n",
-        "article_url": "https://www.indiatoday.in/business/story/gst-council-key-decisions-what-cheaper-what-costlier-and-all-other-details-2653637-2024-12-22",
-        "category": "business",
-        "date_time": "2024-12-22T11:44:00",
-        "uuid": "455f23b6-017c-4bd1-b2c3-fac1f9413104",
-        "positive": 10.8,
-        "negative": 2.3
-    },
-    {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
         "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
         "category": "business",
@@ -4689,6 +4680,15 @@
         "negative": 4.8
     },
     {
+        "headlines": "Hope to introduce new income tax bill in Lok Sabha next week: Nirmala SitharamanAfter introduction in the Upper House, the bill, which was approved by the Union Cabinet chaired by PM Modi, will be sent to a parliamentary standing committee for scrutiny.",
+        "article_url": "https://www.indiatoday.in/business/story/union-finance-minister-nirmala-sitharaman-introduce-new-income-tax-bill-lok-sabha-union-budget-2676893-2025-02-08",
+        "category": "business",
+        "date_time": "2025-02-08T17:09:00",
+        "uuid": "1b35a637-60cb-46e1-b804-c1f5075a47d0",
+        "positive": 6.3,
+        "negative": 0.6
+    },
+    {
         "headlines": "Sam Konstas ready to face Bumrah? Australia batter opens up on his preparationYoung Australia batter Sam Konstas revealed that he's ready with plans to face Indian bowlers in the upcoming fourth Test against India in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-sam-konstas-ready-with-plans-to-face-jasprit-bumrah-aus-vs-ind-border-gavaskar-trophy-2653547-2024-12-21",
         "category": "sports",
@@ -4696,6 +4696,24 @@
         "uuid": "75ceddb7-688e-40b3-8568-79ef9a7b3c8a",
         "positive": 15.7,
         "negative": 1.5
+    },
+    {
+        "headlines": "Sensex, Nifty tumble as rupee hits record low; metal, energy stocks dragThe S&P BSE Sensex was down by 394.07 points to 77,466.12, while the NSE Niftt50 fell by 130.10 points to 23,429.85 as of 9:40 AM. ",
+        "article_url": "https://www.indiatoday.in/business/story/stock-market-opening-bell-sensex-nifty-tumble-as-rupee-hits-record-low-metal-energy-stocks-drag-2677401-2025-02-10",
+        "category": "business",
+        "date_time": "2025-02-10T09:45:00",
+        "uuid": "559322be-a078-4832-ab0c-d0450a825c5d",
+        "positive": 9.9,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Ajax Engineering IPO open for bidding: Should you subscribe? Check GMPThe bidding process will close on February 12, 2025. Before the IPO opened for public subscription, Ajax Engineering raised Rs 379.32 crore from anchor investors.",
+        "article_url": "https://www.indiatoday.in/business/story/ajax-engineering-ipo-open-for-bidding-details-price-band-issue-size-subscribe-skip-review-latest-gmp-2677388-2025-02-10",
+        "category": "business",
+        "date_time": "2025-02-10T09:25:00",
+        "uuid": "5d349d43-bf5c-4921-8442-3d2b0826f23f",
+        "positive": 11.3,
+        "negative": 0.8
     },
     {
         "headlines": "Sanju Samson explains why RR signed 13-yera-old Vaibhav SuryavanshiRajasthan Royals captain Sanju Samson explained the reason behind the franchise buying 13-year-old Vaibhav Suryavanshi. Samson spoke highly of the team's tradition of picking young talents and converting them into superstars.",
@@ -4968,24 +4986,6 @@
         "negative": 7.4
     },
     {
-        "headlines": "PR Sreejesh, R Ashwin receive Padma awards from President Droupadi MurmuFormer Indian off-spinner R Ashwin and Indian hockey legend PR Sreejesh got the prestigious Padma Awards from President Droupadi Murmu on Monday, April 28 at the Rashtrapati Bhavan in New Delhi. \r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-pr-sreejesh-im-vijayan-padma-awards-droupadi-murmu-2716390-2025-04-28",
-        "category": "sports",
-        "date_time": "2025-04-28T19:05:00",
-        "uuid": "e621def5-8273-46f6-bd12-d4cb59b8ba3e",
-        "positive": 18.5,
-        "negative": 0.2
-    },
-    {
-        "headlines": "Australian podcaster removes all IPL content after legal notice from BCCIAfter receiving a polite legal notice from BCCI, popular Australian podcast The Grade Cricketer removed all IPL-related videos from their social media, which they even clarified through a statement.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-bcci-legal-notice-australian-podcaster-grade-cricketer-takes-down-vidoes-2716357-2025-04-28",
-        "category": "sports",
-        "date_time": "2025-04-28T18:38:00",
-        "uuid": "ff043e35-14c7-4b54-a953-48bed49908a4",
-        "positive": 4.9,
-        "negative": 0
-    },
-    {
         "headlines": "CSK not pro-active enough? Gaikwad calls for improvement after defeat vs RRIPL 2025, RR vs CSK: Ruturaj Gaikwad said that the Chennai Super Kings were not proactive enough after losing to the Rajasthan Royals on Sunday where they failed to chase down 183 at the Barsapara Stadium in Guwahati.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ruturaj-gaikwad-rr-vs-csk-defeat-2701459-2025-03-31",
         "category": "sports",
@@ -4993,33 +4993,6 @@
         "uuid": "79ae6c08-fb53-4d04-a030-2bf59059e97f",
         "positive": 11.2,
         "negative": 6.8
-    },
-    {
-        "headlines": "India vs South Africa, Women's Tri-series: When and where to watch?Harmanpreet Kaur's India and Laura Wolvaardt's South Africa will face each other in the second match of the tri-series on Tuesday, April 29 at the R Premadasa Stadium in Colombo.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-tri-series-live-streaming-match-2-2716373-2025-04-28",
-        "category": "sports",
-        "date_time": "2025-04-28T18:09:00",
-        "uuid": "803d7eeb-b8e1-4247-85f7-362a8ae3e724",
-        "positive": 2,
-        "negative": 3.6
-    },
-    {
-        "headlines": "Kaneria slams Shahid Afridi, calls him out for extremist viewsFormer Pakistan cricketer Danish Kaneria has hit out against Shahid Afridi after a video of the latter went viral on the internet. In the video, Shahid alleged that India killed its own people in the Pahalgam terror attack.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/danish-kaneria-shahid-afridi-terror-attack-kashmir-pahalgam-2716363-2025-04-28",
-        "category": "sports",
-        "date_time": "2025-04-28T17:45:00",
-        "uuid": "f2c9bb09-365c-4240-950e-cd72c4d29865",
-        "positive": 6.3,
-        "negative": 18.1
-    },
-    {
-        "headlines": "Pratika Rawal eyes Women's ODI history, nears Shubman Gill's India recordIndia's Pratika Rawal is on the cusp of becoming the fastest batter to the landmark of 500 runs in Women's ODIs, going past former England batter Charlotte Edwards. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/pratika-rawal-shubman-gill-womens-odis-history-2716350-2025-04-28",
-        "category": "sports",
-        "date_time": "2025-04-28T17:28:00",
-        "uuid": "506a06b2-57b3-41e0-b016-360f45146316",
-        "positive": 9.2,
-        "negative": 0.6
     },
     {
         "headlines": "IPL 2025: MS Dhoni walks in at No.7, but fails to fire for CSK vs RRMS Dhoni's promotion to number 7 wasn't enough as Chennai Super Kings suffered their second consecutive defeat, falling short of the 183-run target against Rajasthan Royals despite a valiant effort from their skipper.",
@@ -6768,6 +6741,15 @@
         "negative": 4.4
     },
     {
+        "headlines": "Who is Asmita Patel, the 'she-wolf of stock market' under SEBI scanner?SEBI has directed Patel, her firm Asmita Patel Global School of Trading Pvt Ltd (APGSOT), and several affiliated entities to return over Rs 53 crore collected as course fees. ",
+        "article_url": "https://www.indiatoday.in/business/story/who-is-asmita-patel-the-she-wolf-of-the-stock-market-under-sebis-scanner-2677157-2025-02-09",
+        "category": "business",
+        "date_time": "2025-02-09T14:29:00",
+        "uuid": "2238117a-888b-430e-934b-16128b2a8840",
+        "positive": 8.2,
+        "negative": 3.5
+    },
+    {
         "headlines": "Karun Nair equals record-feat in Vijay Hazare in bid to revive India careerVijay Hazare Trophy: Vidarbha captain Karun Nair equalled the record of Narayan Jagadeesan by hitting his 5th century of the tournament. Nair has been in terrific form and is pushing hard to revive his dormant India career.\r\n",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/karun-nair-vijay-hazare-trophy-record-indian-team-champions-trophy-2663887-2025-01-13",
         "category": "sports",
@@ -7128,15 +7110,6 @@
         "negative": 2.5
     },
     {
-        "headlines": "Epigamia co-founder Rohan Mirchandani dies at 42 due to cardiac arrestRohan Mirchandani, co-founder of Epigamia, died due to cardiac arrest. Known for transforming India's food market, he led Epigamia's growth to over 20,000 retail outlets in 30 cities.",
-        "article_url": "https://www.indiatoday.in/business/story/rohan-mirchandani-death-yogurt-brand-epigamia-co-founder-dies-at-42-due-to-cardiac-arrest-2653723-2024-12-22",
-        "category": "business",
-        "date_time": "2024-12-22T16:39:00",
-        "uuid": "4c546cd4-2ddd-4ffe-b1a9-24e77487bb62",
-        "positive": 13.5,
-        "negative": 6.7
-    },
-    {
         "headlines": "Chakravarthy has improved so much in last 2, 3 years: Moeen AliIPL 2025: Moeen Ali and Varun Chakravarthy had combined figures of 8-0-40-4 as KKR beat RR by eight wickets on Wednesday to register their maiden win in the ongoing tournament. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-varun-chakravarthy-moeen-ali-mystery-rr-vs-kkr-press-conference-2699761-2025-03-27",
         "category": "sports",
@@ -7351,15 +7324,6 @@
         "uuid": "a97dcb41-da27-442e-bb46-245fff8f7ad7",
         "positive": 18.3,
         "negative": 3.2
-    },
-    {
-        "headlines": "Want higher FD returns? RBL and Union Bank offer up to 8.5% to select customersAfter the latest revision, Union Bank of India now offers FD interest rates ranging from 3% to 7.15% for regular customers, depending on the deposit tenure (7 days to 10 years).\r\n",
-        "article_url": "https://www.indiatoday.in/business/personal-finance/story/want-higher-fd-returns-rbl-and-union-bank-offer-up-to-85-percent-to-select-customers-2716348-2025-04-28",
-        "category": "business",
-        "date_time": "2025-04-28T17:23:00",
-        "uuid": "20ebdf87-1016-4ddd-834c-3a9bf08845ba",
-        "positive": 13.4,
-        "negative": 0.4
     },
     {
         "headlines": "Not going to stress over India comeback during IPL 2025: Mohammed SirajIPL 2025: Mohammed Siraj said he will be fully focussed on giving his best for Gujarat Titans- his first new franchise after having spent seven years at RCB. Siraj was not picked for Champions Trophy 2025. ",
@@ -7927,15 +7891,6 @@
         "uuid": "c8437b2d-c659-4a22-b717-d39fac456419",
         "positive": 12.1,
         "negative": 3.9
-    },
-    {
-        "headlines": "Sensex, Nifty snap losing streak with IT, metal surge; RIL shares up over 1%The S&P BSE Sensex was up 577.72 points to 78,619.31, while the NSE Nifty50 gained 185.80 points to 23,773.30. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-snap-losing-streak-with-it-metal-stocks-surge-ril-shares-up-over-1-percent-2653884-2024-12-23",
-        "category": "business",
-        "date_time": "2024-12-23T09:41:00",
-        "uuid": "c5e8502f-013b-4a07-934b-2570a5f7e722",
-        "positive": 22,
-        "negative": 4.5
     },
     {
         "headlines": "MS Dhoni's cheeky jibe at KKR coach: The traitor is hereIPL 2025: MS Dhoni's return as CSK skipper brought a warm reunion with Dwayne Bravo, but not without a playful jab — calling his former teammate and now KKR mentor a \"traitor\" ahead of their big clash.",
@@ -8998,5 +8953,50 @@
         "uuid": "289a443e-2c10-4bf9-9166-ed069f66e3d1",
         "positive": 8,
         "negative": 4
+    },
+    {
+        "headlines": "TCS to delay salary hike? Check what top management said after Q4 resultsTCS reported a net profit of Rs 12,224 crore for the fourth quarter of FY25. This is a 1.7% drop compared to Rs 12,434 crore reported in the same quarter last year.",
+        "article_url": "https://www.indiatoday.in/business/story/tcs-q4-results-salary-hike-news-top-delay-in-payout-top-management-global-uncertainty-2707281-2025-04-11",
+        "category": "business",
+        "date_time": "2025-04-11T08:44:00",
+        "uuid": "6b6dcf34-65ec-4136-bfc8-413434faf103",
+        "positive": 4.9,
+        "negative": 3.7
+    },
+    {
+        "headlines": "Stocks to watch on April 11: TCS, Accenture, Deloitte, Tata Steel, BHELKey stocks to watch in today's trade include shares of TCS, Accenture, Deloitte, Tata Steel, BHEL Sun Pharma, Bharti Hexacom due to various news developments and third quarter results.",
+        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-on-april-11-shares-in-focus-today-sensex-nifty-nse-bse-tcs-accenture-deloitte-tata-steel-bhel-2707268-2025-04-11",
+        "category": "business",
+        "date_time": "2025-04-11T08:04:00",
+        "uuid": "42ba513e-3317-4f35-afca-1a839b29fc83",
+        "positive": 8.8,
+        "negative": 1.4
+    },
+    {
+        "headlines": "Over 40? You might be first in line for layoff, says Bombay Shaving Company CEOProfessionals in their 40s, once seen as reliable, experienced and ready for leadership roles, are now being hit hard by layoffs. ",
+        "article_url": "https://www.indiatoday.in/business/story/layoff-in-40s-no-1-target-corporate-news-trend-bombay-shaving-company-ceo-shantanu-deshpande-tip-how-to-avoid-2708807-2025-04-14",
+        "category": "business",
+        "date_time": "2025-04-14T16:15:00",
+        "uuid": "f19ee8b5-438f-4c20-b423-3093014af41e",
+        "positive": 10.7,
+        "negative": 5.2
+    },
+    {
+        "headlines": "Indian broadcasters stop PSL coverage after Pahalgam terror attackIn the aftermath of the horrific terrorist attack in Pahalgam, Kashmir, Indian broadcasters - FanCode and Sony Sports Network have pulled their broadcast of the ongoing Pakistan Super League.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/pakistan-super-league-indian-broadcasters-suspend-pahalgam-terror-attack-2714757-2025-04-24",
+        "category": "sports",
+        "date_time": "2025-04-24T23:46:00",
+        "uuid": "8c56e445-9a21-4739-b8ab-85f7f2f5f190",
+        "positive": 5.9,
+        "negative": 19.1
+    },
+    {
+        "headlines": "The Diplomat box office day 2: John Abraham's film witnesses growthJohn Abraham's latest film, The Diplomat, is gaining traction at the box office with a significant rise in earnings. The political thriller, directed by Shivam Nair, released on March 14.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/the-diplomat-box-office-day-2-john-abrahams-film-crosses-rs-8-crore-witnesses-growth-2694132-2025-03-16",
+        "category": "bollywood",
+        "date_time": "2025-03-16T08:49:00",
+        "uuid": "c30093d4-2e70-447a-8ed7-7d32fffc4cb6",
+        "positive": 13.5,
+        "negative": 0
     }
 ]
