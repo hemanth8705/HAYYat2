@@ -288,15 +288,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "DA hike: How much can central government employees expect?The expected hike is likely to benefit around 12 million central government employees and pensioners under the 7th Pay Commission.",
-        "article_url": "https://www.indiatoday.in/business/story/da-hike-how-much-can-central-government-employees-expect-2692007-2025-03-11",
-        "category": "business",
-        "date_time": "2025-03-11T12:52:00",
-        "uuid": "f7dbc50b-d105-423a-ba08-91427c8a8646",
-        "positive": 12.9,
-        "negative": 2
-    },
-    {
         "headlines": "Elon Musk says stop using hashtags on X because they look uglyHave you still been using hashtags? You don't need them anymore, at least on X, and the company CEO Elon Musk has confirmed that. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-stop-using-hashtags-on-x-because-you-dont-need-them-and-they-look-ugly-2651563-2024-12-18",
         "category": "technology",
@@ -5067,12 +5058,66 @@
         "negative": 7.3
     },
     {
+        "headlines": "Saif Ali Khan begins shooting for Rahul Dholakia's historical political dramaDays ahead of the release of 'Jewel Thief', actor Saif Ali Khan has begun filming for his next film, a historical political drama. It is being directed by 'Raees' fame Rahul Dholakia. \r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/saif-ali-khan-begins-shooting-for-rahul-dholakias-historical-political-drama-2713316-2025-04-23",
+        "category": "bollywood",
+        "date_time": "2025-04-23T13:04:00",
+        "uuid": "e3eb5095-4536-47fe-b055-bb0498b86e00",
+        "positive": 4.1,
+        "negative": 5.3
+    },
+    {
+        "headlines": "Jaat box office Day 12: Sunny Deol's film Rs 22 crore away from Rs 100 croreSunny Deol's 'Jaat' has slowed down at the box office, but it is not out of the race. The film is slowly inching towards the benchmark of Rs 100 crore, but it will be interesting to see how long it takes to achieve the feat. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/jaat-box-office-collection-day-12-detailed-report-sunny-deol-film-rs-22-crore-away-from-rs-100-crore-2713274-2025-04-23",
+        "category": "bollywood",
+        "date_time": "2025-04-23T11:45:00",
+        "uuid": "ccf7a590-0953-4078-8c08-b38ece31d64b",
+        "positive": 6.2,
+        "negative": 0.6
+    },
+    {
+        "headlines": "Josh Inglis hundred trumps Duckett's 165 in Australia's historic run-chase Champions Trophy: Josh Inglis' 77-run ball hundred helped Australia chase down 352 and beat Jos Buttler's England by five wickets on Saturday in front of a sell-out crowd at the Gaddafi Stadium in Lahore. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-jos-inglis-ben-duckett-australia-record-2684084-2025-02-22",
+        "category": "sports",
+        "date_time": "2025-02-22T22:51:00",
+        "uuid": "a06d77e6-fc2d-4d9d-bade-1157b50d3b99",
+        "positive": 9.3,
+        "negative": 1.6
+    },
+    {
+        "headlines": "17-year-old Mirra Andreeva becomes youngest-ever WTA 1000 champion Mirra Andreeva beat Clara Tauson 7-6 (1), 6-1 in the final of the Dubai Tennis Championships on Saturday, February 22, to become the youngest-ever WTA 1000 champion at the age of 17. ",
+        "article_url": "https://www.indiatoday.in/sports/tennis/story/mirra-andreeva-wta-title-dubai-youngest-2684107-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T00:00:00",
+        "uuid": "89bb0ee8-2d4f-4440-b5ff-d2c03f1b91f2",
+        "positive": 11,
+        "negative": 3.4
+    },
+    {
+        "headlines": "WPL 2025: Chinelle Henry, bowlers help UP Warriorz thrash Delhi Capitals by 33 runsUP Warriorz registered their first win of the Women's Premier League 2025 beating Delhi Capitals by 33 runs in Match 8 in Bengaluru. Chinelle Henry was adjudged Player of the Match for her game-changing innings of 62 (23).",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-chinelle-henry-up-warriorz-delhi-capitals-kranti-goud-grace-harris-2684104-2025-02-22",
+        "category": "sports",
+        "date_time": "2025-02-22T23:49:00",
+        "uuid": "4be9c461-87c6-456a-bfd3-b6cf3f1ab184",
+        "positive": 5.4,
+        "negative": 7.6
+    },
+    {
         "headlines": "Kesari 2 box office Day 12: Akshay's film Rs 70 crore strong; Rs 100 crore possible?'Kesari Chapter 2' is doing well during the weekdays, and while it is already Rs 70 crore strong, it will be interesting to see if it manages to surpass the benchmark of Rs 100 crore by the end of this weekend or next week. ",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/kesari-2-box-office-collection-day-12-detailed-report-akshay-kumar-film-rs-70-crore-strong-rs-100-crore-possible-2717218-2025-04-30",
         "category": "bollywood",
         "date_time": "2025-04-30T09:16:00",
         "uuid": "69c20a20-d713-4a4a-aa2c-7beb1b6f79e9",
         "positive": 9,
+        "negative": 5
+    },
+    {
+        "headlines": "Aqib not worried about India's spin threat: Will play according to our strengthPakistan bowling coach Aqib Javed said that their team isn't too worried about India's spin-bowling threat ahead of the all-important clash between the two teams in the ICC Champions Trophy 2025. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-aqib-javed-denies-indias-spin-threat-india-vs-pakistan-ind-vs-pak-2684091-2025-02-22",
+        "category": "sports",
+        "date_time": "2025-02-22T22:38:00",
+        "uuid": "98b81d68-77e3-4479-8820-c267c2bc1578",
+        "positive": 12.1,
         "negative": 5
     },
     {
@@ -5112,6 +5157,15 @@
         "negative": 6.2
     },
     {
+        "headlines": "Will Virat Kohli's struggles against spin hurt India in Champions Trophy?Virat Kohli's struggles against spin has proved to be a worrying trend for India ahead of their Champions Trophy clash against Pakistan. Can the star batter overcome his woes and find the ODI World Cup form?",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-virat-kohli-vs-spin-struggles-india-vs-pakistan-2684184-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T11:17:00",
+        "uuid": "83ee0ee8-0b2e-4863-8ba5-82059452249b",
+        "positive": 10.5,
+        "negative": 5.9
+    },
+    {
         "headlines": "Watch: Rishabh Pant's adorable moment with young fan in Melbourne netsIndia wicketkeeper batter Rishabh Pant had an adorable moment with a young fan while practising in the nets ahead of the fourth Test against Australia in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-adorable-moment-with-young-fan-in-melbourne-2654144-2024-12-23",
         "category": "sports",
@@ -5119,6 +5173,24 @@
         "uuid": "3df0d271-cd0b-42af-ba57-cbaf72fdf317",
         "positive": 17,
         "negative": 0.9
+    },
+    {
+        "headlines": "IND vs PAK preview: India firm favourites as Dubai miracle only hope for PakistanChampions Trophy 2025 preview: India enter the high-voltage clash against Pakistan as overwhelming favourites. Pakistan, struggling with injuries and inconsistency, will need nothing less than a miracle in Dubai to pull off an upset.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-prediction-form-guide-team-news-dubai-pitch-conditions-2684121-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T06:00:00",
+        "uuid": "c4613a13-c700-4b01-be39-0b7f4ed855c1",
+        "positive": 14.2,
+        "negative": 7.7
+    },
+    {
+        "headlines": "Pakistan Cricket chief hopeful of win vs India: We are fully preparedPCB Chief Mohsin Naqvi backed Pakistan to bounce back against India in their crucial Champions Trophy clash, emphasizing the team's ability to stage a comeback despite their opening loss to New Zealand.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-pakistan-win-vs-india-board-chief-mohsin-naqvi-good-form-2684143-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T07:55:00",
+        "uuid": "fbc2069c-0bb5-4280-83bf-886eb8364fe5",
+        "positive": 14.9,
+        "negative": 6.6
     },
     {
         "headlines": "Apple thinking of making iPhone with wrap-around displayApple has been granted a new patent for a \"Electronic device with wrap-around display\". This patent explores tech around a more flexible display for devices like iPhones. ",
@@ -5166,6 +5238,78 @@
         "negative": 1.2
     },
     {
+        "headlines": "Kohli vs Babar: A tale of 2 'kings' looking to break out of form slumpVirat Kohli and Babar Azam are considered to be two of the greatest batters of the current generation, but are going through one of the worst slumps in form in their careers. What do the star batters need to break out of the poor run they're going through at the moment? ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-virat-kohli-babar-azam-form-dubai-2684105-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T07:20:00",
+        "uuid": "4b7f5ca3-ca5e-41b6-be98-fddde9f1b8bf",
+        "positive": 6.5,
+        "negative": 8.1
+    },
+    {
+        "headlines": "Hero to villain? Dubai set to play defining role in Babar Azam's career once againIndia meet Pakistan at the Dubai International Stadium on Sunday, February 23. Dubai once saw Babar Azam rise to stardom in 2021, it may end up unravelling his career in 2025.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-babar-azam-records-form-dubai-stadium-2684159-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T09:33:00",
+        "uuid": "e6db5b5f-ac91-4760-9deb-23b49dac9c82",
+        "positive": 12.9,
+        "negative": 9
+    },
+    {
+        "headlines": "Champions Trophy: Five Talking Points shaping up India vs Pakistan blockbuster clashIndia and Pakistan are all set to lock horns in the fifth Match of the ICC Champions Trophy 2025 in Dubai. While both teams are coming into the fixture in contrasting forms, the match has all the ingredients to be a thriller with various factors affecting its outcome.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-india-vs-pakistan-ind-vs-pak-champions-trophy-2025-champions-trophy-2684117-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T08:12:00",
+        "uuid": "8cbe3079-94b6-4e11-8066-b91337ab5dcc",
+        "positive": 10.8,
+        "negative": 5
+    },
+    {
+        "headlines": "Rahul Dravid makes cricket comeback: Plays alongside son in KSCA leagueRahul Dravid made a surprise return to competitive cricket, joining his son Anvay for Vijaya Cricket Club in the KSCA Division III League. The father-son duo shared a brief partnership before Dravid was dismissed for 10 runs.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-rahul-dravid-ksca-cricket-league-alongside-son-anvay-vijaya-cricket-club-2684170-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T10:39:00",
+        "uuid": "60a51163-c6a2-4e76-9c25-53203e3009e7",
+        "positive": 8.3,
+        "negative": 0
+    },
+    {
+        "headlines": "Watch: Yuvraj Singh turns back clock, takes superb catch in Masters LeagueFormer India cricketer Yuvraj Singh turned back the clock while playing in the International Masters League. Standing at the boundary line, Yuvraj pulled off a stunning catch that took the fans back to mid-2000s.",
+        "article_url": "https://www.indiatoday.in/sports/story/international-masters-league-yuvraj-singh-catch-video-india-vs-sri-lanka-2684164-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T10:09:00",
+        "uuid": "7472761c-a60b-4e44-a196-f0c0040dfce4",
+        "positive": 9.4,
+        "negative": 1.8
+    },
+    {
+        "headlines": "5 reasons why India are favourites to win against PakistanChampions Trophy 2025: India won their opening game against Bangladesh on Thursday and are favourites to win their next game as well against Mohammad Rizwan's Pakistan at the Dubai International Cricket Stadium.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-favourite-vs-pakistan-five-reasons-dubai-2684163-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T10:03:00",
+        "uuid": "1e64fc1c-fb89-44ba-8d57-d7a486c4b2b2",
+        "positive": 15.4,
+        "negative": 9.3
+    },
+    {
+        "headlines": "New Zealand not taking Bangladesh lightly despite Shakib absence: SantnerNew Zealand captain Mitchell Santner has claimed that they won't be taking Bangladesh lightly despite the absence of Shakib Al Hasan in the lineup. Shakib failed to make it to the Champions Trophy squad. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-new-zealand-vs-bangladesh-mitchell-santner-shakib-al-hasan-absence-2684270-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T17:19:00",
+        "uuid": "a38f46ec-a505-45d2-a59c-108dc310d509",
+        "positive": 14.5,
+        "negative": 2.5
+    },
+    {
+        "headlines": "MS Dhoni spotted watching IND vs PAK game wearing CSK jerseyFormer India captain MS Dhoni was seen watching the India vs Pakistan match in the Champions Trophy 2025 with Bollywood actor Sunny Deol.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ms-dhoni-csk-jersey-sunny-deol-india-vs-pakistan-ind-vs-pak-2684258-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T17:33:00",
+        "uuid": "c35579aa-c273-4226-9339-6c1c140e1c02",
+        "positive": 11.8,
+        "negative": 1
+    },
+    {
         "headlines": "Smriti Mandhana apologises to fans after RCB's horror Bengaluru legWPL 2025: Skipper Smriti Mandhana apologised to the Bengaluru fans after RCB failed to win a single match on their home ground at the M Chinnaswamy Stadium. The Challengers have slipped to fourth in the table. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-wpl-smriti-mandhana-rcb-apology-2687689-2025-03-02",
         "category": "sports",
@@ -5173,6 +5317,24 @@
         "uuid": "3055c13c-e589-47df-ad41-03692bbb9698",
         "positive": 14.7,
         "negative": 5.4
+    },
+    {
+        "headlines": "Indian anthem in Lahore: Pakistan blames ICC, seeks clarification, says reportThe Pakistan Cricket Board has pulled up the International Cricket Council for the national anthem goof-up in Lahore. The organisers at the Gaddafi Stadium played the 'Jana Gana Mana' instead of Australia's national anthem on Saturday.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-indian-national-anthem-lahore-gaddafi-stadium-england-vs-australia-2684175-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T10:57:00",
+        "uuid": "2d70f7ad-eca0-447d-9309-24b6a427be52",
+        "positive": 10.3,
+        "negative": 5.2
+    },
+    {
+        "headlines": "Rule out Pakistan at your own peril: 2017 winners hungry before India clashChampions Trophy 2025: Having not beaten India in ODIs since 2017, Pakistan will be looking to defy the odds and put in a strong performance in the clash on Sunday at the Dubai International Stadium. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-pakistan-vs-india-champions-do-or-die-feature-2683997-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T10:45:00",
+        "uuid": "0802e1a1-752c-4227-b7d2-16941aaf1ffc",
+        "positive": 10.3,
+        "negative": 5.8
     },
     {
         "headlines": "WhatsApp rolls out a new Advanced Chat Privacy feature: What this is and how it worksWhatsApp is bringing in a fresh update focused on user privacy, rolling out a feature called Advanced Chat Privacy. This latest setting gives people more control over what happens to their messages, especially in groups where not everyone is personally known.",
@@ -5211,6 +5373,60 @@
         "negative": 2.1
     },
     {
+        "headlines": "England and India to face off in inaugural Mixed Disability IT20 seriesEngland and India will compete in the first-ever Mixed Disability IT20 series, featuring seven matches across five venues, including a historic game at Lord's on June 25 as part of MCC's Disability Cricket Day.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/england-mixed-disability-it20-series-lords-cricket-ground-2684198-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T12:31:00",
+        "uuid": "5db374bc-19a1-49ab-b5a2-449439a0cdde",
+        "positive": 14,
+        "negative": 0.5
+    },
+    {
+        "headlines": "Babar Azam overcomes health scare, Imam-ul-Haq replaces FakharChampions Trophy 2025: Pakistan made only one change to their XI for the big game against India on Sunday in Dubai. While Babar Azam, who missed training on the eve of the game, was named in the XI, injured Fakhar Zaman was replaced by Imam-ul-Haq. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-team-news-babar-azam-health-imam-ul-haq-2684223-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T14:22:00",
+        "uuid": "5add921a-7850-485e-a89b-35b34045cd12",
+        "positive": 6,
+        "negative": 5.5
+    },
+    {
+        "headlines": "Rohit opts for consistency as IND field unchanged XI vs PAKIndia have retained their winning XI for the high-stakes clash against Pakistan, with Rohit Sharma leading a balanced side. All eyes will be on Virat Kohli as India look to secure a Champions Trophy semi-final berth.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-playing-xi-vs-pakistan-rohit-sharma-virat-kohli-harshit-rana-dubai-2684222-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T14:24:00",
+        "uuid": "43521d98-b7ea-49d1-a853-e4578bf94968",
+        "positive": 12.7,
+        "negative": 4.5
+    },
+    {
+        "headlines": "IND vs PAK: Mohammed Shami suffers injury scare, Indian staff looks concernedIndia pacer Mohammed Shami suffered a major injury concern while bowling against Pakistan in Dubai on Sunday, February 23. Shami suffered an issue in his ankle mid-way through his 3rd over. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-mohammed-shami-injury-concern-gautam-gambhir-dubai-2684239-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T15:30:00",
+        "uuid": "8a2a60f8-c40a-4a7e-b5c4-a7bd64337497",
+        "positive": 6.3,
+        "negative": 11.1
+    },
+    {
+        "headlines": "Jasprit Bumrah receives ICC awards from Jay Shah in Dubai before IND vs PAKChampions Trophy 2025: After receiving his ICC Awards from president Jay Shah, Jasprit Bumrah met and greeted his teammates in Dubai. Bumrah's presence lifted the Indian team ahead of their big game against Pakistan on Sunday. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-jasprit-bumrah-virat-kohli-dubai-jay-shah-icc-awards-2684229-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T14:46:00",
+        "uuid": "c3da5b05-06c0-4458-ae16-669935f561c8",
+        "positive": 13.2,
+        "negative": 4.6
+    },
+    {
+        "headlines": "Cricket visas and when India's victory in Pakistan was foretoldThough the Indian side and fans couldn't travel to Pakistan for the Champions Trophy due to security reasons, in 2004, thousands travelled there on cricket visas. Here's what made the 2004 India tour of Pakistan historic. A little-known match played before the third and crucial Rawalpindi Test would go on to predict its outcome.",
+        "article_url": "https://www.indiatoday.in/sports/champions-trophy/story/cricket-visas-and-when-indias-victory-in-pakistan-was-foretold-champions-trophy-dubai-2004-visa-2684234-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T15:39:00",
+        "uuid": "8442d340-062e-41d5-b293-d3ab6542bda9",
+        "positive": 11.1,
+        "negative": 5.3
+    },
+    {
         "headlines": "Could not pick up a bottle: 'Mentally strong' Harleen battles injury to riseINDW vs WIW: Harleen Deol recalled the times when she was going through tough times while recovering from her knee injury. On Tuesday, Harleen notched her maiden ODI hundred and helped India beat West Indies by 115 runs. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-harleen-deol-century-india-women-west-indies-women-injury-2655153-2024-12-25",
         "category": "sports",
@@ -5218,6 +5434,69 @@
         "uuid": "fb84992c-a95c-4243-8449-4471053e566c",
         "positive": 14.3,
         "negative": 5.5
+    },
+    {
+        "headlines": "What confidence: Shaheen trolled for poor LBW review vs India Champions Trophy 2025: Shaheen Shah Afridi was trolled after he bagged a golden duck while facing Kuldeep Yadav in the match against India on Sunday at the Dubai International Cricket Stadium. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-shaheen-shah-afridi-lbw-review-india-2684314-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T19:16:00",
+        "uuid": "0bdef904-6001-48fa-9a64-750e377b948d",
+        "positive": 11,
+        "negative": 7.4
+    },
+    {
+        "headlines": " 80 dots in 20 overs: Meme fest as fans slam slow Rizwan knock India vs Pakistan, Champions Trophy 2025: Mohammad Rizwan was slammed by a section of fans after the Pakistan captain struggled for fluency in the middle-overs in Dubai. Pakistan played 80 dot balls in the first 20 overs of their innings. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-mohammad-rizwan-memes-slow-knock-dot-balls-dubai-2684261-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T16:53:00",
+        "uuid": "b0307110-4da6-43fb-ad68-d273615c2649",
+        "positive": 11.9,
+        "negative": 7.3
+    },
+    {
+        "headlines": "Did RCB troll Babar? IPL team's special emoji for PAK batterChampions Trophy: Royal Challengers Bengaluru (RCB) dropped a tweet, using a bell emoji after Babar Azam got out to Hardik Pandya in the match against India at the Dubai International Cricket Stadium. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-babar-azam-rcb-india-pakistan-2684260-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T16:51:00",
+        "uuid": "39615260-e4a4-4319-89c7-93b87ff0e1f5",
+        "positive": 11,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Rohit Sharma's family proudly cheers for India captain in Pakistan clashChampions Trophy 2025: Rohit Sharma's wife Ritika Sajdeh and their daughter Samaira cheered enthusiastically for Team India in their clash against Mohammad Rizwan's Pakistan in Dubai. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-rohit-sharma-family-india-pakistan-ritika-2684252-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T16:07:00",
+        "uuid": "77689749-1aa7-4d98-8ca8-a1b092bbb1e3",
+        "positive": 16.2,
+        "negative": 1.2
+    },
+    {
+        "headlines": "Hardik Pandya hits 'Bye Bye' send off to Babar after dismissalHardik Pandya dismissed Babar Azam for 23 in India's Champions Trophy clash against Pakistan. The all-rounder gave a cheeky send-off after the Pakistan star batter edged a catch to KL Rahul following a boundary off the previous ball.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-hardik-pandya-babar-azam-bye-bye-send-off-dubai-2684245-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T15:49:00",
+        "uuid": "2656b856-4f30-4b8b-a25d-f776e6295558",
+        "positive": 8.4,
+        "negative": 6.6
+    },
+    {
+        "headlines": "Sarfaraz Ahmed on Virat Kohli and Rohit Sharma's future: Let them play and decideFormer Pakistan captain Sarfaraz Ahmed said that India batting stalwarts Rohit Sharma and Virat Kohli should be given the freedom to decide their future.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-sarfaraz-ahmed-on-virat-kohli-and-rohit-sharma-india-vs-pakistan-2684293-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T18:07:00",
+        "uuid": "510a0eb7-ed2f-4aa9-b03f-4fef82f80652",
+        "positive": 12,
+        "negative": 1.8
+    },
+    {
+        "headlines": "Watch: Abrar Ahmed gives send-off to Shubman Gill after magical delivery Champions Trophy 2025: Shubman Gill scored 46 runs off 52 balls after which Abrar Ahmed dismissed him during the marquee clash between India and Pakistan on Sunday at the Dubai International Cricket Stadium. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-abrar-ahmed-shubman-gill-india-pakistan-2684346-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T20:57:00",
+        "uuid": "1edf0c8f-a9f8-4870-8960-4ae5b6a7e4f5",
+        "positive": 11.9,
+        "negative": 2.1
     },
     {
         "headlines": "Realme 14T 5G debuts in India with 6000mAh battery, price starts at Rs 17,999Realme has launched its latest sub-Rs 20,000 smartphone — the Realme 14T 5G. Some of the key highlights include a 6,000mAh battery, a 50-megapixel primary rear camera, and a 120Hz AMOLED display.",
@@ -5265,6 +5544,15 @@
         "negative": 4
     },
     {
+        "headlines": "Back is ok? Jasprit Bumrah interacts with Indian team ahead of Pakistan clashJasprit Bumrah had a fun interaction with the likes of Virat Kohli and Hardik Pandya ahead of India's clash against Pakistan on Sunday, February 23. Bumrah was ruled of the Champions Trophy 2025 due to a back issue. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-jasprit-bumrah-virat-kohli-interaction-dubai-2684312-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T19:04:00",
+        "uuid": "83bbee25-d993-4d9e-a02e-a69721b7fb88",
+        "positive": 13,
+        "negative": 0.3
+    },
+    {
         "headlines": "Abbas's skill is second to none: Shan Masood on pacer's comebackPakistan captain Shan Masood praised Mohammad Abbas's return, highlighting his skill and experience as Pakistan aimed to end their poor Boxing Day Test record in South Africa with a revitalised pace attack.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-pakistan-mohammad-abbas-skill-second-to-none-comeback-shan-masood-2655321-2024-12-25",
         "category": "sports",
@@ -5272,6 +5560,15 @@
         "uuid": "c554a267-a5ff-4035-97d8-9bbb87c0ea0e",
         "positive": 10,
         "negative": 4.5
+    },
+    {
+        "headlines": "Rohit suffers injury scare, struggles to move freely on fieldChampions Trophy 2025: Captain Rohit Sharma struggled with an apparent hamstring injury during the Pakistan innings on Sunday in Dubai. Rohit avoided fielding in busy areas after receiving treatment from the medical team. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-rohit-sharma-hamstring-injury-scare-dubai-2684296-2025-02-23",
+        "category": "sports",
+        "date_time": "2025-02-23T18:12:00",
+        "uuid": "93bb9d02-e716-4d43-b93f-ecebcb2c7d14",
+        "positive": 7.9,
+        "negative": 14
     },
     {
         "headlines": "17-year-old Anahat Singh beats Helen Tang to clinch Indian Open squash women's titleIndia's women's number one squash player Anahat Singh beat Helen Tang of Hong Kong to win her sixth title on the bounce, and 11th in total. The victory helped her earn 300 ranking points.",
@@ -5526,6 +5823,15 @@
         "negative": 1.6
     },
     {
+        "headlines": "Pankaj Tripathi reunites with OMG 2 director Amit Rai for next untitledActor Pankaj Tripathi has reunited with 'OMG 2' director Amit Rai' for his next untitled. The shooting has begun in Bihar. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/pankaj-tripathi-reunites-with-omg-2-director-amit-rai-for-next-untitled-shooting-bihar-2713268-2025-04-23",
+        "category": "bollywood",
+        "date_time": "2025-04-23T11:44:00",
+        "uuid": "1e4b9bc0-dbad-4a0c-8a14-8fa1bae49396",
+        "positive": 18.3,
+        "negative": 1.2
+    },
+    {
         "headlines": "Rahul should open, Rohit at No.3 for Day 5 in MCG Test: Sanjay Manjrekar IND vs AUS: Sanjay Manjrekar was of the opinion that India should send back KL Rahul at the top of the order with Rohit Sharma at No.3 for the final day of the Boxing Day Test. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-kl-rahul-rohit-sharma-sanjay-manjrekar-mcg-test-opening-2656936-2024-12-29",
         "category": "sports",
@@ -5571,22 +5877,13 @@
         "negative": 1.8
     },
     {
-        "headlines": "Who is Ahilya Chandel? Japan fast bowler joins DC for WPL 2025WPL 2025: Japan's fast bowler Ahilya Chandel is currently a net bowler for the Delhi Capitals in the Women's Premier League. The left-arm seamer has 30 wickets and a double hat-trick to her name in WT20Is. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-wpl-2025-ahilya-chandel-japan-delhi-capitals-net-bowler-2678314-2025-02-11",
-        "category": "sports",
-        "date_time": "2025-02-11T17:39:00",
-        "uuid": "16604868-ee65-4fa4-9cf6-6ec6e9683790",
-        "positive": 11.5,
-        "negative": 0.5
-    },
-    {
-        "headlines": "Zaheer Khan warns Gautam Gambhir: Creating insecurity will hurt youFormer India fast bowler Zaheer Khan has warned Gautam Gambhir against creating insecurity in the Indian cricket team. Speaking ahead of the Champions Trophy, Zaheer said that Gambhir needs to have a strong communication base with his players.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-gautam-gambhir-creating-insecurity-india-squad-champions-trophy-2678313-2025-02-11",
-        "category": "sports",
-        "date_time": "2025-02-11T17:38:00",
-        "uuid": "4c3d1c03-6f24-47da-8230-5dc793049b76",
-        "positive": 9.7,
-        "negative": 6.4
+        "headlines": "Rohit Shetty confirms Simmba, Sooryavanshi sequelsFilmmaker Rohit Shetty recently confirmed that both Ranveer Singh's 'Simmba' and Akshay Kumar's 'Sooryavanshi' will have sequels. \r\n",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/rohit-shetty-confirms-ranveer-singh-simmba-akshay-kumar-sooryavanshi-sequels-2713795-2025-04-24",
+        "category": "bollywood",
+        "date_time": "2025-04-24T09:33:00",
+        "uuid": "3d174f5c-d80d-4677-9cf4-0ecb12296f90",
+        "positive": 7.1,
+        "negative": 0.8
     },
     {
         "headlines": "KL Rahul Pro Max: Flexible and fearless, DC star lets bat do the talkingKL Rahul has brought out his new avatar in the ongoing Indian Premier League 2025 (IPL 2025), which is unfazed, confident and has full faith in his abilities. He's ready to script the most glorious chapter of his IPL career and is set to become even more dangerous as Delhi Capitals march ahead in the competition.",
@@ -5715,6 +6012,24 @@
         "negative": 1.5
     },
     {
+        "headlines": "After Dorgu signing reports, Luke Shaw returns to training for Manchester UnitedAfter reports of Patrick Dorgu signing with Manchester United emerged, Luke Shaw returned to first-team training for the Red Devils on January 29. Shaw has been out of action since December. ",
+        "article_url": "https://www.indiatoday.in/sports/football/story/premier-league-after-patrick-dorgu-signing-reports-luke-shaw-returns-to-training-for-manchester-united-2671968-2025-01-29",
+        "category": "sports",
+        "date_time": "2025-01-29T17:49:00",
+        "uuid": "d9e52100-9335-44b4-81f9-edfc828c1e36",
+        "positive": 9.8,
+        "negative": 2.1
+    },
+    {
+        "headlines": "WPL 2025: Priya Mishra, Gardner guide Gujarat to 1st win of season vs UP WarriorzGujarat Giants registered their first win of the season as they beat UP Warriorz in the third match of the Women's Premier League 2025. Ashleigh Gardner was once again top scorer for Gujarat.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-priya-mishra-ashleigh-gardner-gujarat-giants-vs-up-warriorz-2680989-2025-02-16",
+        "category": "sports",
+        "date_time": "2025-02-16T23:15:00",
+        "uuid": "f7cdb94b-bd54-4026-afef-8d5e9c84de23",
+        "positive": 7.3,
+        "negative": 5.2
+    },
+    {
         "headlines": "Virat Kohli was a spirited teen: Preity Zinta recalls IPL chat with RCB starIPL 2025: While responding to questions from fans on social media, Bollywood star Preity Zinta recalled a chat with Virat Kohli after Punjab Kings' home game in Mullanpur against Royal Challengers Bengaluru. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-preity-zinta-on-virat-kohli-mullanpur-chat-mobile-phone-2716312-2025-04-28",
         "category": "sports",
@@ -5796,15 +6111,6 @@
         "negative": 8.7
     },
     {
-        "headlines": "Watch: Virat Kohli spots close relative amongst fans at airport, gives warm hugStar India batter Virat Kohli spotted a close relative at the airport while travelling for the third ODI against England. The India star immediately walked over and gave a warm hug to the person.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-virat-kohli-spots-close-relative-amongst-fans-at-airport-gives-warm-hug-2678280-2025-02-11",
-        "category": "sports",
-        "date_time": "2025-02-11T16:57:00",
-        "uuid": "e67e62cd-f3ee-4b49-8458-e156807a9408",
-        "positive": 6.7,
-        "negative": 2.8
-    },
-    {
         "headlines": "The reality of trio friendships: Can they last forever?It can get difficult to maintain a trio friendship. But is it impossible to do so? Certainly not.",
         "article_url": "https://www.indiatoday.in/lifestyle/society/story/reality-of-trio-friendships-can-they-last-forever-2694986-2025-03-18",
         "category": "lifestyle",
@@ -5820,15 +6126,6 @@
         "date_time": "2025-03-05T18:17:00",
         "uuid": "26e4f709-9d9f-4928-a73f-daaed906f046",
         "positive": 6.3,
-        "negative": 3
-    },
-    {
-        "headlines": "Saurashtra batter Sheldon Jackson retires from professional cricket  Sheldon Jackson retired from professional cricket after Saurashtra lost to Gujarat in the Ranji Trophy in the quarterfinal. Jackson scored 7283 runs from 106 matches in first-class cricket since making his debut in 2011. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ranji-trophy-sheldon-jackson-retires-saurashtra-2678278-2025-02-11",
-        "category": "sports",
-        "date_time": "2025-02-11T16:50:00",
-        "uuid": "44a6a28b-56a4-4c84-9628-d9db71f236cb",
-        "positive": 7.2,
         "negative": 3
     },
     {
@@ -6156,6 +6453,24 @@
         "negative": 2
     },
     {
+        "headlines": "James Maddison earns Tottenham 1-0 victory over Manchester UnitedTottenham Hotspur midfielder James Maddison starred with an early goal against Manchester United which helped his team register a 1-0 victory in the Premier League on Sunday, February 16.",
+        "article_url": "https://www.indiatoday.in/sports/story/football-james-maddison-tottenham-vs-manchester-united-premier-league-2681006-2025-02-17",
+        "category": "sports",
+        "date_time": "2025-02-17T00:15:00",
+        "uuid": "ab6535a0-c5c1-4691-83cf-5996f33a8509",
+        "positive": 12.4,
+        "negative": 8.2
+    },
+    {
+        "headlines": "RCB didn't want to pressurise Virat Kohli by making him captain: ManjrekarIPL 2025: Sanjay Manjrekar said that Virat Kohli would be at his very best after RCB didn't put pressure on him with the responsibility of captaincy for the upcoming edition of the tournament. \r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-rcb-virat-kohli-sanjay-manjrekar-captain-2681035-2025-02-17",
+        "category": "sports",
+        "date_time": "2025-02-17T08:03:00",
+        "uuid": "de73f289-2bc4-48c5-b982-7369ff6c5f9c",
+        "positive": 11.4,
+        "negative": 3.4
+    },
+    {
         "headlines": "PBKS pacer Lockie Ferguson all but ruled out of IPL 2025: James HopesPBKS coach James Hopes has confirmed that Lockie Ferguson is out indefinitely for the season and is a doubt to make a return this campaign. Ferguson suffered the injury during the game against SRH. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-pbks-vs-kkr-lockie-ferguson-injury-james-hopes-2708943-2025-04-14",
         "category": "sports",
@@ -6244,6 +6559,15 @@
         "uuid": "b5389082-d3d2-4308-8b2f-941a909fbbbe",
         "positive": 12.2,
         "negative": 3.7
+    },
+    {
+        "headlines": "Shardul Thakur signs for Essex, to play County Championship after IPL 2025 snubAll-rounder Shardul Thakur will make his County Championship debut for Essex. The Mumbai star will play the premier first-class tournament in England after having lost out on an IPL contract. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/shardul-thakur-county-championship-essex-contract-ipl-snub-2681912-2025-02-18",
+        "category": "sports",
+        "date_time": "2025-02-18T18:48:00",
+        "uuid": "2f6844e9-1686-4751-b38f-5dcc27994c7b",
+        "positive": 16.5,
+        "negative": 1.9
     },
     {
         "headlines": "Sanju Samson fined for RR's slow over rate, joins penalised captains listSanju Samson was hit with a Rs 24 lakh fine for a slow over rate against Gujarat Titans, adding to Rajasthan Royals' early-season troubles as the team finds itself mid-table after a shaky 2-3 start in IPL 2025.",
@@ -6642,15 +6966,6 @@
         "negative": 9.2
     },
     {
-        "headlines": "Jannik Sinner doping ban: Daniil Medvedev hopes everyone can negotiate dealDaniil Medvedev is hoping that Jannik Sinner's deal with the World Anti-Doping Agency will set a precedent going forward. Medvedev hopes that other players will be given the chance to negotiate similar deals. ",
-        "article_url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-doping-ban-daniil-medvedev-wada-2680847-2025-02-16",
-        "category": "sports",
-        "date_time": "2025-02-16T15:36:00",
-        "uuid": "47004e9c-f925-4d77-b7b4-18c971c7a104",
-        "positive": 9.1,
-        "negative": 5.1
-    },
-    {
         "headlines": "ICC Cricket Committee looking to give leeway to bowlers on wides: Shaun PollockSouth African cricket legend Shaun Pollock has revealed that the ICC Cricket Committee is deliberating on revising the wide-ball rule to offer bowlers more flexibility.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/icc-cricket-committee-looking-to-give-leeway-to-bowlers-on-wides-shaun-pollock-2663236-2025-01-11",
         "category": "sports",
@@ -6667,15 +6982,6 @@
         "uuid": "42b0c1b3-29d1-4585-81b5-a67818546ae5",
         "positive": 11.1,
         "negative": 2.7
-    },
-    {
-        "headlines": "IPL 2025 schedule: KKR vs RCB in opener on March 22, final in Kolkata on May 25IPL 2025: The BCCI announced the full schedule for the new season. KKR will take on RCB in the opening match on March 22 while the final will be in Kolkata on May 25. A total of 13 venues to host 74 matches in the 2025 season. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-full-schedule-kkr-vs-rcb-opener-final-may-25-2680913-2025-02-16",
-        "category": "sports",
-        "date_time": "2025-02-16T17:52:00",
-        "uuid": "f3b4eb05-e66e-41f4-803f-2ec2c73eb61a",
-        "positive": 12.6,
-        "negative": 0
     },
     {
         "headlines": "Out of form SRH still a very dangerous side: Nehal WadheraPunjab Kings play SRH in the evening game on Saturday, April 12. Ahead of the match, Nehal Wadhera has said that they are wary of SunRisers Hyderabad despite them being woefully out of form in IPL 2025.\r\n",
@@ -6955,24 +7261,6 @@
         "uuid": "866042a3-fc66-492b-9059-1cc545c589bf",
         "positive": 14.4,
         "negative": 3.7
-    },
-    {
-        "headlines": "Champions Trophy: First glimpse of India's jersey out, features 'Pakistan' imprintThe Indian cricket team unveiled their new jersey for the ICC Champions Trophy 2025 which interestingly has the hosts' Pakistan name printed on it.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-first-glimpse-of-indias-jersey-out-features-pakistan-name-2681449-2025-02-17",
-        "category": "sports",
-        "date_time": "2025-02-17T23:27:00",
-        "uuid": "3ad97658-4717-43ab-b1af-16fedcec5f5a",
-        "positive": 10.8,
-        "negative": 0
-    },
-    {
-        "headlines": "Captain, star batter, and now coach: Smriti Mandhana juggles roles in WPL 2025Royal Challengers Bengaluru women opener Danielle Wyatt Hodge credited her captain Smriti Mandhana for coaching her during their match winning century partnership against Delhi Capitals (DC-W) in Women's Premier League. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-smriti-mandhana-danni-wyatt-hodge-wpl-2025-rcb-w-vs-dc-w-2681497-2025-02-17",
-        "category": "sports",
-        "date_time": "2025-02-17T23:53:00",
-        "uuid": "76fe5aeb-e4ce-42e5-a48b-8879353c1fce",
-        "positive": 17.5,
-        "negative": 0.4
     },
     {
         "headlines": "SRH vs LSG pitch, weather report: Hot temperatures, big scores expected?Hyderabad (SRH) vs Lucknow (LSG) Match Pitch Report, Weather forecast: SRH will welcome LSG to the high-scoring Rajiv Gandhi International stadium on Thursday, March 27. Will we see another big-scoring thriller in the IPL 2025 season?",
@@ -7335,15 +7623,6 @@
         "negative": 2.2
     },
     {
-        "headlines": "US stock market crash: Why Sensex, Nifty aren't feeling the heatThe S&P BSE Sensex was down less than 170 points at around 11:35 am, while the NSE Nifty50 fluctuated between gains and losses. The 50-share index was down barely 20 points but showed no signs of panic. Broader market indices also stayed flat as volatility spiked.",
-        "article_url": "https://www.indiatoday.in/business/story/us-stock-market-crash-bloodbath-on-wall-street-no-major-impact-sensex-and-nifty-2691987-2025-03-11",
-        "category": "business",
-        "date_time": "2025-03-11T12:15:00",
-        "uuid": "c34bc460-b54e-4660-8696-9fc1b1f79478",
-        "positive": 9.1,
-        "negative": 8.8
-    },
-    {
         "headlines": "Keep it simple: Axar Patel on Delhi Capitals' mantra before clash vs LSGIPL 2025: Axar Patel said that Delhi Capitals would look to keep things simple when they face Rishabh Pant's Lucknow Super Giants (LSG) on Monday in Visakhapatnam. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-axar-patel-delhi-capitals-lsg-mantra-2698061-2025-03-24",
         "category": "sports",
@@ -7423,6 +7702,24 @@
         "uuid": "aad96fee-59e9-4538-8d5f-12d4fdd5872d",
         "positive": 6.3,
         "negative": 2.5
+    },
+    {
+        "headlines": "Can Pakistan qualify for semi-final after loss vs New Zealand?Champions Trophy 2025: After losing to New Zealand by 60 runs on Wednesday, Pakistan are in a must-win position for their remainder of their group games to qualify for the semi-final. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-pakistan-new-zealand-semi-final-scenario-2682581-2025-02-20",
+        "category": "sports",
+        "date_time": "2025-02-20T07:45:00",
+        "uuid": "fc76775d-27e5-4ecf-9cdf-3828cda19935",
+        "positive": 6.2,
+        "negative": 4.9
+    },
+    {
+        "headlines": "Shubman Gill: Vice-captain only when fielding, just a batter when battingShubman Gill has said that he doesn't carry his vice-captaincy role while batting as he wants to think like a batter at that moment. Gill said he takes on the vice-captaincy role seriously while India is fielding. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-pakistan-shubman-gill-vice-captaincy-role-dubai-2683979-2025-02-22",
+        "category": "sports",
+        "date_time": "2025-02-22T17:25:00",
+        "uuid": "0992ee80-26d2-445c-880d-1fddb11cd83d",
+        "positive": 8.8,
+        "negative": 1.6
     },
     {
         "headlines": "Skip hotels, Indians are now swapping homes for travelTrue to its name, HomeExchange allows you to exchange your home or living space with someone else.",
@@ -7713,15 +8010,6 @@
         "negative": 0.2
     },
     {
-        "headlines": "UPI and RuPay merchant charges may return: What it means for youThe government is planning to introduce a tiered pricing system, where bigger businesses pay higher charges while small businesses pay reduced charges.",
-        "article_url": "https://www.indiatoday.in/business/story/merchant-fees-on-upi-and-rupay-transactions-may-return-what-it-means-for-you-2692050-2025-03-11",
-        "category": "business",
-        "date_time": "2025-03-11T14:05:00",
-        "uuid": "3dbf560e-f760-440a-9fb2-40af166d127e",
-        "positive": 5.7,
-        "negative": 7.7
-    },
-    {
         "headlines": "Tata plant begins iPhone production in India as Apple pivots from tariff-hit ChinaThe new Tata facility in Hosur, southern India, has begun rolling out older iPhone models on a single production line. Meanwhile, Foxconn's upcoming $2.6 billion factory in Karnataka's capital is expected to start trial production of the iPhone 16 series shortly, sources told the news agency.",
         "article_url": "https://www.indiatoday.in/business/story/tata-plant-starts-iphone-production-in-india-as-apple-races-to-dodge-china-tariffs-2717018-2025-04-29",
         "category": "business",
@@ -7857,15 +8145,6 @@
         "negative": 9.5
     },
     {
-        "headlines": "Looking for fixed deposit with up to 9% interest? Check these small finance banksUnity Small Finance Bank offers 9% per annum for a 1001-day fixed deposit and 7.85% per annum for a one-year fixed deposit.",
-        "article_url": "https://www.indiatoday.in/business/story/looking-for-fixed-deposit-with-up-to-9-percent-interest-rate-check-these-small-finance-banks-2692166-2025-03-11",
-        "category": "business",
-        "date_time": "2025-03-11T17:28:00",
-        "uuid": "147ab909-a7a3-4a5d-aa99-4b078d94816d",
-        "positive": 7.5,
-        "negative": 2.1
-    },
-    {
         "headlines": "Dravid has been my idol, happy to have worn his jersey No.19: Niki PrasadU19 Women's T20 World Cup 2025: Indian U19 skipper Niki Prasad opened up on her admiration for Rahul Dravid and how his batting has inspired her since childhood. Under Niki, India have won both their matches and are placed on top of Group A. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-t20-world-cup-2025-rahul-dravid-niki-prasad-idol-jersey-2668367-2025-01-22",
         "category": "sports",
@@ -7909,6 +8188,24 @@
         "uuid": "d9ca5ece-adc0-4c1e-9174-d29d709e67f4",
         "positive": 12,
         "negative": 1.2
+    },
+    {
+        "headlines": "Watch: Wasim Akram's hilarious take on Babar Azam's slow knock vs New ZealandChampions Trophy 2025: Wasim Akram came up with a hilarious analogy to describe Babar Azam's 90-ball 64, which cost Pakistan their opening match against New Zealand in Karachi. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-pakistan-vs-new-zealand-babar-azam-wasim-akram-joke-2682944-2025-02-20",
+        "category": "sports",
+        "date_time": "2025-02-20T17:23:00",
+        "uuid": "483d0c7d-e205-4646-b43b-db354ca358bc",
+        "positive": 8.7,
+        "negative": 14
+    },
+    {
+        "headlines": "Hashmatullah Shahidi sends warning to South Africa: We beat them 2-1 in SharjahAfghanistan captain Hashmatullah Shahidi has sent a warning to South Africa ahead of their first game in the ICC Champions Trophy 2025 on February 21.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-hashmatullah-shahidi-sends-warning-to-south-africa-afg-vs-sa-2683012-2025-02-20",
+        "category": "sports",
+        "date_time": "2025-02-20T18:51:00",
+        "uuid": "bb0cd00a-0de9-4643-b3d1-dc42a93e7141",
+        "positive": 13.5,
+        "negative": 4.5
     },
     {
         "headlines": "Priyansh Arya reveals sole regret from heroic hundred vs CSKPriyansh Arya hit a terrific hundred vs CSK in the IPL 2025. After the dust settled on the PBKS vs CSK game, Priyansh spoke about his only regret from the game.",
@@ -8109,15 +8406,6 @@
         "negative": 0.7
     },
     {
-        "headlines": "Why did Elon Musk's wealth shrink by $29 billion in a single day? Tesla's struggles have had a major impact on Musk's financial losses. In the past two months, Tesla's stock has fallen by 35%,wiping out $400 billion in market value.",
-        "article_url": "https://www.indiatoday.in/business/story/why-did-elon-musks-wealth-shrink-by-29-billion-in-a-single-day-2692127-2025-03-11",
-        "category": "business",
-        "date_time": "2025-03-11T16:47:00",
-        "uuid": "4f889951-5dab-4f2f-8c81-b7ad44487f4b",
-        "positive": 5.9,
-        "negative": 9.4
-    },
-    {
         "headlines": "PSL bans Corbin Bosch for one-year after last moment withdrawal to play IPLCorbin Bosch has been handed a one-year ban by the PCB and PSL after pulling out of the league, marking a strict move to discourage players from backing out after being drafted. Bosch was roped in by Mumbai Indians as in injury replacement for IPL 2025.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-pakistan-super-league-cobrin-bosch-one-year-ban-2707346-2025-04-11",
         "category": "sports",
@@ -8163,6 +8451,87 @@
         "negative": 4.7
     },
     {
+        "headlines": "Shubman Gill repays Rohit Sharma's faith, hits another ton as vice captainStar India batter Shubman Gill scored a magnificent hundred to script a six-wicket win for India in their first game of the ICC Champions Trophy 2025 in Dubai. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-shubman-gill-scores-century-vs-bangladesh-ind-vs-ban-2683129-2025-02-20",
+        "category": "sports",
+        "date_time": "2025-02-20T22:55:00",
+        "uuid": "8c7f18cf-6350-4e6a-b8c5-44f874e9aceb",
+        "positive": 11.3,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Rohit Sharma plans to take Axar Patel out for 'dinner' after drop catch on hat-trickChampions Trophy: Rohit Sharma said that he plans to take Axar Patel out for dinner after dropping a catch off his bowling during India's match against Bangladesh at the Dubai International Cricket Stadium. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-rohit-sharma-axar-patel-catch-2683123-2025-02-20",
+        "category": "sports",
+        "date_time": "2025-02-20T22:55:00",
+        "uuid": "7381e2e9-563c-46cf-bed5-7ea971141a33",
+        "positive": 10.3,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Gritty Gill, sensational Shami help India overcome tricky Bangladesh test in DubaiIndia begin their Champions Trophy 2025 campaign with a win over tricky Bangladesh. Shubman Gill's gritty century and Mohammed Shami's terrific 5-wicket haul were the highlight of India's win on Thursday.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-shubman-gill-mohammed-shami-highlights-2683111-2025-02-20",
+        "category": "sports",
+        "date_time": "2025-02-20T23:05:00",
+        "uuid": "557903e9-e166-4630-b78c-e117ddc10dbe",
+        "positive": 11.4,
+        "negative": 7.1
+    },
+    {
+        "headlines": "Axar Patel recalls emotions prior to Rohit's catch drop: Almost began celebratingIndia all-rounder Axar Patel opened up on the roller coaster of emotions which went inside his head just before Rohit Sharma dropped Bangladesh's Jaker Ali's catch which denied him a hat-trick during the Champions Trophy 2025 match.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-axar-patel-reacts-to-rohit-sharmas-catch-drop-india-vs-bangladesh-2683104-2025-02-20",
+        "category": "sports",
+        "date_time": "2025-02-20T21:48:00",
+        "uuid": "a11551d5-176f-49a0-bcfb-58da7c84c9ad",
+        "positive": 9.8,
+        "negative": 2.4
+    },
+    {
+        "headlines": "Alcaraz crashes out of Qatar Open after shock defeat in quarter-finalCarlos Alcaraz suffered a shock Qatar Open exit after losing to Jiri Lehecka in the quarter-finals. The Czech player secured the biggest win of his career, shaking up the tournament with another major upset following Djokovic's early elimination.",
+        "article_url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-knocked-out-qatar-open-jiri-lehecka-2683281-2025-02-21",
+        "category": "sports",
+        "date_time": "2025-02-21T11:28:00",
+        "uuid": "f8657f9e-1c65-4c99-9241-6e8fc649b89b",
+        "positive": 9.1,
+        "negative": 16.9
+    },
+    {
+        "headlines": "Shami: The Jai of Indian cricket's Sholay, overshadowed by Gabbar BumrahTime travel to the 90s and the 2000s when Javagal Srinath and Zaheer Khan shared the burden of Indian pace bowling with trundlers like Manoj Prabhakar. Had Mohammed Shami been part of any of these teams, he would have been a legend, a superstar whose face could have launched a million brands.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-mohammed-shami-jai-sholay-gabbar-jasprit-bumrah-india-2683274-2025-02-21",
+        "category": "sports",
+        "date_time": "2025-02-21T11:14:00",
+        "uuid": "a73652fb-458b-4236-b556-23721b4440df",
+        "positive": 13.5,
+        "negative": 7.4
+    },
+    {
+        "headlines": "8 hours a day at NCA: Mohammed Shami's relentless grind for Champions Trophy gloryMohammed Shami stamped his authority with the ball in India's Champions Trophy opener against Bangladesh. Shami picked up 5 wickets and overtook Zaheer Khan as India's most successful bowler in the ICC white-ball tournaments.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-mohammed-shami-comeback-india-vs-bangladesh-dubai-2683246-2025-02-21",
+        "category": "sports",
+        "date_time": "2025-02-21T10:24:00",
+        "uuid": "e4dcb8bf-877c-4272-90cd-a2802906ecf7",
+        "positive": 11.8,
+        "negative": 3.3
+    },
+    {
+        "headlines": "Carlsen recalls Niemann cheating controversy on Joe Rogan podcastMagnus Carlsen has finally addressed the 2022 cheating scandal involving Hans Niemann, revealing how Niemann's gameplay raised suspicions. He also acknowledged that while most have moved on, trust issues still persist in the chess community.",
+        "article_url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-hans-niemann-cheating-joe-rogan-podcast-2683314-2025-02-21",
+        "category": "sports",
+        "date_time": "2025-02-21T12:18:00",
+        "uuid": "bdad4b23-beac-4088-a5cc-f9bc15317b09",
+        "positive": 9,
+        "negative": 14.9
+    },
+    {
+        "headlines": "After missing Champions Trophy, Pat Cummins targets IPL 2025 returnAustralian skipper Pat Cummins is eyeing a return in IPL 2025 after missing the Champions Trophy due to injury. While recovering, he's balancing family time and rehabilitation, ensuring full fitness for upcoming cricketing commitments, including the World Test Championship.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-pat-cummins-injury-return-date-ipl-2025-target-2683386-2025-02-21",
+        "category": "sports",
+        "date_time": "2025-02-21T13:49:00",
+        "uuid": "266ed080-ae6f-4b37-af1a-0541f9dd470a",
+        "positive": 17.1,
+        "negative": 4
+    },
+    {
         "headlines": "Amorim unleashed rage on Manchester United players, shattered TV: ReportsRuben Amorim's fiery outburst following Manchester United's 3-1 loss to Brighton left players reeling and raised concerns over squad attitude.",
         "article_url": "https://www.indiatoday.in/sports/football/story/ruben-amorim-rage-manchester-united-players-shattered-dressing-room-tv-brighton-defeat-2668462-2025-01-22",
         "category": "sports",
@@ -8170,15 +8539,6 @@
         "uuid": "e968091b-98f9-42e8-9e41-2e346e5935d5",
         "positive": 7.5,
         "negative": 11.1
-    },
-    {
-        "headlines": "Airtel signs deal with Elon Musk's SpaceX to bring Starlink internet to IndiaThe deal depends on SpaceX getting approval from authorities to sell Starlink services in India.",
-        "article_url": "https://www.indiatoday.in/business/story/airtel-signs-deal-with-elon-musk-spacex-starlink-internet-india-2692140-2025-03-11",
-        "category": "business",
-        "date_time": "2025-03-11T17:56:00",
-        "uuid": "1ba87f99-3a80-4844-a4bb-ac8a0af6fcf8",
-        "positive": 13.1,
-        "negative": 0.5
     },
     {
         "headlines": "Sinner sends special message to Zverev after Australian Open winJannik Sinner sent a special message to Alexander Zverev after beating the German to win his second Australian Open title on the bounce on Sunday, January 26. Sinner defeated Zverev in straight sets to win the match. ",
@@ -8404,15 +8764,6 @@
         "uuid": "4b64b591-6b2c-4baa-806a-44e3dfce85b8",
         "positive": 8.2,
         "negative": 2.4
-    },
-    {
-        "headlines": "Sensex ends marginally lower, Nifty in green; IndusInd Bank crashes 27%The S&P BSE Sensex lost 12.85 points to end at 74,102.32, while the NSE Nifty50 gained 37.60 points to close at 22,497.90. ",
-        "article_url": "https://www.indiatoday.in/business/story/sensex-ends-marginally-lower-nifty-in-green-indusind-bank-crashes-27-percent-2692102-2025-03-11",
-        "category": "business",
-        "date_time": "2025-03-11T16:00:00",
-        "uuid": "26f7fab2-7245-4018-b1b2-aa334013b4df",
-        "positive": 11.4,
-        "negative": 9.1
     },
     {
         "headlines": "40,000 km around the globe: Sufiya Sufi's goal to make India proudIn an exclusive interaction with Indiatoday.in, runner Sufiya Sufi opens up on her ultimate challenge in the sport and how she wants to make India proud on the global stage. Sufiya has been a trailblazer in the sport of running. ",
@@ -8647,356 +8998,5 @@
         "uuid": "0a95495a-d164-46a3-a88c-8ed644ec8dae",
         "positive": 21.5,
         "negative": 1.9
-    },
-    {
-        "headlines": "Ruben Amorim eyeing Europa League title for United after last 16 spotManchester United coach Ruben Amorim has set his sights on winning the UEFA Europa League, emphasising a game-by-game approach after his side's dominant 2-0 victory over FCSB secured their place in the Round of 16.",
-        "article_url": "https://www.indiatoday.in/sports/story/ruben-amorim-manchester-united-aim-europa-league-title-last-16-spot-fcsb-2672748-2025-01-31",
-        "category": "sports",
-        "date_time": "2025-01-31T11:50:00",
-        "uuid": "cbf0553b-9518-4902-8fe9-1967ad83d855",
-        "positive": 18.4,
-        "negative": 2.8
-    },
-    {
-        "headlines": "Arshdeep's return, batting-order in focus as India aim series win in PuneEngland remained alive in the 5-match T20I series against India by winning the 3rd game by 26 runs in Rajkot. As the action moves to Pune, the focus remains on India's batting line-up.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-4th-t20i-pune-match-preview-arshdeep-singh-rinku-singh-indias-batting-order-2672691-2025-01-31",
-        "category": "sports",
-        "date_time": "2025-01-31T08:31:00",
-        "uuid": "32a7c9b4-6b5a-4e4a-80a8-9cd1d4a90d31",
-        "positive": 11.3,
-        "negative": 7.1
-    },
-    {
-        "headlines": "Ed Sheeran catches up with England Cricket Team on opening night of India tourBritish singer Ed Sheeran organised a special meet-up with the England Cricket Team on the opening night of his India tour in Pune. England skipper Jos Buttler gifted his England jersey to the pop star.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ed-sheeran-catches-up-with-england-cricket-team-on-opening-night-of-his-india-tour-2672681-2025-01-31",
-        "category": "sports",
-        "date_time": "2025-01-31T08:10:00",
-        "uuid": "c1a481ee-cb94-462d-a5a5-3c78fe10dd1d",
-        "positive": 7.3,
-        "negative": 1.3
-    },
-    {
-        "headlines": "4th T20I Predicted 11: Will Rinku Singh, Arshdeep Singh return in Pune?India vs England, 4th T20I Predicted XI: India might make two changes in their playing XI for the fourth T20I against England in Pune after losing the 3rd match in Rajkot on Tuesday.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-4th-t20i-pune-predicted-11-rinku-singh-arshdeep-singh-return-in-pune-2672674-2025-01-31",
-        "category": "sports",
-        "date_time": "2025-01-31T07:22:00",
-        "uuid": "e2b51955-49f3-45cc-89d1-a4bdbe29d665",
-        "positive": 10,
-        "negative": 4.3
-    },
-    {
-        "headlines": "SRH vs PBKS, Match Preview: Struggling Hyderabad's test of fate against Project PunjabIPL 2025, SRH vs PBKS Match Preview: Sunrisers Hyderabad face a red-hot Punjab Kings side in a must-win encounter, with SRH battling form and confidence while PBKS continue their dominant run in IPL 2025 under the steady hands of Shreyas Iyer.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-vs-pbks-match-preview-precited-xi-weather-forecast-hyderabad-2707980-2025-04-12",
-        "category": "sports",
-        "date_time": "2025-04-12T14:03:00",
-        "uuid": "274693d5-572a-472c-b7b5-32a3d18d09d7",
-        "positive": 9.1,
-        "negative": 6.4
-    },
-    {
-        "headlines": "MI coach replaces Jon Lewis as England Women's head coachEngland Women have named Charlotte Edwards as their new head coach, replacing Jon Lewis, who resigned from his position after the Ashes in Australia where they lost 0-16. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/mumbai-indians-charlotte-edwards-head-coach-england-2702461-2025-04-01",
-        "category": "sports",
-        "date_time": "2025-04-01T19:33:00",
-        "uuid": "0a1096e3-dbe1-4550-aeec-767e76a1fca3",
-        "positive": 12.7,
-        "negative": 2.7
-    },
-    {
-        "headlines": "IPL 2025: GT's Jos Buttler enjoys Bengaluru auto-ride ahead of RCB clashJos Buttler enjoyed a Bengaluru auto-rickshaw ride ahead of Gujarat Titans' IPL 2025 clash against Royal Challengers Bangalore, offering fans a candid glimpse of his off-field moments before the high-voltage showdown at Chinnaswamy Stadium.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-jos-butter-autorickshaw-ride-bengaluru-rcb-vs-gt-2702457-2025-04-01",
-        "category": "sports",
-        "date_time": "2025-04-01T19:24:00",
-        "uuid": "446b7d31-0218-4dcc-870b-807f7acf8045",
-        "positive": 18.7,
-        "negative": 3
-    },
-    {
-        "headlines": "Notre Dame star Olivia Miles declines 2025 WNBA draft, enters transfer portalThe 2025 WNBA Draft has taken an unexpected turn as Notre Dame guard Olivia Miles has opted against turning pro.",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/notre-dame-star-olivia-miles-declines-2025-wnba-draft-enters-transfer-portal-glbs-2702444-2025-04-01",
-        "category": "sports",
-        "date_time": "2025-04-01T19:08:00",
-        "uuid": "08196e09-23b9-4087-89e1-89770ef85edc",
-        "positive": 9.4,
-        "negative": 6
-    },
-    {
-        "headlines": "Kai Trump makes bold March Madness predictions, picks Duke and UConn as championsKai Trump, the 17-year-old granddaughter of former U.S. President Donald Trump, has entered the March Madness discussion with her predictions for the men's and women's NCAA basketball tournaments.",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/kai-trump-makes-bold-march-madness-predictions-picks-duke-and-uconn-as-champions-glbs-2702440-2025-04-01",
-        "category": "sports",
-        "date_time": "2025-04-01T19:02:00",
-        "uuid": "3bc4537e-67ab-4e19-9e21-5f6fe62b2333",
-        "positive": 16.7,
-        "negative": 8.1
-    },
-    {
-        "headlines": "BCCI contracts: Shreyas Iyer set to return, Ishan Kishan likely to wait longerPunjab Kings captain Shreyas Iyer is set to regain his annual retainership contract after having lost it last year. Wicketkeeper-batter Ishan Kishan might have to wait longer to regain his contract despite having played a full season of domestic cricket. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/bcci-contract-list-updates-shreyas-iyer-ishan-kishan-rohit-sharma-virat-kohli-2702400-2025-04-01",
-        "category": "sports",
-        "date_time": "2025-04-01T18:07:00",
-        "uuid": "ecfb60fd-1672-4982-b5b7-c5444721d304",
-        "positive": 8.1,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Justice for Rovman Powell: Dwayne Bravo blasts West Indies board over captaincy changeDwayne Bravo slammed the West Indies cricket board for sacking Rovman Powell as the captain of the T20I side despite his impressive record as skipper. Powell was replaced by Shai Hope as the new T20I captain. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/rovman-powell-captaincy-sacking-dwayne-bravo-west-indies-cricket-board-2702361-2025-04-01",
-        "category": "sports",
-        "date_time": "2025-04-01T16:51:00",
-        "uuid": "ee66f819-33c1-4dad-8f58-b9be02bf53fe",
-        "positive": 13,
-        "negative": 6.2
-    },
-    {
-        "headlines": "JioCinema, Disney+ Hotstar merge to launch JioHotstar: What it means for youReliance Industries and Walt Disney's India business finalised their merger in November 2024, creating a joint venture with Viacom18 Media.",
-        "article_url": "https://www.indiatoday.in/business/story/jiocinema-disney-hotstar-merge-to-launch-jiohotstar-what-it-means-for-you-subscription-plans-ott-2679869-2025-02-14",
-        "category": "business",
-        "date_time": "2025-02-14T10:35:00",
-        "uuid": "adecbd22-e034-4af9-81e3-55ec17711564",
-        "positive": 14.3,
-        "negative": 0.2
-    },
-    {
-        "headlines": "Chakaravarthy becomes 3rd Indian bowler to take multiple T20I 5-wicket haulsVarun Chakaravarthy joined Kuldeep Yadav and Bhuvneshwar Kumar in an elite list as he picked up his 2nd 5-wicket haul in Rajkot on Tuesday, January 28. Varun ended with figures of 24 for 5 in his 4 overs. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-3rd-t20i-varun-chakaravarthy-five-wicket-haul-rajkot-2671557-2025-01-28",
-        "category": "sports",
-        "date_time": "2025-01-28T20:35:00",
-        "uuid": "da5e897d-4351-46bf-9c3d-0e511447cd97",
-        "positive": 2.1,
-        "negative": 3.5
-    },
-    {
-        "headlines": "NFL Draft 2025: Date, time, rankings, predictions and all you need to knowThe 2025 NFL Draft will open the opportunity for teams to select top young talent for the upcoming season. The event is scheduled for Thursday, April 24 at Lambeau Field in Green Bay, Wisconsin. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/nfl-draft-2025-date-time-rankings-predictions-and-all-you-need-to-know-glbs-2712353-2025-04-21",
-        "category": "sports",
-        "date_time": "2025-04-21T19:38:00",
-        "uuid": "f5736382-605a-4b9e-9ffb-91861bfa167a",
-        "positive": 4.4,
-        "negative": 0
-    },
-    {
-        "headlines": "Getting married soon? Gill's awkward reaction to Danny Morrison's questionIPL 2025, KKR vs GT: Shubman Gill became awkward after being asked about a personal question from Danny Morrison before the clash on Monday, April 21 at the Eden Gardens in Kolkata. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kkr-vs-gt-shubman-gill-danny-morrison-2712352-2025-04-21",
-        "category": "sports",
-        "date_time": "2025-04-21T19:49:00",
-        "uuid": "b139bcfe-a1b2-4a94-9e61-fd29441117ce",
-        "positive": 10.4,
-        "negative": 3.5
-    },
-    {
-        "headlines": "KKR vs GT: Kolkata make two key changes after humiliating PBKS lossKolkata Knight Riders have decided to ring in the changes for Gujarat Titans clash after their embarrassing loss to Punjab Kings. KKR decided to axe Quinton de Kock and Anrich Nortje from the team. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kkr-vs-gt-rahmanullah-gurbaz-moeen-ali-eden-gardens-2712350-2025-04-21",
-        "category": "sports",
-        "date_time": "2025-04-21T19:25:00",
-        "uuid": "9a171c0c-d8a6-404b-a88b-5ddcb99a5ef1",
-        "positive": 10,
-        "negative": 3.2
-    },
-    {
-        "headlines": "Sachin Yadav beats Kishore Jena to win Federation Cup 2025Sachin Yadav beat Asian Games silver medallist Kishore Kumar Jena to win the Federation Cup on Monday. April, 21. Yashvir Singh and Sahil Silwal finished in the podium places alongside Yadav.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/athletics/story/sachin-yadav-federation-cup-winner-neeraj-chopra-2712349-2025-04-21",
-        "category": "sports",
-        "date_time": "2025-04-21T19:39:00",
-        "uuid": "a8deb89b-e164-4204-a685-42b9267b7745",
-        "positive": 14.7,
-        "negative": 2.2
-    },
-    {
-        "headlines": "Explained: Why Senco Gold shares crashed 20% after Q3 results Senco Gold share price: In the third quarter, Senco Gold reported a nearly 70% drop in consolidated net profit to Rs 33 crore, compared to Rs 109 crore in the same period last year. ",
-        "article_url": "https://www.indiatoday.in/business/story/explained-why-senco-gold-share-price-crashed-20-percent-after-q3-results-2679889-2025-02-14",
-        "category": "business",
-        "date_time": "2025-02-14T11:15:00",
-        "uuid": "0ee1760a-f00b-4804-a817-127220e5b26b",
-        "positive": 9.2,
-        "negative": 3.8
-    },
-    {
-        "headlines": "Sensex, Nifty gain as US-India trade talks show positive signsThe S&P BSE Sensex was up 86.75 points to 76,225.72, while the NSE Nifty50 added 12.50 points to 23,043.90 as of 9:46 AM. ",
-        "article_url": "https://www.indiatoday.in/business/story/stock-market-opening-bell-sensex-nifty-gain-as-us-india-trade-talks-show-positive-signs-2679851-2025-02-14",
-        "category": "business",
-        "date_time": "2025-02-14T09:53:00",
-        "uuid": "4c779e9b-75fe-4071-b6db-979397ad1303",
-        "positive": 9.3,
-        "negative": 2
-    },
-    {
-        "headlines": "Sabalenka suffers shock defeat as Ostapenko wins Stuttgart OpenJelena Ostapenko defeated Jelena Ostapenko 6-4, 6-1 in the final and won the Stuttgart Open title. The Latvian also won her first clay-court title since the French Open in 2017. ",
-        "article_url": "https://www.indiatoday.in/sports/tennis/story/aryna-sabalenka-jelena-ostapenko-stuttgart-open-2712332-2025-04-21",
-        "category": "sports",
-        "date_time": "2025-04-21T18:51:00",
-        "uuid": "e98e1da8-dae6-4a1e-935b-b8c776da92a5",
-        "positive": 21.1,
-        "negative": 6.9
-    },
-    {
-        "headlines": "Djokovic motivates heartbroken Zverev after Australian Open finalAustralian Open 2025: Novak Djokovic motivated Alexander Zverev after the German star finished as the runners-up following his straight set defeat to World No.1 Jannik Sinner in the final. ",
-        "article_url": "https://www.indiatoday.in/sports/tennis/story/australian-open-novak-djokovic-alexander-zverev-keep-believing-final-2670474-2025-01-26",
-        "category": "sports",
-        "date_time": "2025-01-26T20:33:00",
-        "uuid": "a8342a07-bf33-408a-8cdd-44657ffa1e5f",
-        "positive": 23.2,
-        "negative": 11.3
-    },
-    {
-        "headlines": "Sudirman Cup 2025: Satwik-Chirag ruled out as India suffer big blow aheadIndia suffered a big blow ahead of the start of the Sudirman Cup 2025 as men's doubles pairing of Satwiksairaj Rankireddy and Chirag Shetty have been ruled out of the tournament due to sickness. ",
-        "article_url": "https://www.indiatoday.in/sports/badminton/story/sudirman-cup-2025-satwiksairaj-rankireddy-chirag-shetty-ruled-out-2712329-2025-04-21",
-        "category": "sports",
-        "date_time": "2025-04-21T18:48:00",
-        "uuid": "2aeffa78-d758-4561-af17-10511a786db1",
-        "positive": 4.5,
-        "negative": 3
-    },
-    {
-        "headlines": "Nita Ambani flaunts ethnic glam in traditional sarees at Trump's inauguration eventsMukesh and Nita Ambani attended Donald Trump's Inauguration Day ceremonies in Washington, where the latter proudly showcased her Indian heritage through her sartorial choices.\r\n",
-        "article_url": "https://www.indiatoday.in/lifestyle/fashion/story/nita-ambani-flaunts-ethnic-glam-in-traditional-sarees-at-trumps-inauguration-events-2668180-2025-01-22",
-        "category": "lifestyle",
-        "date_time": "2025-01-22T07:59:00",
-        "uuid": "a053280f-dded-4ff1-8e68-2fb7794c652e",
-        "positive": 14.2,
-        "negative": 0.2
-    },
-    {
-        "headlines": "2025 Boston Marathon: Start time, TV channels, weather and all you need to knowThe Boston Marathon is one of the world's most iconic races. The race is held annually on Patriots' Day in Massachusetts. This year marks the 129th iteration of the race. With the runners preparing to race from Hopkinton to Boylston Street.",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/2025-boston-marathon-start-time-tv-channels-weather-and-all-you-need-to-know-glbs-2712314-2025-04-21",
-        "category": "sports",
-        "date_time": "2025-04-21T19:15:00",
-        "uuid": "62a18c76-f75b-4d86-bf8d-5c3c83bf1372",
-        "positive": 8.6,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Mohammed Shami, Jaiswal in focus as India aim 'clean-win' in MumbaiIndia and England are set to play their final T20I of the series on Sunday. India will hope finish the series with a win after 'concussion controversy' in the 4th T20I took sheen out of their series win on Friday.",
-        "article_url": "https://www.indiatoday.in/sports/story/india-vs-england-mumbai-t20i-mohammed-shami-yashasvi-jaiswal-clean-win-preview-2673482-2025-02-02",
-        "category": "sports",
-        "date_time": "2025-02-02T07:55:00",
-        "uuid": "59a53e95-2045-4902-8c18-87a24bbf7125",
-        "positive": 11.8,
-        "negative": 3.9
-    },
-    {
-        "headlines": "You can buy onePlus 13 at a lower price in India, here is howIn comparison to the OnePlus 12, it is better to buy the new version because the OnePlus 13 is selling at a similar price with launch offers. Here are the details.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/you-can-buy-oneplus-13-at-a-lower-price-in-india-here-is-how-2668067-2025-01-21",
-        "category": "technology",
-        "date_time": "2025-01-21T17:45:00",
-        "uuid": "fe71c584-240b-4e50-bf4a-6584277505f5",
-        "positive": 16.4,
-        "negative": 1.3
-    },
-    {
-        "headlines": "D Gukesh on success, stability: Glad my parents don't have to worry about moneyWorld Champion D Gukesh dedicated his title win to his parents, saying that they don't have to think about money anymore. Gukesh's parents played a big role in shaping his career and his Championship win over Ding Liren. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-world-championship-win-parents-india-today-conclave-2690846-2025-03-08",
-        "category": "sports",
-        "date_time": "2025-03-08T16:08:00",
-        "uuid": "5fecddc2-dd59-465b-bdb1-cbdb9734e2d8",
-        "positive": 25.6,
-        "negative": 2.8
-    },
-    {
-        "headlines": "RCB drop Liam Livingstone, bring in Romario Shepherd for PBKS redemptionRomario Shepherd, known for his big-hitting lower down the order, finally got his RCB debut. Replacing an inconsistent Livingstone, Shepherd's role will be key in powering Bengaluru's hopes of bouncing back strongly against PBKS.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-pbks-vs-rcb-playing-xi-romario-shepherd-liam-livingstone-dropped-2711793-2025-04-20",
-        "category": "sports",
-        "date_time": "2025-04-20T15:45:00",
-        "uuid": "06d5ea8a-b39f-4914-863b-caa03a517ccb",
-        "positive": 6.9,
-        "negative": 6.3
-    },
-    {
-        "headlines": "JSW Energy share price gains 6%. Why are brokerages bullish on the stock? JSW Energy stock: Brokerages are bullish on the shares of JSW Energy after the company's wholly-owned subsidiary, JSW Neo Energy signed a major deal. ",
-        "article_url": "https://www.indiatoday.in/business/story/jsw-energy-share-price-gains-6-percent-why-are-brokerages-bullish-on-the-stock-reason-rise-2657120-2024-12-30",
-        "category": "business",
-        "date_time": "2024-12-30T09:54:00",
-        "uuid": "435a3ca3-e291-44e2-afb0-7387c69d0154",
-        "positive": 19.4,
-        "negative": 0.7
-    },
-    {
-        "headlines": "Sanju Samson will not travel to Bengaluru for RCB vs RRRajasthan Royals captain Sanju Samson will not be travelling to Bengaluru to play the team's next game against RCB. The Royals revealed the information on Monday, April 21 and explained that the batter was still recovering from his injury.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-sanju-samson-injury-rahul-dravid-controversy-2712302-2025-04-21",
-        "category": "sports",
-        "date_time": "2025-04-21T18:19:00",
-        "uuid": "c62000a2-b82f-4c18-a390-b6edc182e03b",
-        "positive": 6.6,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Novak Djokovic pulls out of Serbia's Davis Cup tie against DenmarkWorld No.6 Novak Djokovic has withdrawn from Serbia's Davis Cup first-round qualifying clash against Denmark due to injury, the Serbian Tennis Federation (TSS) said.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/tennis/story/injured-novak-djokovic-withdraws-serbia-squad-davis-cup-qualifiers-2671948-2025-01-29",
-        "category": "sports",
-        "date_time": "2025-01-29T17:03:00",
-        "uuid": "40a934fd-4451-4b59-807e-7f4f33b0c6fa",
-        "positive": 9.6,
-        "negative": 10.3
-    },
-    {
-        "headlines": "Tesla shares tumble almost 16% as US stock markets crashTesla shares plunged 15.4 per cent to USD 222.15 on Monday, their lowest since October, amid investor pessimism over slumping sales and Trump administration trade policy uncertainty. It was Tesla's steepest drop since September 2020.",
-        "article_url": "https://www.indiatoday.in/business/story/us-stock-market-crash-tesla-shares-tumble-almost-16-per-cent-2691858-2025-03-11",
-        "category": "business",
-        "date_time": "2025-03-11T07:43:00",
-        "uuid": "cde0da7c-60e4-4105-91cb-95694ab3788c",
-        "positive": 7.4,
-        "negative": 8.3
-    },
-    {
-        "headlines": "Trump tariffs, recession fears slam US markets, wiping out $4 trillion in valueDonald Trump's tariffs have rattled investors, wiping out USD 4 trillion from the S&P 500 as trade uncertainty with Canada, Mexico, and China grows.",
-        "article_url": "https://www.indiatoday.in/business/story/us-stock-market-loses-usd-4-trillion-in-value-as-donald-trump-continues-to-back-tariffs-2691854-2025-03-11",
-        "category": "business",
-        "date_time": "2025-03-11T07:28:00",
-        "uuid": "b4df37cb-7ad0-472a-9d9c-439b83b74770",
-        "positive": 9.2,
-        "negative": 9.3
-    },
-    {
-        "headlines": "Samsung confirms Galaxy S25 series launch date: All you need to know The Samsung Galaxy S25 series is all set to launch in India soon. The company has recently announced that the Galaxy Unpacked event will take place on January 22, 2025. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/samsung-confirms-galaxy-s25-series-launch-date-all-you-need-to-know-2660766-2025-01-07",
-        "category": "technology",
-        "date_time": "2025-01-07T10:09:00",
-        "uuid": "1ce0a48b-84d0-45d9-81ce-64d84e38881e",
-        "positive": 10.2,
-        "negative": 2.5
-    },
-    {
-        "headlines": "Stocks to watch today: Infosys, BEL, Ola Electric, Tata Motors and moreStocks to watch today: Infosys, Tata Motors, and Bharat Electronics are some of the stocks that are likely to be in focus today as domestic markets gear up for a mildly positive start.",
-        "article_url": "https://www.indiatoday.in/business/story/stocks-to-watch-on-march-13-infosys-bel-ola-electric-tata-motors-and-more-2692948-2025-03-13",
-        "category": "business",
-        "date_time": "2025-03-13T08:38:00",
-        "uuid": "ce7055b5-9cf5-49ee-8fc3-e0fecd40b97b",
-        "positive": 7.7,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Will Sensex, Nifty recover today? 3 things to know ahead of stock market openingStock market opening prediction today: Sensex and Nifty are likely to open higher after positive US and domestic retail inflation data. ",
-        "article_url": "https://www.indiatoday.in/business/story/sensex-nifty-opening-prediction-on-march-13-3-key-factors-to-watch-dalal-street-expectation-2692943-2025-03-13",
-        "category": "business",
-        "date_time": "2025-03-13T08:24:00",
-        "uuid": "51878a58-f91b-4550-91cf-6e6d35a044ba",
-        "positive": 11.6,
-        "negative": 9.9
-    },
-    {
-        "headlines": "Income tax deadline: Only 3 days left to pay last instalment of advance taxMaking timely payments is crucial when it comes to tax compliance to avoid penalties and interest. Also, meeting deadlines ensures last-minute stress and a smooth tax filing process. ",
-        "article_url": "https://www.indiatoday.in/business/story/income-tax-deadline-only-3-days-left-to-pay-last-instalment-of-advance-tax-march-15-2692712-2025-03-13",
-        "category": "business",
-        "date_time": "2025-03-13T07:00:00",
-        "uuid": "6091674c-236e-4492-8d55-ff5af51cb2e8",
-        "positive": 10,
-        "negative": 3.5
-    },
-    {
-        "headlines": "Esha Deol wants Dhoom to re-release: Kids still remember me for the filmActor Esha Deol recently said she wants Dhoom to be released again in cinemas. Apart from Deol, the film starred Abhishek Bachchan, Uday Chopra and John Abraham in the lead. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/esha-deol-wants-dhoom-to-re-release-2702424-2025-04-01",
-        "category": "bollywood",
-        "date_time": "2025-04-01T19:25:00",
-        "uuid": "fadb15ae-fa2b-4d24-b2db-3aa1597b1fe4",
-        "positive": 10.1,
-        "negative": 3.8
-    },
-    {
-        "headlines": "John Abraham's Diplomat screened in Israel as tribute to India-Israel relationsIn a gesture celebrating India-Israel relations, Israel has screened John Abraham's film The Diplomat. Directed by Shivam Nair, the film hit theatres on March 14. \r\n",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/john-abraham-the-diplomat-screened-in-israel-as-tribute-to-india-israel-relations-2702394-2025-04-01",
-        "category": "bollywood",
-        "date_time": "2025-04-01T18:20:00",
-        "uuid": "65df4cca-55f7-4787-a8b9-2a0a5beeabb1",
-        "positive": 16.2,
-        "negative": 1.7
     }
 ]
