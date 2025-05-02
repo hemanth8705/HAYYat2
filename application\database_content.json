@@ -1494,6 +1494,15 @@
         "negative": 0.3
     },
     {
+        "headlines": "Walmart-backed Flipkart to return to India ahead of much-awaited IPOFlipkart has grown into a large e-commerce platform that competes directly with Amazon in the market and is planning a public listing. ",
+        "article_url": "https://www.indiatoday.in/business/story/flipkart-eyes-public-listing-to-shift-base-from-singapore-to-india-ahead-of-ipo-2712827-2025-04-22",
+        "category": "business",
+        "date_time": "2025-04-22T15:20:00",
+        "uuid": "251092f7-c92b-4253-8b15-a2f85c296eb5",
+        "positive": 7.5,
+        "negative": 1.4
+    },
+    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -3114,13 +3123,13 @@
         "negative": 2.1
     },
     {
-        "headlines": "Own foreign assets or income? Disclose now to avoid Rs 10 lakh penaltyTaxpayers must disclose foreign income and assets by December 31, 2024, to avoid hefty penalties under the Income Tax and Black Money Acts.",
-        "article_url": "https://www.indiatoday.in/business/story/own-foreign-assets-or-income-disclose-in-itr-december-31-2024-to-avoid-rs-10-lakh-penalty-2651692-2024-12-18",
+        "headlines": "Gold prices are booming, but Dubai's iconic Gold Souk is losing its sparkleThere are signs of change amid rising prices for gold, as buyers look to diamonds and lighter gold jewellery, instead.",
+        "article_url": "https://www.indiatoday.in/business/story/dubai-souk-jewellery-market-gold-prices-rise-jewellers-not-happy-diamond-demand-increase-2712777-2025-04-22",
         "category": "business",
-        "date_time": "2024-12-18T18:23:00",
-        "uuid": "beb48ff2-0375-4501-bbc2-b92663c0a9e3",
-        "positive": 9.9,
-        "negative": 4.3
+        "date_time": "2025-04-22T14:12:00",
+        "uuid": "cca6ee9e-2d09-43b1-9cda-0bdca74bc729",
+        "positive": 8.3,
+        "negative": 5.5
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -5418,42 +5427,6 @@
         "negative": 6.8
     },
     {
-        "headlines": "Trent Boult excited to go up against 'fearless' Vaibhav Suryavanshi in JaipurMumbai Indians fast bowler Trent Boult said he was excited to take on Vaibhav Suryavanshi in the upcoming fixture against the Rajasthan Royals (RR) at Sawai Man Singh Stadium, Jaipur. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-trent-boult-excited-to-go-up-against-fearless-vaibhav-suryavanshi-2717653-2025-05-01",
-        "category": "sports",
-        "date_time": "2025-05-01T09:08:00",
-        "uuid": "df90cb7a-47b4-4641-883b-6a60e7f620b4",
-        "positive": 18.7,
-        "negative": 1.6
-    },
-    {
-        "headlines": "David Boon retires as ICC match referee after remarkable 14-year stintDavid Boon retired as an ICC match referee on Wednesday, ending a remarkable 14-year tenure. His final assignment was the second Test between Bangladesh and Zimbabwe in Chattogram.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/david-boon-retires-as-icc-match-referee-after-remarkable-14-year-stint-2717802-2025-05-01",
-        "category": "sports",
-        "date_time": "2025-05-01T08:58:00",
-        "uuid": "f60192c5-4ea1-40e4-905b-3755b45716ac",
-        "positive": 11.9,
-        "negative": 2
-    },
-    {
-        "headlines": "Shreyas Iyer has taken his game to a new level: Ricky PontingIPL 2025, CSK vs PBKS: Ricky Ponting lauded Shreyas Iyer after his match-winning 72 off 41 balls against the Chennai Super Kings took Punjab Kings to second in the points table. \r\n",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-ricky-ponting-csk-vs-pbks-ipl-2025-press-conference-2717800-2025-05-01",
-        "category": "sports",
-        "date_time": "2025-05-01T08:45:00",
-        "uuid": "23f04736-a017-4344-a1d5-0b0603473187",
-        "positive": 17.4,
-        "negative": 2.4
-    },
-    {
-        "headlines": "Barcelona fight back to draw six-goal thriller with Inter MilanBarcelona rallied twice to force a 3-3 draw at home against Inter Milan in the thrilling first leg of their Champions League semi-final on Wednesday at Montjuic Olympic Stadium.",
-        "article_url": "https://www.indiatoday.in/sports/football/story/champions-league-barcelona-draw-six-goal-thriller-with-inter-milan-2717798-2025-05-01",
-        "category": "sports",
-        "date_time": "2025-05-01T08:34:00",
-        "uuid": "09c64f6d-0649-41d5-837e-08d3b6e7155a",
-        "positive": 17.2,
-        "negative": 2.3
-    },
-    {
         "headlines": "Justin Langer picks 'gladiatorial' Virat Kohli over Tendulkar, LaraIND vs AUS: Former Australia batter Justin Langer picked Virat Kohli as the best player he had ever seen. Langer picked Kohli ahead of Sachin Tendulkar and Brian Lara.",
         "article_url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-justin-langer-virat-kohli-sachin-tendulkar-brian-lara-2656576-2024-12-28",
         "category": "sports",
@@ -5614,6 +5587,15 @@
         "uuid": "41cd4e20-1aa6-4161-a84d-b69b5393acd7",
         "positive": 4.5,
         "negative": 4.4
+    },
+    {
+        "headlines": "Vivad Se Vishwas Scheme ends on April 30. Resolve your income tax disputes nowThe Vivad Se Vishwas Scheme is all about reducing pending tax cases and giving taxpayers a chance to settle things amicably. ",
+        "article_url": "https://www.indiatoday.in/business/personal-finance/story/vivad-se-vishwas-scheme-ends-on-april-30-resolve-your-income-tax-disputes-now-2712768-2025-04-22",
+        "category": "business",
+        "date_time": "2025-04-22T14:05:00",
+        "uuid": "23d685e7-5d4c-48b7-baf8-cf44aa4bce6b",
+        "positive": 6.3,
+        "negative": 5.2
     },
     {
         "headlines": "Rahul should open, Rohit at No.3 for Day 5 in MCG Test: Sanjay Manjrekar IND vs AUS: Sanjay Manjrekar was of the opinion that India should send back KL Rahul at the top of the order with Rohit Sharma at No.3 for the final day of the Boxing Day Test. ",
@@ -6055,15 +6037,6 @@
         "uuid": "26e4f709-9d9f-4928-a73f-daaed906f046",
         "positive": 6.3,
         "negative": 3
-    },
-    {
-        "headlines": "Zerodha launches Margin Trading Facility: What it is and how it worksZerodha's Nithin Kamath introduces Margin Trading Facility, enabling investors to leverage funds for stock delivery.",
-        "article_url": "https://www.indiatoday.in/business/story/nithin-kamath-on-margin-trading-facility-what-it-is-and-how-it-works-2652756-2024-12-20",
-        "category": "business",
-        "date_time": "2024-12-20T12:00:00",
-        "uuid": "382987c3-6c00-4014-80d4-85451374790c",
-        "positive": 12.3,
-        "negative": 5.2
     },
     {
         "headlines": "Sensex, Nifty snap 7-day winning streak, HUL falls 4% after Q4 resultsThe S&P BSE Sensex was down 315.06 points to 79,801.43 at the closing bell, while the NSE Nifty50 fell 82.25 points to settle at 24,246.70. ",
@@ -6660,24 +6633,6 @@
         "negative": 6.1
     },
     {
-        "headlines": "Meet the Indian stars from victorious U19 Women's T20 World Cup teamIndia hammered South Africa in the Women's U19 T20 World Cup to successfully defend their title. Meet some of the key players from the victorious Indian team who performed sensationally well in South Africa.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-u19-women-t20-world-cup-win-niki-trisha-vaishnavi-profile-2673652-2025-02-02",
-        "category": "sports",
-        "date_time": "2025-02-02T17:57:00",
-        "uuid": "f01f3768-972c-4159-be74-81921e2552fa",
-        "positive": 16.6,
-        "negative": 3
-    },
-    {
-        "headlines": "Dominant India blank Togo 4-0 to secure World Group I berthDavis Cup 2025: India dominated Togo with a 4-0 victory at the DLTA Complex on Sunday, securing a spot in the World Group I Play-offs. \r\n",
-        "article_url": "https://www.indiatoday.in/sports/tennis/story/davis-cup-2025-india-beat-togo-4-0-to-secure-world-group-i-berth-2673651-2025-02-02",
-        "category": "sports",
-        "date_time": "2025-02-02T17:54:00",
-        "uuid": "0c3a2386-1781-46f2-814f-685bd5f88635",
-        "positive": 15.2,
-        "negative": 2.1
-    },
-    {
         "headlines": "Fresh injury casts doubt over Nick Kyrgios's Australian Open return Nick Kyrgios has cast fresh uncertainty over his participation in the Australian Open after pulling out of an exhibition match with Novak Djokovic.",
         "article_url": "https://www.indiatoday.in/sports/tennis/story/fresh-injury-doubt-nick-kyrgios-australian-open-return-2661282-2025-01-08",
         "category": "sports",
@@ -6712,15 +6667,6 @@
         "uuid": "a959d2d5-473d-453c-9d07-f73aa0391f79",
         "positive": 15.7,
         "negative": 6
-    },
-    {
-        "headlines": "Ventive Hospitality IPO opens: Check latest GMP, price band, and other detailsVentive Hospitality IPO: The subscription window closes on December 24, 2024. The basis of allotment is expected to be finalised by December 26, with shares credited to demat accounts by December 27. ",
-        "article_url": "https://www.indiatoday.in/business/story/ventive-hospitality-ipo-opens-check-latest-gmp-price-band-and-other-key-details-stmp-2652752-2024-12-20",
-        "category": "business",
-        "date_time": "2024-12-20T11:46:00",
-        "uuid": "7159cf85-87ac-4140-9ea5-1d24c99ab682",
-        "positive": 10.5,
-        "negative": 1.7
     },
     {
         "headlines": "Arne Slot says Liverpool 'unlucky' to face PSG after Champions League exitLiverpool manager Arne Slot rues his side's misfortune after crashing out of the Champions League against PSG, despite being the best side in the league phase.",
@@ -8559,15 +8505,6 @@
         "negative": 0.7
     },
     {
-        "headlines": "Only Indian umpire in ICC elite panel decides against travelling to PakistanIndian umpire Nitin Menon has pulled out of the upcoming Champions Trophy 2025, set to be held in Pakistan and Dubai. BCCI sources suggest that Menon decided against travelling to Pakistan for personal reasons.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-champions-trophy-umpires-nitin-menon-not-going-pakistan-2675288-2025-02-05",
-        "category": "sports",
-        "date_time": "2025-02-05T17:27:00",
-        "uuid": "2dd98718-c349-435e-90b2-6c7081752e36",
-        "positive": 7.3,
-        "negative": 1.4
-    },
-    {
         "headlines": "PSL bans Corbin Bosch for one-year after last moment withdrawal to play IPLCorbin Bosch has been handed a one-year ban by the PCB and PSL after pulling out of the league, marking a strict move to discourage players from backing out after being drafted. Bosch was roped in by Mumbai Indians as in injury replacement for IPL 2025.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-pakistan-super-league-cobrin-bosch-one-year-ban-2707346-2025-04-11",
         "category": "sports",
@@ -8575,15 +8512,6 @@
         "uuid": "f8b8c430-9479-42c5-be18-639c294f2644",
         "positive": 11.4,
         "negative": 10.1
-    },
-    {
-        "headlines": "Jos Buttler 'unsure' of future of ODI cricket after T20 boom  IND vs ENG: Jos Buttler said that ODI cricket has fallen behind a wee bit amidst the growth of T20 cricket. Buttler is set to play in the upcoming three-match ODI series against India, starting February 6. ",
-        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-eng-jos-buttler-t20-boom-odi-cricket-future-2675287-2025-02-05",
-        "category": "sports",
-        "date_time": "2025-02-05T17:10:00",
-        "uuid": "c63bd8aa-9c10-498a-a38c-14ad3225e696",
-        "positive": 12.3,
-        "negative": 1.8
     },
     {
         "headlines": "OnePlus 13R gets big discount and free Buds 3 offer: 4 reasons to buy, 1 to skipThe OnePlus 13R will be one of the highlights of the upcoming Summer Sale across e-commerce sites, including on Amazon India. The device will be available for as low as Rs 39,999 and there will be free OnePlus Buds 3 bundled with it. Here are 4 reasons why you should not miss on the deal and, of course, 1 reason to skip it altogether. ",
@@ -8865,24 +8793,6 @@
         "negative": 2.4
     },
     {
-        "headlines": "Vaughan calls out Brook for disrespecting spin: He thinks he can just whack itFormer England cricketer Michael Vaughan has called out Harry Brook for disrespecting spinners in the recent T20I series against India.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-michael-vaughan-calls-out-harry-brook-for-disrespecting-spin-ind-vs-eng-2675265-2025-02-05",
-        "category": "sports",
-        "date_time": "2025-02-05T16:34:00",
-        "uuid": "58e794dd-88e5-4431-8892-0cb817ecda51",
-        "positive": 9.4,
-        "negative": 7.2
-    },
-    {
-        "headlines": "G Trisha rewarded with Rs 1 crore by Telangana CM after World Cup heroics  Telangana Chief Minister Sri A Revanth Reddy announced a prize money of Rs 1 crore for Gongadi Trisha, who won the Player of the Tournament award after India defended their U19 Women's T20 World Cup title. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-t20-world-cup-2025-gongadi-trisha-telangana-cm-2675253-2025-02-05",
-        "category": "sports",
-        "date_time": "2025-02-05T17:36:00",
-        "uuid": "cf1f1d8b-a0b4-4ec3-9597-4db98fdcd2f7",
-        "positive": 6.6,
-        "negative": 1.1
-    },
-    {
         "headlines": "40,000 km around the globe: Sufiya Sufi's goal to make India proudIn an exclusive interaction with Indiatoday.in, runner Sufiya Sufi opens up on her ultimate challenge in the sport and how she wants to make India proud on the global stage. Sufiya has been a trailblazer in the sport of running. ",
         "article_url": "https://www.indiatoday.in/sports/other-sports/story/running-sufiya-sufi-exclusive-around-the-globe-run-representing-india-2670465-2025-01-27",
         "category": "sports",
@@ -8998,5 +8908,95 @@
         "uuid": "ed106a01-0987-4284-aa52-c2efc91a0aef",
         "positive": 13.2,
         "negative": 1.4
+    },
+    {
+        "headlines": "Gukesh shaves head at Tirumala temple after World Championship successD Gukesh, who won the World Chess Championship last year in Singapore after beating Ding Liren, sought blessings at the Tirumala Temple in Andhra Pradesh by shaving his head. ",
+        "article_url": "https://www.indiatoday.in/sports/other-sports/story/chess-d-gukesh-shaved-head-tirumala-temple-2692942-2025-03-13",
+        "category": "sports",
+        "date_time": "2025-03-13T08:23:00",
+        "uuid": "8a0187c2-a7f0-4378-94a1-94de243f53f8",
+        "positive": 17.1,
+        "negative": 3.3
+    },
+    {
+        "headlines": "Atletico Madrid slump to defeat vs Real Madrid after Alvarez double touchChampions League: Atletico Madrid lost to Real Madrid on March 12 after Julian Alvarez made a double touch during the penalty shootout. With the win, Real Madrid also qualified for the quarterfinals. ",
+        "article_url": "https://www.indiatoday.in/sports/football/story/champions-league-atletico-real-madrid-julian-alvarez-2692932-2025-03-13",
+        "category": "sports",
+        "date_time": "2025-03-13T07:46:00",
+        "uuid": "192ad5ca-70e6-4ebe-b08a-6169d54ea3c5",
+        "positive": 14.1,
+        "negative": 12.1
+    },
+    {
+        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
+        "category": "bollywood",
+        "date_time": "2024-12-12T22:14:00",
+        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
+        "positive": 4.1,
+        "negative": 7.3
+    },
+    {
+        "headlines": "R Ashwin in awe of Adil Rashid for cleaning up Tilak Varma's stumps with a ripperFormer India spinner Ravichandran Ashwin was in awe of Adil Rashid for his marvellous delivery to clean up Tilak Varma in the third T20I of the five-match series in Rajkot. Rashid managed to outfox an in-form Varma, who got dismissed after five innings in T20Is.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-r-ashwin-in-awe-of-adil-rashid-for-cleaning-up-tilak-varmas-stumps-with-a-ripper-2671671-2025-01-29",
+        "category": "sports",
+        "date_time": "2025-01-29T08:21:00",
+        "uuid": "67f959cc-42c8-483a-9ea0-526db7e8eed6",
+        "positive": 13.4,
+        "negative": 4.1
+    },
+    {
+        "headlines": "Hardik Pandya's batting intent questioned by Parthiv Patel after Rajkot lossParthiv Patel was highly critical of Hardik Pandya's sedate innings during the high-pressure run-chase against England in the 3rd T20I in Rajkot on Tuesday, January 28. Hardik tried to take the game deep but failed to get India over the line. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-hardik-pandyas-batting-intent-questioned-by-parthiv-patel-after-rajkot-loss-2671661-2025-01-29",
+        "category": "sports",
+        "date_time": "2025-01-29T07:18:00",
+        "uuid": "6c02170e-eefc-49f9-8c62-0d989f9529d2",
+        "positive": 8,
+        "negative": 10.8
+    },
+    {
+        "headlines": "Kevin Pietersen slams India's batting order after Rajkot lossFormer England batter Kevin Pietersen slammed India's batting order after their Rajkot T20I loss, stating that Dhruv Jurel, an accomplished batter, should have been sent up the order.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-3rd-t20i-kevin-pietersen-slams-indias-batting-order-after-rajkot-loss-2671665-2025-01-29",
+        "category": "sports",
+        "date_time": "2025-01-29T07:44:00",
+        "uuid": "96b9913d-2e76-4798-8303-baca06b0723d",
+        "positive": 9.2,
+        "negative": 8.5
+    },
+    {
+        "headlines": "New Zealand not looking closely at India's Dubai advantage: Kane WilliamsonKane Williamson remains unfazed by India's familiarity with Dubai conditions ahead of the Champions Trophy final, emphasising that New Zealand must focus on their own game rather than external factors beyond their control.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-new-zealand-kane-williamson-dubai-advantage-final-2689602-2025-03-06",
+        "category": "sports",
+        "date_time": "2025-03-06T08:16:00",
+        "uuid": "908ab524-909b-47cd-82de-594535e39b6e",
+        "positive": 13.7,
+        "negative": 3
+    },
+    {
+        "headlines": "Toss already in New Zealand captain's mind ahead of Dubai finalNew Zealand captain Mitchell Santner spoke about the toss factor in the final of the ICC Champions Trophy 2025 against India. New Zealand lost their group stage game against India in Dubai by 44 runs.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-mitchell-santner-speaks-about-toss-factor-ind-vs-nz-final-2689571-2025-03-06",
+        "category": "sports",
+        "date_time": "2025-03-06T08:30:00",
+        "uuid": "4175a596-c202-4977-839c-dfb96d344313",
+        "positive": 13.8,
+        "negative": 4
+    },
+    {
+        "headlines": "Mumbai set to miss Rohit Sharma, Yashasvi Jaiswal and Iyer for next Ranji clashRohit Sharma, Yashasvi Jaiswal, and Shreyas Iyer are likely to miss Mumbai's next Ranji Trophy group-stage match against Meghalaya, which begins on Thursday.",
+        "article_url": "https://www.indiatoday.in/sports/story/mumbai-set-to-miss-rohit-yashasvi-shreyas-iyer-for-next-ranji-clash-2671033-2025-01-27",
+        "category": "sports",
+        "date_time": "2025-01-27T22:47:00",
+        "uuid": "79b7a466-db7e-473e-b85a-8506111ab157",
+        "positive": 9.8,
+        "negative": 3.9
+    },
+    {
+        "headlines": "Suryakumar defends Rohit amid 'captaincy' row: Led us to 4 ICC FinalsSuryakumar Yadav defended Rohit Sharma against criticism, highlighting his leadership in guiding India to four ICC finals. He reminded of Rohit leading India to the 2024 T20 World Cup triumph, as the team gears up for the Champions Trophy final against New Zealand.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-new-zealand-rohit-sharma-icc-finals-suryakumar-yadav-defends-2690118-2025-03-07",
+        "category": "sports",
+        "date_time": "2025-03-07T08:24:00",
+        "uuid": "5248402c-937f-4814-bdec-45ad855a38aa",
+        "positive": 17,
+        "negative": 2.9
     }
 ]
