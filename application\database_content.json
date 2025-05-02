@@ -1494,15 +1494,6 @@
         "negative": 0.3
     },
     {
-        "headlines": "Walmart-backed Flipkart to return to India ahead of much-awaited IPOFlipkart has grown into a large e-commerce platform that competes directly with Amazon in the market and is planning a public listing. ",
-        "article_url": "https://www.indiatoday.in/business/story/flipkart-eyes-public-listing-to-shift-base-from-singapore-to-india-ahead-of-ipo-2712827-2025-04-22",
-        "category": "business",
-        "date_time": "2025-04-22T15:20:00",
-        "uuid": "251092f7-c92b-4253-8b15-a2f85c296eb5",
-        "positive": 7.5,
-        "negative": 1.4
-    },
-    {
         "headlines": "Nothing Phone 3 to launch next year: Price, specs, features and all we know so farNothing is rumoured to be working on three new smartphones in 2025, of which, the flagship will be the Nothing Phone 3. Here is everything we know about Nothing's next flagship phone, so far. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/nothing-phone-3-to-launch-next-year-price-specs-features-and-all-we-know-so-far-2652377-2024-12-19",
         "category": "technology",
@@ -3123,15 +3114,6 @@
         "negative": 2.1
     },
     {
-        "headlines": "Gold prices are booming, but Dubai's iconic Gold Souk is losing its sparkleThere are signs of change amid rising prices for gold, as buyers look to diamonds and lighter gold jewellery, instead.",
-        "article_url": "https://www.indiatoday.in/business/story/dubai-souk-jewellery-market-gold-prices-rise-jewellers-not-happy-diamond-demand-increase-2712777-2025-04-22",
-        "category": "business",
-        "date_time": "2025-04-22T14:12:00",
-        "uuid": "cca6ee9e-2d09-43b1-9cda-0bdca74bc729",
-        "positive": 8.3,
-        "negative": 5.5
-    },
-    {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
         "article_url": "https://www.indiatoday.in/business/story/can-you-get-a-personal-loan-with-low-credit-score-follow-these-tips-check-details-2652396-2024-12-19",
         "category": "business",
@@ -4662,6 +4644,15 @@
         "negative": 4.3
     },
     {
+        "headlines": "The Diplomat box office Day 1: John Abraham film opens at Rs 4 croreBollywood actor John Abraham's latest movie, The Diplomat, was released on Holi. The film, based on true events, collected Rs 4 crore on its first day and was affected by Vicky Kaushal's Chhaava.",
+        "article_url": "https://www.indiatoday.in/movies/bollywood/story/the-diplomat-box-office-collection-day-1-john-abraham-film-opens-at-rs-4-crore-2693822-2025-03-15",
+        "category": "bollywood",
+        "date_time": "2025-03-15T09:16:00",
+        "uuid": "38b7f77b-f1f3-4b6a-b680-f041bb1deefc",
+        "positive": 13.8,
+        "negative": 3.3
+    },
+    {
         "headlines": "Budget 2025: Is merging old and new income tax regimes a good idea?Will merging the old and new tax regimes offer the best of both worlds for taxpayers? Experts weigh in on whether a unified system could simplify compliance or introduce new challenges.",
         "article_url": "https://www.indiatoday.in/budget/story/union-budget-2025-old-and-new-income-tax-regime-merger-benefits-challenges-explained-2665029-2025-01-15",
         "category": "business",
@@ -4822,6 +4813,15 @@
         "uuid": "58195f82-0505-4d13-8880-5e589e3ddbb5",
         "positive": 12.2,
         "negative": 6.4
+    },
+    {
+        "headlines": "SL vs AUS: Mitchell Starc goes past Dale Steyn, joins exclusive 700-Test clubMitchell Starc completed an elite feat on Thursday, January 30. Starc overtook Dale Steyn and reached the 700-wicket club in international cricket.",
+        "article_url": "https://www.indiatoday.in/sports/story/mitchell-starc-test-bowlers-with-700-wickets-international-cricket-aus-vs-sl-2672642-2025-01-30",
+        "category": "sports",
+        "date_time": "2025-01-30T23:44:00",
+        "uuid": "005c918e-db36-4644-a142-6f3fb8045fae",
+        "positive": 6.9,
+        "negative": 1.4
     },
     {
         "headlines": "Binance founder says Bitcoin inventor Satoshi could have been time-traveling AI from futureFormer Binance CEO, Changpeng Zhao, has shared an unusual idea about how Bitcoin may have been created. In a recent interview with Turkish influencers, he joked that Bitcoin might not have been made by a person at all, but by AI that travelled back in time from the future.",
@@ -5038,6 +5038,24 @@
         "uuid": "4db3fee4-64e0-432c-bb20-50e6db66d208",
         "positive": 4.9,
         "negative": 7.3
+    },
+    {
+        "headlines": "4th T20I Predicted 11: Will Rinku Singh, Arshdeep Singh return in Pune?India vs England, 4th T20I Predicted XI: India might make two changes in their playing XI for the fourth T20I against England in Pune after losing the 3rd match in Rajkot on Tuesday.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-4th-t20i-pune-predicted-11-rinku-singh-arshdeep-singh-return-in-pune-2672674-2025-01-31",
+        "category": "sports",
+        "date_time": "2025-01-31T07:22:00",
+        "uuid": "778c4695-a78d-4510-ae89-74b6f4c5a55e",
+        "positive": 10,
+        "negative": 4.3
+    },
+    {
+        "headlines": "Arshdeep's return, batting-order in focus as India aim series win in PuneEngland remained alive in the 5-match T20I series against India by winning the 3rd game by 26 runs in Rajkot. As the action moves to Pune, the focus remains on India's batting line-up.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-4th-t20i-pune-match-preview-arshdeep-singh-rinku-singh-indias-batting-order-2672691-2025-01-31",
+        "category": "sports",
+        "date_time": "2025-01-31T08:31:00",
+        "uuid": "0eba6a7f-d018-4f64-8b17-61713a18e840",
+        "positive": 11.3,
+        "negative": 7.1
     },
     {
         "headlines": "Kesari 2 box office Day 12: Akshay's film Rs 70 crore strong; Rs 100 crore possible?'Kesari Chapter 2' is doing well during the weekdays, and while it is already Rs 70 crore strong, it will be interesting to see if it manages to surpass the benchmark of Rs 100 crore by the end of this weekend or next week. ",
@@ -5526,24 +5544,6 @@
         "negative": 6.7
     },
     {
-        "headlines": "Yuzvendra Chahal explains his IPL hattrick heroics vs CSKAfter taking his second IPL hattrick, Yuzvendra Chahal revealed that he relied on his instincts and tweaked his line during their IPL clash against Chennai Super Kings.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/yuzvendra-chahal-explains-his-ipl-hattrick-heroics-vs-csk-2717947-2025-05-01",
-        "category": "sports",
-        "date_time": "2025-05-01T13:17:00",
-        "uuid": "7a70e618-4d51-436f-991a-9779eba913dd",
-        "positive": 11.7,
-        "negative": 3.1
-    },
-    {
-        "headlines": "Women's T20 World Cup 2026 in England to start on June 12The Women's T20 World Cup 2026 is scheduled to take place from June 12 to July 5. 33 matches will take place across 24 days in seven venues. Lord's will host the grand finale. ",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-lords-dates-venues-england-2717897-2025-05-01",
-        "category": "sports",
-        "date_time": "2025-05-01T12:14:00",
-        "uuid": "dabcd4f6-a221-454c-b09e-72f81de7e63a",
-        "positive": 9.5,
-        "negative": 1.1
-    },
-    {
         "headlines": "KKR captain Ajinkya Rahane eager to make India return: Fire, hunger still thereAjinkya Rahane reiterated his desire to make a comeback to the Indian team once again. Rahane has been KKR's best batter this season in the ongoing IPL 2025 season. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ajinkya-rahane-indian-team-return-kkr-2718522-2025-05-02",
         "category": "sports",
@@ -5589,15 +5589,6 @@
         "negative": 4.4
     },
     {
-        "headlines": "Vivad Se Vishwas Scheme ends on April 30. Resolve your income tax disputes nowThe Vivad Se Vishwas Scheme is all about reducing pending tax cases and giving taxpayers a chance to settle things amicably. ",
-        "article_url": "https://www.indiatoday.in/business/personal-finance/story/vivad-se-vishwas-scheme-ends-on-april-30-resolve-your-income-tax-disputes-now-2712768-2025-04-22",
-        "category": "business",
-        "date_time": "2025-04-22T14:05:00",
-        "uuid": "23d685e7-5d4c-48b7-baf8-cf44aa4bce6b",
-        "positive": 6.3,
-        "negative": 5.2
-    },
-    {
         "headlines": "Rahul should open, Rohit at No.3 for Day 5 in MCG Test: Sanjay Manjrekar IND vs AUS: Sanjay Manjrekar was of the opinion that India should send back KL Rahul at the top of the order with Rohit Sharma at No.3 for the final day of the Boxing Day Test. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-kl-rahul-rohit-sharma-sanjay-manjrekar-mcg-test-opening-2656936-2024-12-29",
         "category": "sports",
@@ -5614,6 +5605,24 @@
         "uuid": "cb1ba8b9-c8c8-4bb5-9c32-acfd17d9bbf3",
         "positive": 8.2,
         "negative": 4.1
+    },
+    {
+        "headlines": "Yuzvendra Chahal explains his IPL hattrick heroics vs CSKAfter taking his second IPL hattrick, Yuzvendra Chahal revealed that he relied on his instincts and tweaked his line during their IPL clash against Chennai Super Kings.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/yuzvendra-chahal-explains-his-ipl-hattrick-heroics-vs-csk-2717947-2025-05-01",
+        "category": "sports",
+        "date_time": "2025-05-01T13:17:00",
+        "uuid": "7a70e618-4d51-436f-991a-9779eba913dd",
+        "positive": 11.7,
+        "negative": 3.1
+    },
+    {
+        "headlines": "Women's T20 World Cup 2026 in England to start on June 12The Women's T20 World Cup 2026 is scheduled to take place from June 12 to July 5. 33 matches will take place across 24 days in seven venues. Lord's will host the grand finale. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-lords-dates-venues-england-2717897-2025-05-01",
+        "category": "sports",
+        "date_time": "2025-05-01T12:14:00",
+        "uuid": "dabcd4f6-a221-454c-b09e-72f81de7e63a",
+        "positive": 9.5,
+        "negative": 1.1
     },
     {
         "headlines": "Jaat box office Day 2: Sunny Deol's film struggles to take off, mints Rs 16 croreDirector Gopichand Malineni's 'Jaat', starring Sunny Deol', seems to be struggling for a boost at the box office. In two days, the film has raked in Rs 16 crore nett in India.",
@@ -5661,6 +5670,15 @@
         "negative": 3
     },
     {
+        "headlines": "Ed Sheeran catches up with England Cricket Team on opening night of India tourBritish singer Ed Sheeran organised a special meet-up with the England Cricket Team on the opening night of his India tour in Pune. England skipper Jos Buttler gifted his England jersey to the pop star.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ed-sheeran-catches-up-with-england-cricket-team-on-opening-night-of-his-india-tour-2672681-2025-01-31",
+        "category": "sports",
+        "date_time": "2025-01-31T08:10:00",
+        "uuid": "79420cbe-f46c-4ab1-a130-ed9966dae0d4",
+        "positive": 7.3,
+        "negative": 1.3
+    },
+    {
         "headlines": "Can drinkable sunscreen replace your regular one?Drinkable sunscreen is an oral supplement designed to provide internal sun protection by helping the body combat UV damage from within.",
         "article_url": "https://www.indiatoday.in/lifestyle/beauty/story/can-drinkable-sunscreen-replace-your-regular-one-2691690-2025-03-11",
         "category": "lifestyle",
@@ -5677,6 +5695,15 @@
         "uuid": "b7609418-ade6-4f32-8010-a8795a8bc3e0",
         "positive": 11,
         "negative": 0.8
+    },
+    {
+        "headlines": "Meet the Indian stars from victorious U19 Women's T20 World Cup teamIndia hammered South Africa in the Women's U19 T20 World Cup to successfully defend their title. Meet some of the key players from the victorious Indian team who performed sensationally well in South Africa.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-u19-women-t20-world-cup-win-niki-trisha-vaishnavi-profile-2673652-2025-02-02",
+        "category": "sports",
+        "date_time": "2025-02-02T17:57:00",
+        "uuid": "f01f3768-972c-4159-be74-81921e2552fa",
+        "positive": 16.6,
+        "negative": 3
     },
     {
         "headlines": "Nitish Reddy definitely better than Hardik in Test cricket: Sunil GavaskarFormer India captain Sunil Gavaskar has reserved high praise for Nitish Kumar Reddy's credentials in Test cricket, calling him a better batter than Hardik Pandya.",
@@ -5713,6 +5740,33 @@
         "uuid": "218550ae-3156-4196-bdc7-9d8d774a6a6d",
         "positive": 12.1,
         "negative": 4.6
+    },
+    {
+        "headlines": "Dominant India blank Togo 4-0 to secure World Group I berthDavis Cup 2025: India dominated Togo with a 4-0 victory at the DLTA Complex on Sunday, securing a spot in the World Group I Play-offs. \r\n",
+        "article_url": "https://www.indiatoday.in/sports/tennis/story/davis-cup-2025-india-beat-togo-4-0-to-secure-world-group-i-berth-2673651-2025-02-02",
+        "category": "sports",
+        "date_time": "2025-02-02T17:54:00",
+        "uuid": "0c3a2386-1781-46f2-814f-685bd5f88635",
+        "positive": 15.2,
+        "negative": 2.1
+    },
+    {
+        "headlines": "Rohit Sharma gifts bat to RR's Shane Bond's son, sends hilarious messageRohit Sharma's post-match gesture stole the spotlight as he gifted a signed bat to Shane Bond for his son, along with a cheeky message, after leading MI to a thumping win that ended RR's playoff hopes in IPL 2025.",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rohit-sharma-gifts-shane-bond-son-bat-rr-vs-mi-hilarious-video-2718614-2025-05-02",
+        "category": "sports",
+        "date_time": "2025-05-02T17:05:00",
+        "uuid": "e914dd2e-ba6f-49c4-85cf-ddbdaeefa11d",
+        "positive": 9.4,
+        "negative": 2.8
+    },
+    {
+        "headlines": "Babar Azam, Rizwan's Instagram accounts blocked in IndiaBabar Azam, Mohammad Rizwan and Instagram accounts of Pakistani cricketers have been blocked in India after 26 people died in the Pahalgam attack on April 22. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-mohammad-rizwan-pahalgam-attack-instagram-2718618-2025-05-02",
+        "category": "sports",
+        "date_time": "2025-05-02T17:22:00",
+        "uuid": "c7483708-6d70-4bb6-b4bf-7b5edbfee41a",
+        "positive": 10.6,
+        "negative": 17.3
     },
     {
         "headlines": "Amorim explains decision to sub off Zirkzee after 33 minutes vs NewcastleRuben Amorim justified substituting Joshua Zirkzee after 33 minutes in Manchester United's 2-0 defeat to Newcastle, emphasising it was a tactical decision amidst growing concerns over United's relegation battle after their third consecutive Premier League loss.",
@@ -5839,6 +5893,24 @@
         "uuid": "c2f8c603-8dd7-4b08-a389-1d84a9cac21b",
         "positive": 11.4,
         "negative": 4.9
+    },
+    {
+        "headlines": "Mutual funds are on the rise again. Check out these 5 bets in 2025Choosing the right mutual fund depends on how much risk you're comfortable with and how long you plan to invest. ",
+        "article_url": "https://www.indiatoday.in/business/personal-finance/story/mutual-funds-are-on-the-rise-again-check-out-these-5-bets-nippon-india-small-cap-fund-hdfc-midcap-opportunities-fund-axis-bluechip-fund-2718643-2025-05-02",
+        "category": "business",
+        "date_time": "2025-05-02T17:56:00",
+        "uuid": "949d9622-9f6d-444d-8284-5c4ecfdf3270",
+        "positive": 16,
+        "negative": 3.7
+    },
+    {
+        "headlines": "Oyo delays IPO attempt for 3rd time as largest shareholder opposes: ReportIndia's Nifty 50 index has risen about 3% in 2025 so far, but it's still over 7% below its all-time high from October last year. This market volatility has affected several companies. ",
+        "article_url": "https://www.indiatoday.in/business/story/oyo-delays-ipo-attempt-for-3rd-time-as-largest-shareholder-opposes-report-2718598-2025-05-02",
+        "category": "business",
+        "date_time": "2025-05-02T16:37:00",
+        "uuid": "3f9e01e6-3b36-4aa8-8d3a-c0da86d1a67a",
+        "positive": 8.5,
+        "negative": 5.6
     },
     {
         "headlines": "Zoho halts $700 million chip plan. Here's whyZoho, started in 1996, is known for offering affordable business software and services to companies around the world. ",
@@ -6001,15 +6073,6 @@
         "uuid": "bbd9875b-cee5-41b6-b96f-4c4660c4b0b5",
         "positive": 8.4,
         "negative": 7
-    },
-    {
-        "headlines": "'Deliberately false': Elon Musk slams report claiming Tesla looking to replace himElon Musk responded furiously on X, calling it \"an EXTREMELY BAD BREACH OF ETHICS\" and slamming the WSJ for \"publishing a DELIBERATELY FALSE ARTICLE\" despite receiving a prior denial from Tesla's board.",
-        "article_url": "https://www.indiatoday.in/business/story/elon-musk-slams-report-claiming-tesla-looking-to-replace-him-2717885-2025-05-01",
-        "category": "business",
-        "date_time": "2025-05-01T11:56:00",
-        "uuid": "fcaf794e-dd2b-474d-b3d6-294ea3264f06",
-        "positive": 7.2,
-        "negative": 4.7
     },
     {
         "headlines": "Scrutiny a constant, X-factor Rishabh Pant now crafting Pant 2.0Rishabh Pant's gritty knock in the Sydney Test highlighted his evolving approach, balancing natural flair with situational awareness after criticism over rash dismissals in Melbourne. Battling against the Australian pacers and his own instincts, Pant hit a crucial 40 in the first innings in Sydney. ",
@@ -7128,6 +7191,15 @@
         "negative": 4.6
     },
     {
+        "headlines": "Abhishek Sharma scores 135, highest individual T20I score by an IndianAbhishek Sharma broke the record for the highest score by an Indian in T20Is as he put England to the sword at the Wankhede stadium in Mumbai. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-abhishek-sharma-highest-individual-score-by-indian-wankhede-mumbai-2673689-2025-02-02",
+        "category": "sports",
+        "date_time": "2025-02-02T21:05:00",
+        "uuid": "b8376cff-b9cc-4884-a6a4-e95cefecf281",
+        "positive": 3.5,
+        "negative": 3.4
+    },
+    {
         "headlines": "Hardik Pandya scripts history, breaks Anil Kumble's 16-year-old recordIPL 2025, LSG vs MI: Hardik Pandya broke Anil Kumble's 16-year-old record to register the best bowling figures by a captain in the history of the T20 tournament. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-hardik-pandya-lsg-vs-mi-anil-kumble-record-2704282-2025-04-04",
         "category": "sports",
@@ -7144,6 +7216,15 @@
         "uuid": "8e33e014-a390-45a2-a26d-2f037faeeafd",
         "positive": 6.2,
         "negative": 0.6
+    },
+    {
+        "headlines": "Watch: Lamine Yamal dribbles past entire midfield as Barca beat Alaves 1-0Barcelona vs Alaves: Lamine Yamal dribbled past nearly the entire Alaves midfield on Sunday, February 2. Yamal's ridiculous control was on full show as Barcelona closed in on LaLiga leaders Real Madrid.",
+        "article_url": "https://www.indiatoday.in/sports/story/lamine-yamal-dribble-barcelona-vs-alaves-match-highlights-2673700-2025-02-02",
+        "category": "sports",
+        "date_time": "2025-02-02T22:09:00",
+        "uuid": "909a5d8c-0d94-48be-8d79-a45bc6162942",
+        "positive": 5.5,
+        "negative": 4
     },
     {
         "headlines": "IPL 2025: Four uncapped stars who shone in first weekThe first week of the Indian Premier League 2025 (IPL 2025) has seen several young stars rise to the limelight with their marvellous performances. Here's a look at the top five uncapped players who managed to grab the attention of fans:",
@@ -7605,6 +7686,15 @@
         "negative": 4.1
     },
     {
+        "headlines": "Abhishek 135 helps India seal biggest T20I win over England, bag series 4-1IND vs ENG: Abhishek Sharma scored 135 runs and picked up two wickets as India won the T20I series with a clinical 150-run win in the fifth and final T20I on Sunday at the Wankhede Stadium in Mumbai. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-abhishek-sharma-mumbai-t20i-report-2673699-2025-02-02",
+        "category": "sports",
+        "date_time": "2025-02-02T22:26:00",
+        "uuid": "dbad522a-bea9-409b-b30c-800802bb96be",
+        "positive": 5.6,
+        "negative": 3.3
+    },
+    {
         "headlines": "Sandeep Vanga says nobody criticised Ranbir for Animal: They want to work with himDirector Sandeep Reddy Vanga addressed the feedback surrounding Ranbir Kapoor's performance in Animal. He expressed his confusion over the disparity, noting that while he faced criticism for the film, Ranbir did not.\r\n",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/sandeep-reddy-vanga-on-people-praising-ranbir-kapoor-in-animal-easy-to-comment-about-me-2685567-2025-02-25",
         "category": "bollywood",
@@ -7783,6 +7873,24 @@
         "uuid": "aad96fee-59e9-4538-8d5f-12d4fdd5872d",
         "positive": 6.3,
         "negative": 2.5
+    },
+    {
+        "headlines": "Dinesh Karthik turns back clock with maiden SA 20 fifty for Paarl RoyalsDinesh Karthik rolled back the years with a blistering 53 off 39 balls for Paarl Royals in SA20, showcasing his trademark finishing skills despite his team falling short against Joburg Super Kings, led by Faf du Plessis' masterful 87-run knock.",
+        "article_url": "https://www.indiatoday.in/sports/story/dinesh-karthik-sa20-maiden-fifty-consecutive-sixes-joburg-super-kings-turns-back-clock-2672722-2025-01-31",
+        "category": "sports",
+        "date_time": "2025-01-31T10:29:00",
+        "uuid": "c5f49f26-6ba7-4d2b-b00b-b012d9763e51",
+        "positive": 9.3,
+        "negative": 5.7
+    },
+    {
+        "headlines": "Virat Kohli's doppelganger attends his Ranji Trophy return against Railways in DelhiStar India batter Virat Kohli's look-alike was also seen attending his Ranji Trophy comeback for Delhi against Railways at the Arun Jaitley Stadium in Delhi. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-virat-kohlis-doppelganger-attends-his-ranji-trophy-match-against-railways-in-delhi-2672715-2025-01-31",
+        "category": "sports",
+        "date_time": "2025-01-31T10:12:00",
+        "uuid": "597b0e87-b4ef-4eab-918c-d35e8b1f3e51",
+        "positive": 7.9,
+        "negative": 1
     },
     {
         "headlines": "Skip hotels, Indians are now swapping homes for travelTrue to its name, HomeExchange allows you to exchange your home or living space with someone else.",
@@ -7983,6 +8091,15 @@
         "negative": 1.8
     },
     {
+        "headlines": "Kohli disappoints Delhi crowd, fans leave stadium after early dismissalVirat Kohli's long-awaited Ranji Trophy return ended in disappointment as the Delhi star was dismissed for just 6 runs. Fans at the Arun Jaitley Stadium, who gave him a thunderous welcome, left dejected as his struggles continued.",
+        "article_url": "https://www.indiatoday.in/sports/story/virat-kohli-disappoints-dismissal-fans-leave-stadium-ranji-trophy-delhi-vs-railways-2672734-2025-01-31",
+        "category": "sports",
+        "date_time": "2025-01-31T11:14:00",
+        "uuid": "13bf9c8c-0a51-4d46-8f11-d3efc43360bf",
+        "positive": 8.2,
+        "negative": 5.5
+    },
+    {
         "headlines": "No personal vehicles for players in Kolkata as BCCI rules enforced before ENG T20IsThe Cricket Association of Bengal (CAB) President Snehasish Ganguly has confirmed that no special arrangements has been made for any player to travel individually ahead of first T20I vs England.",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-no-personal-vehicles-for-players-in-kolkata-as-bcci-rules-enforced-before-ind-vs-eng-t20is-2667121-2025-01-20",
         "category": "sports",
@@ -8071,6 +8188,15 @@
         "uuid": "745ecc7c-4fe8-401e-bccb-533756e44bc1",
         "positive": 13.3,
         "negative": 1.2
+    },
+    {
+        "headlines": "Marsh ruled of Champions Trophy with back injury, also in doubt for IPLAustralia handed a major setback as Mitchell Marsh is ruled out of the Champions Trophy due to a lower-back injury, raising concerns over his IPL participation. The selectors now face a crucial decision in finding his replacement for the tournament.",
+        "article_url": "https://www.indiatoday.in/sports/story/mitchell-marsh-ruled-out-champions-trophy-back-injury-replacement-meeting-2672767-2025-01-31",
+        "category": "sports",
+        "date_time": "2025-01-31T12:26:00",
+        "uuid": "da09d7cc-ce1c-41b0-824e-10d5e5166258",
+        "positive": 8.1,
+        "negative": 8.1
     },
     {
         "headlines": "What India's booming used luxury car market says about the aspirational classA report by GlobeNewswire states that the Indian used luxury car market size, aided by increasing disposable incomes, is projected to grow at a CAGR of 16.30% between 2024 and 2032. ",
@@ -8251,6 +8377,24 @@
         "uuid": "2783470f-6577-4bd3-a45e-d2d6e7d4ccc0",
         "positive": 8,
         "negative": 1.1
+    },
+    {
+        "headlines": "Gambhir jokes about 'substitute' Shivam Dube, addresses dressing room rumoursIndia head coach Gautam Gambhir addressed the India dressing room rumours for the first time since Border-Gavaskar Trophy. Gambhir also commented on the controversy surrounding Shivam Dube's substitution.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-gautam-gambhir-interview-bgt-dressing-room-controversy-shivam-dube-concussion-substitute-2673721-2025-02-02",
+        "category": "sports",
+        "date_time": "2025-02-02T23:40:00",
+        "uuid": "fe284168-d0f0-4b27-afe1-d7cdf9b4a5ee",
+        "positive": 12.3,
+        "negative": 5.2
+    },
+    {
+        "headlines": "Abhishek on Yuvraj's tweet after 135: 1st tweet without flying chappalAbhishek Sharma was ecstatic to see Yuvraj Singh's congratulatory message to him after 135 against England in the 5th T20I on Sunday, February 2. Abhishek scored 135 off just 54 balls and picked 2 wickets. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-5th-t20i-abhishek-sharma-yuvraj-singh-tweet-mumbai-2673713-2025-02-02",
+        "category": "sports",
+        "date_time": "2025-02-02T23:13:00",
+        "uuid": "5d7a9a6c-93d2-43b1-9665-17cc9cfdecb0",
+        "positive": 16.2,
+        "negative": 1.9
     },
     {
         "headlines": "IndusInd Bank CEO Sumant Kathpalia resigns after derivatives accounting lapseThe accounting lapse, which pertained to internal derivative trades, had a negative impact on the bank's profit and loss statement and its net worth. In his resignation letter, Kathpalia wrote, \"I undertake moral responsibility, given the various acts of commission/omission that have been brought to my notice.\"",
@@ -8658,6 +8802,24 @@
         "negative": 3.6
     },
     {
+        "headlines": "Gautam Gambhir wants 'aggressive' India in ODIs before Champions TrophyIND vs ENG: Indian head coach Gautam Gambhir said that he wanted India to play the aggressive brand of cricket in ODIs as well after their dominating run in the T20 series against England, which they won 4-1. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-gautam-gambhir-champions-trophy-odis-2673722-2025-02-02",
+        "category": "sports",
+        "date_time": "2025-02-02T23:59:00",
+        "uuid": "4ff6e5d0-2ac0-4e8c-97f6-0c47078b1462",
+        "positive": 12.9,
+        "negative": 3.9
+    },
+    {
+        "headlines": "R Praggnanandhaa wins Tata Steel Chess Masters, stuns World Champion D GukeshGrandmaster R Praggnanandhaa won the Tata Steel Masters 2025, beating world champion D Gukesh in a thrilling tiebreak in Wijk aan Zee, Netherlands on Sunday, February 2.",
+        "article_url": "https://www.indiatoday.in/sports/story/chess-r-praggnanandhaa-vs-d-gukesh-tata-steel-chess-final-2673728-2025-02-03",
+        "category": "sports",
+        "date_time": "2025-02-03T01:33:00",
+        "uuid": "028c8c0e-54b1-41dd-a22f-91eb1e8ed95c",
+        "positive": 20.7,
+        "negative": 6.2
+    },
+    {
         "headlines": "Watch: Rohit Sharma gets new nickname, special gift after MI vs CSK heroicsIPL 2025: Rohit Sharma found peak form, smashing a match-winning 76 off 45 balls against Chennai Super Kings on Sunday. The Mumbai Indians star was showered with praise during the dressing room celebrations at Wankhede Stadium. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-mi-vs-csk-rohit-sharma-maverick-nickname-mumbai-dressing-room-2712177-2025-04-21",
         "category": "sports",
@@ -8835,168 +8997,6 @@
         "date_time": "2025-01-28T08:15:00",
         "uuid": "9e3e06b8-b755-4c66-a313-895abad66272",
         "positive": 9,
-        "negative": 2.9
-    },
-    {
-        "headlines": "TikTok prepares to shut down app in US unless Supreme Court overturns ban: ReportTikTok plans to shut down its US operations on January 19 unless the Supreme Court overturns a federal ban tied to ByteDance's failure to divest. President-elect Trump may issue an executive order delaying enforcement. ",
-        "article_url": "https://www.indiatoday.in/technology/news/story/tiktok-prepares-to-shut-down-app-in-us-unless-supreme-court-overturns-ban-2665484-2025-01-16",
-        "category": "technology",
-        "date_time": "2025-01-16T09:07:00",
-        "uuid": "b4e5b0c4-e487-4dd8-97ac-cdafa6030aaf",
-        "positive": 8.2,
-        "negative": 9.8
-    },
-    {
-        "headlines": "After Test success, Jamie Smith aims to be England's finisher in T20IsEngland wicketkeeper batter Jamie Smith recently expressed his desire to become an all-format regular for his team and seal his spot as a finisher in T20Is.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-after-test-success-jamie-smith-aims-to-be-englands-finisher-in-t20is-2670553-2025-01-27",
-        "category": "sports",
-        "date_time": "2025-01-27T07:53:00",
-        "uuid": "c9688364-8490-470f-bf19-f2933ec22a73",
-        "positive": 10.2,
-        "negative": 0.9
-    },
-    {
-        "headlines": "Kohli denied help to carry cricket gear during practice, reveals Delhi managerStar India batter Virat Kohli denied taking any help to carry his cricketing gear during practice session ahead of his much-awaited Ranji Trophy comeback, revealed Delhi's Team Manager Mahesh Bhati. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-denied-help-to-carry-cricket-gear-during-practice-reveals-delhi-manager-2672198-2025-01-30",
-        "category": "sports",
-        "date_time": "2025-01-30T08:05:00",
-        "uuid": "48b6098a-471d-4537-a518-1a4d8ed306f6",
-        "positive": 6.9,
-        "negative": 3.7
-    },
-    {
-        "headlines": "Virat Kohli requests chilli paneer for lunch on Ranji Trophy return Ranji Trophy 2024-25: Chef Sanjay Jha talked about Virat Kohli's food habits and how the Indian batter used to have chilli chicken earlier with his teammates. Kohli took part in Delhi's match against Railways at the Arun Jaitley Stadium in New Delhi. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-ranji-trophy-chilli-paneer-2672308-2025-01-30",
-        "category": "sports",
-        "date_time": "2025-01-30T12:28:00",
-        "uuid": "b8b2c274-5da5-477d-bdb7-e406139dc976",
-        "positive": 5.2,
-        "negative": 3.3
-    },
-    {
-        "headlines": "Watch: Virat Kohli signs autographs for fans before leaving for Champions TrophyStar India batter Virat Kohli was seen signing autographs for fans at the Mumbai airport before leaving for Dubai for the ICC Champions Trophy 2025.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-virat-kohli-signs-autographs-for-fans-before-leaving-for-dubai-2680541-2025-02-15",
-        "category": "sports",
-        "date_time": "2025-02-15T15:58:00",
-        "uuid": "3e3a23fa-2bb3-47a3-bbaa-776d062ec304",
-        "positive": 11.1,
-        "negative": 1.8
-    },
-    {
-        "headlines": "US stock markets remain under pressure after Monday's big crash. 3 things to knowThe S&P 500 dropped as low as 5,528.41, marking a 10% fall from its February 19 record of 6,144.15—hitting what traders call a \"market correction.\"",
-        "article_url": "https://www.indiatoday.in/business/story/us-stock-markets-remain-under-pressure-after-big-crash-3-things-to-know-2692393-2025-03-12",
-        "category": "business",
-        "date_time": "2025-03-12T08:40:00",
-        "uuid": "c6801c33-d100-437a-81bf-9946e47cab91",
-        "positive": 11.9,
-        "negative": 11.7
-    },
-    {
-        "headlines": "Ambati Rayudu questions CSK's batting strength after RCB hammering at ChepaukAfter CSK's embarrassing loss against Royal Challengers Bengaluru, Ambati Rayudu slammed the middle-order of the Chennai-based side. Rayudu ripped into the quality of the batters and said that CSK needed to shake things up if they were to remain alive in the competition.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-vs-rcb-batting-order-ms-dhoni-2700893-2025-03-29",
-        "category": "sports",
-        "date_time": "2025-03-29T01:44:00",
-        "uuid": "95aa3bbc-ad02-4aba-a2b8-c9b79f2cdd2b",
-        "positive": 4.5,
-        "negative": 7.8
-    },
-    {
-        "headlines": "Player of Rohit Sharma's stature should get to decide his future: Dilip VengasarkarFormer India captain Dilip Vengasarkar said that players like Rohit Sharma should get to decide their future on their own. Rohit recently played a match-winning innings of 76 (83) in the final of the ICC Champions Trophy 2025.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-dilip-vengasarkar-on-rohit-sharmas-future-2692910-2025-03-13",
-        "category": "sports",
-        "date_time": "2025-03-13T08:34:00",
-        "uuid": "ed106a01-0987-4284-aa52-c2efc91a0aef",
-        "positive": 13.2,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Gukesh shaves head at Tirumala temple after World Championship successD Gukesh, who won the World Chess Championship last year in Singapore after beating Ding Liren, sought blessings at the Tirumala Temple in Andhra Pradesh by shaving his head. ",
-        "article_url": "https://www.indiatoday.in/sports/other-sports/story/chess-d-gukesh-shaved-head-tirumala-temple-2692942-2025-03-13",
-        "category": "sports",
-        "date_time": "2025-03-13T08:23:00",
-        "uuid": "8a0187c2-a7f0-4378-94a1-94de243f53f8",
-        "positive": 17.1,
-        "negative": 3.3
-    },
-    {
-        "headlines": "Atletico Madrid slump to defeat vs Real Madrid after Alvarez double touchChampions League: Atletico Madrid lost to Real Madrid on March 12 after Julian Alvarez made a double touch during the penalty shootout. With the win, Real Madrid also qualified for the quarterfinals. ",
-        "article_url": "https://www.indiatoday.in/sports/football/story/champions-league-atletico-real-madrid-julian-alvarez-2692932-2025-03-13",
-        "category": "sports",
-        "date_time": "2025-03-13T07:46:00",
-        "uuid": "192ad5ca-70e6-4ebe-b08a-6169d54ea3c5",
-        "positive": 14.1,
-        "negative": 12.1
-    },
-    {
-        "headlines": "Akshay Kumar injures his eye on Housefull 5 set: ReportBollywood star Akshay Kumar reportedly suffered from an eye injury while shooting for the comedy, Housefull 5. The incident took place while the actor was filming a stunt sequence. ",
-        "article_url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-injures-his-eye-on-housefull-5-set-2649059-2024-12-12",
-        "category": "bollywood",
-        "date_time": "2024-12-12T22:14:00",
-        "uuid": "7a6b5bc7-1ac9-4082-9abd-f89c4ca4715f",
-        "positive": 4.1,
-        "negative": 7.3
-    },
-    {
-        "headlines": "R Ashwin in awe of Adil Rashid for cleaning up Tilak Varma's stumps with a ripperFormer India spinner Ravichandran Ashwin was in awe of Adil Rashid for his marvellous delivery to clean up Tilak Varma in the third T20I of the five-match series in Rajkot. Rashid managed to outfox an in-form Varma, who got dismissed after five innings in T20Is.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-r-ashwin-in-awe-of-adil-rashid-for-cleaning-up-tilak-varmas-stumps-with-a-ripper-2671671-2025-01-29",
-        "category": "sports",
-        "date_time": "2025-01-29T08:21:00",
-        "uuid": "67f959cc-42c8-483a-9ea0-526db7e8eed6",
-        "positive": 13.4,
-        "negative": 4.1
-    },
-    {
-        "headlines": "Hardik Pandya's batting intent questioned by Parthiv Patel after Rajkot lossParthiv Patel was highly critical of Hardik Pandya's sedate innings during the high-pressure run-chase against England in the 3rd T20I in Rajkot on Tuesday, January 28. Hardik tried to take the game deep but failed to get India over the line. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-hardik-pandyas-batting-intent-questioned-by-parthiv-patel-after-rajkot-loss-2671661-2025-01-29",
-        "category": "sports",
-        "date_time": "2025-01-29T07:18:00",
-        "uuid": "6c02170e-eefc-49f9-8c62-0d989f9529d2",
-        "positive": 8,
-        "negative": 10.8
-    },
-    {
-        "headlines": "Kevin Pietersen slams India's batting order after Rajkot lossFormer England batter Kevin Pietersen slammed India's batting order after their Rajkot T20I loss, stating that Dhruv Jurel, an accomplished batter, should have been sent up the order.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-3rd-t20i-kevin-pietersen-slams-indias-batting-order-after-rajkot-loss-2671665-2025-01-29",
-        "category": "sports",
-        "date_time": "2025-01-29T07:44:00",
-        "uuid": "96b9913d-2e76-4798-8303-baca06b0723d",
-        "positive": 9.2,
-        "negative": 8.5
-    },
-    {
-        "headlines": "New Zealand not looking closely at India's Dubai advantage: Kane WilliamsonKane Williamson remains unfazed by India's familiarity with Dubai conditions ahead of the Champions Trophy final, emphasising that New Zealand must focus on their own game rather than external factors beyond their control.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-new-zealand-kane-williamson-dubai-advantage-final-2689602-2025-03-06",
-        "category": "sports",
-        "date_time": "2025-03-06T08:16:00",
-        "uuid": "908ab524-909b-47cd-82de-594535e39b6e",
-        "positive": 13.7,
-        "negative": 3
-    },
-    {
-        "headlines": "Toss already in New Zealand captain's mind ahead of Dubai finalNew Zealand captain Mitchell Santner spoke about the toss factor in the final of the ICC Champions Trophy 2025 against India. New Zealand lost their group stage game against India in Dubai by 44 runs.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-mitchell-santner-speaks-about-toss-factor-ind-vs-nz-final-2689571-2025-03-06",
-        "category": "sports",
-        "date_time": "2025-03-06T08:30:00",
-        "uuid": "4175a596-c202-4977-839c-dfb96d344313",
-        "positive": 13.8,
-        "negative": 4
-    },
-    {
-        "headlines": "Mumbai set to miss Rohit Sharma, Yashasvi Jaiswal and Iyer for next Ranji clashRohit Sharma, Yashasvi Jaiswal, and Shreyas Iyer are likely to miss Mumbai's next Ranji Trophy group-stage match against Meghalaya, which begins on Thursday.",
-        "article_url": "https://www.indiatoday.in/sports/story/mumbai-set-to-miss-rohit-yashasvi-shreyas-iyer-for-next-ranji-clash-2671033-2025-01-27",
-        "category": "sports",
-        "date_time": "2025-01-27T22:47:00",
-        "uuid": "79b7a466-db7e-473e-b85a-8506111ab157",
-        "positive": 9.8,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Suryakumar defends Rohit amid 'captaincy' row: Led us to 4 ICC FinalsSuryakumar Yadav defended Rohit Sharma against criticism, highlighting his leadership in guiding India to four ICC finals. He reminded of Rohit leading India to the 2024 T20 World Cup triumph, as the team gears up for the Champions Trophy final against New Zealand.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-new-zealand-rohit-sharma-icc-finals-suryakumar-yadav-defends-2690118-2025-03-07",
-        "category": "sports",
-        "date_time": "2025-03-07T08:24:00",
-        "uuid": "5248402c-937f-4814-bdec-45ad855a38aa",
-        "positive": 17,
         "negative": 2.9
     }
 ]
