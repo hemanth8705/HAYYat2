@@ -288,15 +288,6 @@
         "negative": 1.7
     },
     {
-        "headlines": "Budget 2025: Will the old tax regime face the axe?With Budget 2025 approaching, debates intensify over the potential scrapping of the Old Tax Regime amidst tax reforms.",
-        "article_url": "https://www.indiatoday.in/business/story/budget-2025-income-tax-itr-filing-will-the-old-tax-regime-face-the-axe-2657339-2024-12-30",
-        "category": "business",
-        "date_time": "2024-12-30T16:55:00",
-        "uuid": "dfaa3375-e0e1-4be6-b365-6494fb2e5b88",
-        "positive": 10.6,
-        "negative": 4.3
-    },
-    {
         "headlines": "Elon Musk says stop using hashtags on X because they look uglyHave you still been using hashtags? You don't need them anymore, at least on X, and the company CEO Elon Musk has confirmed that. ",
         "article_url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-stop-using-hashtags-on-x-because-you-dont-need-them-and-they-look-ugly-2651563-2024-12-18",
         "category": "technology",
@@ -3123,13 +3114,13 @@
         "negative": 2.1
     },
     {
-        "headlines": "Pietersen in awe of Abhishek Sharma's stroke play: There were no funky shotsFormer England batter Kevin Pietersen praised India youngster Abhishek Sharma's stroke play after his sensational hundred against England during the fifth T20I in Mumbai.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-kevin-pietersen-praises-abhishek-sharmas-stroke-play-in-mumbai-2675018-2025-02-05",
-        "category": "sports",
-        "date_time": "2025-02-05T08:03:00",
-        "uuid": "f4819f75-ace9-44de-8dad-941bf26ab35a",
-        "positive": 16.5,
-        "negative": 2.2
+        "headlines": "RBI cuts repo rate: 6 key takeaways from MPC announcementThe central bank has announced a reduction in the repo rate by 25 basis points for the first time in nearly five years.",
+        "article_url": "https://www.indiatoday.in/business/story/rbi-cuts-repo-rate-6-key-takeaways-from-mpc-announcement-gdp-growth-inflation-outlook-cheaper-home-loans-women-empowerment-2676118-2025-02-07",
+        "category": "business",
+        "date_time": "2025-02-07T12:42:00",
+        "uuid": "acda60ff-2167-44e2-900f-72eee004d75f",
+        "positive": 8.6,
+        "negative": 5.3
     },
     {
         "headlines": "Can you get a personal loan with low credit score? Check detailsWhile a low credit score may present challenges, using strategies like reduced DTI, and showing income stability, etc. can help secure a personal loan and improve your credit for the future.",
@@ -4815,6 +4806,15 @@
         "negative": 8
     },
     {
+        "headlines": "Who is Mohini Mohan Dutta? Rs 500 crore surprise in Ratan Tata's willRatan Tata also left behind a share for his siblings, his butler Subbiah and German Shepherd Tito have also been provided for in his will. ",
+        "article_url": "https://www.indiatoday.in/business/story/who-is-mohini-mohan-dutta-rs-500-crore-surprise-in-ratan-tata-will-2676202-2025-02-07",
+        "category": "business",
+        "date_time": "2025-02-07T14:11:00",
+        "uuid": "fe027298-6ea3-483c-b7ce-975932eda24a",
+        "positive": 4.8,
+        "negative": 1.3
+    },
+    {
         "headlines": "Pension rules updates: 8 RBI guidelines every pensioner must knowIf a bank accidentally credits more pension than it should to a pensioner, then the bank must consult the Pension Sanctioning Authority before recovering the extra money.",
         "article_url": "https://www.indiatoday.in/business/story/pension-rules-updates-8-rbi-guidelines-every-pensioner-must-know-2703884-2025-04-04",
         "category": "business",
@@ -5083,6 +5083,24 @@
         "uuid": "89fe17d8-c646-4663-a581-1df0c8e5909d",
         "positive": 3.5,
         "negative": 1.8
+    },
+    {
+        "headlines": "Sensex tanks 500 points after RBI MPC: Why is stock market falling todayThe S&P BSE Sensex was down by 539.72 points to 77,516.79, while the NSE Nifty50 declined by 147.50 points to 23,455.60 as of 2:43 PM. ",
+        "article_url": "https://www.indiatoday.in/business/story/sensex-falls-500-points-after-rbi-mpc-announcement-625-percent-why-is-stock-market-falling-today-2676229-2025-02-07",
+        "category": "business",
+        "date_time": "2025-02-07T15:36:00",
+        "uuid": "8511ccfb-cece-4fe8-88b6-c635bb2baa6d",
+        "positive": 10.1,
+        "negative": 10.1
+    },
+    {
+        "headlines": "Sensex, Nifty end lower after volatile session; FMCG, energy drag marketThe S&P BSE Sensex fell by 197.97 points to end at 77,860.19, while the NSE Nifty50 declined by 43.40 points to close at 23,559.95. ",
+        "article_url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-end-lower-after-volatile-session-fmcg-energy-drag-rbi-mpc-2676251-2025-02-07",
+        "category": "business",
+        "date_time": "2025-02-07T15:55:00",
+        "uuid": "fa15f444-11ad-4292-b9e0-ab89ba410931",
+        "positive": 10.4,
+        "negative": 6.5
     },
     {
         "headlines": "Nitish Rana, Hasaranga stun CSK in Guwahati as RR open account in IPL 2025IPL 2025: Rajasthan Royals clinched their first win of the season by defeating Chennai Super Kings on Sunday, March 30. Chennai failed to chase down a target of over 180 runs once again. Wanindu Hasaranga and Nitish Rana starred for RR after poor starts to their respective seasons.\r\n",
@@ -5544,24 +5562,6 @@
         "negative": 8.5
     },
     {
-        "headlines": "Rohit's ODI batting has been game-changing, helped team a lot: GillShubman Gill feels that Rohit Sharma's ODI batting has been a game changer for the Indian team in recent times. Rohit started using the attacking template during the ODI World Cup 2023. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-shubman-gill-praises-rohit-sharmas-odi-batting-2675009-2025-02-05",
-        "category": "sports",
-        "date_time": "2025-02-05T07:17:00",
-        "uuid": "448d30cb-90af-4f2a-8c4b-c2643765b0b1",
-        "positive": 7.5,
-        "negative": 4.2
-    },
-    {
-        "headlines": "When Anil Kumble stunned Pakistan with historic 10-wicket haulFebruary 7, 1999: India legend Anil Kumble emulated England off-spinner Jim Laker with a perfect 10-wicket haul in an inning against Pakistan in New Delhi.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-anil-kumble-10-wickets-26-years-february-7-india-vs-pakistan-1999-2676114-2025-02-07",
-        "category": "sports",
-        "date_time": "2025-02-07T11:18:00",
-        "uuid": "e5bd6a91-5982-4e42-a608-b5956dd16196",
-        "positive": 8.9,
-        "negative": 1.9
-    },
-    {
         "headlines": "Missed income tax section 87A rebate? Here's your chance to claim it for FY 2023-24With updates to ITR forms underway, eligible taxpayers can claim Section 87A rebates through revised filings by the extended deadline of January 15, 2025.",
         "article_url": "https://www.indiatoday.in/business/story/missed-section-87a-rebate-income-tax-department-allows-eligible-taxpayers-to-claim-it-for-fy-2023-24-2658490-2025-01-02",
         "category": "business",
@@ -5569,24 +5569,6 @@
         "uuid": "3f7c78af-0b16-429d-a8fa-18fdb958855c",
         "positive": 4.6,
         "negative": 2.1
-    },
-    {
-        "headlines": "Varun Chakravarthy impresses on ODI debut, bowls economical spell in CuttackIndia spinner Varun Chakravarthy had a good outing on his ODI debut against England. Varun bowled his full quota of 10 overs and gave away only 54 runs.",
-        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-eng-cricket-varun-chakravarthy-odi-debut-2677224-2025-02-09",
-        "category": "sports",
-        "date_time": "2025-02-09T17:36:00",
-        "uuid": "bf8be078-e16b-4f1c-93c1-0795460567e4",
-        "positive": 5.1,
-        "negative": 3.9
-    },
-    {
-        "headlines": "Joe Root continues to be Ravindra Jadeja's bunny, gets dismissed 5th time in ODIsIndia all-rounder Ravindra Jadeja dismissed England batter Joe Root for the fifth time in his career during the second ODI between the two teams in Cuttack.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-joe-root-continues-to-be-ravindra-jadejas-bunny-ind-vs-eng-2nd-odi-cuttack-2677222-2025-02-09",
-        "category": "sports",
-        "date_time": "2025-02-09T17:34:00",
-        "uuid": "f0f7fd40-f26f-40b8-838f-fb0adaebaef2",
-        "positive": 6.7,
-        "negative": 1.5
     },
     {
         "headlines": "Rohit Sharma, Rishabh Pant in focus as upbeat MI look for revenge against LSGAn upbeat and confident MI will look to continue their winning run in IPL 2025 as LSG comes to town for a clash at the Wankhede stadium. All eyes will be on Rohit Sharma and Rishabh Pant, who are at the opposite ends of the spectrum when it comes to form. ",
@@ -6012,6 +5994,15 @@
         "negative": 8.7
     },
     {
+        "headlines": "Activate UAN to avail EPFO's ELI scheme benefits before February 15. Check detailsEPFO ELI: UAN or Universal Account Number is a unique 12-digit number allotted by EPFO which is necessary for managing provident fund accounts.",
+        "article_url": "https://www.indiatoday.in/business/story/activate-uan-to-avail-epfo-eli-scheme-benefits-before-february-15-check-details-2676213-2025-02-07",
+        "category": "business",
+        "date_time": "2025-02-07T15:18:00",
+        "uuid": "46a3a6e9-7959-4835-bdae-6fc4e0a065e5",
+        "positive": 15.1,
+        "negative": 0
+    },
+    {
         "headlines": "The reality of trio friendships: Can they last forever?It can get difficult to maintain a trio friendship. But is it impossible to do so? Certainly not.",
         "article_url": "https://www.indiatoday.in/lifestyle/society/story/reality-of-trio-friendships-can-they-last-forever-2694986-2025-03-18",
         "category": "lifestyle",
@@ -6426,6 +6417,15 @@
         "negative": 4
     },
     {
+        "headlines": "Infosys 'forcefully' lays off 700 trainees in Mysuru: ReportMost of the affected recruits were from the engineering batch of 2022, who were onboarded after a wait of about 2.25 years, said sources.",
+        "article_url": "https://www.indiatoday.in/business/story/infosys-forcefully-lays-off-700-trainees-in-mysuru-report-2676257-2025-02-07",
+        "category": "business",
+        "date_time": "2025-02-07T17:02:00",
+        "uuid": "4661aef7-d68e-4a94-b099-4c0fadca4909",
+        "positive": 4.8,
+        "negative": 6.8
+    },
+    {
         "headlines": "Watch magic moment: Krunal's bouncer, Salt-David's stunning catchIPL 2025, MI vs RCB: In the last over of the thriller at Wankhede Stadium, Krunal Pandya bowled a bouncer to get the crucial wicket of Deepak Chahar. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-krunal-pandya-phil-salt-tim-david-mi-vs-rcb-video-2705574-2025-04-08",
         "category": "sports",
@@ -6813,24 +6813,6 @@
         "negative": 4.4
     },
     {
-        "headlines": "MI Cape Town speedster replaces Anrich Nortje in South Africa squadCorbin Bosch has replaced Anrich Nortje in the South African squad for the upcoming Champions Trophy 2025. Bosch was a part of MI Cape Town's title-winning squad in the SA20 2025. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-champions-trophy-mi-cape-town-anrich-nortje-corbin-bosch-2677223-2025-02-09",
-        "category": "sports",
-        "date_time": "2025-02-09T17:31:00",
-        "uuid": "aab51dcc-34f2-462b-9a39-7b18cb885848",
-        "positive": 9.6,
-        "negative": 2.7
-    },
-    {
-        "headlines": "Dimaag kidhar hai tera? : Rohit Sharma fumes at Harshit Rana for giving overthrowsIndia captain Rohit Sharma was seen fuming at fast bowler Harshit Rana for giving four runs as overthrows during the second ODI against England in Cuttack.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-rohit-sharma-fumes-at-harshit-rana-for-giving-overthrows-in-ind-vs-eng-2nd-odi-2677236-2025-02-09",
-        "category": "sports",
-        "date_time": "2025-02-09T18:14:00",
-        "uuid": "d69f8f6b-ce31-4a6a-9951-0daaf3980197",
-        "positive": 7.6,
-        "negative": 5.4
-    },
-    {
         "headlines": "Mitchell Starc to miss Sydney Test? Australia head coach gives injury updateAustralia vs India: Australia head coach Andrew McDoland remained optimistic about Mitchell Starc's chances of playing the fifth Test, starting January 3 in Sydney. The left-arm pacer picked up an upper-body concern in Australia's 184-run win in Melbourne. ",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-mitchell-starc-injury-update-new-year-test-sydney-andrew-mcdonald-2657633-2024-12-31",
         "category": "sports",
@@ -7047,15 +7029,6 @@
         "negative": 1.9
     },
     {
-        "headlines": "Sensex, Nifty drop as IT stocks weigh on markets in last session of 2024The S&P BSE Sensex lost 392.61 points to 77,855.52, while the NSE Nifty50 was down by 107.80 points to 23,537.10 as of 9:28 AM. ",
-        "article_url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-in-red-it-stocks-decline-last-session-of-2024-adani-enterprises-down-over-1-percent-2657617-2024-12-31",
-        "category": "business",
-        "date_time": "2024-12-31T09:45:00",
-        "uuid": "185073f3-6c0a-4eb3-b8a5-f2cc46212eb9",
-        "positive": 18.4,
-        "negative": 4.5
-    },
-    {
         "headlines": "Alyssa Healy set to resume wicketkeeping duties ahead of Ashes 2025 openerAlyssa Healy returns as Australia's wicketkeeper for the Ashes opener after recovering from a knee injury. With a tight seven-game schedule ahead, Healy's fitness and England's bowling options, including Kate Cross, set the stage for a thrilling clash.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/alyssa-healy-set-to-resume-wicketkeeping-duties-ahead-of-ashes-2025-opener-2663278-2025-01-11",
         "category": "sports",
@@ -7182,15 +7155,6 @@
         "negative": 2.7
     },
     {
-        "headlines": "Watch: Ball boy awestruck as Virat Kohli shakes hand with him IND vs ENG, 2nd ODI: A boy ball was left awestruck after Virat Kohli shook hands with him in India's second ODI against Jos Buttler's England on Sunday at the Barabati Stadium in Cuttack. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-virat-kohli-ball-boy-cuttack-odi-2677233-2025-02-09",
-        "category": "sports",
-        "date_time": "2025-02-09T18:04:00",
-        "uuid": "8eba9ee2-e6fc-4a40-9f04-6bffe581cab4",
-        "positive": 7.3,
-        "negative": 4.6
-    },
-    {
         "headlines": "Out of form SRH still a very dangerous side: Nehal WadheraPunjab Kings play SRH in the evening game on Saturday, April 12. Ahead of the match, Nehal Wadhera has said that they are wary of SunRisers Hyderabad despite them being woefully out of form in IPL 2025.\r\n",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/pbks-vs-srh-ipl-2025-nehwal-wadhera-2707893-2025-04-12",
         "category": "sports",
@@ -7207,15 +7171,6 @@
         "uuid": "69946805-9fed-40ad-8220-570507f9c004",
         "positive": 12.3,
         "negative": 4.9
-    },
-    {
-        "headlines": "IND vs ENG: Rohit Sharma fails in Ahmedabad ODI after hundred in CuttackRohit Sharma's hopes of carrying his form from the Cuttack ODI was ended by Mark Wood as the England pacer dismissed the Indian captain for just 1 run in Ahmedabad on February 12. Rohit scored a hundred in the second ODI in Cuttack. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-3rd-odi-rohit-sharma-failure-mark-wood-ahmedabad-2678749-2025-02-12",
-        "category": "sports",
-        "date_time": "2025-02-12T14:01:00",
-        "uuid": "9dcfbe77-6104-4d0a-acc4-7a3e5843f1d0",
-        "positive": 6.3,
-        "negative": 7
     },
     {
         "headlines": "Paarl hand 'Royal' thrashing to SunRisers, JoBurg beat Cape Town via DLS2-time champions SunRisers Eastern Cape fell to their second straight defeat in the SA20 on Saturday, January 11. Paarl Royals openers put up a superb show to win the game by 9 wickets.",
@@ -7263,15 +7218,6 @@
         "negative": 0.8
     },
     {
-        "headlines": "Galaxy S25 Edge leaked in all its glory: Specs, features and price in IndiaA recent report offers a good idea of what to expect from the upcoming Samsung Galaxy S25 Edge, including its availability in different markets and what buyers in India might end up paying for it.",
-        "article_url": "https://www.indiatoday.in/technology/news/story/galaxy-s25-edge-leaked-in-all-its-glory-specs-features-and-possible-price-in-india-2719948-2025-05-05",
-        "category": "technology",
-        "date_time": "2025-05-05T19:04:00",
-        "uuid": "00bbe132-c079-4673-a3e9-efa1ee0d2ec3",
-        "positive": 2.1,
-        "negative": 1.3
-    },
-    {
         "headlines": "Shreyas Iyer sets sight on winning maiden title for Punjab Kings as captainThe newly appointed captain of the Punjab Kings, Shreyas Iyer, has set his sights on winning maiden title for the franchise in the upcoming IPL 2025.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-sets-sight-on-winning-maiden-title-for-punjab-kings-as-captain-2663758-2025-01-13",
         "category": "sports",
@@ -7306,6 +7252,15 @@
         "uuid": "b1ecc0c0-0147-476b-835c-a12ef42efd42",
         "positive": 3.8,
         "negative": 4.2
+    },
+    {
+        "headlines": "5 things about Mohini Mohan Dutta: The man named in Ratan Tata's willWhile most anticipated that Ratan Tata's wealth would go towards philanthropy, family members, and other charitable causes, Mohini Mohan Dutta's mention in his will has surprised many.",
+        "article_url": "https://www.indiatoday.in/business/story/5-things-about-mohini-mohan-dutta-the-man-named-in-ratan-tata-will-2676438-2025-02-07",
+        "category": "business",
+        "date_time": "2025-02-07T18:46:00",
+        "uuid": "e11eb536-af17-452d-bbd8-65970a643386",
+        "positive": 7,
+        "negative": 0
     },
     {
         "headlines": "Difficult to read him: Kuldeep Yadav wary of Noor Ahmad threat vs CSKIPL 2025, CSK vs DC: Kuldeep Yadav said that Delhi Capitals (DC) are wary of the threat Noor Ahmad could pose in the upcoming clash against the Chennai Super Kings (CSK) at the Chepauk. ",
@@ -7929,6 +7884,24 @@
         "negative": 4.1
     },
     {
+        "headlines": "SL vs AUS ODIs: Vandersay in, Wickramasinghe out as Sri Lanka name strong squad Sri Lanka have brought back Jeffrey Vandersay and decided to leave out Chamindu Wickramasinghe as they named a strong squad for the upcoming ODI series against Australia, starting on February 12. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-sri-lanka-vs-australia-odis-jeffrey-vandersay-charith-asalanka-2677993-2025-02-11",
+        "category": "sports",
+        "date_time": "2025-02-11T08:12:00",
+        "uuid": "7f864231-b400-46ec-82f1-3f15cf682aa2",
+        "positive": 8.4,
+        "negative": 1.3
+    },
+    {
+        "headlines": "Ranji Trophy quarters: Rahane hits hundred to celebrate special 200 in style Ranji Trophy 2024-25: Ajinkya Rahane celebrated his 200th first-class appearance by hitting a match-defining hundred against Haryana in the quarter-final at Eden Gardens in Kolkata. ",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-ranji-trophy-quarterfinal-ajinkya-rahane-century-mumbai-vs-haryana-stats-2678043-2025-02-11",
+        "category": "sports",
+        "date_time": "2025-02-11T10:30:00",
+        "uuid": "a6fe4939-64be-46e5-866a-9c125a98b56e",
+        "positive": 8.4,
+        "negative": 4.8
+    },
+    {
         "headlines": "Sandeep Vanga says nobody criticised Ranbir for Animal: They want to work with himDirector Sandeep Reddy Vanga addressed the feedback surrounding Ranbir Kapoor's performance in Animal. He expressed his confusion over the disparity, noting that while he faced criticism for the film, Ranbir did not.\r\n",
         "article_url": "https://www.indiatoday.in/movies/bollywood/story/sandeep-reddy-vanga-on-people-praising-ranbir-kapoor-in-animal-easy-to-comment-about-me-2685567-2025-02-25",
         "category": "bollywood",
@@ -8233,24 +8206,6 @@
         "uuid": "d4779542-8a29-42c1-aa1d-ee66e947fdc1",
         "positive": 8.8,
         "negative": 8.7
-    },
-    {
-        "headlines": "IPL 2025: Ahmedabad-based conglomerate to buy majority stake in Gujarat TitansTorrent Group, an Ahmedabad-based conglomerate, will purchase a 67 per cent stake in Gujarat Titans. The deal is awaiting final approval from the IPL governing council.",
-        "article_url": "https://www.indiatoday.in/sports/cricket/story/cricket-ipl-torrent-ahmeadabad-business-gujarat-titans-majority-stake-2678211-2025-02-11",
-        "category": "sports",
-        "date_time": "2025-02-11T14:42:00",
-        "uuid": "5d1401e0-637e-4906-9cc7-20f922ed799c",
-        "positive": 6.1,
-        "negative": 1.4
-    },
-    {
-        "headlines": "Former India bowler names Bumrah's perfect replacement for Champions TrophyWith questions surrounding Jasprit Bumrah's fitness, former India bowler Atul Wassan has named his ideal replacement for the ace speedster in the Champions Trophy 2025 squad.",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-jasprit-bumrahs-replacement-for-champions-trophy-2025-atul-wassan-names-mohammed-siraj-2678251-2025-02-11",
-        "category": "sports",
-        "date_time": "2025-02-11T16:02:00",
-        "uuid": "a4684b29-39c5-4bfe-a6f4-7024137017e8",
-        "positive": 13.6,
-        "negative": 2.8
     },
     {
         "headlines": "MS Dhoni plays in 400th T20 match, joins rare clubChennai Super Kings captain MS Dhoni walked out to play the 400th match of his T20 career on Friday. MS Dhoni became the fourth player in the history of Indian cricket to achieve this landmark.",
@@ -8658,24 +8613,6 @@
         "negative": 9.5
     },
     {
-        "headlines": "In-form Shubman Gill closes in on No.1 ODI spot, Virat slips to No.6The latest ICC Rankings saw four India batters make their way into the top 10 in the ODI rankings. India vice-captain Shubman Gill closed in on the No.1 spot.",
-        "article_url": "https://www.indiatoday.in/sports/story/icc-rankings-shubman-gill-odi-rohit-sharma-virat-kohli-2678745-2025-02-12",
-        "category": "sports",
-        "date_time": "2025-02-12T14:34:00",
-        "uuid": "fcf6b959-32fa-4687-931a-b77375080dd1",
-        "positive": 6.8,
-        "negative": 2.2
-    },
-    {
-        "headlines": "Varun Chakravarthy out with niggle as India rest Shami and Ravindra JadejaIndia vs England: India made three changes to their playing XI for the final ODI of the series against England. India rested Ravindra Jadeja and Mohammed Shami, and were forced to leave out Varun Chakravarthy due to an injury.\r\n",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-playing-xi-vs-england-3rd-odi-varun-kuldeep-shami-arshdeep-washington-2678725-2025-02-12",
-        "category": "sports",
-        "date_time": "2025-02-12T13:35:00",
-        "uuid": "926415cf-2445-4947-9d8f-2d5f14c4a088",
-        "positive": 8.6,
-        "negative": 6.6
-    },
-    {
         "headlines": "Dravid has been my idol, happy to have worn his jersey No.19: Niki PrasadU19 Women's T20 World Cup 2025: Indian U19 skipper Niki Prasad opened up on her admiration for Rahul Dravid and how his batting has inspired her since childhood. Under Niki, India have won both their matches and are placed on top of Group A. ",
         "article_url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-t20-world-cup-2025-rahul-dravid-niki-prasad-idol-jersey-2668367-2025-01-22",
         "category": "sports",
@@ -8892,15 +8829,6 @@
         "negative": 0.7
     },
     {
-        "headlines": "RCB to announce captain on Feb 13: Is Virat Kohli taking up role? IPL 2025: Royal Challengers Bengaluru (RCB) are all set to announce their new captain for the upcoming edition. After Faf du Plessis was released, RCB need a new skipper to take over from the South African. ",
-        "article_url": "https://www.indiatoday.in/sports/story/cricket-ipl-2025-rcb-virat-kohli-captain-2679030-2025-02-12",
-        "category": "sports",
-        "date_time": "2025-02-12T21:44:00",
-        "uuid": "c98244ce-644f-49b7-8dad-bb53531966c7",
-        "positive": 7.6,
-        "negative": 4.8
-    },
-    {
         "headlines": "PSL bans Corbin Bosch for one-year after last moment withdrawal to play IPLCorbin Bosch has been handed a one-year ban by the PCB and PSL after pulling out of the league, marking a strict move to discourage players from backing out after being drafted. Bosch was roped in by Mumbai Indians as in injury replacement for IPL 2025.",
         "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-pakistan-super-league-cobrin-bosch-one-year-ban-2707346-2025-04-11",
         "category": "sports",
@@ -8998,5 +8926,77 @@
         "uuid": "94008f2c-ff9e-4f69-a1ec-cbef30ee06e2",
         "positive": 18.9,
         "negative": 5
+    },
+    {
+        "headlines": "Android 16 potential launch dates leaked, Beta 1 due on January 22Google is planning to release its Android 16 in just a few months. This latest leak indicates potential launch dates for the upcoming beta versions. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/android-16-potential-launch-dates-leaked-beta-1-due-on-january-22-2667126-2025-01-20",
+        "category": "technology",
+        "date_time": "2025-01-20T08:35:00",
+        "uuid": "e62d308a-12ed-4b5a-9161-228696f7b509",
+        "positive": 9.2,
+        "negative": 4.2
+    },
+    {
+        "headlines": "Trump orders creation of sovereign wealth fund that could help in TikTok US saleUS President Donald Trump has signed an executive order for the creation of a sovereign wealth fund over the next year, which he says will help buy TikTok. ",
+        "article_url": "https://www.indiatoday.in/technology/news/story/trump-signs-order-to-create-sovereign-wealth-fund-says-it-could-help-facilitate-tiktok-us-sale-2674418-2025-02-04",
+        "category": "technology",
+        "date_time": "2025-02-04T09:10:00",
+        "uuid": "0a16b161-acf0-40f8-9aae-43e22d4a0e9f",
+        "positive": 13.9,
+        "negative": 1.8
+    },
+    {
+        "headlines": "Ravi Bishnoi reveals his 'masterplan' to counter Livingstone after 2nd T20I heroicsIndia wrist spinner Ravi Bishnoi revealed his masterplan to counter Liam Livingstone during the second T20I against England in Chennai.",
+        "article_url": "https://www.indiatoday.in/sports/story/ind-vs-eng-ravi-bishnoi-reveals-his-masterplan-to-counter-livingstone-after-2nd-t20i-heroics-2670236-2025-01-26",
+        "category": "sports",
+        "date_time": "2025-01-26T08:04:00",
+        "uuid": "18314eb6-df4b-4441-8f84-a0ea97737ac6",
+        "positive": 9.8,
+        "negative": 5.3
+    },
+    {
+        "headlines": "iPhones with pre-installed TikTok selling for thousands of dollars in USASome iPhone owners are cashing in, listing phones with TikTok installed for thousands on eBay, as the app remains unavailable in US app stores.",
+        "article_url": "https://www.indiatoday.in/technology/news/story/iphones-with-pre-installed-tiktok-selling-for-thousands-of-dollars-in-usa-2669443-2025-01-24",
+        "category": "technology",
+        "date_time": "2025-01-24T12:03:00",
+        "uuid": "f58d8d7f-0eb2-4dc8-8523-44fecb104e10",
+        "positive": 7.2,
+        "negative": 2.6
+    },
+    {
+        "headlines": "Tata Play, Airtel Digital TV near merger as DTH fights streaming wave: Report The merger is expected to be done through a share swap, allowing Airtel to increase its non-mobile revenue by offering a combination of telecom, broadband, and DTH services.",
+        "article_url": "https://www.indiatoday.in/business/story/tata-play-airtel-digital-tv-near-merger-as-dth-fights-streaming-ott-wave-report-2685034-2025-02-25",
+        "category": "business",
+        "date_time": "2025-02-25T08:31:00",
+        "uuid": "9e1df9e7-e360-463f-a3cf-be7b0799f323",
+        "positive": 10.9,
+        "negative": 0.7
+    },
+    {
+        "headlines": "Tilak Varma's Dhoni-esque knock in Chennai fuels his rise as future superstarTilak Varma's heroic fifty rescued India after the star-studded top-order crumbled against England pacers. Tilak played an unbeaten 72-run knock to single-handedly help India overhaul the 166-run target.",
+        "article_url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-tilak-varma-dhoni-chennai-2nd-t20i-heroic-2670198-2025-01-26",
+        "category": "sports",
+        "date_time": "2025-01-26T08:21:00",
+        "uuid": "505596bf-bb73-480c-995a-143376cc418e",
+        "positive": 10.7,
+        "negative": 7
+    },
+    {
+        "headlines": "Washington Sundar promises big feast for Tilak Varma after Chennai heroicsIndia vs England: All-rounder Washington Sundar promised a big feast for Tilak Varma the next time he comes to Chennai. Tilak showed maturity beyond his age and helped India chase 166 runs in a tricky game at the MA Chidambaram Stadium.\r\n",
+        "article_url": "https://www.indiatoday.in/sports/story/india-vs-england-t20i-series-chennai-tilak-varma-instagram-dosa-washington-sundar-2670206-2025-01-26",
+        "category": "sports",
+        "date_time": "2025-01-26T07:18:00",
+        "uuid": "957e0612-829d-4979-aaba-4496111ce62f",
+        "positive": 11.6,
+        "negative": 3.6
+    },
+    {
+        "headlines": "Watch: Rohit Sharma gets new nickname, special gift after MI vs CSK heroicsIPL 2025: Rohit Sharma found peak form, smashing a match-winning 76 off 45 balls against Chennai Super Kings on Sunday. The Mumbai Indians star was showered with praise during the dressing room celebrations at Wankhede Stadium. ",
+        "article_url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-mi-vs-csk-rohit-sharma-maverick-nickname-mumbai-dressing-room-2712177-2025-04-21",
+        "category": "sports",
+        "date_time": "2025-04-21T14:56:00",
+        "uuid": "c11c24cc-9aae-490b-ae09-ab8c1f665cd9",
+        "positive": 14.8,
+        "negative": 1
     }
 ]
